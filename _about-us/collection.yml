@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Calendar.md
       - MOE Kindergarten.md
       - Visitors to School.md
       - A Note of Affirmation.md
