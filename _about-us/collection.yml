@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Visitors to School.md
       - A Note of Affirmation.md
