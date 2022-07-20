@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Organisation/.keep
-      - School Organisation.md
       - School Calendar.md
       - MOE Kindergarten.md
       - Visitors to School.md
