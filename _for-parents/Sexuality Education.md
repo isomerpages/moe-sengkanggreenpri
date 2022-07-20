@@ -319,3 +319,8 @@ description: ""
 </tbody>
 </table>
 </div>
+<p><strong>Information for Parents</strong></p>
+<p>8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
+<p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<u><a href="/files/Parent%20Opt%20Form.pdf" target="_blank" rel="noopener">here</a></u>. The completed opt-out form is to be submitted by 11 February 2022.</p>
+<p>10. Parents can contact the school at&nbsp;<a href="mailto:sengkanggreen_ps@moe.edu.sg" target="">sengkanggreen_ps@moe.edu.sg</a>&nbsp;or 63864255 for discussion or to seek clarification about the school&rsquo;s sexuality education programme.</p>
+<p>11. Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.&nbsp;</p>
