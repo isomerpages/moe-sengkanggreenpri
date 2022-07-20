@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Principal's Message.md
       - School Organisation/.keep
       - School Organisation/School Executive Committee.md
       - School Organisation/Allied Educators.md
