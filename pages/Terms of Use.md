@@ -3,7 +3,6 @@ title: Terms of Use
 permalink: /others/contact-info/terms-of-use
 description: ""
 ---
-
 <p>Thank you for visiting the website of Sengkang Green Primary School. By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.</p>
 <p><strong>General</strong></p>
 <ul>
@@ -16,7 +15,7 @@ description: ""
 </ul>
 <p><strong>Privacy Policy</strong></p>
 <ul>
-<li>Click&nbsp;<a href="/contact-info/privacy-statement" target="">here</a>&nbsp;to review this Web Site Privacy Statement.</li>
+<li>Click&nbsp;<a href="/others/contact-info/privacy-statement" target="">here</a>&nbsp;to review this Web Site Privacy Statement.</li>
 </ul>
 <p><strong>Restrictions on Use of Materials</strong></p>
 <ul>
