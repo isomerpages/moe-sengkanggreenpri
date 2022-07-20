@@ -9,4 +9,5 @@ description: ""
 <img style="width: 33%;" src="/images/mdmginny.jpg" /><b>
 <p style="text-align: center;">Mdm Ginny Chua<br />Vice Principal (Admin)</p>
 <img style="width: 33%;" src="/images/mrlim.jpg" /><b>
-<p style="text-align: center;">Mr Lim Jit Hin<br />Vice Principal</p>
+<p style="text-align: center;">Mr Lim Jit Hin<br />Vice Principal</p></b>
+<h3>Key Personnel</h3>
