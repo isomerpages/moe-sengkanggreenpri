@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - MOE Kindergarten.md
       - Visitors to School.md
       - A Note of Affirmation.md
