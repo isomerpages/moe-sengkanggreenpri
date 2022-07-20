@@ -32,3 +32,14 @@ links:
         url: /achievements/achievement-2017
       - title: Achievement 2013 - 2016
         url: /achievements/achievement-2013-2016
+  - title: CCA
+    url: /cca/clubs-n-societies/art-club
+    sublinks:
+      - title: Clubs & Societies
+        url: /cca/clubs-n-societies/art-club
+      - title: Performing Arts
+        url: /cca/performing-arts/chinese-dance
+      - title: Sports
+        url: /cca/sports/basketball
+      - title: Uniformed Groups
+        url: /cca/uniformed-groups/scouts
