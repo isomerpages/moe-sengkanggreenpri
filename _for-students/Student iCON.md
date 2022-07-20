@@ -3,7 +3,7 @@ title: Student iCON
 permalink: /for-students/student-icon
 description: ""
 ---
-<p><strong><u>Student iCON Onboarding Guide<br /></u></strong><a href="https://sengkanggreenpri.moe.edu.sg/qql/slot/u160/Student/Student%20iCON%20Onboarding%20Guide.pdf" target="_blank" rel="noopener">Student iCON Onboarding Guide.pdf</a></p>
+<p><strong><u>Student iCON Onboarding Guide<br /></u></strong><a href="/files/Student%20iCON%20Onboarding%20Guide.pdf" target="_blank" rel="noopener">Student iCON Onboarding Guide.pdf</a></p>
 <p><strong><u>FREQUENTLY ASKED QUESTIONS</u></strong></p>
 <p><strong>Q1. What is the naming convention for Student iCON email address?</strong></p>
 <ol style="list-style-type: lower-alpha;">
