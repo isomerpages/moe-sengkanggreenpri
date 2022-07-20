@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
+      - School Organisation/.keep
+      - School Organisation/School Executive Committee.md
       - School Organisation/Allied Educators.md
       - School Organisation/School Admin Team.md
       - School Organisation/Teaching Staff.md
-      - School Organisation/School Executive Committee.md
-      - School Organisation/.keep
       - School Calendar.md
       - MOE Kindergarten.md
       - Visitors to School.md
