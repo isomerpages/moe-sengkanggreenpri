@@ -20,8 +20,8 @@ contacts:
   - content:
       - phone: +65 6242 8796
       - email: ""
-      - other: "Bus Services: Hougang Central Interchange - no 102 Sengkang and Toa
-          Payoh Interchange - no 163, Punggol Interchange to Bishan Interchange
-          - no 50 Along Yio Chu Kang Road, - no 70, 86, 103 and 854"
+      - other: "Bus Services: Hougang Central Interchange - 102 Sengkang and Toa Payoh
+          Interchange - 163, Punggol Interchange to Bishan Interchange - 50
+          Along Yio Chu Kang Road, - 70, 86, 103 and 854"
     title: Fax
 ---
