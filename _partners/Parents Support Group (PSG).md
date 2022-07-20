@@ -39,3 +39,4 @@ description: ""
 <p>As a PSG Member, you will be able:<br />(1) Participate in social and educational programmes for pupils and other parents<br />(2) Be part of the feedback unit to build a nurturing, caring school and home environment for your child</p>
 <p>How can you play a part? Join the PSG and be a Parent volunteer.<br />If you are interested, you may fill up this online&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLSemVCT_i3qzCI_bRaXVikW1axqClt-ZZu-2BIdKscuo-7XIhQ/viewform?usp=sf_link" target="_blank" rel="noopener">application form</a>.<br />Kindly email to&nbsp;<a href="mailto:chua_siang_peng@moe.edu.sg" target="">chua_siang_peng@moe.edu.sg</a> for any queries or clarification with regards to the PSG.</p>
 <p><strong>Highlights of Present activities &ndash; participated by PSG Members</strong></p>
+<img src="/images/psg.png">
