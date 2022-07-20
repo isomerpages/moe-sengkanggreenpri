@@ -43,3 +43,27 @@ links:
         url: /cca/sports/basketball
       - title: Uniformed Groups
         url: /cca/uniformed-groups/scouts
+  - title: For Parents
+    url: /for-parents/financial-assistance-scheme
+    sublinks:
+      - title: Financial Assistance Scheme
+        url: /for-parents/financial-assistance-scheme
+      - title: Forms
+        url: /for-parents/forms
+      - title: Insurance Claim
+        url: /for-parents/insurance-claim
+      - title: Online Travel Declaration
+        url: /for-parents/online-travel-declaration
+      - title: P1 Registration Information
+        url: /for-parents/p1-registration-information
+      - title: Sexuality Education
+        url: /for-parents/sexuality-education
+      - title: Parents Volunteer Scheme
+        url: /for-parents/parents-volunteer-scheme
+  - title: Partners
+    url: /partners/parents-support-group-psg
+    sublinks:
+      - title: Parents Support Group (PSG)
+        url: /partners/parents-support-group-psg
+      - title: Our Suppliers
+        url: /partners/our-suppliers/bookshop
