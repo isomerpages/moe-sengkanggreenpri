@@ -1,13 +1,21 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Resources
-    resource_room: true
+  - title: About Us
+    url: /about-us/school-information
+    sublinks:
+      - title: School Information
+        url: /about-us/school-information
+      - title: Principal's Message
+        url: /about-us/principals-message
+      - title: School Organisation
+        url: /about-us/school-organisation/school-executive-committee/
+      - title: School Calendar
+        url: /about-us/school-calendar
+      - title: MOE Kindergarten
+        url: /about-us/moe-kindergarten
+      - title: Visitors to School
+        url: /about-us/visitors-to-school
+      - title: Contact Us
+        url: /contact-us/
+      - title: A Note of Affirmation
+        url: /about-us/a-note-of-affirmation
