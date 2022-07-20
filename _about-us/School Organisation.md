@@ -121,44 +121,44 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center; width: 280px;">
-<img style="width: 65%;" src="/images/mswong.jpg" />
-<div>Ms Wong Yoke Lye</div>
-<div>Level Head / Mathematics</div>
-<div><a href="mailto:wong_yoke_lye@moe.edu.sg" target="">wong_yoke_lye@moe.edu.sg</a></div>
+<img style="width: 50%;" src="/images/mseun.jpg" />
+<div>Mrs Eunice Kwok</div>
+<div>Senior Teacher / English</div>
+<div><a href="mailto:eunice_kwok@moe.edu.sg" target="">eunice_kwok@moe.edu.sg</a></div>
 </td>
 <td style="text-align: center; width: 280px;">
-<img style="width: 65%;" src="/images/mrchee.jpg" />
-<div>Mr Chee Joon Kit Kelvin</div>
-<div>Level Head / Science</div>
-<div><a href="mailto:chee_joon_kit_kelvin@moe.edu.sg" target="">chee_joon_kit_kelvin@moe.edu.sg</a></div>
-</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 280px;">
-<img style="width: 65%;" src="/images/mswong.jpg" />
-<div>Ms Wong Yoke Lye</div>
-<div>Level Head / Mathematics</div>
-<div><a href="mailto:wong_yoke_lye@moe.edu.sg" target="">wong_yoke_lye@moe.edu.sg</a></div>
-</td>
-<td style="text-align: center; width: 280px;">
-<img style="width: 65%;" src="/images/mrchee.jpg" />
-<div>Mr Chee Joon Kit Kelvin</div>
-<div>Level Head / Science</div>
-<div><a href="mailto:chee_joon_kit_kelvin@moe.edu.sg" target="">chee_joon_kit_kelvin@moe.edu.sg</a></div>
+<img style="width: 54%;" src="/images/mdmlim.jpg" />
+<div>Mdm Lim Chee Ang Catherine</div>
+<div>Senior Teacher / Lower Pri Learning</div>
+<div><a href="mailto:lim_chee_ang@moe.edu.sg" target="">lim_chee_ang@moe.edu.sg</a></div>
 </td>
 </tr>
 <tr>
 <td style="text-align: center; width: 280px;">
-<img style="width: 65%;" src="/images/mswong.jpg" />
-<div>Ms Wong Yoke Lye</div>
-<div>Level Head / Mathematics</div>
-<div><a href="mailto:wong_yoke_lye@moe.edu.sg" target="">wong_yoke_lye@moe.edu.sg</a></div>
+<img style="width: 50%;" src="/images/mdmchng.jpg" />
+<div>Mdm Chng E-Hwei</div>
+<div>Senior Teacher / Chinese</div>
+<div><a href="mailto:chng_e_hwei@moe.edu.sg" target="">chng_e_hwei@moe.edu.sg</a></div>
 </td>
 <td style="text-align: center; width: 280px;">
-<img style="width: 65%;" src="/images/mrchee.jpg" />
-<div>Mr Chee Joon Kit Kelvin</div>
-<div>Level Head / Science</div>
-<div><a href="mailto:chee_joon_kit_kelvin@moe.edu.sg" target="">chee_joon_kit_kelvin@moe.edu.sg</a></div>
+<img style="width: 52%;" src="/images/mdmneo.jpg" />
+<div>Mdm Neo Lay Kheng</div>
+<div>Senior Teacher / Social Studies</div>
+<div><a href="mailto:neo_lay_kheng@moe.edu.sg" target="">neo_lay_kheng@moe.edu.sg</a></div>
+</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 280px;">
+<img style="width: 50%;" src="/images/mrsfel.jpg" />
+<div>Mrs Felicia Ng</div>
+<div>Senior Teacher / Art</div>
+<div><a href="mailto:ong_tze_yu@moe.edu.sg" target="">ong_tze_yu@moe.edu.sg</a></div>
+</td>
+<td style="text-align: center; width: 280px;">
+<img style="width: 52%;" src="/images/mdmyas.jpg" />
+<div>Mdm Yasmin Azahari</div>
+<div>Senior Teacher / Malay</div>
+<div><a href="mailto:yasmin_azahari@moe.edu.sg" target="">yasmin_azahari@moe.edu.sg</a></div>
 </td>
 </tr>
 </tbody>
