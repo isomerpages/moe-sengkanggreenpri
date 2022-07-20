@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Sports/Football.md
       - Sports/Basketball.md
       - Sports/.keep
       - Uniformed Groups/Scouts.md
