@@ -28,7 +28,7 @@ description: ""
 <h4><strong>Home-based Learning (HBL) 30 September 2021 (Updated on 27 September)</strong></h4>
 <p>Timetables for HBL on<strong>&nbsp;30 September</strong>:<br /><br /><a href="/files/P1_Thu_Daily.pdf">P1 HBL</a><br /><a href="/files/P2_Thu_Daily%20edited.pdf">P2 HBL</a><br /><a href="/files/P3_Thu_Daily%20edited.pdf">P3 HBL</a><br /><a href="/files/P4_Thu_Daily%20edited.pdf">P4 HBL</a><br /><a href="/files/P5_Thu_Daily%20edited.pdf">P5 HBL</a></p>
 <h4><strong>P6 Study Break (27 to 29 September)</strong></h4>
-<p><a href="https://sengkanggreenpri.moe.edu.sg/qql/slot/u160/2021/Term%204/P6_Study_Break_Publish.pdf">Study Break Timetable</a></p>
+<p><a href="/files/P6_Study_Break_Publish.pdf">Study Break Timetable</a></p>
 <h4><strong>Home-based Learning (HBL) 29 September 2021 (Updated on 23 September)</strong></h4>
 <p>Timetables for HBL on<strong>&nbsp;29 September</strong>:<br /><br /><a href="https://sengkanggreenpri.moe.edu.sg/qql/slot/u160/2021/Term%204/29%20Sep/P1_Wed_Daily%20edited.pdf">P1 HBL</a><br /><a href="https://sengkanggreenpri.moe.edu.sg/qql/slot/u160/2021/Term%204/29%20Sep/P2_Wed_Daily%20cleared.pdf">P2 HBL</a><br /><a href="https://sengkanggreenpri.moe.edu.sg/qql/slot/u160/2021/Term%204/29%20Sep/P3_Wed_Daily%20cleared.pdf">P3 HBL</a><br /><a href="https://sengkanggreenpri.moe.edu.sg/qql/slot/u160/2021/Term%204/29%20Sep/P4_Wed_Daily%20edited.pdf">P4 HBL</a><br /><a href="https://sengkanggreenpri.moe.edu.sg/qql/slot/u160/2021/Term%204/29%20Sep/P5_Wed_Daily%20edited.pdf">P5 HBL</a></p>
 <h4><strong>Full Home-based Learning (HBL) 28 September 2021 (Updated on 23 September)</strong></h4>
@@ -36,6 +36,6 @@ description: ""
 <h4><strong>Full Home-based Learning (HBL) 27 September 2021 (Updated on 23 September)</strong></h4>
 <p>Timetables for HBL on<strong>&nbsp;27 September</strong>:<br /><br /><a href="https://sengkanggreenpri.moe.edu.sg/qql/slot/u160/2021/Term%204/27%20Sep/P1_Mon_Daily%20Editedv2.pdf">P1 HBL</a><br /><a href="https://sengkanggreenpri.moe.edu.sg/qql/slot/u160/2021/Term%204/27%20Sep/P2_Mon_Daily%20edited.pdf">P2 HBL</a><br /><a href="https://sengkanggreenpri.moe.edu.sg/qql/slot/u160/2021/Term%204/27%20Sep/P3_Mon_Daily%20edited.pdf">P3 HBL</a><br /><a href="https://sengkanggreenpri.moe.edu.sg/qql/slot/u160/2021/Term%204/27%20Sep/P4_Mon_Daily%20edited.pdf">P4 HBL</a><br /><a href="https://sengkanggreenpri.moe.edu.sg/qql/slot/u160/2021/Term%204/27%20Sep/P5_Mon_Daily%20edited.pdf">P5 HBL</a></p>
 <h4><strong>Full Home-based Learning (HBL) Term 4 Week 3 Weekly Timetable (Updated on 23 September)</strong></h4>
-<p><strong>Week 3</strong>&nbsp;Timetables:<br /><br /><a href="https://sengkanggreenpri.moe.edu.sg/qql/slot/u160/2021/Term%204/Master_TT_PublishWebsite_T4W3v2.pdf">P1 To P5 Weekly Timetable</a></p>
+<p><strong>Week 3</strong>&nbsp;Timetables:<br /><br /><a href="/files/Master_TT_PublishWebsite_T4W3v2.pdf">P1 To P5 Weekly Timetable</a></p>
 <h4><strong>User Guide on Installation of Language Pack - Chinese/Tamil Language Input (24 Jun 2021)</strong></h4>
-<p>Please click&nbsp;<a href="/qql/slot/u160/Others/Announcement/2020/User%20Guide%20to%20install%20language%20in%20Win%2010.pdf">here</a>&nbsp;to download.</p>
+<p>Please click&nbsp;<a href="/files/User%20Guide%20to%20install%20language%20in%20Win%2010.pdf">here</a>&nbsp;to download.</p>
