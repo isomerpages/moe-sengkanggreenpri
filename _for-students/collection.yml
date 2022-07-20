@@ -2,4 +2,5 @@ collections:
   for-students:
     output: true
     order:
+      - Home–based Learning.md
       - Student iCON.md
