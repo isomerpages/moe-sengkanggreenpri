@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Information/School Rules.md
       - School Information/School Facilities.md
       - School Information/.keep
       - Principal's Message.md
