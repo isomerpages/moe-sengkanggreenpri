@@ -67,4 +67,20 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p class="">&nbsp;</p>
+<p><strong>Q4. What are the default Google applications available for each level?<br /></strong>Please refer to the attached Student iCON Onboarding guide for the list of default applications. Any additions to the list of applications will be done after a review of the application and its relevance for use by our students.</p>
+<p><strong>Q5. I have encountered one of the following problems:</strong></p>
+<ol>
+<li><strong>Error AADSTS900561 given by the Google website.</strong></li>
+<li><strong>Website does not load.</strong></li>
+<li><strong>Website keeps refreshing between two sites without loading any page.</strong></li>
+<li><strong>Website keeps refreshing itself without loading the page.</strong></li>
+</ol>
+<p><strong>What should I do?</strong></p>
+<p>a)&nbsp;Check that the browser is supported by Student iCON by referring to the Operating System / Browser table above.&nbsp;Close the browser and reopen it. Navigate to&nbsp;<a href="https://workspace.google.com/dashboard" target="_blank" rel="noopener"><strong>https://workspace.google.com/dashboard</strong></a>&nbsp;and repeat the logging in procedure.</p>
+<p>b) If the above does not work, use<u>Incognito mode</u>&nbsp;on your browser to login.&nbsp;Upon activating Incognito mode, proceed to&nbsp;<a href="https://workspace.google.com/dashboard" target="_blank" rel="noopener"><strong>https://workspace.google.com/dashboard</strong></a>&nbsp;and repeat the logging in procedure.</p>
+<p>c) Contact the school's General Office at&nbsp;<strong>6386 4255</strong><strong>.</strong>&nbsp;Please provide your&nbsp;child&rsquo;s&nbsp;full name&nbsp;and&nbsp;class.</p>
+<p><strong>Q6. I receive the following message:&nbsp;Your account is temporarily locked to prevent unauthorized use. What should I do?</strong></p>
+<p>Please click the following link to report the locked account:</p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSc-TpWlMSZ9exQyZIVbagqmZUXericidl0LDafQZMR0c4Ip4A/viewform" target="_blank" rel="noopener">https://docs.google.com/forms/d/e/1FAIpQLSc-TpWlMSZ9exQyZIVbagqmZUXericidl0LDafQZMR0c4Ip4A/viewform</a></p>
+<p><strong>Q7. There is no prompt of change of password when I first log-in to the account. Do I need to change my password?</strong></p>
+<p>There is no need to change password as the account will be synchronised to the school&rsquo;s computer lab log-in password which is the default password given to your child.</p>
