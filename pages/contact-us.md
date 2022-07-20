@@ -2,31 +2,26 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Sengkang Green Primary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - "15"
+      - Fernvale Road
+      - Singapore 797636
+    operating_hours: []
+    maps_link: https://goo.gl/maps/kyYMDipkK9XLzn5H9
+    title: Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6386 4255
+      - email: sengkanggreen_ps@moe.edu.sg
+      - other: "Nearest MRT Station: Fernvale LRT (Sengkang West Loop)"
+    title: Telephone
+  - content:
+      - phone: +65 6242 8796
+      - email: ""
+      - other: "Bus Services: Hougang Central Interchange - no 102 Sengkang and Toa
+          Payoh Interchange - no 163, Punggol Interchange to Bishan Interchange
+          - no 50 Along Yio Chu Kang Road, - no 70, 86, 103 and 854"
+    title: Fax
 ---
