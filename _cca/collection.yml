@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Sports/Floorball.md
       - Sports/Football.md
       - Sports/Basketball.md
       - Sports/.keep
