@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - Performing Arts/Violoin.md
+      - Performing Arts/Violin.md
       - Performing Arts/Wushu.md
       - Performing Arts/.keep
       - Sports/.keep
