@@ -43,6 +43,13 @@ links:
         url: /cca/sports/basketball
       - title: Uniformed Groups
         url: /cca/uniformed-groups/scouts
+  - title: For Students
+    url: /for-students/home-based-learning
+    sublinks:
+      - title: Student iCON
+        url: /for-students/student-icon
+      - title: Home-based Learning
+        url: /for-students/home-based-learning
   - title: For Parents
     url: /for-parents/financial-assistance-scheme
     sublinks:
