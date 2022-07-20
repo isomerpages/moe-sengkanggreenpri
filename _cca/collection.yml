@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs & Societies/Robotics.md
       - Clubs & Societies/New Media Club.md
       - Clubs & Societies/Green Sparks.md
       - Clubs & Societies/.keep
