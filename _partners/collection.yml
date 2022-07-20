@@ -2,5 +2,6 @@ collections:
   partners:
     output: true
     order:
+      - Our Suppliers/School Bus Services.md
       - Our Suppliers/Student Care Centre.md
       - Our Suppliers/.keep
