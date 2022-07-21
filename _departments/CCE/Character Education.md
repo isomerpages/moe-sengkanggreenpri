@@ -79,3 +79,77 @@ third_nav_title: CCE
 </table>
 <p><strong>Level 4: Exco Members</strong></p>
 <p>Prefects who have demonstrated outstanding leadership qualities and character traits are identified for&nbsp;<strong>Student Leadership Talent Development Programme</strong>. It trains them for the Annual Head Prefect Election after which they will serve on the Exco Prefectorial Board holding executive roles. The Prefectorial Exco Team members work together hand-in-hand to lead and guide their fellow prefects in carrying out their duties smoothly and effectively. They are also nominated as the Friend of Singa ambassadors where they will champion acts of kindness and encourage the school population to do good deeds.</p>
+<img style="width: 65%;" src="/images/ce2.png" />
+<p style="text-align: center;"><strong>Prefects Investiture (2020)</strong></p>
+<table>
+<tbody>
+<tr>
+<th><img src="/images/ce3.png"></th>
+<th><img src="/images/ce4.png"></th>
+</tr>
+<tr>
+<td><img src="/images/ce5.png"></td>
+<td><img src="/images/ce6.png"></td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="2">Trainings &amp; Opportunities</td>
+</tr>
+</tbody>
+</table>
+<p><strong>SkillsFuture@SKGPS<br /></strong>The SkillsFuture@SKGPS programme aims to develop SEL competencies in SKGians for primary levels 2 to 6 and equip every SKGian with the information and tools to explore various education pathways and make well-informed career choices.</p>
+<p>SkillsFuture is about self-discovery of our interests and following our passions. It is believed that when our students discover their passion, they will have curiosity. If they have curiosity, they have the motivation to learn throughout whole life and achieve self-mastery. In this fast-changing world, we prepare our students to face challenges and seize opportunities brought about by globalisation, changing demographics and technological advancements. Therefore, SkillsFuture@SKGPS will adopt a whole school approach to empower our students to embark on a journey of self-discovery and make informed education and career choices.&nbsp;</p>
+<p><strong>Learning Outcomes:<br /></strong>Students will</p>
+<ul>
+<li>be a confident person, a self-directed learner, a concerned citizen and an active contributor.</li>
+<li>develop Social Emotional Learning competencies.</li>
+<li>take ownership of their learning and take charge of their future by becoming a lifelong learner.&nbsp;</li>
+</ul>
+<p><strong>Key Approach</strong></p>
+<ul>
+<li>Forging Partnership</li>
+<li>Building SEL &amp; Life Skills through FTGP &amp; SkillsFuture Portal</li>
+</ul>
+<table width="0">
+<tbody>
+<tr>
+<td style="text-align: center;" colspan="2" width="635"><strong>Our Programs</strong></td>
+</tr>
+<tr>
+<td width="209">Primary 5 &amp; Primary 6</td>
+<td width="426">&bull; FTGP ECG Lessons<br />&bull; Role Play @ Kidzania<br />&bull; Secondary Sch Fiesta<br />&bull; Financial Literacy Talk<br />&bull; SkillsFuture Portal</td>
+</tr>
+<tr>
+<td width="209">Primary 4</td>
+<td width="426">&bull; FTGP ECG Lessons<br />&bull; P4 Camp Job Role Play<br />&bull; Career Talk # Kidzania</td>
+</tr>
+<tr>
+<td width="209">Primary 2 &amp; 3</td>
+<td width="426">&bull; Career Talk by Kidzania<br />&bull; ECG Activity Booth</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th><img style="width: 65%;" src="/images/ce7.png" /></th>
+<th><img src="/images/ce8.png"></th>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="2"><strong>Secondary School Fiesta</strong></td>
+</tr>
+<tr>
+<td><img style="width: 65%;" src="/images/ce9.jpg" /></td>
+<td><img style="width: 100%;" src="/images/ce9.jpg" /></td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="2"><strong>P4 Camp Job Role Play</strong></td>
+</tr>
+<tr>
+<td><img style="width: 65%;" src="/images/ce11.png" /></td>
+<td><img style="width: 100%;" src="/images/ce12.png" /></td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="2"><strong>Skillsfuture Activity Booth</strong></td>
+</tr>
+</tbody>
+</table>
