@@ -86,3 +86,5 @@ third_nav_title: CCE
 <p>Our VIA activities are designed with a focus on the home, school and the community &amp; the nation.&nbsp;Through the VIA learning experiences, students are encouraged to identify and understand community issues, initiate actions among peers and improve the lives of others. Throughout the process, students reflect on what they have learnt and how they can continue to make a difference to others.</p>
 <p>Our VIA activities provide students with opportunities to apply their values, knowledge and skills to care for people in the community and the environment.&nbsp;</p>
 <p style="text-align: center;">An overview of the VIA programmes in Sengkang Green:</p>
+<img style="width: 65%;" src="/images/cd13.png" /><br>
+<img style="width: 65%;" src="/images/cd14.png" />
