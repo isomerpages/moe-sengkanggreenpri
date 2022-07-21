@@ -81,3 +81,8 @@ third_nav_title: CCE
 <img style="width: 50%;" src="/images/cd11.png" align = "right" />
 <img style="width: 50%;" src="/images/cd12.png" align = "right" />
 <p>Our P3, P4 and P5 students are taking part in the Heritage Explorers Programme 2020. In this programme, they will role-play assigned professionals in the heritage sector, and in the process increase their awareness of locaL heritage, including that of their family, community and nation.</p>
+<p><strong>Values in Action (VIA)</strong>&nbsp;</p>
+<p>In our efforts to nurture our students to become active contributors and concerned citizens of the future, the school has adopted a 6-year spiral developmental plan in the implementation of its Values In Action Programme.&nbsp;Over the years, we have evolved due the changing landscape and will require our students to embrace the citizenry dispositions such as a sense of belonging, a sense of reality, a sense of hope and the will to act to return serve back to themselves and others.</p>
+<p>Our VIA activities are designed with a focus on the home, school and the community &amp; the nation.&nbsp;Through the VIA learning experiences, students are encouraged to identify and understand community issues, initiate actions among peers and improve the lives of others. Throughout the process, students reflect on what they have learnt and how they can continue to make a difference to others.</p>
+<p>Our VIA activities provide students with opportunities to apply their values, knowledge and skills to care for people in the community and the environment.&nbsp;</p>
+<p style="text-align: center;">An overview of the VIA programmes in Sengkang Green:</p>
