@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - CCE/.keep
       - Information & Communication Technology (ICT).md
       - Physical Education.md
