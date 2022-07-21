@@ -81,3 +81,33 @@ third_nav_title: CCE
 </tbody>
 </table>
 <p>This is achieved through the CCE curriculum, which comprises CCE lessons, Form Teacher Guidance Period (FTGP) and CCE Guidance Modules as well as learning experiences like the National Education (NE) commemorative days, Programme for Active Learning (PAL), Co-curricular (CCA), Values-in-Action (VIA) activities that reinforce CCE. The various key programmes and activities are integrated into every level to equip our students with the necessary knowledge, skills and values to develop our pupils into &lsquo;leaders of good character&rsquo;, &lsquo;concerned citizens&rsquo; and &lsquo;active contributor&rsquo;. This philosophy is deeply ingrained in the school&rsquo;s approach to developing the CCE curriculum.</p>
+<table>
+<tbody>
+<tr>
+<td style="width: 299px; text-align: center;">
+<p><a href="/departments/character-and-citizenship-education-cce/character-education" target="">Character Education</a></p>
+</td>
+<td style="width: 163px; text-align: center;">
+<p><a href="/departments/character-and-citizenship-education-cce/citizenship-development" target="">Citizenship Development</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="width: 299px;">
+<ul>
+<li>Values based Assembly / Form Teacher Guidance Period (FTGP)/ Heart To Heart</li>
+<li>CCE Lessons</li>
+<li>Character Awards &amp; Recognition</li>
+<li>Student Leadership</li>
+<li>Skillsfuture@SKGPS</li>
+<li><a href="/for-parents/sexuality-education" target="">SEd Education</a></li>
+</ul>
+</td>
+<td style="width: 163px;">
+<ul>
+<li>NESS</li>
+<li>Values in Action (VIA)</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
