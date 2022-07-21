@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE/Citizenship Development.md
       - CCE/Character and Citizenship Education (CCE).md
       - CCE/.keep
       - Information & Communication Technology (ICT).md
