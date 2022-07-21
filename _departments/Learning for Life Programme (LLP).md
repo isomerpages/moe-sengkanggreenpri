@@ -24,3 +24,5 @@ description: ""
 <img src="/images/llp4.png">
 <img src="/images/llp5.png">
 <img src="/images/llp6.png">
+<p>For Children, By Children is one of our annual LLP key programmes that SKGians&nbsp;in the different cohorts are involved in making an item as a gift for the students in MOE kindergarten on Children&rsquo;s Day. The project is an authentic platform that fosters the spirit of community, care and teamwork through the arts.</p>
+<img src="/images/llp7.png">
