@@ -88,3 +88,27 @@ third_nav_title: CCE
 <p style="text-align: center;">An overview of the VIA programmes in Sengkang Green:</p>
 <img style="width: 75%;" src="/images/cd13.png" /><br>
 <img style="width: 65%;" src="/images/cd14.png" />
+<table>
+<tbody>
+<tr>
+<th><img src="/images/cd15.jpg"></th>
+<th><img src="/images/cd16.jpg"></th>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;<strong>Items sold are prepared by P6 graduating classes.</strong></td>
+<td style="text-align: center;"><strong>Students purchasing the items at Market Place</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;<img src="/images/cd17.jpg"></td>
+<td style="text-align: center;"><img src="/images/cd18.jpg"></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Students putting up a performance for the residents.</strong></td>
+<td>
+<div style="text-align: center;"><strong>Engaging the residents at homes with craft activity</strong></div>
+</td>
+</tr>
+</tbody>
+</table>
+<img style="width: 65%;" src="/images/cd19.jpg" />
+<p style="text-align: center;"><strong>Students from Scouts CCA help to sort and pack the donated food items to Food For the Heart.</strong></p>
