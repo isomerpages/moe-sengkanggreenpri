@@ -70,17 +70,17 @@ third_nav_title: Announcements
 <p><a href="/files/P2%20Information%20for%20Parents%20March%202020.pdf">P2 Information for Parents</a>,&nbsp;<a href="/files/P2%20EL%20&amp;%20MA%20Subject%20Information%20for%20Parents%20March%202020.pdf">P2 EL &amp; MA Subject Information for Parents</a>,&nbsp;<a href="/files/P2%20CL%20Subject%20Information%20for%20Parents%202020.pdf">P2 CL Subject Information for Parents</a>,&nbsp;<a href="/files/P2%20ML%20Subject%20Information%20for%20Parents%20March%202020.pdf">P2 ML Subject Information for Parents</a>,&nbsp;<a href="/files/P2%20TL%20Subject%20Information%20for%20Parents%20March%202020.pdf">P2 TL Subject Information for Parents</a>&nbsp;</p>
 <hr />
 <p><strong>P1 PES Sharing Slides 2020 (Updated on 28 Feb 2020)&nbsp;</strong></p>
-<p><a href="/qql/slot/u160/Others/Announcement/2020/P1%20PES%20Principal's%20Slides.pdf" target="_blank" rel="noopener">P1 PES Principal's Slides</a>,&nbsp;<a href="/qql/slot/u160/Others/Announcement/2020/P1%20ICT%20Links%20shared%20during%20P1%20PES%20Jan%202020.pdf" target="_blank" rel="noopener">P1 ICT Links shared</a>,&nbsp;<a href="/qql/slot/u160/Others/Announcement/2020/P1%20MTL%20Links%20shared%20during%20P1%20PES%20Jan%202020.pdf" target="_blank" rel="noopener">P1 MTL Links shared</a>,&nbsp;<a href="/qql/slot/u160/Others/Announcement/2020/P1%20Mathematics%20Curriculum.pdf" target="_blank" rel="noopener">P1 Mathematics Slides</a>,&nbsp;<a href="/qql/slot/u160/Others/Announcement/2020/P1%20English%20Curriculum.pdf" target="_blank" rel="noopener">P1 English Slides</a><strong><br /></strong></p>
+<p><a href="/files/P1%20PES%20Principal's%20Slides.pdf" target="_blank" rel="noopener">P1 PES Principal's Slides</a>,&nbsp;<a href="/files/P1%20ICT%20Links%20shared%20during%20P1%20PES%20Jan%202020.pdf" target="_blank" rel="noopener">P1 ICT Links shared</a>,&nbsp;<a href="/files/P1%20MTL%20Links%20shared%20during%20P1%20PES%20Jan%202020.pdf" target="_blank" rel="noopener">P1 MTL Links shared</a>,&nbsp;<a href="/files/P1%20Mathematics%20Curriculum.pdf" target="_blank" rel="noopener">P1 Mathematics Slides</a>,&nbsp;<a href="/files/P1%20English%20Curriculum.pdf" target="_blank" rel="noopener">P1 English Slides</a><strong><br /></strong></p>
 <hr />
 <p><strong>Open for Nomination: Teachers' Awards (20 Feb 2020)<br /></strong>Please click the following links for more information:</p>
 <p><a href="/others/announcements/open-for-nominations-inspiring-teacher-of-english-award-2020">Inspiring Teacher of English Award 2020</a></p>
 <p><a href="/others/announcements/open-for-nominations-most-inspiring-tamil-teachers-award-2020">Most Inspiring Tamil Teachers' Award 2020</a></p>
 <hr />
-<p><strong>User Guide on Installation of Language Pack - Chinese/Tamil Language Input (14 Feb 2020)</strong><br />Please click&nbsp;<a href="/qql/slot/u160/Others/Announcement/2020/User%20Guide%20to%20install%20language%20in%20Win%2010.pdf" target="_blank" rel="noopener">here</a> to download.</p>
+<p><strong>User Guide on Installation of Language Pack - Chinese/Tamil Language Input (14 Feb 2020)</strong><br />Please click&nbsp;<a href="/files/User%20Guide%20to%20install%20language%20in%20Win%2010.pdf" target="_blank" rel="noopener">here</a> to download.</p>
 <hr />
-<p><strong>Postponement of MOE Kindergarten Open House (8 Feb 2020)</strong><br />Please click&nbsp;<a href="/qql/slot/u160/MK_Open_House.pdf" target="_blank" rel="noopener">here</a> for more information.<strong><br /></strong></p>
+<p><strong>Postponement of MOE Kindergarten Open House (8 Feb 2020)</strong><br />Please click&nbsp;<a href="/files/MK_Open_House.pdf" target="_blank" rel="noopener">here</a> for more information.<strong><br /></strong></p>
 <hr />
-<p><strong>SLS Annex A and Annex B (30 Jan 2020)</strong><br /><a href="/qql/slot/u160/Others/Announcement/2020/Annexes%20For%20SLS.pdf" target="_blank" rel="noopener">Annexes For SLS Portal</a></p>
+<p><strong>SLS Annex A and Annex B (30 Jan 2020)</strong><br /><a href="/files/Annexes%20For%20SLS.pdf" target="_blank" rel="noopener">Annexes For SLS Portal</a></p>
 <hr />
 <p><strong>Chinese New Year 2020 Celebrations - Posted on 13 Jan 2020<br /></strong>Chinese New Year will be celebrated on&nbsp;Friday 24 January 2020.&nbsp;</p>
 <p>Please click&nbsp;<a href="/others/announcements/chinese-new-year-2020-celebrations" target="_parent">here</a>&nbsp;for more information.</p>
@@ -90,4 +90,4 @@ third_nav_title: Announcements
 <p><strong>Welcome Back - Posted on 2 Jan 2020<br /></strong>Wishing everyone a Happy New Year!&nbsp;</p>
 <p>Please click&nbsp;<a href="/others/announcements/welcome-back" target="_parent">here</a>&nbsp;to view.</p>
 <hr />
-<p>Click&nbsp;<a href="https://sengkanggreenpri.moe.edu.sg/others/announcements-archives" target="">Here</a>&nbsp;For Archives</p>
+<p>Click&nbsp;<a href="/others/announcements-archives" target="">Here</a>&nbsp;For Archives</p>
