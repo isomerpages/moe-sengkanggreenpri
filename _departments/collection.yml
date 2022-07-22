@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mother Tongue/.keep
       - Science.md
       - Aesthetics/Aesthetics.md
       - Aesthetics/Learning for Life Programme (LLP).md
