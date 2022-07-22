@@ -123,4 +123,23 @@ third_nav_title: Mother Tongue
 <img style="width: 75%;" src="/images/cl8.jpeg">
 <p>Internationalisation Experience - Hosting of China Schools</p>
 <p>Beijing Haidian Zhongguancun No.4 Primary School 北京海淀区中关村第四小学</p>
-<img style="width: 75%;" src="/images/cl9.jpeg">
+<img style="width: 75%;" src="/images/cl9.png">
+<img style="width: 75%;" src="/images/cl10.png">
+<p>Internationalisation Experience - Hosting of China School湖南省实验小学</p>
+<img style="width: 75%;" src="/images/cl11.jpeg">
+<p>Chinese Brush Painting</p>
+<img style="width: 75%;" src="/images/cl12.png">
+<p><strong>2. SKG Celebrate cum Mother Tongue Language Fortnight</strong></p>
+<p>The SKG Celebrate cum MTL Fortnight aims to create an immersive environment for our students in their learning of the Mother Tongue language and culture. During the programme, a wide range of cultural and language activities related to the Mother Tongue languages&nbsp;are&nbsp;organised for students. Activities such as&nbsp;kite making, fabric hand puppet making and dramatization&nbsp;provide opportunities for students to experience their respective cultures and also encourage them to use their Mother Tongue languages for interactions.</p>
+<p>A variety of fun-filled language games and cultural activities are organised during our SKG Celebrate. We believe our young learners learn through play&nbsp;（娱教乐学）&nbsp;and imbibe&nbsp;values of respect and discipline when participating in the MTL Fortnight activities.</p>
+<img style="width: 100%;" src="/images/cl13.png">
+<img style="width: 100%;" src="/images/cl14.png"><br>
+<img style="width: 50%;" src="/images/cl15.jpeg">
+<p>Our lower primary students participating in SKG Celebrate where they took part in different language and cultural booths set up by teachers during this learning fiesta day.&nbsp;</p>
+<img style="width: 50%;" src="/images/cl16.jpeg">
+<p>Our students as booth ambassadors at the Chinese Language Curriculum Showcase, to engage parents and potential parents on their CL learning experience.&nbsp;</p>
+<p><u>Mother Tongue Fortnight collaboration with MOE Kindergarten (MK)</u></p>
+<img style="width: 60%;" src="/images/cl17.jpeg">
+<img style="width: 60%;" src="/images/cl18.jpeg">
+<p>Sengkang Green only male teacher being interviewed by MK little students as we encourage speaking of Chinese language since young.</p>
+<p><u>P4 Mother Tongue Fortnight cum RHD&nbsp;</u><u>小四母语双周、种族和谐日活动</u></p>
