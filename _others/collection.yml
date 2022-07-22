@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Highlights/.keep
       - Announcements/.keep
       - Announcements/Announcements.md
       - Announcements/Welcome Back.md
