@@ -21,6 +21,6 @@ third_nav_title: Highlights
 <p>Please click&nbsp;<a href="/others/highlights/moe-travel-advisory-against-all-non-essential-travel-abroad">here</a> to view.</p>
 <hr />
 <p><strong>SKGian Connect Special Edition Term 1 2020 (13 Mar 2020)</strong></p>
-<p>Please click&nbsp;<a href="/files/SKGian%20Connect%20Special%20Edition%20T1%20(Website).pdf" target="_blank" rel="noopener">here</a>&nbsp;to view.<br /><br /></p>
+<p>Please click&nbsp;<a href="/files/SKGian%20Connect%20Special%20Edition%20T1%20(Website).pdf" target="_blank" rel="noopener">here</a>&nbsp;to view.</p>
 <hr />
 <p><strong>Precautionary Measures to manage the spread of the 2019 Novel Coronavirus (5 Feb 2020)</strong><br />Please click on&nbsp;<a href="/files/Precautionary%20Measures%20to%20manage%20the%20spread%20of%20the%202019%20Novel%20Coronavirus%20(2019-nCoV).pdf" target="_blank" rel="noopener">here</a>&nbsp;to view.</p>
