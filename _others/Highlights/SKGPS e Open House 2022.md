@@ -73,4 +73,6 @@ third_nav_title: Highlights
 <p>3. The list of primary schools and vacancies available will also be updated on the P1 Registration website at&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration" target="_blank" rel="noopener">https://www.moe.gov.sg/primary/p1-registration</a>&nbsp;by mid-June 2022.</p>
 <p>4. Information on the P1 Registration Exercise is also available as part of the Primary School Education Booklet, which can be downloaded at&nbsp;<a href="https://www.moe.gov.sg/primary/curriculum" target="_blank" rel="noopener">https://www.moe.gov.sg/primary/curriculum</a>.</p>
 <p>5. More information can be found the MOE press release at&nbsp;<a href="https://www.moe.gov.sg/news/press-releases/20220519-2022-primary-one-registration-exercise-to-start-from-29-june-2022" target="_blank" rel="noopener">https://www.moe.gov.sg/news/press-releases/20220519-2022-primary-one-registration-exercise-to-start-from-29-june-2022</a></p>
-<p>6. If you have further questions, you can call the school at 6386 4255.&nbsp;</p>
+<p>6. If you have further questions, you can call the school at 6386 4255.&nbsp;</p><hr>
+<p><strong>Frequently Asked Questions (FAQ)</strong></p>
+<p>Please click&nbsp;<a href="/files/FAQ%20e-Open%20House%202022.pdf" target="_blank" rel="noopener">here</a>&nbsp;to view.</p>
