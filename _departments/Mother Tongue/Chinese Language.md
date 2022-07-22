@@ -143,3 +143,34 @@ third_nav_title: Mother Tongue
 <img style="width: 60%;" src="/images/cl18.jpeg">
 <p>Sengkang Green only male teacher being interviewed by MK little students as we encourage speaking of Chinese language since young.</p>
 <p><u>P4 Mother Tongue Fortnight cum RHD&nbsp;</u><u>小四母语双周、种族和谐日活动</u></p>
+<img style="width: 60%;" src="/images/cl19.jpeg">
+<p>Some of our P4 students also buddy their overseas friends from China, Beijing, Zhongguancun No.4 Primary School as part of the internationalisation experience.&nbsp;</p>
+<p><strong>3. Theatre Experience</strong></p>
+<p>The Theatre Experience is a learning journey that aims to expose the students to Chinese cultural performances and programmes. Cultural performances such as Drama,&nbsp;<em>Xiang Sheng&nbsp;</em>and puppet show are organised to enrich the students&rsquo; learning experience and teach them to better appreciate the Chinese culture.</p>
+<img style="width: 90%;" src="/images/cl20.jpeg">
+<p style="text-align: center;">P1 Theatre Experience learning journey</p>
+<p><strong>4. Read@SKG</strong></p>
+<p>As reading is one of the essential ways to build competency in a language, this initiative by the Mother Tongue (MT) Department runs broad-based reading programmes in the 3 Mother Tongue languages. Students are engaged in various activities after reading the selected books.&nbsp;</p>
+<p>Read@SKG&nbsp;aims to instil a love for reading MT storybooks in our students. The programme seeks to expose students to different genre of books suitable for their reading levels. Through reading, students will be able to build up their vocabulary of Chinese words and also build their confidence as they make improvements in their reading and comprehension skills.</p>
+<p><u>Monthly Book Recommendation</u></p>
+<p>Special: February theme on Chinese New Year</p>
+<img style="width: 90%;" src="/images/cl21.jpeg">
+<p style="text-align: center;"><u>Monthly Book Recommendation by CL teachers for all levels</u></p>
+<img style="width: 90%;" src="/images/cl22.jpeg">
+<p><u>世界书香日World Book Day by Chinese Department in April</u></p>
+<img style="width: 90%;" src="/images/cl23.png">
+<p>CL read team had conducted &ldquo;World Book Day&rdquo; activities last week for P1-6 CL students. These are the 6 pages book that done by the students. Super cute! We put up a small booth in the library to showcase these cute little books.</p>
+<p><u>Monthly Library Activities &ndash; Movie Screening (2<sup>nd</sup>&nbsp;Semester)</u></p>
+<p>Students who borrowed 3 English storybooks and 1 compulsory Mother Tongue storybook will be entitled to 1 movie screening pass!</p>
+<img style="width: 90%;" src="/images/cl24.png"><br>
+<img style="width: 60%;" src="/images/cl25.jpeg">
+<p style="text-align: center;">P3 and P4 students &ndash; Full house!</p>
+<p><strong>5. Inquiry into Chinese Festivals</strong></p>
+<p>Chinese New Year Celebration&nbsp;</p>
+<p>Chinese New Year is an occasion for families and friends to reunite and exchange greetings. On the eve of Chinese New Year, the celebration started with class activities to allow students to understand the meaning of the celebration and the Chinese traditional customs. Everyone had a joyous time enjoying exciting hall performances.</p>
+<img style="width: 90%;" src="/images/cl26.png">
+<p>Mid-Autumn Evening Celebration for Primary 1 students and parents&nbsp;</p>
+<p>In creating an environment conducive for students to appreciate diverse cultures in our multiracial society, our school organises the Mid-Autumn Evening Celebration for all Primary 1 students. While the Mid-Autumn festival has its origin in the Chinese culture, it promotes the universal values of family unity. This celebration aims to provide opportunities for all P1 students to appreciate the Chinese culture and to foster bonding between parent and child. During the celebration, our P1 students and their parents go through a multi-sensory learning experience, which includes tasting of mooncakes (halal), learning how mooncakes are made, designing of lanterns, tea tasting and guessing riddles.&nbsp;</p>
+<p>Parent-child bonding activities such as lantern-making were amongst the students&rsquo; favourite activities during Mid-autumn Evening Celebration.</p>
+<img style="width: 80%;" src="/images/cl27.png"><br>
+<img style="width: 90%;" src="/images/cl28.png">
