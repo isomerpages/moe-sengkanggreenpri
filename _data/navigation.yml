@@ -43,6 +43,25 @@ links:
         url: /cca/sports/basketball
       - title: Uniformed Groups
         url: /cca/uniformed-groups/scouts
+  - title: Departments
+    url: /departments/english
+    sublinks:
+      - title: English
+        url: /departments/english
+      - title: Mathematics
+        url: /departments/mathematics
+      - title: Mother Tongue
+        url: /departments/mother-tongue/chinese-language
+      - title: Science
+        url: /departments/science
+      - title: Aesthetics
+        url: /departments/aesthetics
+      - title: CCE
+        url: /departments/character-and-citizenship-education-cce
+      - title: ICT
+        url: /departments/information-n-communication-technology-ict
+      - title: Physical Education
+        url: /departments/physical-education
   - title: For Students
     url: /for-students/home-based-learning
     sublinks:
