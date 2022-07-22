@@ -2,6 +2,8 @@ collections:
   others:
     output: true
     order:
+      - "Announcements/MOE: Travel advisory against all non essential travel
+        abroad.md"
       - Announcements/Teachers' Day Celebration 2020.md
       - Announcements/Outstanding Youth in Education Award 2021.md
       - Announcements/President’s Award for Teachers (PAT) 2021.md
