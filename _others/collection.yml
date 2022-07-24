@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - MOE Kindergarten.md
       - School Brochures 2015.md
       - Photo Gallery.md
       - Parents/Parents.md
