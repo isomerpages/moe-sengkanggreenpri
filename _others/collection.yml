@@ -2,6 +2,8 @@ collections:
   others:
     output: true
     order:
+      - Highlights/.keep
+      - Highlights/Highlights.md
       - "Highlights/MOE: Travel advisory against all non essential travel
         abroad.md"
       - Highlights/Schools will reopen on 23 March with enhanced precautionary
@@ -12,8 +14,6 @@ collections:
       - Highlights/e Open House 2021.md
       - Highlights/Chinese New Year well wishes for Teachers.md
       - Highlights/SKGPS e Open House 2022.md
-      - Highlights/Highlights.md
-      - Highlights/.keep
       - Announcements/.keep
       - Announcements/Announcements.md
       - Announcements/Welcome Back.md
