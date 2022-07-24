@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Parents/Archives.md
       - Parents/Open House 2019.md
       - Parents/.keep
       - Highlights/.keep
