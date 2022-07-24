@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - Announcements – Archives.md
       - Announcements/.keep
       - Announcements/Announcements.md
       - Announcements/Welcome Back.md
@@ -39,3 +38,4 @@ collections:
       - School Brochures 2015.md
       - MOE Kindergarten.md
       - Principal's Message.md
+      - Announcements – Archives.md
