@@ -7,7 +7,7 @@ permalink: /
 notification: eOpen House 2022 from 1 July 2022!
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/banner.gif
       key_highlights:
         - title: Announcements
           description: ""
