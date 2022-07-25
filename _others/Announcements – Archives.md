@@ -4,10 +4,10 @@ permalink: /others/announcements-archives
 description: ""
 ---
 <h4><strong>Briefing Slides for PSLE Results Related Matters - 22 Nov 2019</strong></h4>
-<p><a href="https://sengkanggreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u160/Others/Announcement/2019/PSLE%20Result%20Release%20Briefing.pdf" target="_blank" rel="noopener">PSLE Result Release Briefing.pdf</a>&nbsp;</p>
+<p><a href="/files/PSLE%20Result%20Release%20Briefing.pdf" target="_blank" rel="noopener">PSLE Result Release Briefing.pdf</a>&nbsp;</p>
 <hr />
 <h4><strong>Release of 2019 PSLE Results and Secondary 1 Posting Exercise - 15 Nov 2019</strong></h4>
-<p><a href="https://sengkanggreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u160/Others/Announcement/2019/Release%20of%202019%20PSLE%20Results%20and%20Secondary%201%20Posting%20Exercise.pdf" target="_blank" rel="noopener">Release of 2019 PSLE Results and Secondary 1 Posting Exercise.pdf</a>&nbsp;</p>
+<p><a href="/files/Release%20of%202019%20PSLE%20Results%20and%20Secondary%201%20Posting%20Exercise.pdf" target="_blank" rel="noopener">Release of 2019 PSLE Results and Secondary 1 Posting Exercise.pdf</a>&nbsp;</p>
 <hr>
 <h4><strong>School Closure - 14 Nov 2019</strong></h4>
 <p>School will be closed on 20 Nov 2019 for Staff Retreat.</p><hr>
