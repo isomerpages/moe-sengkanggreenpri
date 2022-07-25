@@ -76,3 +76,37 @@ description: ""
 <hr />
 <h4><strong>Food From The Heart - 18 Apr 2019</strong></h4>
 <p><a href="https://sengkanggreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u160/Others/Announcement/2019/Food%20From%20The%20Heart.pdf" target="_blank" rel="noopener">Food From The Heart.pdf</a>&nbsp;</p><hr>
+<h4><strong>Cyberwellness Parents Tipsheet - 14 Mar 2019</strong></h4>
+<p>Dear parents, this is our first online sharing on Cyberwellness through the school website.<br /><br /><strong>Tip #1: Helping Your Children with Appropriate Online Expression</strong>&nbsp;<br /><a href="https://sengkanggreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u160/Others/Announcement/2019/2019%20Cyberwellness%20Parents%20Tipsheet.pdf">2019 Cyberwellness Parents Tipsheet.pdf</a> <br /><br />Today, the Internet revolution and the growing influence of social media in our lives have completely changed the way we behave. We post almost everything on Instagram, Facebook and Twitter from food to our daily lives and these are not new to our children. Being digital natives, they have more experiences and are better in using these social platforms. Preventing them to use these platforms may not be the best strategies now but guiding them and safeguarding them through the use of T.H.I.N.K framework may be more meaningful.<br /><br />Stay tuned for more tips and quizzes.</p>
+<hr />
+<h4><strong>Term 2 Enrichment schedule - 7 Mar 2019</strong></h4>
+<p><a href="https://sengkanggreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u160/Others/Announcement/2019/Enrichment%20Programmes%202019%20Schedule%20Term%202.pdf">Enrichment Programmes 2019 Schedule Term 2.pdf</a>&nbsp;</p>
+<hr />
+<h4><strong>Assessment Plan 2019 - 13 Feb 2019</strong></h4>
+<p><a href="https://sengkanggreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u160/Others/Announcement/2019/P3%20Assessment%20Plan%202019.pdf">P3 Assessment Plan 2019.pdf</a>&nbsp;</p>
+<p><a href="https://sengkanggreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u160/Others/Announcement/2019/P4%20Assessment%20Plan%202019.pdf">P4 Assessment Plan 2019.pdf</a>&nbsp;</p>
+<p><a href="https://sengkanggreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u160/Others/Announcement/2019/P5%20Assessment%20Plan%202019%20(Standard%20Subjects).pdf">P5 Assessment Plan 2019 (Standard Subjects).pdf</a>&nbsp;</p>
+<p><a href="https://sengkanggreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u160/Others/Announcement/2019/P6%20Assessment%20Plan%202019%20(Foundation%20Subjects).pdf">P6 Assessment Plan 2019 (Foundation Subjects).pdf</a>&nbsp;</p>
+<p><a href="https://sengkanggreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u160/Others/Announcement/2019/P6%20Assessment%20Plan%202019%20(Standard%20Subjects).pdf">P6 Assessment Plan 2019 (Standard Subjects).pdf</a>&nbsp;</p>
+<hr />
+<h4><strong>Norminate Your English Teacher - 4 Feb 2019</strong></h4>
+<p><a href="https://sengkanggreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u160/Others/Announcement/2019/2019%20Teaching_Nomination%20Form_Final%20(1).docx" target="_blank" rel="noopener">2019 Teaching_Nomination Form_Final.docx</a>&nbsp;</p>
+<hr />
+<h4><strong>Student Learning Space - 21 Jan 2019</strong></h4>
+<p><a href="https://sengkanggreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u160/Others/Announcement/2019/Student%20Learning%20Space%20-%20Instructions%20&amp;%20FAQs.pdf">Student Learning Space - Instructions &amp; FAQs.pdf</a></p>
+<hr />
+<h4><strong>Mathematics Parents Workshop 2019</strong></h4>
+<p>Online registration period<br />20 Jan 2019, 8 a.m. &ndash; 25 Jan 2019, 12 p.m.</p>
+<p>P1 Mathematics Parents Workshop 2019<br /><a href="https://www.eventbrite.com/e/skgps-p1-mathematics-parents-workshop-2019-tickets-55010552042">https://www.eventbrite.com/e/skgps-p1-mathematics-parents-workshop-2019-tickets-55010552042</a></p>
+<p>P2 Mathematics Parents Workshop 2019<br /><a href="https://www.eventbrite.com/e/skgps-p2-mathematics-parents-workshop-2019-tickets-55010639303">https://www.eventbrite.com/e/skgps-p2-mathematics-parents-workshop-2019-tickets-55010639303</a></p>
+<p>P3 Mathematics Parents Workshop 2019<br /><a href="https://www.eventbrite.com/e/skgps-p3-mathematics-parents-workshop-2019-tickets-55010789753">https://www.eventbrite.com/e/skgps-p3-mathematics-parents-workshop-2019-tickets-55010789753</a></p>
+<hr />
+<h4><strong>MK open house 2019 and MK registration 2019 - 18 Jan 2019</strong></h4>
+<p><a href="https://www.moe.gov.sg/microsites/moekindergarten/index.html" target="_blank" rel="noopener">MOE Kindergarten Website</a></p>
+<hr />
+<h4><strong>P1 Orientation - Principal's Address - 26 Dec 2018</strong></h4>
+<div>
+<p><a href="https://sengkanggreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u160/Home/Announcement/2019%20P1%20Orientation%20-%20Principal's%20Address.pdf" target="_blank" rel="noopener">2019 P1 Orientation - Principal's Address.pdf</a></p>
+<hr />
+<h4><strong>What is Your Child Learning in Social Studies?</strong></h4>
+<p>Click&nbsp;<a href="https://www.youtube.com/watch?v=SDCkCj7sm8s" target="_blank" rel="noopener">here</a>&nbsp;to view the video.</p>
