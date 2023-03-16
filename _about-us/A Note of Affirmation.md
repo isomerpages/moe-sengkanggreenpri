@@ -1,6 +1,6 @@
 ---
 title: A Note of Affirmation
-permalink: /about-us/a-note-of-affirmation
+permalink: /about-us/a-note-of-affirmation/
 description: ""
 ---
 <img src="/images/affirm.png">

@@ -1,6 +1,6 @@
 ---
 title: Forms
-permalink: /for-parents/forms
+permalink: /for-parents/forms/
 description: ""
 ---
 <p><strong><u>Form for Primary School</u></strong><br /><a href="https://sengkanggreenpri.moe.edu.sg/qql/slot/u160/2022/Waiting%20List%202022%20Sengkang%20Green%20Primary%20School.xlsx" target="">Waiting List 2022 Sengkang Green Primary School.xlsx</a><br /><a href="/files/MOE%20FAS%20Application%20Form%202021.pdf">MOE FAS Application Form 2021.pdf</a><br /><strong>Parent Volunteer application 2021 &ndash; Closed</strong></p>

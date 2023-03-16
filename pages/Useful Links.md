@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-permalink: /useful-links
+permalink: /useful-links/
 description: ""
 ---
 <table>

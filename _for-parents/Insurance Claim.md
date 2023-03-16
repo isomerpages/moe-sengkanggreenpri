@@ -1,6 +1,6 @@
 ---
 title: Insurance Claim
-permalink: /for-parents/insurance-claim
+permalink: /for-parents/insurance-claim/
 description: ""
 ---
 <h4><strong>GROUP PERSONAL ACCIDENT (GPA) INSURANCE FOR STUDENTS:</strong></h4>

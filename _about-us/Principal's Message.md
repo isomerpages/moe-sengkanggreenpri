@@ -1,6 +1,6 @@
 ---
 title: Principal's Message
-permalink: /about-us/principals-message
+permalink: /about-us/principals-message/
 description: ""
 ---
 <p>Message from the Principal for 2022<br /><strong><em>School Theme 2022: &ldquo;We are ready to serve&rdquo;</em></strong></p>

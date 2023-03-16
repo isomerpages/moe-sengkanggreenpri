@@ -1,6 +1,6 @@
 ---
 title: Information & Communication Technology (ICT)
-permalink: /departments/information-n-communication-technology-ict
+permalink: /departments/information-n-communication-technology-ict/
 description: ""
 ---
 <p><strong><u>Key Personnel</u></strong></p>

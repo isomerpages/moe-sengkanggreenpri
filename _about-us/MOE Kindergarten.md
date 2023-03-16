@@ -1,6 +1,6 @@
 ---
 title: MOE Kindergarten
-permalink: /about-us/moe-kindergarten
+permalink: /about-us/moe-kindergarten/
 description: ""
 ---
 <p><strong>MOE Kindergarten @ Sengkang Green</strong>&nbsp;was set up within Sengkang Green Primary School in January 2015. The kindergarten currently provides the K1 programme and will provide both K1 and K2 programmes from 2016. A Kindergarten Care service is also available for children enrolled in MOE Kindergarten @ Sengkang Green.</p>

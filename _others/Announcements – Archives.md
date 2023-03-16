@@ -1,6 +1,6 @@
 ---
 title: Announcements – Archives
-permalink: /others/announcements-archives
+permalink: /others/announcements-archives/
 description: ""
 ---
 <h4><strong>Briefing Slides for PSLE Results Related Matters - 22 Nov 2019</strong></h4>

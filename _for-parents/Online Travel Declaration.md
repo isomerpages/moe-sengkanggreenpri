@@ -1,6 +1,6 @@
 ---
 title: Online Travel Declaration
-permalink: /for-parents/online-travel-declaration
+permalink: /for-parents/online-travel-declaration/
 description: ""
 ---
 <p>As part of emergency management to safeguard your child's health, students are required to declare their travel plans for the upcoming holidays.</p>

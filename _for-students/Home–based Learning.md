@@ -1,6 +1,6 @@
 ---
 title: Home–based Learning
-permalink: /for-students/home-based-learning
+permalink: /for-students/home-based-learning/
 description: ""
 ---
 <h4><strong>Home-based Learning (HBL) 12 October 2021 (Updated on 8 October)</strong></h4>

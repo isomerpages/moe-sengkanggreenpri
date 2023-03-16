@@ -1,6 +1,6 @@
 ---
 title: Announcements
-permalink: /others/announcements
+permalink: /others/announcements/
 description: ""
 third_nav_title: Announcements
 ---

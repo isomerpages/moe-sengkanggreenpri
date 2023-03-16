@@ -1,6 +1,6 @@
 ---
 title: English
-permalink: /departments/english
+permalink: /departments/english/
 description: ""
 ---
 <p><strong>Key Personnel<br /></strong>Head of Department: Ms Chua Siew Kheng<br />Senior Teachers: Mrs Eunice Kwok&nbsp;</p>

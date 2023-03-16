@@ -1,6 +1,6 @@
 ---
 title: Financial Assistance Scheme
-permalink: /for-parents/financial-assistance-scheme
+permalink: /for-parents/financial-assistance-scheme/
 description: ""
 ---
 <h4><strong>MOE Financial Assistance Scheme (MOE FAS)</strong></h4>

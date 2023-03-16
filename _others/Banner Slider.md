@@ -1,6 +1,6 @@
 ---
 title: Banner Slider
-permalink: /others/banner-slider
+permalink: /others/banner-slider/
 description: ""
 ---
 <table width="100%" cellpadding="0">

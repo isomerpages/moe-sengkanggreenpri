@@ -1,6 +1,6 @@
 ---
 title: Student iCON
-permalink: /for-students/student-icon
+permalink: /for-students/student-icon/
 description: ""
 ---
 <p><strong><u>Student iCON Onboarding Guide<br /></u></strong><a href="/files/Student%20iCON%20Onboarding%20Guide.pdf" target="_blank" rel="noopener">Student iCON Onboarding Guide.pdf</a></p>

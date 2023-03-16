@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /departments/mathematics
+permalink: /departments/mathematics/
 description: ""
 ---
 <p><span style="text-decoration: underline;"><strong>Key Personnel:</strong></span></p>

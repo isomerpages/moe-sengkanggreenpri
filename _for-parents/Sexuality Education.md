@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /for-parents/sexuality-education
+permalink: /for-parents/sexuality-education/
 description: ""
 ---
 <p><strong>SENGKANG GREEN PRIMARY SCHOOL</strong></p>
