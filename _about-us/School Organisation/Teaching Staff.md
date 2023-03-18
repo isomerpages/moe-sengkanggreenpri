@@ -118,89 +118,89 @@ third_nav_title: School Organisation
 <td style="text-align: center;"><a href="mailto:yee_wai_ling@moe.edu.sg" target="">yee_wai_ling@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;" rowspan="2">2 Attentive</td>
-<td style="text-align: center;">Mdm&nbsp;Ng Xiang Ming</td>
-<td style="text-align: center;"><a href="mailto:ng_xiang_ming@moe.edu.sg">ng_xiang_ming@moe.edu.sg</a></td>
+<td style="text-align: center;" rowspan="3">2 Attentive</td>
+<td style="text-align: center;">Mrs Aileen Kwok</td>
+<td style="text-align: center;"><a href="mailto:tan_sok_lin_aileen@moe.edu.sg">tan_sok_lin_aileen@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;">Mdm Suguna Gopynathan</td>
-<td style="text-align: center;"><a href="mailto:sugunaiswari_gopynathan@moe.edu.sg" target="">sugunaiswari_gopynathan@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2">2 Brave</td>
-<td style="text-align: center;">Ms Tan Miao Yun Lynette</td>
-<td style="text-align: center;"><a href="mailto:lynette_tan_miao_yun@moe.edu.sg" target="">lynette_tan_miao_yun@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;">Mdm&nbsp;Ngo Seoh Chwee</td>
-<td style="text-align: center;"><a href="mailto:ngo_seoh_chwee@moe.edu.sg">ngo_seoh_chwee@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="3">2 Caring</td>
-<td style="text-align: center;">Mdm Gina Lee Quee Choo</td>
-<td style="text-align: center;"><a href="mailto:lee_quee_choo_gina@moe.edu.sg" target="">lee_quee_choo_gina@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;">Mr Syed Ashratullah s/o Syed Sebakhatulla</td>
-<td style="text-align: center;"><a href="mailto:syed_ashratullah_syed_sebakhatulla@moe.edu.sg" target="">syed_ashratullah_syed_sebakhatulla@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;">Mr&nbsp;Tan Kay Wee Jamen</td>
-<td style="text-align: center;"><a href="mailto:tan_kay_wee_jamen@moe.edu.sg" target="">tan_kay_wee_jamen@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2">2 Diligent</td>
-<td style="text-align: center;">Ms Christine Tan Shu Hui</td>
-<td style="text-align: center;"><a href="mailto:tan_shu_hui_christine@moe.edu.sg" target="">tan_shu_hui_christine@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;">Mdm Nursyazwani</td>
-<td style="text-align: center;"><a href="mailto:nursyazwani_ghazali@moe.edu.sg" target="">nursyazwani_ghazali@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2">2 Excellent</td>
-<td style="text-align: center;">Mdm Diana Wong Chia Ling</td>
-<td style="text-align: center;"><a href="mailto:diana_wong_chia_ling@moe.edu.sg" target="">diana_wong_chia_ling@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;">Ms&nbsp;Gek Neo Nurlisa Binte Yusof Abdullah Ho</td>
-<td style="text-align: center;"><a href="mailto:gek_neo_nurlisa@moe.edu.sg" target="">gek_neo_nurlisa@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2">2 Friendly</td>
-<td style="text-align: center;">Ms Ng Lip Kiang</td>
-<td style="text-align: center;"><a href="mailto:ng_lip_kiang@moe.edu.sg" target="">ng_lip_kiang@moe.edu.sg</a></td>
+<td style="text-align: center;">Mdm Chng E-Hwei</td>
+<td style="text-align: center;"><a href="mailto:chng_e_hwei@moe.edu.sg">&nbsp;chng_e_hwei@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td style="text-align: center;">Mdm Stephanie Tan Xianhui</td>
 <td style="text-align: center;"><a href="mailto:tan_xianhui_stephanie@moe.edu.sg" target="">tan_xianhui_stephanie@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;" rowspan="2">2 Gracious</td>
-<td style="text-align: center;">Mdm&nbsp;Noor Mala Bte Mustaffa</td>
-<td style="text-align: center;"><a href="mailto:noor_mala_mustaffa@moe.edu.sg">noor_mala_mustaffa@moe.edu.sg</a></td>
+<td style="text-align: center;" rowspan="2">2 Brave</td>
+<td style="text-align: center;">Mdm Serene Teh Xian Hui</td>
+<td style="text-align: center;"><a href="mailto:serene_teh_xian-hui@moe.edu.sg" target="">serene_teh_xian-hui@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;">Mrs Felicia Ng</td>
-<td style="text-align: center;"><a href="mailto:ong_tze_yu@moe.edu.sg" target="">ong_tze_yu@moe.edu.sg</a></td>
+<td style="text-align: center;">Mr Syed Ashratullah</td>
+<td style="text-align: center;"><a href="mailto:syed_ashratullah_syed_sebakhatulla@moe.edu.sg">syed_ashratullah_syed_sebakhatulla@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">2 Caring</td>
+<td style="text-align: center;">Mr Chew Chee Siang Richard</td>
+<td style="text-align: center;"><a href="mailto:chew_chee_siang@moe.edu.sg" target="">chew_chee_siang@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">Ms Tan Wan Cheng Rachael</td>
+<td style="text-align: center;"><a href="mailto:tan_wan_cheng_rachael@moe.edu.sg" target="">tan_wan_cheng_rachael@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">2 Diligent</td>
+<td style="text-align: center;">Ms Lam May Yuen</td>
+<td style="text-align: center;"><a href="mailto:lam_may_yuen@moe.edu.sg" target="">lam_may_yuen@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">Mdm Nurhuda Binte Abu Bakar</td>
+<td style="text-align: center;"><a href="mailto:nurhuda_abu_bakar@moe.edu.sg" target="">nurhuda_abu_bakar@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">2 Excellent</td>
+<td style="text-align: center;">Mdm Catherine Lim</td>
+<td style="text-align: center;"><a href="mailto:lim_chee_ang@moe.edu.sg" target="">lim_chee_ang@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">Ms Lim See Chii</td>
+<td style="text-align: center;"><a href="mailto:lim_see_chii@moe.edu.sg">lim_see_chii@moe.edu.sg</a>&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">2 Friendly</td>
+<td style="text-align: center;">Mr Zhang Xingang</td>
+<td style="text-align: center;"><a href="mailto:zhang_xingang@moe.edu.sg">zhang_xingang@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">Ms Jacelyn Tan Mei Ying</td>
+<td style="text-align: center;"><a href="mailto:jacelyn_tan_mei_ying@moe.edu.sg" target="">jacelyn_tan_mei_ying@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">2 Gracious</td>
+<td style="text-align: center;">Ms Niroshini Roshelle Ramasamy</td>
+<td style="text-align: center;"><a href="mailto:niroshini_ramasamy@moe.edu.sg">niroshini_ramasamy@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">Ms Kao Pow Ling</td>
+<td style="text-align: center;"><a href="mailto:kao_pow_ling@moe.edu.sg" target="">kao_pow_ling@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2">2 Honest</td>
-<td style="text-align: center;">Mdm Siti Ayuni Aidil</td>
-<td style="text-align: center;"><a href="mailto:siti_ayuni_aidil@moe.edu.sg" target="">siti_ayuni_aidil@moe.edu.sg</a></td>
+<td style="text-align: center;">Ms Christine Tan Shu Hui</td>
+<td style="text-align: center;"><a href="mailto:tan_shu_hui_christine@moe.edu.sg" target="">tan_shu_hui_christine@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;">Ms Lo Yuan Yuan</td>
-<td style="text-align: center;"><a href="mailto:Lo_Yuan_Yuan@moe.edu.sg">Lo_Yuan_Yuan@moe.edu.sg</a></td>
+<td style="text-align: center;">Mdm Humairiah Bte Ahmad</td>
+<td style="text-align: center;"><a href="mailto:humairiah_ahmad@moe.edu.sg" target="">humairiah_ahmad@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2">2 Integrity</td>
-<td style="text-align: center;">Ms Lam Hui Hui Amy</td>
-<td style="text-align: center;"><a href="mailto:lam_hui_hui@moe.edu.sg" target="">lam_hui_hui@moe.edu.sg</a></td>
+<td style="text-align: center;">Ms Jeslin Wee</td>
+<td style="text-align: center;"><a href="mailto:wee_jeslin@moe.edu.sg" target="">wee_jeslin@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;">Ms&nbsp;Juwairiyah Binte Samsudin</td>
-<td style="text-align: center;">&nbsp;<a href="mailto:juwairiyah_samsudin@moe.edu.sg" target="">juwairiyah_samsudin@moe.edu.sg</a></td>
+<td style="text-align: center;">Ms Syazwani Binti Hasrol</td>
+<td style="text-align: center;"><a href="mailto:syazwani_hasrol@moe.edu.sg" target="">syazwani_hasrol@moe.edu.sg</a></td>
 </tr>
 </tbody>
 </table>
