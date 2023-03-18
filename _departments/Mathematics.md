@@ -3,8 +3,7 @@ title: Mathematics
 permalink: /departments/mathematics/
 description: ""
 ---
-<p><span style="text-decoration: underline;"><strong>Key Personnel:</strong></span></p>
-<p><strong>Head of Department:</strong>&nbsp;Mrs Gina Cho&nbsp;<br /><strong>Level Head:</strong> Mdm Wong Yoke Lye</p>
+<p><span style="text-decoration: underline;"><strong>Key Personnel:<br /></strong></span><strong>Head of Department:</strong>&nbsp;Mrs Gina Cho /&nbsp;Ms Rachael Tan<br /><strong>Level Head:</strong>&nbsp;Mdm Wong Yoke Lye</p>
 <p><strong><span style="text-decoration: underline;">Department Aims and Objectives:</span></strong></p>
 <p style="text-align: center;">Every SKGian is a&nbsp;<strong>Confident&nbsp;</strong>and&nbsp;<strong>Effective Problem Solver</strong></p>
 <p>We aim to equip all students with the mathematical knowledge, skills and dispositions for everyday use and continuous learning in mathematics</p>
@@ -21,7 +20,7 @@ description: ""
 <p>Mathematical problem-solving is a central focus of the mathematics curriculum. It involves the application of mathematical concepts and skills to solve a variety of problems, including non-routine, open-ended and real-world problems. To develop students to be effective problem solvers, students are exposed to heuristics and problem-solving approaches such as the Polya&rsquo;s four step problem-solving in class.</p>
 <p><strong>2. Learning Experiences</strong></p>
 <p>Learning experiences are designed based on the Concrete-Pictorial-Abstract (CPA) approach. Students explore and learn mathematical concepts and skills through engaging in authentic learning activities. They use concrete manipulatives and visual representations to construct understandings. From the concrete and pictorial experiences, they are guided to uncover abstract mathematical concepts. In this way, students see the meaning and relevance of mathematics.</p>
-<img src="/images/math1.png">
+<img style="width: 90%;" src="/images/math1.png">
 <p><strong><strong>3.&nbsp;</strong></strong><strong>Learning Support for Mathematics (LSM)</strong></p>
 <p>Learning Support Mathematics (LSM) programme provides support for selected Primary 1 and Primary 2 students who need more reinforcement in their learning of basic numeracy in Mathematics. Students are placed in smaller groups and engaged in customized learning activities based on their learning progress.</p>
 <p><strong>4. Mathematics Olympiad Programme</strong></p>
