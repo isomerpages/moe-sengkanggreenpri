@@ -4,13 +4,16 @@ permalink: /partners/parents-support-group-psg/
 description: ""
 ---
 <p style="text-align: center;"><strong>PSG MAIN EXCO TEAM</strong></p>
-<p style="text-align: center;"><img style="width: 25%;" src="/images/psg1.jpg" /></p>
-<p style="text-align: center;"><strong>Mdm Sherlyn Ong<br /></strong><strong>Chairperson</strong></p>
 <table>
 <tbody>
 <tr>
-<td style="text-align: center;"><p style="text-align: center;"><img style="width: 50%;" src="/images/psg2.jpg" /></p></td>
-<td style="text-align: center;"><p style="text-align: center;"><img style="width: 80%;" src="/images/psg3.jpg" /></p></td>
+<td colspan ="2"><p style="text-align: center;"><img style="width: 25%;" src="/images/psg1.jpg" /></p>
+<p style="text-align: center;"><strong>Mdm Sherlyn Ong<br /></strong><strong>Chairperson</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><p style="text-align: center;"><img style="width: 48%;" src="/images/psg2.jpg" /></p></td>
+<td style="width: 50%; text-align: center;"><p style="text-align: center;"><img style="width: 50%;" src="/images/psg3.jpg" /></p></td>
 </tr>
 <tr>
 <td style="text-align: center;">
