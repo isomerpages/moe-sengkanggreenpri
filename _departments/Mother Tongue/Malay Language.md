@@ -28,7 +28,7 @@ third_nav_title: Mother Tongue
 <li>Cerpen &lsquo;Rahsia&rsquo;(P6)</li>
 </ul>
 <img style="width: 75%;" src="/images/m4.png">
-<img style="width: 75%;" src="/images/m5.png">
+<img style="width: 65%;" src="/images/m5.png">
 <p><strong>2.&nbsp;</strong><strong>PreBaYa Programme</strong></p>
 <p>PreBaYa (A<strong>pre</strong>siasi&nbsp;<strong>Ba</strong>hasa Dan Buda<strong>ya</strong>) is a Malay Language programme aims to develop Primary 4 students who are passionate in both the Malay Language and culture.</p>
 <p>In PreBaya, lessons and activities are geared towards equipping students with a comprehensive understanding of Malay culture, history, literature and the arts.</p>
