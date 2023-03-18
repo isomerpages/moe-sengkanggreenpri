@@ -4,7 +4,7 @@ title: Sengkang Green Primary School
 description: Brief site description here
 image: /images/logosmall.jpg
 permalink: /
-notification: eOpen House 2022 from 1 July 2022!
+notification: ""
 sections:
   - hero:
       background: /images/banner.gif
