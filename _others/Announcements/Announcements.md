@@ -4,7 +4,22 @@ permalink: /others/announcements/
 description: ""
 third_nav_title: Announcements
 ---
-<p><strong>P2 to P6 Parent Engagement Session 2022<br /></strong>Please click&nbsp;<a href="/others/announcements/p2-to-p6-presentation-slides-for-pes-2022">here</a>&nbsp;to view the presentation slides.<br />Thank you.</p>
+
+<hr />
+<p><strong>P1 Engagement Session 2023<br /></strong>Please click on the following links to download the presentation slides.</p>
+<ul>
+<li><a href="http://sengkanggreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u160/2023/P1%20PES/Principals%20Sharing.pdf">Principal's Sharing</a></li>
+<li><a href="http://sengkanggreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u160/2023/P1%20PES/Year%20Head%20Sharing.pdf">Year Head's Sharing</a></li>
+<li><a href="http://sengkanggreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u160/2023/P1%20PES/English%20Language.pdf">English Language</a></li>
+<li><a href="http://sengkanggreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u160/2023/P1%20PES/Mathematics.pdf">Mathematics</a></li>
+<li><a href="http://sengkanggreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u160/2023/P1%20PES/Chinese%20Language.pdf">Chinese Language</a></li>
+<li><a href="http://sengkanggreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u160/2023/P1%20PES/Malay%20Language.pdf">Malay Language</a></li>
+<li><a href="http://sengkanggreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u160/2023/P1%20PES/Tamil%20Language.pdf">Tamil Language</a></li>
+<li><a href="http://sengkanggreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u160/2023/P1%20PES/Holistic%20Health.pdf">Holistic Health</a></li>
+<li><a href="http://sengkanggreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u160/2023/P1%20PES/Technology%20for%20Learning.pdf">Technology for Learning</a></li>
+</ul>
+<hr />
+<p><strong>Sengkang Green P1 Orientation 2023</strong><br>Please click&nbsp;<a href="/files/SengKang%20Green%20P1%20Orientation%202023%20Updated.pdf" target="_blank" rel="noopener">here</a>&nbsp;to download the presentation slides.</p>
 <hr />
 <p><strong>SLS Annex A and Annex B (3 Feb 2022)<br /></strong>Please click on the following link to view.<br /><a href="/files/Annexes%20For%20SLS.pdf" target="_blank" rel="noopener">Annexes For SLS Portal</a></p>
 <hr />
