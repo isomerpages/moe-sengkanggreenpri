@@ -13,9 +13,9 @@ third_nav_title: Mother Tongue
 <table>
 <tbody>
 <tr>
-<td><strong>Discover</strong></td>
+<td><p><strong>Discover</strong></p></td>
 <td>
-<div>To provide a wide range of experiences for students to learn about their interests and talents.</div>
+<p>To provide a wide range of experiences for students to learn about their interests and talents.</p>
 <ul>
 <li>Mother Tongue Language Fortnight</li>
 <li>Theatre Experience (P1 and P4)</li>
@@ -27,16 +27,16 @@ third_nav_title: Mother Tongue
 </td>
 </tr>
 <tr>
-<td><strong>Develop</strong></td>
-<td>To provide programmes and activities to grow students&rsquo; emerging talents and maximize their potential.<br />
+<td><p><strong>Develop</strong></p></td>
+<td><p>To provide programmes and activities to grow students&rsquo; emerging talents and maximize their potential.</p>
 <ul>
 <li><em>Bi-Cultural Bridge Programme (P4)<br /></em></li>
 </ul>
 </td>
 </tr>
 <tr>
-<td><strong>Distinguish</strong></td>
-<td>To provide various opportunities and platforms for students to showcase their abilities and talents and benchmark themselves against the best.<br />
+<td><p><strong>Distinguish</strong></p></td>
+<td><p>To provide various opportunities and platforms for students to showcase their abilities and talents and benchmark themselves against the best.</p>
 <ul>
 <li><em>Bi-Cultural Bridge Programme (P5)<br /></em></li>
 <li><em>Eureka! Talent Management<br /></em></li>
