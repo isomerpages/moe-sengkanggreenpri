@@ -221,66 +221,66 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2">3 Attentive</td>
-<td style="text-align: center;">Mdm Ong Ngiap Seng</td>
-<td style="text-align: center;"><a href="mailto:ong_ngiap_seng@moe.edu.sg" target="">ong_ngiap_seng@moe.edu.sg</a></td>
+<td style="text-align: center;">Ms Ravetha Adelina</td>
+<td style="text-align: center;"><a href="mailto:ong_ngiap_seng@moe.edu.sg" target="">ravetha_adelina_s_umapathy@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;">Mdm Claire Chan Si Wei</td>
-<td style="text-align: center;"><a href="mailto:chan_si_wei@moe.edu.sg" target="">chan_si_wei@moe.edu.sg</a></td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2">3 Brave</td>
-<td style="text-align: center;">Ms Chua Siew Kheng</td>
-<td style="text-align: center;"><a href="mailto:chua_siew_kheng@moe.edu.sg" target="">chua_siew_kheng@moe.edu.sg</a></td>
+<td style="text-align: center;">Mr Joshua Seow</td>
+<td style="text-align: center;"><a href="mailto:seow_eng_huat@moe.edu.sg">seow_eng_huat@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;">Ms Alies Wong Shie Lin</td>
-<td style="text-align: center;"><a href="mailto:alies_wong_shie_lin@moe.edu.sg" target="">alies_wong_shie_lin@moe.edu.sg</a></td>
+<td style="text-align: center;">Mdm Wang Yan</td>
+<td style="text-align: center;"><a href="mailto:wang_yan_a@moe.edu.sg" target="">wang_yan_a@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2">3 Caring</td>
-<td style="text-align: center;">Mdm Sangeetha d/o Narayanan</td>
-<td style="text-align: center;"><a href="mailto:sangeetha_narayanan@moe.edu.sg" target="">sangeetha_narayanan@moe.edu.sg</a></td>
+<td style="text-align: center;">Ms Tan Miao Yun Lynette</td>
+<td style="text-align: center;"><a href="mailto:lynette_tan_miao_yun@moe.edu.sg" target="">lynette_tan_miao_yun@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;">Mdm Luo Yan Ping</td>
-<td style="text-align: center;"><a href="mailto:luo_yanping@moe.edu.sg" target="">luo_yanping@moe.edu.sg</a></td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2">3 Diligent</td>
-<td style="text-align: center;">Mdm Nurul Zawanah Bte Abdul Wahab</td>
-<td style="text-align: center;"><a href="mailto:nurul_zawanah_abdul_wahab@moe.edu.sg" target="">nurul_zawanah_abdul_wahab@moe.edu.sg</a></td>
+<td style="text-align: center;">Mdm Ng Xiang Ming</td>
+<td style="text-align: center;"><a href="mailto:ng_xiang_ming@moe.edu.sg" target="">ng_xiang_ming@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;">-</td>
-<td style="text-align: center;">-</td>
+<td style="text-align: center;">Ms Joey Ng</td>
+<td style="text-align: center;"><a href="mailto:joey_ng_jia_yi@moe.edu.sg" target="">joey_ng_jia_yi@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2">3 Excellent</td>
-<td style="text-align: center;">Mr Kenneth Mok Wei Chyuan</td>
-<td style="text-align: center;"><a href="mailto:mok_wei_chyuan@moe.edu.sg" target="">mok_wei_chyuan@moe.edu.sg</a></td>
+<td style="text-align: center;">Mr Chee Joon Kit Kelvin</td>
+<td style="text-align: center;"><a href="mailto:chee_joon_kit_kelvin@moe.edu.sg" target="">chee_joon_kit_kelvin@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;">Mdm&nbsp;Humairiah Bte Ahmad</td>
-<td style="text-align: center;"><a href="mailto:humairiah_ahmad@moe.edu.sg">humairiah_ahmad@moe.edu.sg</a></td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2">3 Friendly</td>
-<td style="text-align: center;">Ms&nbsp;Kao Pow Ling</td>
-<td style="text-align: center;"><a href="mailto:kao_pow_ling@moe.edu.sg" target="">kao_pow_ling@moe.edu.sg&nbsp;</a></td>
+<td style="text-align: center;">Mdm Tan Puay Kheng Catherine</td>
+<td style="text-align: center;"><a href="mailto:tan_puay_kheng_catherine@moe.edu.sg">tan_puay_kheng_catherine@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;">Mr Lim Kok Min Alan</td>
-<td style="text-align: center;"><a href="mailto:lim_kok_min_alan@moe.edu.sg" target="">lim_kok_min_alan@moe.edu.sg</a></td>
+<td style="text-align: center;">Miss Liu Xiao Yu</td>
+<td style="text-align: center;"><a href="mailto:liu_xiaoyu@moe.edu.sg" target="">liu_xiaoyu@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2">3 Gracious</td>
-<td style="text-align: center;">Mrs Chitra Guna</td>
-<td style="text-align: center;"><a href="mailto:chitra_devi_krishnan@moe.edu.sg">chitra_devi_krishnan@moe.edu.sg</a></td>
+<td style="text-align: center;">Mdm Ngo Seoh Chwee</td>
+<td style="text-align: center;"><a href="mailto:ngo_seoh_chwee@moe.edu.sg">ngo_seoh_chwee@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;">Mr Ng Yong'An Gary&nbsp;</td>
-<td style="text-align: center;"><a href="mailto:gary_ng_yong_an@moe.edu.sg" target="">gary_ng_yong_an@moe.edu.sg</a></td>
+<td style="text-align: center;">Mdm Ong Ngiap Seng</td>
+<td style="text-align: center;"><a href="mailto:ong_ngiap_seng@moe.edu.sg" target="">ong_ngiap_seng@moe.edu.sg</a></td>
 </tr>
 </tbody>
 </table>
@@ -301,237 +301,235 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2">4 Attentive</td>
-<td style="text-align: center;">Mdm Tan Puay Kheng Catherine</td>
-<td style="text-align: center;"><a href="mailto:tan_puay_kheng_catherine@moe.edu.sg" target="">tan_puay_kheng_catherine@moe.edu.sg</a></td>
+<td style="text-align: center;">Mdm Claire Chan</td>
+<td style="text-align: center;"><a href="mailto:chan_si_wei@moe.edu.sg" target="">chan_si_wei@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;">Mdm Ng Mei Ling</td>
-<td style="text-align: center;"><a href="mailto:ng_mei_ling_b@moe.edu.sg" target="">ng_mei_ling_b@moe.edu.sg</a></td>
+<td style="text-align: center;">Mrs Pearlyn Lim</td>
+<td style="text-align: center;"><a href="mailto:peh_pearlyn@moe.edu.sg" target="">peh_pearlyn@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="2">4 Brave</td>
-<td style="text-align: center;">Ms&nbsp;Leow Pei Shan, Jaysleen&nbsp;</td>
-<td style="text-align: center;"><a href="mailto:leow_pei_shan_jaysleen@moe.edu.sg" target="">leow_pei_shan_jaysleen@moe.edu.sg</a>&nbsp;</td>
+<td style="text-align: center;">Ms Chua Siew Kheng</td>
+<td style="text-align: center;"><a href="mailto:chua_siew_kheng@moe.edu.sg">chua_siew_kheng@moe.edu.sg</a></td>
 </tr>
 <tr>
+<td style="text-align: center;">Ms Alies Wong</td>
+<td style="text-align: center;"><a href="mailto:alies_wong_shie_lin@moe.edu.sg" target="">alies_wong_shie_lin@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">4 Caring</td>
+<td style="text-align: center;">Mr Chong Kuan Hoe</td>
+<td style="text-align: center;"><a href="mailto:chong_kuan_hoe@moe.edu.sg" target="">chong_kuan_hoe@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">4 Diligent</td>
+<td style="text-align: center;">Mr Lum Kit Chung</td>
+<td style="text-align: center;"><a href="mailto:lum_kit_chung@moe.edu.sg" target="">lum_kit_chung@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">Mdm Nurul Zawanah Binte Abdul Wahab</td>
+<td style="text-align: center;"><a href="mailto:nurul_zawanah_abdul_wahab@moe.edu.sg" target="">nurul_zawanah_abdul_wahab@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">4 Excellent</td>
+<td style="text-align: center;">Mdm Luo Yanping</td>
+<td style="text-align: center;"><a href="mailto:luo_yanping@moe.edu.sg" target="">luo_yanping@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">Ms Tan Shumin Charissa</td>
+<td style="text-align: center;"><a href="mailto:tan_shumin_charissa@moe.edu.sg" target="">tan_shumin_charissa@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">4 Friendly</td>
+<td style="text-align: center;">Mr Lim Kok Min Alan</td>
+<td style="text-align: center;"><a href="mailto:alim_kok_min_alan@moe.edu.sg" target="">lim_kok_min_alan@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">Mdm Norashikin Bte Abdul Hamid</td>
+<td style="text-align: center;"><a href="mailto:norashikin_abdul_hamid@moe.edu.sg" target="">norashikin_abdul_hamid@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">4 Gracious</td>
+<td style="text-align: center;">Mdm Charmaine Cheong</td>
+<td style="text-align: center;"><a href="mailto:cheong_zhi_zhuang_charmaine@moe.edu.sg" target="">cheong_zhi_zhuang_charmaine@moe.edu.sg&nbsp;</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">Mr Gary Ng Yong An</td>
+<td style="text-align: center;"><a href="mailto:gary_ng_yong_an@moe.edu.sg" target="">gary_ng_yong_an@moe.edu.sg</a></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Primary 5</strong></h4>
+<table width="0">
+<thead>
+<tr>
+<td style="text-align: center;"><strong>Class</strong></td>
+<td style="text-align: center;"><strong>Form Teacher</strong></td>
+<td style="text-align: center;"><strong>Email</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">Year Head</td>
+<td style="text-align: center;">Mdm Nur Ain Binte Ahmad</td>
+<td style="text-align: center;"><a href="mailto:nur_ain_ahmad@moe.edu.sg" target="">nur_ain_ahmad@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">5 Attentive</td>
+<td style="text-align: center;">Mrs Chitra Guna</td>
+<td style="text-align: center;"><a href="mailto:chitra_devi_krishnan@moe.edu.sg" target="">chitra_devi_krishnan@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">Mdm Judy Lim</td>
+<td style="text-align: center;"><a href="mailto:zhang_xingang@moe.edu.sg">lim_chung_li@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">5 Brave</td>
+<td style="text-align: center;">Mr Rishikesh Rajendra Naidu</td>
+<td style="text-align: center;"><a href="mailto:rishikesh_rajendra_naidu@moe.edu.sg" target="">rishikesh_rajendra_naidu@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">Ms Chew Mei Jun</td>
+<td style="text-align: center;"><a href="mailto:chew_mei_jun@moe.edu.sg" target="">chew_mei_jun@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">5 Caring</td>
+<td style="text-align: center;">Mdm Suguna Gopynathan</td>
+<td style="text-align: center;"><a href="mailto:sugunaiswari_gopynathan@moe.edu.sg" target="">sugunaiswari_gopynathan@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">Mdm Leow Pei Shan Jaysleen</td>
+<td style="text-align: center;"><a href="mailto:leow_pei_shan_jaysleen@moe.edu.sg">leow_pei_shan_jaysleen@moe.edu.sg&nbsp;</a></td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">5 Diligent</td>
+<td style="text-align: center;">Mdm Nur Ain Binte Ahmad</td>
+<td style="text-align: center;"><a href="mailto:nur_ain_ahmad@moe.edu.sg" target="">nur_ain_ahmad@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">Ms Hoe Suyi Florina</td>
+<td style="text-align: center;"><a href="mailto:hoe_suyi_florina@moe.edu.sg" target="">hoe_suyi_florina@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">5 Excellent</td>
+<td style="text-align: center;">Mrs Grace Loh</td>
+<td style="text-align: center;"><a href="mailto:lim_xiaotian_grace@moe.edu.sg" target="">lim_xiaotian_grace@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">Ms Hayati Bte Abdul Rahim</td>
+<td style="text-align: center;"><a href="mailto:hayati_abdul_rahim@moe.edu.sg" target="">hayati_abdul_rahim@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">5 Friendly</td>
+<td style="text-align: center;">Ms Anna Kwok Wing Chiu&nbsp;</td>
+<td style="text-align: center;"><a href="mailto:KWOK_Wing_Chiu@moe.edu.sg" target="">Kwok_Wing_Chiu@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">Mdm Neo Lay Kheng</td>
+<td style="text-align: center;"><a href="mailto:neo_lay_kheng@moe.edu.sg" target="">neo_lay_kheng@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">5 Gracious</td>
+<td style="text-align: center;">Ms Lo Yuan Yuan</td>
+<td style="text-align: center;"><a href="mailto:lo_yuan_yuan@moe.edu.sg" target="">lo_yuan_yuan@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">Mrs Ofelia Yeo</td>
+<td style="text-align: center;"><a href="mailto:ofelia_lim_shi_yun@moe.edu.sg" target="">ofelia_lim_shi_yun@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">5 Honest</td>
+<td style="text-align: center;">Mrs Ivy Tan</td>
+<td style="text-align: center;"><a href="mailto:chua_siang_peng@moe.edu.sg">chua_siang_peng@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">Ms Koh Jia Shan</td>
+<td style="text-align: center;"><a href="mailto:koh_jia_shan@moe.edu.sg" target="">koh_jia_shan@moe.edu.sg</a></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Primary 6</strong></h4>
+<table width="0">
+<thead>
+<tr>
+<td style="text-align: center;"><strong>Class</strong></td>
+<td style="text-align: center;"><strong>Form Teacher</strong></td>
+<td style="text-align: center;"><strong>Email</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">Year Head</td>
+<td style="text-align: center;">Mdm Nur Ain Binte Ahmad</td>
+<td style="text-align: center;"><a href="mailto:nur_ain_ahmad@moe.edu.sg" target="">nur_ain_ahmad@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">6&nbsp;Attentive</td>
+<td style="text-align: center;">Mr Aanand Pandiyan</td>
+<td style="text-align: center;"><a href="mailto:aanandthah_a@moe.edu.sg" target="">aanandthah_a@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">Ms Chua Yun Zhi, Diane</td>
+<td style="text-align: center;"><a href="mailto:chua_yun_zhi_diane@moe.edu.sg" target="">chua_yun_zhi_diane@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">6&nbsp;Brave</td>
+<td style="text-align: center;">Mdm Mahalakshmi</td>
+<td style="text-align: center;"><a href="mailto:mahalakshmi_kalyanam@moe.edu.sg" target="">mahalakshmi_kalyanam@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;">Mr Er Shann Jiunn</td>
+<td style="text-align: center;"><a href="mailto:%20er_shann_jiunn@moe.edu.sg" target="">er_shann_jiunn@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">6&nbsp;Caring</td>
 <td style="text-align: center;">Mdm Tan Wee Bee Serene</td>
 <td style="text-align: center;"><a href="mailto:tan_wee_bee_serene@moe.edu.sg" target="">tan_wee_bee_serene@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;" rowspan="2">4 Caring</td>
+<td style="text-align: center;">Mr Ang Chern Kiat</td>
+<td style="text-align: center;"><a href="mailto:ang_chern_kiat@moe.edu.sg" target="">ang_chern_kiat@moe.edu.sg</a></td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">6&nbsp;Diligent</td>
 <td style="text-align: center;">Ms Wong Yoke Lye</td>
 <td style="text-align: center;"><a href="mailto:wong_yoke_lye@moe.edu.sg" target="">wong_yoke_lye@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;">Liu Xiaoyu</td>
-<td style="text-align: center;"><a href="mailto:liu_xiaoyu@moe.edu.sg">liu_xiaoyu@moe.edu.sg</a></td>
+<td style="text-align: center;">Mr Jamen Tan Kay Wee</td>
+<td style="text-align: center;"><a href="mailto:tan_kay_wee_jamen@moe.edu.sg" target="">tan_kay_wee_jamen@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;" rowspan="2">4 Diligent</td>
-<td style="text-align: center;">Mdm Pearlyn Peh</td>
-<td style="text-align: center;"><a href="mailto:peh_pearlyn@moe.edu.sg" target="">peh_pearlyn@moe.edu.sg</a></td>
+<td style="text-align: center;" rowspan="2">6&nbsp;Excellent</td>
+<td style="text-align: center;">Mrs Sangeetha Siva</td>
+<td style="text-align: center;"><a href="mailto:sangeetha_narayanan@moe.edu.sg" target="">sangeetha_narayanan@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;">Mr Chee Joon Kit Kelvin</td>
-<td style="text-align: center;"><a href="mailto:chee_joon_kit_kelvin@moe.edu.sg" target="">chee_joon_kit_kelvin@moe.edu.sg</a></td>
+<td style="text-align: center;">Mrs Cindy Khoo</td>
+<td style="text-align: center;"><a href="mailto:tan_hern_ngee_cindy@moe.edu.sg">tan_hern_ngee_cindy@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;" rowspan="3">4 Excellent</td>
-<td style="text-align: center;">Ms Nazura Binte Hadam Hussain</td>
-<td style="text-align: center;"><a href="mailto:nazura_hadam_hussain@moe.edu.sg" target="">nazura_hadam_hussain@moe.edu.sg</a></td>
+<td style="text-align: center;" rowspan="2">6&nbsp;Friendly</td>
+<td style="text-align: center;">Mr Eddy Sufyan</td>
+<td style="text-align: center;"><a href="mailto:eddy_sufyan_selamat@moe.edu.sg" target="">eddy_sufyan_selamat@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;">Mr Joshua Seow Eng Huat</td>
-<td style="text-align: center;"><a href="mailto:seow_eng_huat@moe.edu.sg" target="">seow_eng_huat@moe.edu.sg</a></td>
+<td style="text-align: center;">&nbsp;Mdm Kong Siew May&nbsp;&nbsp;</td>
+<td style="text-align: center;"><a href="mailto:kong_siew_may@moe.edu.sg" target="">kong_siew_may@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;">Ms Wan Hazimah Binte Mohd Salemi</td>
-<td style="text-align: center;"><a href="mailto:wan_hazimah_mohammad_salemi@moe.edu.sg" target="">wan_hazimah_mohammad_salemi@moe.edu.sg</a></td>
+<td style="text-align: center;" rowspan="2">6 Gracious</td>
+<td style="text-align: center;">Mr Kenneth Mok Wei Chyuan</td>
+<td style="text-align: center;"><a href="mailto:mok_wei_chyuan@moe.edu.sg" target="">mok_wei_chyuan@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;" rowspan="2">4 Friendly</td>
-<td style="text-align: center;">Mr&nbsp;Aanand Pandiyan</td>
-<td style="text-align: center;"><a href="mailto:aanandthah_a@moe.edu.sg" target="">aanandthah_a@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;">Mdm Anna Kwok Wing Chiu</td>
-<td style="text-align: center;"><a href="mailto:kwok_wing_chiu@moe.edu.sg" target="">kwok_wing_chiu@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="3">4 Gracious</td>
-<td style="text-align: center;">Mr&nbsp;Rishikesh Rajendra Naidu</td>
-<td style="text-align: center;"><a href="mailto:rishikesh_rajendra_naidu@moe.edu.sg" target="">rishikesh_rajendra_naidu@moe.edu.sg</a>&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;">Mdm Chng E-Hwei</td>
-<td style="text-align: center;"><a href="mailto:chng_e_hwei@moe.edu.sg" target="">chng_e_hwei@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;">Mdm&nbsp;Liu Ziwei</td>
-<td style="text-align: center;"><a href="mailto:liu_ziwei@moe.edu.sg" target="">liu_ziwei@moe.edu.sg</a></td>
+<td style="text-align: center;">Mdm Nur Afiqah Binte Anwarie</td>
+<td style="text-align: center;"><a href="mailto:nur_afiqah_anwarie@moe.edu.sg" target="">nur_afiqah_anwarie@moe.edu.sg</a></td>
 </tr>
 </tbody>
 </table>
-<div>
-<h4><strong>Primary 5</strong></h4>
-<div>
-<table width="0">
-<thead>
-<tr>
-<td style="text-align: center;" width="113"><strong>Class</strong></td>
-<td style="text-align: center;" width="318"><strong>Form Teacher</strong></td>
-<td style="text-align: center;" width="351"><strong>Email</strong></td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;" width="113">Year Head</td>
-<td style="text-align: center;" width="318">Mdm Nur Ain Binte Ahmad</td>
-<td style="text-align: center;" width="351"><a href="mailto:nur_ain_ahmad@moe.edu.sg" target="">nur_ain_ahmad@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="113">5 Attentive</td>
-<td style="text-align: center;" width="318">Ms Yue Si Wei</td>
-<td style="text-align: center;" width="351"><a href="mailto:yue_si_wei@moe.edu.sg" target="">yue_si_wei@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="318">Mr&nbsp;Zhang Xingang</td>
-<td style="text-align: center;" width="351"><a href="mailto:zhang_xingang@moe.edu.sg">zhang_xingang@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="113">5 Brave</td>
-<td style="text-align: center;" width="318">Ms Imelda Bte As'ari</td>
-<td style="text-align: center;" width="351"><a href="mailto:imelda_asari@moe.edu.sg" target="">imelda_asari@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="318">Mdm Lim Xiao Tian Grace</td>
-<td style="text-align: center;" width="351"><a href="mailto:lim_xiaotian_grace@moe.edu.sg" target="">lim_xiaotian_grace@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="113">5 Caring</td>
-<td style="text-align: center;" width="318">Mdm Jennifer Koh Lai Har</td>
-<td style="text-align: center;" width="351"><a href="mailto:koh_lai_har@moe.edu.sg" target="">koh_lai_har@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="318">-</td>
-<td style="text-align: center;" width="351">-</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="113">5 Diligent</td>
-<td style="text-align: center;" width="318">Mdm Kong Siew May</td>
-<td style="text-align: center;" width="351"><a href="mailto:kong_siew_may@moe.edu.sg" target="">kong_siew_may@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="318">Mdm Norashikin Bte Abdul Hamid</td>
-<td style="text-align: center;" width="351"><a href="mailto:norashikin_abdul_hamid@moe.edu.sg" target="">norashikin_abdul_hamid@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="113">5 Excellent</td>
-<td style="text-align: center;" width="318">Ms Chua Yun Zhi, Diane</td>
-<td style="text-align: center;" width="351"><a href="mailto:chua_yun_zhi_diane@moe.edu.sg" target="">chua_yun_zhi_diane@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="318">Ms Joey Ng Jia Yi</td>
-<td style="text-align: center;" width="351"><a href="mailto:joey_ng_jia_yi@moe.edu.sg" target="">joey_ng_jia_yi@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="113">5 Friendly</td>
-<td style="text-align: center;" width="318">Mdm Nur Afiqah Binte Anwarie</td>
-<td style="text-align: center;" width="351"><a href="mailto:nur_afiqah_anwarie@moe.edu.sg" target="">nur_afiqah_anwarie@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="318">Mr Chew Chee Siang, Richard</td>
-<td style="text-align: center;" width="351"><a href="mailto:chew_chee_siang@moe.edu.sg" target="">chew_chee_siang@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="3" width="113">5 Gracious</td>
-<td style="text-align: center;" width="318">Mdm Nur Ain Binte Ahmad</td>
-<td style="text-align: center;" width="351"><a href="mailto:nur_ain_ahmad@moe.edu.sg" target="">nur_ain_ahmad@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="318">Mdm Wang Yan</td>
-<td style="text-align: center;" width="351"><a href="mailto:wang_yan_a@moe.edu.sg" target="">wang_yan_a@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="318">Mr Yapp Chong Meng Ronald</td>
-<td style="text-align: center;" width="351"><a href="mailto:yapp_chong_meng_ronald@moe.edu.sg">yapp_chong_meng_ronald@moe.edu.sg</a></td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-<div>
-<h4><strong>Primary 6</strong></h4>
-<div>
-<table width="0">
-<thead>
-<tr>
-<td style="text-align: center;" width="113"><strong>Class</strong></td>
-<td style="text-align: center;" width="318"><strong>Form Teacher</strong></td>
-<td style="text-align: center;" width="351"><strong>Email</strong></td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;" width="113">Year Head</td>
-<td style="text-align: center;" width="318">Mdm Nur Ain Binte Ahmad</td>
-<td style="text-align: center;" width="351"><a href="mailto:nur_ain_ahmad@moe.edu.sg" target="">nur_ain_ahmad@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="113">6&nbsp;Brave</td>
-<td style="text-align: center;" width="318">Ms Tan Shumin Charissa</td>
-<td style="text-align: center;" width="351"><a href="mailto:tan_shumin_charissa@moe.edu.sg" target="">tan_shumin_charissa@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="318">Mr Ang Chern Kiat</td>
-<td style="text-align: center;" width="351"><a href="mailto:ang_chern_kiat@moe.edu.sg" target="">ang_chern_kiat@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="113">6&nbsp;Caring</td>
-<td style="text-align: center;" width="318">Mdm Chua Siang Peng Ivy</td>
-<td style="text-align: center;" width="351"><a href="mailto:chua_siang_peng@moe.edu.sg" target="">chua_siang_peng@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="318">Mr Lum Kit Chung</td>
-<td style="text-align: center;" width="351"><a href="mailto:lum_kit_chung@moe.edu.sg" target="">lum_kit_chung@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="113">6&nbsp;Diligent</td>
-<td style="text-align: center;" width="318">Mdm Cheong Zhi Zhuang Charmaine</td>
-<td style="text-align: center;" width="351"><a href="mailto:cheong_zhi_zhuang_charmaine@moe.edu.sg" target="">cheong_zhi_zhuang_charmaine@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="318">Mdm Yasmin Bte Azahari</td>
-<td style="text-align: center;" width="351"><a href="mailto:yasmin_azahari@moe.edu.sg" target="">yasmin_azahari@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="113">6&nbsp;Excellent</td>
-<td style="text-align: center;" width="318">Mdm Mahalakshmi d/o Kalyanam</td>
-<td style="text-align: center;" width="351"><a href="mailto:mahalakshmi_kalyanam@moe.edu.sg" target="">mahalakshmi_kalyanam@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="318">Mdm Lim Chung Li</td>
-<td style="text-align: center;" width="351"><a href="mailto:lim_chung_li@moe.edu.sg" target="">lim_chung_li@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="113">6&nbsp;Friendly</td>
-<td style="text-align: center;" width="318">Mdm Neo Lay Kheng</td>
-<td style="text-align: center;" width="351"><a href="mailto:neo_lay_kheng@moe.edu.sg" target="">neo_lay_kheng@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="318">Mrs Cindy Khoo</td>
-<td style="text-align: center;" width="351"><a href="mailto:tan_hern_ngee_cindy@moe.edu.sg" target="">tan_hern_ngee_cindy@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="113">6 Gracious</td>
-<td style="text-align: center;" width="318">Ms Hayati Bte Abdul Rahim</td>
-<td style="text-align: center;" width="351"><a href="mailto:hayati_abdul_rahim@moe.edu.sg" target="">hayati_abdul_rahim@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="318">Mr&nbsp;Chong Kuan Hoe&nbsp;</td>
-<td style="text-align: center;" width="351"><a href="mailto:chong_kuan_hoe@moe.edu.sg" target="">chong_kuan_hoe@moe.edu.sg</a></td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
