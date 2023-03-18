@@ -1,8 +1,8 @@
 title: Sengkang Green Primary School
-url: ""
+url: https://sengkanggreenpri.moe.edu.sg
 favicon: /images/logosmall.jpg
 colors:
-  primary-color: "#f9d100"
+  primary-color: "#fbb939"
   secondary-color: "#3dcd00"
   media-colors:
     - title: media-color-one
