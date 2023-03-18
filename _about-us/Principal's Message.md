@@ -29,5 +29,4 @@ description: ""
 <p style="text-align: center;">Mr Gau led school staff on a retreat in November 2022 to discuss and plan for the 10<sup>th</sup>&nbsp;Anniversary in 2023</p>
 <p>I call upon all teachers (and staff), parents, stakeholders and SKGians to rally around the school as a community to celebrate our anniversary actively and meaningfully. More details on the 10<sup>th</sup>&nbsp;Anniversary celebration events will be made known in due time.</p>
 <p>Happy 10<sup>th</sup>&nbsp;Anniversary! And I wish everyone a successful year ahead.</p>
-<p>Mr Gau Poh Teck</p>
-<p>Principal</p>
+<p>Mr Gau Poh Teck<br>Principal</p>
