@@ -3,10 +3,8 @@ title: Science
 permalink: /departments/science/
 description: ""
 ---
-<p><strong><u>Key Personnel</u></strong></p>
 <img style="width: 35%;" src="/images/sci1.jpeg" align = "right">
-<p><strong>Head of Department</strong> : Ms Imelda As'ari</p>
-<p><strong>Level Head : </strong>Mr Kelvin Chee&nbsp;</p>
+<p><span style="text-decoration: underline;"><strong>Key Personnel:<br /></strong></span>Head of Department:&nbsp;Ms Chew Mei Jun</p>
 <p><strong><u>Department Aims and Objectives</u></strong></p>
 <p>The Science department aims to:</p>
 <ul>
