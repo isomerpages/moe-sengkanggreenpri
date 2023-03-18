@@ -4,8 +4,7 @@ permalink: /departments/mother-tongue/tamil-language/
 description: ""
 third_nav_title: Mother Tongue
 ---
-<p>Members:</p>
-<p>Mdm Suguna Gopynathan<br />Mr Syed Ashratullah</p>
+<p>Members:<br>Mdm Suguna Gopynathan<br />Mr Syed Ashratullah</p>
 <p><strong>Aims &amp; Objectives</strong></p>
 <p>To develop students into confident and competent Tamil Language users who appreciate the Tamil culture and values. Through interesting and enriching activities, we hope our students can develop<br />a love for both the language and culture.</p>
 <p><strong>Our Approach</strong></p>
