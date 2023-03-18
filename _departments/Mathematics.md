@@ -28,10 +28,10 @@ description: ""
 <p><strong><span style="text-decoration: underline;">Major Events</span></strong></p>
 <p><strong>1. Mathematics Carnival<br /></strong>The Mathematics Carnival provides an opportunity for our students to practise mathematics through games to achieve mastery. The carnival also includes a reward system that aims to reinforce positive behaviour and expectations. Four weeks prior to the carnival, our students will be &lsquo;rewarded&rsquo; with carnival tokens when they display school values such as responsibility and active teamwork during math lessons. These tokens will then be used to play the mathematical games at the carnival.</p>
 <p>The carnival also allows the students to practise financial literacy through authentic learning. They will need to 'spend' their tokens at the game stalls and be involved in decision making by deciding on what games to play for the amount of tokens that they have.</p>
-<img src="/images/math2.png">
+<img style="width: 90%;" src="/images/math2.png">
 <p><strong>2. Mathematics Trail</strong></p>
 <p>Mathematics Trail in SKGPS provides students with the opportunity to relate mathematical concepts and skills that they have learnt to the real world. Students work in teams to apply mathematical concepts and skills such as the use of mathematical tools and estimation to complete authentic learning tasks within the school compound. Learning of mathematics becomes fun, meaningful and relevant for the students.&nbsp;</p>
-<img src="/images/math3.png">
+<img style="width: 90%;" src="/images/math3.png">
 <p><strong>3. P1 and P2 Mathematics Parent's Workshop</strong></p>
 <p>As part of SKGPS&rsquo; school-home partnership efforts, mathematics workshops are conducted for parents of Primary 1 and 2 students. The objectives of the workshops are to enable parents to gain greater understanding of the Primary Mathematics Syllabus and how the school engages students to acquire mathematical concepts and skills through the Concrete-Pictorial-Abstract (CPA) approach. During the workshop, parents get to experience how a mathematical concept is taught using the CPA approach. Parents are also provided with tips on how they can support their children in the learning of mathematics. For the past few years, the workshops were well received by parents. Parents have expressed that the workshops benefitted them in engaging their children in the learning of mathematics at home.</p>
 <img src="/images/math4.png">
