@@ -25,24 +25,18 @@ description: ""
 <tr>
 <td rowspan="3">2014</td>
 <td>Art</td>
-<td>
-<p>National Environmentally-Friendly Lantern Making Competition 2014organised by SPH</p>
-</td>
+<td>National Environmentally-Friendly Lantern Making Competition 2014organised by SPH</td>
 <td>Consolation Prize</td>
 </tr>
 <tr>
 <td>Aesthetics</td>
 <td>Singapore Youth Festival Central Judging</td>
-<td>
-<p>Certificate of Accomplishment</p>
-</td>
+<td>Certificate of Accomplishment</td>
 </tr>
 <tr>
 <td>Academic</td>
 <td>8th YMCA Mandarin Speaking Awards</td>
-<td>
-<p>Silver Honour Roll</p>
-</td>
+<td>Silver Honour Roll</td>
 </tr>
 <tr>
 <td rowspan="7">2015</td>
@@ -57,49 +51,34 @@ description: ""
 </tr>
 <tr>
 <td>Sports</td>
-<td>
-<p>National Taekwando Competition</p>
-</td>
-<td>
-<p>Bronze medal in the the Junior Division Male Red Belt (Kyorugi) - under 36 kg.</p>
-</td>
+<td>National Taekwando Competition</td>
+<td>Bronze medal in the the Junior Division Male Red Belt (Kyorugi) - under 36 kg.</td>
 </tr>
 <tr>
 <td>Sports</td>
 <td>National Taekwando Competition</td>
-<td>
-<p>8th position in the Junior Division Female Yellow Belt (Poomsae).</p>
-</td>
+<td>8th position in the Junior Division Female Yellow Belt (Poomsae).</td>
 </tr>
 <tr>
 <td>Clubs</td>
 <td>Asia Pacific Youth Robotics Competition (APYRC) Winter Games 2015</td>
-<td>
-<p>Gold medal in Sumo (Junior) category</p>
-<p>Silver medal in Sumo(Junior) category</p>
-</td>
+<td>Gold medal in Sumo (Junior) categorySilver medal in Sumo(Junior) category</td>
 </tr>
 <tr>
 <td>Academic</td>
 <td>National Chinese Creative Reading Competition</td>
-<td>
-<div>6th Position in Lower Primary Category</div>
-</td>
+<td>6th Position in Lower Primary Category</td>
 </tr>
 <tr>
 <td>Academic</td>
 <td>Trinity College London Speech and Drama Grade 1 Examination</td>
-<td>
-<div>Top Distinction</div>
-</td>
+<td>Top Distinction</td>
 </tr>
 <tr>
 <td rowspan="3">2016</td>
 <td>Academic</td>
 <td>East Zone Malay Language Scrabble Competition</td>
-<td>
-<div>4th in position</div>
-</td>
+<td>4th in position</td>
 </tr>
 <tr>
 <td>Sports</td>
@@ -109,10 +88,7 @@ description: ""
 <tr>
 <td>Aesthetics</td>
 <td>Singapore Youth Festival Arts Presentation</td>
-<td>
-<div>Certificate of Distinction - Indian Dance Category</div>
-<div>Certificate of Accomplishment - International Dance Category</div>
-</td>
+<td>Certificate of Distinction - Indian Dance CategoryCertificate of Accomplishment - International Dance Category</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -130,7 +106,7 @@ description: ""
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>10<sup>th</sup>&nbsp;YMCA Mandarin Speaking Competition 2016</td>
-<td>Certificate of Achievement<br />Honour Roll (lower primary category)<br />Honour Roll (upper primary category)</td>
+<td>Certificate of AchievementHonour Roll (lower primary category)Honour Roll (upper primary category)</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
