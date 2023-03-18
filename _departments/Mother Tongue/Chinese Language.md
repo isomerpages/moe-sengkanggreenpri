@@ -46,7 +46,7 @@ third_nav_title: Mother Tongue
 </tbody>
 </table>
 <p><u><strong>Our Strategies</strong></u></p>
-<img style="width: 75%;" src="/images/cl1.jpeg">
+<img style="width: 66%;" src="/images/cl1.jpeg">
 <p>In alignment to the school&rsquo;s Teaching and Learning Framework, the department engages the students in learning through the following ways:</p>
 <ul>
 <li>Incorporate the 3 primary strategies, namely Active Learning, Problem-based and Project-based learning in the MTL curriculum development;</li>
