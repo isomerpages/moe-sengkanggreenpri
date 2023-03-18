@@ -165,4 +165,4 @@ third_nav_title: Uniformed Groups
 </tbody>
 </table>
 <p>We always believe that our students&rsquo; active involvement in co-curricular activities can bring great rewards and have a significant impact on their learning and growth.</p>
-<img style="width: 100%;" src="/images/scouts.jpg" />
+<img style="width: 80%;" src="/images/scouts.jpg" />
