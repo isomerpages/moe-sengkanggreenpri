@@ -4,6 +4,10 @@ permalink: /others/announcements/
 description: ""
 third_nav_title: Announcements
 ---
+
+<p><strong>P6 Parent Engagement Session 2023<br /></strong>Please click on the following link to download the presentation slides.<br /><a href="/files/1%20P6%20PES%202023%20-%20Principal%20and%20YH%20Time%20for%20uploading.pdf" target="_blank" rel="noopener">P6 PES 2023 - Pincipal and Year Head Time</a><br /><a href="/files/2%20P6%20PES%202023%20-%20Changes%20to%20School-Based%20Assessment%20for%20uploading.pdf" target="_blank" rel="noopener">P6 PES 2023 - Changes to School-Based Assessment</a></p>
+<hr />
+<p><strong>Open for Nominations: Inspiring Teacher of English Award 2023<br /></strong>Please click&nbsp;<a href="/others/announcements/open-for-nominations-inspiring-teacher-of-english-award-2023">here</a> for more info.<br />Thank you.</p>
 <hr />
 <p><strong>P1 Engagement Session 2023<br /></strong>Please click on the following links to download the presentation slides.</p>
 <ul>
