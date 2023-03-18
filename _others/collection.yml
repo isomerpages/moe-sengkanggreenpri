@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Banner Slider.md
-      - "Announcements/Open for Nominations: Inspiring Teacher of English Award
-        2023.md"
       - Announcements/.keep
       - Announcements/Announcements.md
       - Announcements/Welcome Back.md
@@ -21,6 +19,8 @@ collections:
       - Announcements/THE PRESIDENT'S AWARD FOR TEACHERS (PAT) AND THE
         OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) 2021.md
       - Announcements/P2 to P6 Presentation Slides For PES 2022.md
+      - "Announcements/Open for Nominations: Inspiring Teacher of English Award
+        2023.md"
       - Highlights/.keep
       - Highlights/Highlights.md
       - "Highlights/MOE: Travel advisory against all non essential travel
