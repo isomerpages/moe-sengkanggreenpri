@@ -4,6 +4,12 @@ permalink: /others/highlights/
 description: ""
 third_nav_title: Highlights
 ---
+<p><strong>MK Open House 2023</strong></p>
+<p>Please click&nbsp;<a href="/others/highlights/mk-open-house-2023">here</a> for more information.<br />Thank you.</p>
+<hr />
+<p><strong>Teacher's Day Celebration - Visit by former students</p>
+<p></strong>Please click&nbsp;<a href="/files/Teachers%20Day%20Celebration.pdf" target="_blank" rel="noopener">here</a>&nbsp;to view.</p>
+<hr />
 <p><strong>e-Open House 2022 ( Posted on 1 Jul 2022 )</strong></p>
 <p>Please click&nbsp;<a href="/others/highlights/skgps-e-open-house-2022" target="_parent">here</a>&nbsp;to view.</p>
 <hr />
