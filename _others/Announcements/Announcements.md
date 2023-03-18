@@ -4,11 +4,11 @@ permalink: /others/announcements/
 description: ""
 third_nav_title: Announcements
 ---
-
+<p><strong>P2 Parent Engagement Session 2023<br /></strong>Please click on the following links to view:<br /><a href="/files/P2%20PES%20P%20and%20YH%20Sharing%20Slides%202023%20for%20Uploading.pdf" target="_blank" rel="noopener">P2 PES P and YH Sharing Slides 2023</a><br /><a href="/files/Parent%20Engagement%20Session_P2%20Curriculum_for%20uploading.pdf" target="_blank" rel="noopener">Parent Engagement Session P2 Curriculum</a></p>
+<hr />
 <p><strong>P3 and P4 Parent Engagement Session 2023<br /></strong>Please click on following link to view:</p>
 <p><strong>P3<br /></strong><a href="/files/2023%20P3%20PES%2022%20Feb%20_P%20and%20YH%20talk.pdf" target="_blank" rel="noopener">2023 P3 PES 22 Feb</a><br /><a href="/files/Changes%20to%20School-Based%20Assessment_P3%20PES%202023.pdf" target="_blank" rel="noopener">P3 - Changes to School-Based Assessment</a></p>
 <p><strong>P4<br /></strong><a href="/files/2023%20P4%20PES_17%20Feb.pdf" target="_blank" rel="noopener">2023 P4 PES 17 Feb</a><br /><a href="/files/Changes%20to%20School-Based%20Assessment_P4%20PES%202023.pdf" target="_blank" rel="noopener">P4 - Changes to School-Based Assessment</a></p>
-
 <hr />
 <p><strong>P5 Parent Engagement Session 2023<br /></strong>Please click on the following link to download the presentation slides<br /><a href="/files/1%20P5%20PES%202023%20-%20Principal%20and%20YH%20Time%20For%20website.pdf">P5 PES 2023 - Principal and Year Head Time</a><br /><a href="/files/2%20P5%20PES%202023%20-%20Changes%20to%20School-Based%20Assessment.pdf">P5 PES 2023 - Changes to School-Based Assessment</a></p>
 <hr />
