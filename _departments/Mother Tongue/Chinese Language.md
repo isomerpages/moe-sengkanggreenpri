@@ -115,7 +115,7 @@ third_nav_title: Mother Tongue
 <p>Chinese Calligraphy</p>
 <img style="width: 75%;" src="/images/cl4.png">
 <p>New Media Reporting</p>
-<img style="width: 95%;" src="/images/cl5.png">
+<img style="width: 80%;" src="/images/cl5.png">
 <p>Tea Appreciation@ Chung Cheng High (Main)</p>
 <img style="width: 75%;" src="/images/cl6.png">
 <img style="width: 75%;" src="/images/cl7.png">
@@ -135,11 +135,11 @@ third_nav_title: Mother Tongue
 <img style="width: 100%;" src="/images/cl13.png">
 <img style="width: 100%;" src="/images/cl14.png"><br>
 <img style="width: 50%;" src="/images/cl15.jpeg">
-<p>Our lower primary students participating in SKG Celebrate where they took part in different language and cultural booths set up by teachers during this learning fiesta day.&nbsp;</p>
+<p>Our lower primary students participating in SKG Celebrate where they took part in different language and cultural booths set up by teachers during this learning fiesta day.</p>
 <img style="width: 50%;" src="/images/cl16.jpeg">
-<p>Our students as booth ambassadors at the Chinese Language Curriculum Showcase, to engage parents and potential parents on their CL learning experience.&nbsp;</p>
+<p>Our students as booth ambassadors at the Chinese Language Curriculum Showcase, to engage parents and potential parents on their CL learning experience.</p>
 <p><u>Mother Tongue Fortnight collaboration with MOE Kindergarten (MK)</u></p>
-<img style="width: 60%;" src="/images/cl17.jpeg">
+<img style="width: 60%;" src="/images/cl17.jpeg"><br>
 <img style="width: 60%;" src="/images/cl18.jpeg">
 <p>Sengkang Green only male teacher being interviewed by MK little students as we encourage speaking of Chinese language since young.</p>
 <p><u>P4 Mother Tongue Fortnight cum RHD&nbsp;</u><u>小四母语双周、种族和谐日活动</u></p>
