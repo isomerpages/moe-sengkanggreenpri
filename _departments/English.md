@@ -3,7 +3,7 @@ title: English
 permalink: /departments/english/
 description: ""
 ---
-<p><strong>Key Personnel<br /></strong>Head of Department: Ms Chua Siew Kheng<br />Senior Teachers: Mrs Eunice Kwok&nbsp;</p>
+<p><strong>Key Personnel<br /></strong>Head of Department: Ms Chua Siew Kheng<br />Level Head: Mrs Jacelyn Liu<br />Senior Teachers: Mrs Eunice Kwok&nbsp;</p>
 <p><strong>Department Vision<br /></strong>Engaged 21<sup>st</sup>&nbsp;Century EL learners</p>
 <p><strong>Mission<br /></strong>Our aim is to&nbsp;develop&nbsp;<em>empathetic communicators</em>,&nbsp;<em>discerning readers</em>&nbsp;and&nbsp;<em>creative inquirers</em>&nbsp;who have&nbsp;<em>strong fundamentals</em>&nbsp;and&nbsp;<em>21<sup>st</sup>&nbsp;century competencies</em></p>
 <p><span style="text-decoration: underline;"><strong>Key Programmes</strong></span></p>
