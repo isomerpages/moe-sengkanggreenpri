@@ -53,7 +53,7 @@ description: ""
 <p><strong>LESSON TITLE / DURATION</strong></p>
 </td>
 <td style="text-align: center;" width="444">
-<p><strong>Lesson Overview</strong></p>
+<p><strong>LESSON OVERVIEW</strong></p>
 </td>
 <td style="text-align: center;" width="180">
 <p><strong>TIME PERIOD</strong></p>
@@ -117,7 +117,7 @@ description: ""
 <p><strong>LESSON TITLE / DURATION</strong></p>
 </td>
 <td style="text-align: center;" width="387">
-<p><strong>Lesson Overview</strong></p>
+<p><strong>LESSON OVERVIEW</strong></p>
 </td>
 <td style="text-align: center;" width="208">
 <p><strong>TIME PERIOD</strong></p>
