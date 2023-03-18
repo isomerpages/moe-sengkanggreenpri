@@ -4,7 +4,7 @@ permalink: /about-us/school-information/school-facilities/
 description: ""
 third_nav_title: School Information
 ---
-<img style="width: 65%;" src="/images/fac.jpg" />
+<img style="width: 50%;" src="/images/fac.jpg" />
 <table border="0">
 <tbody>
 <tr>
