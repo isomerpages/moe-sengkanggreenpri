@@ -62,15 +62,8 @@ links:
         url: /departments/information-n-communication-technology-ict
       - title: Physical Education
         url: /departments/physical-education
-  - title: Students
-    url: /students/home-based-learning
-    sublinks:
-      - title: Home-based Learning
-        url: /students/home-based-learning
-      - title: Student iCON
-        url: /students/student-icon
-  - title: For Parents
-    url: /for-parents/financial-assistance-scheme
+  - title: Parents
+    url: /parents/financial-assistance-scheme
     sublinks:
       - title: Financial Assistance Scheme
         url: /for-parents/financial-assistance-scheme
@@ -86,6 +79,13 @@ links:
         url: /for-parents/sexuality-education
       - title: Parents Volunteer Scheme
         url: /for-parents/parents-volunteer-scheme
+  - title: Students
+    url: /students/home-based-learning
+    sublinks:
+      - title: Home-based Learning
+        url: /students/home-based-learning
+      - title: Student iCON
+        url: /students/student-icon
   - title: Partners
     url: /partners/parents-support-group-psg
     sublinks:
