@@ -170,3 +170,11 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p><strong><u>Please Note:</u></strong></p>
+<p><strong>*</strong><strong>For&nbsp;<u>2023</u>, the Primary 5 lesson &ldquo;<em>Did You Know</em>?&rdquo; will also be conducted for the Primary 6 cohort.</strong></p>
+<p><strong>Information for Parents</strong></p>
+<ol start="8">
+<li>Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li>
+<li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Parent%20Opt%20Form.pdf">here</a>. The completed opt-out form is to be submitted by 10/02/2023.</li>
+<li>Parents can contact the school atsengkanggreen_ps@moe.edu.sg or 63864255 for discussion or to seek clarification about the school&rsquo;s Sexuality Education programme.</li>
+</ol>
