@@ -16,11 +16,11 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td style="text-align: center;">Operations Manager</td>
-<td style="text-align: center;">Mr Low Kuan Hong, Brandon</td>
+<td style="text-align: center;">Mr Yong Choon Wei</td>
 </tr>
 <tr>
-<td style="text-align: center;">&nbsp;ICT Manager</td>
-<td style="text-align: center;">Mr Sim Khiang Boon&nbsp;</td>
+<td style="text-align: center;">ICT Manager</td>
+<td style="text-align: center;">Mr Shen Qingwen</td>
 </tr>
 <tr>
 <td style="text-align: center;">Administrative Executive</td>
@@ -40,7 +40,11 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td style="text-align: center;">Desktop Engineer (DE)</td>
-<td style="text-align: center;">Mr Alvin Timoteo</td>
+<td style="text-align: center;">Mr Syahmi Akmal Bin Sabri</td>
+</tr>
+<tr>
+<td style="text-align: center;">Desktop Engineer (DE)</td>
+<td style="text-align: center;">Ms Wu Pei Fen </td>
 </tr>
 <tr>
 <td style="text-align: center;">Operations Support Officer</td>
@@ -56,7 +60,7 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td style="text-align: center;">Operations Support Officer</td>
-<td style="text-align: center;">Mr Leong Wong Onn</td>
+<td style="text-align: center;">Mr Lawrence Pung Yu Jian</td>
 </tr>
 <tr>
 <td style="text-align: center;">Operations Support Officer</td>
@@ -67,8 +71,12 @@ third_nav_title: School Organisation
 <td style="text-align: center;">Mdm Goh Siew Hiang</td>
 </tr>
 <tr>
-<td style="text-align: center;">&nbsp;Operations Support Officer</td>
-<td style="text-align: center;">Mdm&nbsp;Lim Yee Pei&nbsp;</td>
+<td style="text-align: center;">Operations Support Officer</td>
+<td style="text-align: center;">Mdm Lim Yee Pei</td>
+</tr>
+<tr>
+<td style="text-align: center;">Receptionist </td>
+<td style="text-align: center;">Mdm Poh Poh Moy</td>
 </tr>
 </tbody>
 </table>
