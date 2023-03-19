@@ -8,6 +8,7 @@ description: ""
 <tbody>
 <tr>
 <td colspan ="2"><p style="text-align: center;"><img style="width: 25%;" src="/images/psg1.jpg" /></p>
+</td>
 </tr>
 <tr><td colspan ="2">
 <p style="text-align: center;"><strong>Mdm Sherlyn Ong<br /></strong><strong>Chairperson</strong></p>
