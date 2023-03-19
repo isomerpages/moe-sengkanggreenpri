@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - A day in MK@SG.md
       - Partnership with Sengkang Green Primary School.md
       - Partnership with Parents.md
       - Early–Years Centres Partnership.md
