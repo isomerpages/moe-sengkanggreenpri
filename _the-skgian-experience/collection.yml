@@ -2,10 +2,8 @@ collections:
   the-skgian-experience:
     output: true
     order:
-      - Student iCON.md
-      - Home–based Learning.md
-      - Signature Programmes/Learning for Life Programme (LLP).md
       - Signature Programmes/.keep
+      - Signature Programmes/Learning for Life Programme (LLP).md
       - Academic/.keep
       - Academic/English.md
       - Academic/Mathematics.md
@@ -14,10 +12,12 @@ collections:
       - Academic/Mother Tongue Language (Tamil).md
       - Academic/Science &  Environment.md
       - Academic/Information & Communication Technology (ICT).md
+      - Physical & Aesthetics/.keep
       - Physical & Aesthetics/Physical & Holistic Health.md
       - Physical & Aesthetics/Aesthetics.md
-      - Physical & Aesthetics/.keep
       - Student Development/.keep
       - Student Development/Character and Citizenship Education (CCE).md
       - Student Development/Character Education.md
       - Student Development/Citizenship Development.md
+      - Home–based Learning.md
+      - Student iCON.md
