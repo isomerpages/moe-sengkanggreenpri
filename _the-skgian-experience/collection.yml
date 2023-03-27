@@ -2,11 +2,11 @@ collections:
   the-skgian-experience:
     output: true
     order:
-      - Academic/Information & Communication Technology (ICT).md
-      - Academic/Science.md
-      - Academic/Mathematics.md
-      - Academic/English.md
       - Academic/.keep
+      - Academic/English.md
+      - Academic/Mathematics.md
+      - Academic/Science.md
+      - Academic/Information & Communication Technology (ICT).md
       - Mother Tongue/Chinese Language.md
       - Mother Tongue/Malay Language.md
       - Mother Tongue/Tamil Language.md
