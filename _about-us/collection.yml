@@ -2,7 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
+      - Principal's Message.md
+      - School Information/.keep
       - School Information/School Information.md
       - School Information/Our Mission.md
       - School Information/Our Vision.md
@@ -12,8 +13,6 @@ collections:
       - School Information/School Hours.md
       - School Information/School Rules.md
       - School Information/School Facilities.md
-      - School Information/.keep
-      - Principal's Message.md
       - School Organisation/.keep
       - "School Organisation/School Executive Committee: Leaders Profile.md"
       - "School Organisation/School Executive Committee: Key Personnel.md"
@@ -23,4 +22,5 @@ collections:
       - School Calendar.md
       - MOE Kindergarten.md
       - Visitors to School.md
+      - Contact Us.md
       - A Note of Affirmation.md
