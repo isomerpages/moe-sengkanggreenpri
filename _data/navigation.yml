@@ -44,20 +44,16 @@ links:
       - title: Uniformed Groups
         url: /cca/uniformed-groups/scouts
   - title: The Skgian Experience
-    url: /the-skgian-experience/academic/english/
+    url: /the-skgian-experience/academic/English/
     sublinks:
-      - title: English
-        url: /departments/english
-      - title: Mathematics
-        url: /departments/mathematics
-      - title: Mother Tongue
-        url: /departments/mother-tongue/chinese-language
-      - title: Science
-        url: /departments/science
-      - title: Aesthetics
-        url: /departments/aesthetics
-      - title: CCE
-        url: /departments/character-and-citizenship-education-cce
+      - title: Academic
+        url: /the-skgian-experience/academic/English/
+      - title: Signature Programmes
+        url: /the-skgian-experience/signature-programmes/learning-for-life-programme-llp/
+      - title: Physical & Aesthetics
+        url: /the-skgian-experience/physical-aesthetics/physical-holistic-health/
+      - title: CharacterCitizenshipEducation
+        url: /the-skgian-experience/student-development/character-and-citizenship-education-cce/
       - title: ICT
         url: /departments/information-n-communication-technology-ict
       - title: Physical Education
