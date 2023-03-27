@@ -2,12 +2,12 @@ collections:
   the-skgian-experience:
     output: true
     order:
-      - Academic/Mother Tongue Tamil Language.md
-      - Academic/Mother Tongue Malay Language.md
-      - Academic/Mother Tongue Chinese Language.md
       - Academic/.keep
       - Academic/English.md
       - Academic/Mathematics.md
+      - Academic/Mother Tongue Chinese Language.md
+      - Academic/Mother Tongue Malay Language.md
+      - Academic/Mother Tongue Tamil Language.md
       - Academic/Science.md
       - Academic/Information & Communication Technology (ICT).md
       - Aesthetics/Aesthetics.md
