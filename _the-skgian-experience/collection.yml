@@ -1,5 +1,5 @@
 collections:
-  departments:
+  the-skgian-experience:
     output: true
     order:
       - English.md
