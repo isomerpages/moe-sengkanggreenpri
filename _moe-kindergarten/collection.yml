@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Our Partners/Early–Years Centres Partnership.md
       - Our Partners/Partnership with Parents.md
       - Our Partners/Partnership with Sengkang Green Primary School.md
       - Our Partners/.keep
