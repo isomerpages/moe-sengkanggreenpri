@@ -1,5 +1,4 @@
 collections:
   the-skgian-experience:
     output: true
-    order:
-      - Test/.keep
+    order: []
