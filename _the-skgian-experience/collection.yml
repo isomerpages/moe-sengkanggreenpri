@@ -2,6 +2,7 @@ collections:
   the-skgian-experience:
     output: true
     order:
+      - Academic/Information & Communication Technology (ICT).md
       - Academic/Science.md
       - Academic/Mathematics.md
       - Academic/English.md
