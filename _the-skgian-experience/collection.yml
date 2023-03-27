@@ -1,4 +1,5 @@
 collections:
   the-skgian-experience:
     output: true
-    order: []
+    order:
+      - Academic/.keep
