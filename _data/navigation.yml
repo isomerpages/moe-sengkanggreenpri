@@ -19,19 +19,17 @@ links:
         url: /contact-us/
       - title: A Note of Affirmation
         url: /our-skgian-family/a-note-of-affirmation
-  - title: Achievements
-    url: /achievements/achievement-2020
+  - title: The SKGian Experience
+    url: /the-skgian-experience/academic/english/
     sublinks:
-      - title: Achievement 2020
-        url: /achievements/achievement-2020
-      - title: Achievement 2019
-        url: /achievements/achievement-2019
-      - title: Achievement 2018
-        url: /achievements/achievement-2018
-      - title: Achievement 2017
-        url: /achievements/achievement-2017
-      - title: Achievement 2013 - 2016
-        url: /achievements/achievement-2013-2016
+      - title: Signature Programmes
+        url: /the-skgian-experience/signature-programmes/learning-for-life-programme-llp/
+      - title: Academic
+        url: /the-skgian-experience/academic/english/
+      - title: Physical & Aesthetics
+        url: /the-skgian-experience/physical-aesthetics/physical-holistic-health/
+      - title: CharacterCitizenshipEducation
+        url: /the-skgian-experience/student-development/character-and-citizenship-education-cce/
   - title: CCA
     url: /cca/clubs-n-societies/art-club
     sublinks:
@@ -43,17 +41,6 @@ links:
         url: /cca/sports/basketball
       - title: Uniformed Groups
         url: /cca/uniformed-groups/scouts
-  - title: The Skgian Experience
-    url: /the-skgian-experience/academic/english/
-    sublinks:
-      - title: Signature Programmes
-        url: /the-skgian-experience/signature-programmes/learning-for-life-programme-llp/
-      - title: Academic
-        url: /the-skgian-experience/academic/english/
-      - title: Physical & Aesthetics
-        url: /the-skgian-experience/physical-aesthetics/physical-holistic-health/
-      - title: CharacterCitizenshipEducation
-        url: /the-skgian-experience/student-development/character-and-citizenship-education-cce/
   - title: Parents
     url: /parents/financial-assistance-scheme
     sublinks:
