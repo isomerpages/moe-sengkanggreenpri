@@ -2,6 +2,7 @@ collections:
   the-skgian-experience:
     output: true
     order:
+      - Academic/English.md
       - Academic/.keep
       - Mathematics.md
       - Mother Tongue/Chinese Language.md
