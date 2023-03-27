@@ -2,6 +2,7 @@ collections:
   the-skgian-experience:
     output: true
     order:
+      - Academic/Mother Tongue Tamil Language.md
       - Academic/Mother Tongue Malay Language.md
       - Academic/Mother Tongue Chinese Language.md
       - Academic/.keep
