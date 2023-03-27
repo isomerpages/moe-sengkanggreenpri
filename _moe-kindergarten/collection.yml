@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - About Us.md
       - Vision Mission Beliefs.md
       - Our Staffs in MK@SG/Key Personnel.md
       - Our Staffs in MK@SG/English Language Teachers.md
