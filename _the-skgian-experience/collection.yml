@@ -2,6 +2,7 @@ collections:
   the-skgian-experience:
     output: true
     order:
+      - Home–based Learning.md
       - Signature Programmes/Learning for Life Programme (LLP).md
       - Signature Programmes/.keep
       - Academic/.keep
