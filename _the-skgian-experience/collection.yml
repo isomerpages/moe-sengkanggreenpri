@@ -2,6 +2,7 @@ collections:
   the-skgian-experience:
     output: true
     order:
+      - Signature Programmes/.keep
       - Academic/.keep
       - Academic/English.md
       - Academic/Mathematics.md
