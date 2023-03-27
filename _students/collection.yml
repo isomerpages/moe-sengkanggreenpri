@@ -1,5 +1,4 @@
 collections:
   students:
     output: true
-    order:
-      - Student iCON.md
+    order: []
