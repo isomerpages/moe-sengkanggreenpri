@@ -1,5 +1,5 @@
 collections:
-  our-skgian-family:
+  about-us:
     output: true
     order:
       - Principal's Message.md
