@@ -58,13 +58,6 @@ links:
         url: /parents/sexuality-education
       - title: Parents Volunteer Scheme
         url: /parents/parents-volunteer-scheme
-  - title: Students
-    url: /students/home-based-learning
-    sublinks:
-      - title: Home-based Learning
-        url: /students/home-based-learning
-      - title: Student iCON
-        url: /students/student-icon
   - title: Partners
     url: /partners/parents-support-group-psg
     sublinks:
