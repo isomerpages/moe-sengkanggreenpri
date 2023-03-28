@@ -8,6 +8,7 @@ third_nav_title: Signature Programmes
 <p>At Sengkang Green Primary School, the ALP aims to internalise our school mission &lsquo;To nurture healthy and happy individual with strength of character, ready to serve, ready for the future&rsquo;. Our ALP journey commenced in 2022. It recognises the need for our students to possess skills, aptitudes and attitudes necessary to contribute in this 21<sup>st</sup> century. The programme&rsquo;s intent is to help students appreciate the relevance and value of what they are learning in the curriculum relating to the real world, and develop stronger motivation and purpose to acquire new knowledge and skills.</p>
 <p>In this programme, we adopt a Inter-disciplinary approach, guided by Kolb&rsquo;s Experiential Learning Cycle Framework, to develop the skills, knowledge and values, in three identified competencies: Critical Thinking, Complex Problem-Solving and Cognitive Flexibility.</p>
 <p><strong>Kolb&rsquo;s Four Stage Learning Cycle (1984)</strong></p>
+<img src="/images/ALP.png">
 <p><strong>Key Features of ALP @ SKG</strong></p>
 <p>The key features in designing the programme intent to help ours students connect classroom learning with real-life applications to develop skills needed for now and for the future. Our ALP will</p>
 <ul>
