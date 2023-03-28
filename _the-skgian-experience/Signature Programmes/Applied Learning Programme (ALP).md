@@ -19,27 +19,27 @@ third_nav_title: Signature Programmes
 </ul>
 <p>The Experiential Project Work (EPW) provides varied learning experiences in which students will have the opportunity to synthesize knowledge from various areas of learning and apply it critically and creatively to real-life situations. The contextual theme in the project work is &lsquo;Sustainability and Conservation&rsquo;. Through these experiences, students will be equipped with Thinking Routines to guide them in their learning journey.</p>
 <p>Our EPW in the middle primary is an ideal platform where deep learning and application of learning can take place over a period of a few weeks. Students are presented with an authentic real-life which they will need to solve. As part of their learning experiences, students will have the joy of immersing themselves in outdoor learning journeys to places of interest in Singapore, that is related to their project. This is followed by a series of lessons for students to conceptualise, applying their thinking skills, experiment and present their ideas and solutions to their peers.</p>
-<table width="623">
+<table style="height: 125px; width: 623px;" border="2" width="623">
 <tbody>
 <tr>
-<td width="84">
+<td style="width: 82.5938px;">
 <p>Primary 3</p>
 </td>
-<td width="234">
+<td style="width: 226.74px;">
 <p>Towards a Sustainable Singapore</p>
 </td>
-<td width="306">
+<td style="width: 294.333px;">
 <p>Learning Journey to Gardens by the Bay</p>
 </td>
 </tr>
 <tr>
-<td width="84">
+<td style="width: 82.5938px;">
 <p>Primary 4</p>
 </td>
-<td width="234">
+<td style="width: 226.74px;">
 <p>A Heritage Trail</p>
 </td>
-<td width="306">
+<td style="width: 294.333px;">
 <p>Learning Journey to Civic DIstrict</p>
 </td>
 </tr>
