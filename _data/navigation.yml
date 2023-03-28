@@ -1,13 +1,71 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo1.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Resources
-    resource_room: true
+  - title: Our SKGian Family
+    url: /our-skgian-family/school-information
+    sublinks:
+      - title: School Information
+        url: /our-skgian-family/school-information
+      - title: Principal's Message
+        url: /our-skgian-family/principals-message
+      - title: School Organisation
+        url: /our-skgian-family/school-organization/school-executive-committee/
+      - title: School Calendar
+        url: /our-skgian-family/school-calendar
+      - title: MOE Kindergarten
+        url: /our-skgian-family/moe-kindergarten
+      - title: Visitors to School
+        url: /our-skgian-family/visitors-to-school
+      - title: Contact Us
+        url: /contact-us/
+      - title: A Note of Affirmation
+        url: /our-skgian-family/a-note-of-affirmation
+  - title: The SKGian Experience
+    url: /the-skgian-experience/academic/english/
+    sublinks:
+      - title: Signature Programmes
+        url: /the-skgian-experience/signature-programmes/applied-learning-programme/
+      - title: Academic
+        url: /the-skgian-experience/academic/english/
+      - title: Physical & Aesthetics
+        url: /the-skgian-experience/physical-aesthetics/physical-holistic-health/
+      - title: Character & Citizenship Ed.
+        url: /the-skgian-experience/student-development/character-and-citizenship-education-cce/
+      - title: Home-Based Learning
+        url: /the-skgian-experience/home-based-learning/
+  - title: CCA
+    url: /cca/clubs-n-societies/art-club
+    sublinks:
+      - title: Clubs & Societies
+        url: /cca/clubs-n-societies/art-club
+      - title: Performing Arts
+        url: /cca/performing-arts/chinese-dance
+      - title: Sports
+        url: /cca/sports/basketball
+      - title: Uniformed Groups
+        url: /cca/uniformed-groups/scouts
+  - title: Parents
+    url: /parents/financial-assistance-scheme
+    sublinks:
+      - title: Financial Assistance Scheme
+        url: /parents/financial-assistance-scheme
+      - title: Forms
+        url: /parents/forms
+      - title: Insurance Claim
+        url: /parents/insurance-claim
+      - title: Online Travel Declaration
+        url: /parents/online-travel-declaration
+      - title: P1 Registration Information
+        url: /parents/p1-registration-information
+      - title: Sexuality Education
+        url: /parents/sexuality-education
+      - title: Parents Volunteer Scheme
+        url: /parents/parents-volunteer-scheme
+  - title: Partners
+    url: /partners/parents-support-group-psg
+    sublinks:
+      - title: Parents Support Group (PSG)
+        url: /partners/parents-support-group-psg
+      - title: Our Suppliers
+        url: /partners/our-suppliers/bookshop
+  - title: MOE Kindergarten
+    collection: moe-kindergarten

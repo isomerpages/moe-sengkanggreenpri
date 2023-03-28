@@ -1,0 +1,24 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Clubs & Societies/Art Club.md
+      - Clubs & Societies/Robotics.md
+      - Clubs & Societies/New Media Club.md
+      - Clubs & Societies/Green Sparks.md
+      - Clubs & Societies/.keep
+      - Performing Arts/Chinese Dance.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Guzheng.md
+      - Performing Arts/Indian Dance.md
+      - Performing Arts/International Dance.md
+      - Performing Arts/Speech & Drama Club.md
+      - Performing Arts/Violin.md
+      - Performing Arts/Wushu.md
+      - Performing Arts/.keep
+      - Sports/.keep
+      - Sports/Basketball.md
+      - Sports/Floorball.md
+      - Sports/Football.md
+      - Uniformed Groups/Scouts.md
+      - Uniformed Groups/.keep

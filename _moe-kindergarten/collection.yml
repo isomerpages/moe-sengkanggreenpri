@@ -1,0 +1,20 @@
+collections:
+  moe-kindergarten:
+    output: true
+    order:
+      - About Us/.keep
+      - About Us/Vision Mission Beliefs.md
+      - About Us/Our Learning Environment.md
+      - About Us/A day in MK@SG.md
+      - About Us/Find out more.md
+      - Our Staffs in MK@SG/.keep
+      - Our Staffs in MK@SG/Key Personnel.md
+      - Our Staffs in MK@SG/English Language Teachers.md
+      - Our Staffs in MK@SG/Mother Tongue Language Teachers.md
+      - Our Partners/.keep
+      - Our Partners/Partnership with Sengkang Green Primary School.md
+      - Our Partners/Partnership with Parents.md
+      - Our Partners/Early–Years Centres Partnership.md
+      - Kindergarten Care (KCare).md
+      - MK Uniforms.md
+      - MK Forms.md
