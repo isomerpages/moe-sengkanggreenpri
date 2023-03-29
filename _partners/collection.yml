@@ -2,14 +2,14 @@ collections:
   partners:
     output: true
     order:
+      - Parents/.keep
+      - Parents/Parents Support Group (PSG).md
       - Parents/Parents Volunteer Scheme.md
-      - Parents/P1 Registration Information.md
       - Parents/Online Travel Declaration.md
       - Parents/Insurance Claim.md
-      - Parents/Forms.md
+      - Parents/P1 Registration Information.md
       - Parents/Financial Assistance Scheme.md
-      - Parents/Parents Support Group (PSG).md
-      - Parents/.keep
+      - Parents/Forms.md
       - Our Suppliers/Bookshop.md
       - Our Suppliers/School Uniform.md
       - Our Suppliers/School Bus Services.md
