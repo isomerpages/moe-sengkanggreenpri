@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Parents/.keep
-      - Parents Support Group (PSG).md
       - Our Suppliers/Bookshop.md
       - Our Suppliers/School Uniform.md
       - Our Suppliers/School Bus Services.md
