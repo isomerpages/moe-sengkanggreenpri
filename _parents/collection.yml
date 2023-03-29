@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Forms.md
       - Insurance Claim.md
       - Online Travel Declaration.md
       - P1 Registration Information.md
