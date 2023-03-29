@@ -44,10 +44,10 @@ links:
       - title: Uniformed Groups
         url: /cca/uniformed-groups/scouts
   - title: Our Partners
-    url: /partners/parents-support-group-psg
+    url: /partners/parents/parents-support-group-psg
     sublinks:
-      - title: Parents Support Group (PSG)
-        url: /partners/parents-support-group-psg
+      - title: Parents
+        url: /partners/parents/parents-support-group-psg
       - title: Our Suppliers
         url: /partners/our-suppliers/bookshop
   - title: MOE Kindergarten
