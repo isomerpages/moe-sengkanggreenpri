@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Parents/Forms.md
       - Parents/Financial Assistance Scheme.md
       - Parents/Parents Support Group (PSG).md
       - Parents/.keep
