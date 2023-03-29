@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Parents/.keep
       - Parents Support Group (PSG).md
       - Our Suppliers/Bookshop.md
       - Our Suppliers/School Uniform.md
