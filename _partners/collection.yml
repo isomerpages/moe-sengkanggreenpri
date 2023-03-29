@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Parents/Online Travel Declaration.md
       - Parents/Insurance Claim.md
       - Parents/Forms.md
       - Parents/Financial Assistance Scheme.md
