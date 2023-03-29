@@ -1,8 +1,11 @@
 ---
 title: Financial Assistance Scheme
-permalink: /parents/financial-assistance-scheme/
+permalink: /partners/parents/financial-assistance-scheme/
 description: ""
+third_nav_title: Parents
 ---
+
+
 
 <h4><strong>MOE Financial Assistance Scheme (MOE FAS)</strong></h4>
 <p>The Ministry of Education provides financial assistance to needy Singapore Citizen students in Government, Government-aided schools, Specialised Schools, and Institute of Higher Learning so that all Singaporeans so that they can benefit from the best opportunities in education. It also provides financial assistance to Singapore Citizen students from lower and middle income families.</p>

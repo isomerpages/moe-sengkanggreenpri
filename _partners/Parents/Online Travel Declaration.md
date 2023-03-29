@@ -1,8 +1,11 @@
 ---
 title: Online Travel Declaration
-permalink: /parents/online-travel-declaration/
+permalink: /partners/parents/online-travel-declaration/
 description: ""
+third_nav_title: Parents
 ---
+
+
 
 <p>As part of emergency management to safeguard your child's health, students are required to declare their travel plans for the upcoming holidays.</p>
 <p>Please make declaration of your child's/ward's travel plan if your child/ward is travelling out of Singapore.</p>

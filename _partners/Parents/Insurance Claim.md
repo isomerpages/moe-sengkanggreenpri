@@ -1,8 +1,11 @@
 ---
 title: Insurance Claim
-permalink: /parents/insurance-claim/
+permalink: /partners/parents/insurance-claim/
 description: ""
+third_nav_title: Parents
 ---
+
+
 
 <h4><strong>GROUP PERSONAL ACCIDENT (GPA) INSURANCE FOR STUDENTS:</strong></h4>
 <p>All students are covered under the GPA Insurance Plan which provides 24-hour worldwide accident coverage while they are at the school premises (including school-based Student Care Centre), in Singapore or elsewhere, participating in school-related activities, including Co-Curricular Activities (CCA) and sports. This contract is awarded to NTUC Income Insurance Co-operative Limited. It covers death, permanent and total/partial disability and medical due to an accident.</p>

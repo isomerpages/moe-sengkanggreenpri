@@ -1,8 +1,12 @@
 ---
 title: Parents Support Group (PSG)
-permalink: /partners/parents-support-group-psg/
+permalink: /partners/parents/parents-support-group-psg/
 description: ""
+third_nav_title: Parents
 ---
+
+
+
 <p style="text-align: center;"><strong>PSG MAIN EXCO TEAM</strong></p>
 <table>
 <tbody>

@@ -1,8 +1,11 @@
 ---
 title: P1 Registration Information
-permalink: /parents/p1-registration-information/
+permalink: /partners/parents/p1-registration-information/
 description: ""
+third_nav_title: Parents
 ---
+
+
 
 <p><strong>2020 Primary&nbsp;One Registration Exercise (For Admission to Primary One in 2021) Updates &amp; New Developments</strong></p>
 <ol>
