@@ -43,7 +43,7 @@ description: ""
 <td style="text-align: center; width: 200px;"> </td>
 <td style="text-align: center; width: 200px;">
 <img style="width: 25%;" src="/images/sc.png" />
-<div><a href="https://schoolcockpit.moe.gov.sg/CP/scapp/security" target="_blank" rel="noopener">SCHOOL COCKPIT</a></div>
+<div><a href="https://schoolcockpit.moe.gov.sg/" target="_blank" rel="noopener">SCHOOL COCKPIT</a></div>
 </td>
 </tr>
 <tr>
@@ -68,7 +68,7 @@ description: ""
 <td style="text-align: center; width: 200px;">&nbsp;</td>
 <td style="text-align: center; width: 200px;">&nbsp;</td>
 <td style="text-align: center; width: 20px;"><img style="width: 50%;" src="/images/acad.jpg" />
-<div><a href="https://www.academyofsingaporeteachers.moe.gov.sg/" target="_blank" rel="noopener">Academy of Singapore Teachers</a></div>
+<div><a href="https://www.academyofsingaporeteachers.moe.edu.sg/" target="_blank" rel="noopener">Academy of Singapore Teachers</a></div>
 </td>
 </tr>
 <tr>
