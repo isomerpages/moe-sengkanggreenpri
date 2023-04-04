@@ -13,7 +13,7 @@ description: ""
 <p>In commemoration of this joyous occasion, a 10<sup>th</sup>&nbsp;Anniversary logo has been specially designed:</p>
 <img style="width: 70%;" src="/images/pm1.jpg">
 <p>The Music teachers have also come together to compose the 10<sup>th</sup>&nbsp;Anniversary song “We Can Be” to capture the aspirations of SKGians. You can click on the link below to listen to this beautiful rendition of the song. SKGians will learn the song in the first week of 2023.</p>
-<p><strong><a href="https://drive.google.com/file/d/1OKg7rYXrHjTy7mDXC88oByXv-coLx1QH/preview" target="">SKGPS 10<sup>th</sup>&nbsp;Anniversary song</a></strong></p>
+<p><strong><a href="https://drive.google.com/file/d/1OKg7rYXrHjTy7mDXC88oByXv-coLx1QH/preview" target="blank">SKGPS 10<sup>th</sup>&nbsp;Anniversary song</a></strong></p>
 <p>The anniversary provides the impetus for the school to chart our direction for the journey ahead and ensure the experiences that the teachers design equip SKGians for the future. The school will focus on the following areas:</p>
 <ul>
 <li>Empowering SKGians to take charge of their holistic health;</li>
