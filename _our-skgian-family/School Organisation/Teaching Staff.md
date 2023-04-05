@@ -122,17 +122,13 @@ third_nav_title: School Organisation
 <td style="text-align: center;"><a target="" href="mailto:yee_wai_ling@moe.edu.sg">yee_wai_ling@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td rowspan="3" style="text-align: center;">2 Attentive</td>
+<td rowspan="2" style="text-align: center;">2 Attentive</td>
 <td style="text-align: center;">Mrs Aileen Kwok</td>
 <td style="text-align: center;"><a href="mailto:tan_sok_lin_aileen@moe.edu.sg">tan_sok_lin_aileen@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td style="text-align: center;">Mdm Chng E-Hwei</td>
 <td style="text-align: center;"><a href="mailto:chng_e_hwei@moe.edu.sg">chng_e_hwei@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;">Mdm Stephanie Tan Xianhui</td>
-<td style="text-align: center;"><a target="" href="mailto:tan_xianhui_stephanie@moe.edu.sg">tan_xianhui_stephanie@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td rowspan="2" style="text-align: center;">2 Brave</td>
