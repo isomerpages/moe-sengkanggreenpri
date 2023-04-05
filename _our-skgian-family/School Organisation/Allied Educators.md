@@ -4,7 +4,6 @@ permalink: /our-skgian-family/school-organization/allied-educators/
 description: ""
 third_nav_title: School Organisation
 ---
-
 <table border="1" cellspacing="2">
 <tbody>
 <tr>
@@ -13,7 +12,7 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td style="text-align: center;">School Counsellor</td>
-<td style="text-align: center;">Mdm Lin Weiyi</td>
+<td style="text-align: center;">Ms Toh Xue Li</td>
 </tr>
 <tr>
 <td style="text-align: center;">School Counsellor</td>
