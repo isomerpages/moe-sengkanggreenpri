@@ -11,6 +11,7 @@ third_nav_title: Highlights
 <div><iframe src="https://player.vimeo.com/video/725665063?h=ea1079ba72" width="640" height="480" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
 <h4>Virtual School Tour</h4>
 <p>*Note: For best user experience, screen size of at least 7 inches is recommended. *</p><a href="https://ths.li/TEohfo" rel="noopener" target="_blank">https://ths.li/TEohfo</a>
+
 <h4>Getting to Know the Departments</h4>
 <table>
 <tbody>
