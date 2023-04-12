@@ -10,7 +10,7 @@ third_nav_title: Highlights
 <h4>Open House Video</h4>
 <div><iframe src="https://player.vimeo.com/video/725665063?h=ea1079ba72" width="640" height="480" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
 <h4>Virtual School Tour</h4>
-<p>*Note: For best user experience, screen size of at least 7 inches is recommended. *</p>
+<p>*Note: For best user experience, screen size of at least 7 inches is recommended. *</p><a href="https://ths.li/TEohfo" rel="noopener" target="_blank">https://ths.li/TEohfo</a>
 <h4>Getting to Know the Departments</h4>
 <table>
 <tbody>
@@ -60,8 +60,8 @@ third_nav_title: Highlights
 <table>
 <tbody>
 <tr>
-<th><iframe src="https://player.vimeo.com/video/428404741" width="360" height="185" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe><br /><br /></th>
-<th><iframe src="https://player.vimeo.com/video/428404859" width="360" height="185" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe><br /><br /></th>
+<th><iframe src="https://player.vimeo.com/video/428404741" width="360" height="185" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe><br><br></th>
+<th><iframe src="https://player.vimeo.com/video/428404859" width="360" height="185" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe><br><br></th>
 <th><iframe src="https://player.vimeo.com/video/428404924" width="360" height="185" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></th>
 </tr>
 </tbody>
