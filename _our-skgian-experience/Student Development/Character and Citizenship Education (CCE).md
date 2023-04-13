@@ -1,12 +1,9 @@
 ---
 title: Character and Citizenship Education (CCE)
-permalink: /the-skgian-experience/student-development/character-and-citizenship-education-cce/
+permalink: /our-skgian-experience/student-development/character-and-citizenship-education-cce/
 description: ""
 third_nav_title: Student Development
 ---
-
-
-
 <table>
 <tbody>
 <tr>
@@ -14,26 +11,26 @@ third_nav_title: Student Development
 <p><strong>HOD CCE: Mrs Ivy Tan</strong></p>
 </td>
 <td style="text-align: center;" width="164">
-<p><strong>SH Discipline:</strong><br /><strong>Mr Joshua Seow</strong></p>
+<p><strong>SH Discipline:</strong><br><strong>Mr Joshua Seow</strong></p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" width="155">
-<p><strong>Year Head Lower Primary:<br />Mrs Toh Wai Ling</strong></p>
+<p><strong>Year Head Lower Primary:<br>Mrs Toh Wai Ling</strong></p>
 </td>
 <td style="text-align: center;" width="152">
-<p><strong>Year Head Middle Primary:<br />Mdm Catherine Tan</strong></p>
+<p><strong>Year Head Middle Primary:<br>Mdm Catherine Tan</strong></p>
 </td>
 <td style="text-align: center;" width="164">
-<p><strong>Year Head Upper Primary :&nbsp;</strong><br /><strong>Mdm Nur Ain bte Ahmad</strong></p>
+<p><strong>Year Head Upper Primary :&nbsp;</strong><br><strong>Mdm Nur Ain bte Ahmad</strong></p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" width="155">
-<p><strong>Senior Teacher SS:<br /></strong><strong>Mdm Neo Lay Kheng</strong></p>
+<p><strong>Senior Teacher SS:<br></strong><strong>Mdm Neo Lay Kheng</strong></p>
 </td>
 <td style="text-align: center;" width="152">
-<p><strong>Senior Teacher ART:<br /></strong><strong>Ms Felicia Ong</strong></p>
+<p><strong>Senior Teacher ART:<br></strong><strong>Ms Felicia Ong</strong></p>
 </td>
 <td style="text-align: center;" width="164">&nbsp;</td>
 </tr>
@@ -45,7 +42,7 @@ third_nav_title: Student Development
 <p>Skgians to have good character and are active contributors and concern citizens</p>
 <p>Character &amp; Citizenship Education (CCE) in Sengkang Green anchors on the school mission to develop our students into Leaders of Character and Socially Responsible Citizens who actively contribute to the school, community and nation. CCE in Sengkang Green emphasises on the interconnectedness of the core values, 21<sup>st&nbsp;</sup>century competencies and civic literacy, global awareness and cross-cultural skills that are critical to develop students into a confident person, self-directed learner, concerned citizen and an active contributor.</p>
 <p><strong>Approach</strong></p>
-<p>We are guided by the SKGPS CCE Framework, which is based on the belief that education is about developing the child holistically. Centred on the SKGPS vision and mission, this framework focuses on the knowledge, skills and values which we hope to inculcate in our students to equip them to be citizens of good character. Our student development efforts are guided by three big ideas &ndash; Identity, Relationship and Choices. The framework is supported by learning structures for instructional and non-instructional programmes. Eventually, we hope to nurture our students holistically so that we are able to achieve the eight CCE learning outcomes (LO) as follows:</p>
+<p>We are guided by the SKGPS CCE Framework, which is based on the belief that education is about developing the child holistically. Centred on the SKGPS vision and mission, this framework focuses on the knowledge, skills and values which we hope to inculcate in our students to equip them to be citizens of good character. Our student development efforts are guided by three big ideas – Identity, Relationship and Choices. The framework is supported by learning structures for instructional and non-instructional programmes. Eventually, we hope to nurture our students holistically so that we are able to achieve the eight CCE learning outcomes (LO) as follows:</p>
 <img src="/images/cce1.jpg">
 <table>
 <tbody>
@@ -71,7 +68,7 @@ third_nav_title: Student Development
 </tr>
 <tr>
 <td style="text-align: center;" width="56">LO 6:&nbsp;</td>
-<td style="text-align: center;" width="415">Value Singapore&rsquo;s socio-cultural sensitivity and promote social cohesion and harmony</td>
+<td style="text-align: center;" width="415">Value Singapore’s socio-cultural sensitivity and promote social cohesion and harmony</td>
 </tr>
 <tr>
 <td style="text-align: center;" width="56">LO 7:</td>
@@ -83,7 +80,7 @@ third_nav_title: Student Development
 </tr>
 </tbody>
 </table>
-<p>This is achieved through the CCE curriculum, which comprises CCE lessons, Form Teacher Guidance Period (FTGP) and CCE Guidance Modules as well as learning experiences like the National Education (NE) commemorative days, Programme for Active Learning (PAL), Co-curricular (CCA), Values-in-Action (VIA) activities that reinforce CCE. The various key programmes and activities are integrated into every level to equip our students with the necessary knowledge, skills and values to develop our pupils into &lsquo;leaders of good character&rsquo;, &lsquo;concerned citizens&rsquo; and &lsquo;active contributor&rsquo;. This philosophy is deeply ingrained in the school&rsquo;s approach to developing the CCE curriculum.</p>
+<p>This is achieved through the CCE curriculum, which comprises CCE lessons, Form Teacher Guidance Period (FTGP) and CCE Guidance Modules as well as learning experiences like the National Education (NE) commemorative days, Programme for Active Learning (PAL), Co-curricular (CCA), Values-in-Action (VIA) activities that reinforce CCE. The various key programmes and activities are integrated into every level to equip our students with the necessary knowledge, skills and values to develop our pupils into ‘leaders of good character’, ‘concerned citizens’ and ‘active contributor’. This philosophy is deeply ingrained in the school’s approach to developing the CCE curriculum.</p>
 <table>
 <tbody>
 <tr>

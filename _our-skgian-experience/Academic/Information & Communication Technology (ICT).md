@@ -1,14 +1,12 @@
 ---
-title: Information & Communication Technology (ICT)
-permalink: /the-skgian-experience/academic/information-n-communication-technology-ict/
+title: Information &amp; Communication Technology (ICT)
+permalink: /our-skgian-experience/academic/information-n-communication-technology-ict/
 description: ""
 third_nav_title: Academic
 ---
-
-
 <p><strong><u>Key Personnel</u></strong></p>
 <p><strong>Subject Head :</strong> Mr Alan Lim</p>
-<p><strong><u>Aims and Objectives:<br /></u></strong></p>
+<p><strong><u>Aims and Objectives:<br></u></strong></p>
 <ul>
 <li>To build a community of self-directed and collaborative learners through the responsible use of ICT</li>
 <li>To develop staff into competent professionals using ICT effectively in curriculum and instruction</li>
@@ -25,12 +23,12 @@ third_nav_title: Academic
 <li>delivery of content for learning;</li>
 <li>interaction for learning between students and teachers as well as among students;</li>
 <li>formative evaluation of learning to check understanding; and</li>
-<li>remediation to meet students&rsquo; needs</li>
+<li>remediation to meet students’ needs</li>
 </ul>
 <p><strong>3. Cyberwellness</strong></p>
-<p>Cyberwellness refers to the positive well-being of all internet users. he programme focuses on developing our students&rsquo; instinct to protect themselves and also empowering them to take responsibility for their own well-being in cyberspace.</p>
+<p>Cyberwellness refers to the positive well-being of all internet users. he programme focuses on developing our students’ instinct to protect themselves and also empowering them to take responsibility for their own well-being in cyberspace.</p>
 <p>Topics in the programme include:</p>
-<img style="width: 33%;" src="/images/ict2.png" align = "right" />
+<img style="width: 33%;" src="/images/ict2.png" align="right">
 <ul>
 <li>Netiquette</li>
 <li>Cyberbullying</li>

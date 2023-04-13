@@ -10,22 +10,23 @@ third_nav_title: Highlights
 <h4>Open House Video</h4>
 <div><iframe src="https://player.vimeo.com/video/725665063?h=ea1079ba72" width="640" height="480" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
 <h4>Virtual School Tour</h4>
-<p>*Note: For best user experience, screen size of at least 7 inches is recommended. *</p>
+<p>*Note: For best user experience, screen size of at least 7 inches is recommended. *</p><a href="https://ths.li/TEohfo" rel="noopener" target="_blank">https://ths.li/TEohfo</a>
+
 <h4>Getting to Know the Departments</h4>
 <table>
 <tbody>
 <tr>
 <td>
-<a href="/departments/english"><img src="/images/but1.png"></a></td>
-<td><a href="/departments/mathematics"><img src="/images/but2.png"></a></td>
-<td><a href="/departments/science"><img src="/images/but3.png"></a></td>
-<td><a href="/departments/mother-tongue/chinese-language"><img src="/images/but4.png"></a></td>
+<a href="/our-skgian-experience/academic/English/"><img src="/images/but1.png"></a></td>
+<td><a href="/our-skgian-experience/academic/mathematics/"><img src="/images/but2.png"></a></td>
+<td><a href="/our-skgian-experience/academic/science-environment/"><img src="/images/but3.png"></a></td>
+<td><a href="/our-skgian-experience/academic/chinese-language/"><img src="/images/but4.png"></a></td>
 </tr>
 <tr>
-<td><a href="/departments/aesthetics"><img src="/images/but5.png"></a></td>
-<td><a href="/departments//departments/physical-education"><img src="/images/but6.png"></a></td>
-<td><a href="/departments/information-n-communication-technology-ict"><img src="/images/but7.png"></a></td>
-<td><a href="/departments/character-and-citizenship-education-cce"><img src="/images/but8.png"></a></td>
+<td><a href="/our-skgian-experience/physical-aesthetics/aesthetics/"><img src="/images/but5.png"></a></td>
+<td><a href="/our-skgian-experience/physical-aesthetics/physical-holistic-health/"><img src="/images/but6.png"></a></td>
+<td><a href="/our-skgian-experience/academic/information-n-communication-technology-ict/"><img src="/images/but7.png"></a></td>
+<td><a href="/our-skgian-experience/student-development/character-and-citizenship-education-cce/"><img src="/images/but8.png"></a></td>
 </tr>
 </tbody>
 </table>
@@ -60,8 +61,8 @@ third_nav_title: Highlights
 <table>
 <tbody>
 <tr>
-<th><iframe src="https://player.vimeo.com/video/428404741" width="360" height="185" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe><br /><br /></th>
-<th><iframe src="https://player.vimeo.com/video/428404859" width="360" height="185" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe><br /><br /></th>
+<th><iframe src="https://player.vimeo.com/video/428404741" width="360" height="185" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe><br><br></th>
+<th><iframe src="https://player.vimeo.com/video/428404859" width="360" height="185" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe><br><br></th>
 <th><iframe src="https://player.vimeo.com/video/428404924" width="360" height="185" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></th>
 </tr>
 </tbody>
