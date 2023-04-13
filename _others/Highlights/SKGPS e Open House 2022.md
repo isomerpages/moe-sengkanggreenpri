@@ -17,7 +17,7 @@ third_nav_title: Highlights
 <tbody>
 <tr>
 <td>
-<a href="/our-skgian-experience/academic/English/"><img src="/images/but1.png"></a></td>
+<a href="/our-skgian-experience/academic/english/"><img src="/images/but1.png"></a></td>
 <td><a href="/our-skgian-experience/academic/mathematics/"><img src="/images/but2.png"></a></td>
 <td><a href="/our-skgian-experience/academic/science-environment/"><img src="/images/but3.png"></a></td>
 <td><a href="/our-skgian-experience/academic/chinese-language/"><img src="/images/but4.png"></a></td>
