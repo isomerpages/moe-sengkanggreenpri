@@ -17,16 +17,16 @@ third_nav_title: Highlights
 <tbody>
 <tr>
 <td>
-<a href="/departments/english"><img src="/images/but1.png"></a></td>
-<td><a href="/departments/mathematics"><img src="/images/but2.png"></a></td>
-<td><a href="/departments/science"><img src="/images/but3.png"></a></td>
-<td><a href="/departments/mother-tongue/chinese-language"><img src="/images/but4.png"></a></td>
+<a href="/our-skgian-experience/academic/English/"><img src="/images/but1.png"></a></td>
+<td><a href="/our-skgian-experience/academic/mathematics/"><img src="/images/but2.png"></a></td>
+<td><a href="/our-skgian-experience/academic/science-environment/"><img src="/images/but3.png"></a></td>
+<td><a href="/our-skgian-experience/academic/chinese-language/"><img src="/images/but4.png"></a></td>
 </tr>
 <tr>
-<td><a href="/departments/aesthetics"><img src="/images/but5.png"></a></td>
-<td><a href="/departments//departments/physical-education"><img src="/images/but6.png"></a></td>
-<td><a href="/departments/information-n-communication-technology-ict"><img src="/images/but7.png"></a></td>
-<td><a href="/departments/character-and-citizenship-education-cce"><img src="/images/but8.png"></a></td>
+<td><a href="/our-skgian-experience/physical-aesthetics/aesthetics/"><img src="/images/but5.png"></a></td>
+<td><a href="/our-skgian-experience/physical-aesthetics/physical-holistic-health/"><img src="/images/but6.png"></a></td>
+<td><a href="/our-skgian-experience/academic/information-n-communication-technology-ict/"><img src="/images/but7.png"></a></td>
+<td><a href="/our-skgian-experience/student-development/character-and-citizenship-education-cce/"><img src="/images/but8.png"></a></td>
 </tr>
 </tbody>
 </table>
