@@ -4,7 +4,7 @@ permalink: /others/announcements/
 description: ""
 third_nav_title: Announcements
 ---
-<p><strong>10th Years Anniversary Celebration</strong></p>
+<p><strong>10th Year Anniversary Celebration</strong></p>
 Please click the link below to view the video.
 
 <a target="_blank" href="https://drive.google.com/drive/folders/1s2eae6oBfmkk-Y4OBZM-vFcOTuWjbXOH?usp=sharing">SKGians Celebrate!</a>
