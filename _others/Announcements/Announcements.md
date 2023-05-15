@@ -7,7 +7,9 @@ third_nav_title: Announcements
 <p><strong>10th Year Anniversary Celebration</strong></p>
 <p>Dear all,</p>
 <p>We are pleased to announce that the event photos have been uploaded to the designated drive.&nbsp;</p>
-<p>Please click the link below to view the videos and photos.<br><a rel="noopener" target="_blank" href="https://drive.google.com/drive/folders/1s2eae6oBfmkk-Y4OBZM-vFcOTuWjbXOH?usp=sharing">SKGians Celebrate!</a>&nbsp;</p>
+<p>Please click the link below to view.<br><br><a rel="noopener" target="_blank" href="https://drive.google.com/drive/folders/1s2eae6oBfmkk-Y4OBZM-vFcOTuWjbXOH?usp=sharing">SKGians Celebrate!</a></p>
+<p><a href="/others/announcements/10thyearanniversarycelebration/">Corporate Video and MTV Video&nbsp;</a></p>
+<p><a rel="noopener" target="_blank" href="https://drive.google.com/drive/folders/1--zrSWJ7DkQG_FIZfQXhHaGRM0Sp7tLz">ICARE Book</a></p>
 <p>Additionally, if you prefer not to have your or your child's photo displayed on the school website, kindly send an email to <a target="" href="mailto:kao_pow_ling@moe.edu.sg">kao_pow_ling@moe.edu.sg</a> with the exact photo number. The photo will be removed within 7 working days upon receiving your request.</p>
 <p>Thank you for your understanding and cooperation</p>
 <hr>
