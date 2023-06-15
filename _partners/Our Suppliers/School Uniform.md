@@ -9,3 +9,5 @@ third_nav_title: Our Suppliers
 <p>Contact Number : 64796811</p>
 <p>Online Store : <strong><a href="www.khuniform.com" target="">www.khuniform.com</a></strong></p>
 <p>Email : <strong><a href="mailto:sales@khuniform.com" target="">sales@khuniform.com</a></strong></p>
+
+***Uniforms are available for sales through school bookshop during school term time**
