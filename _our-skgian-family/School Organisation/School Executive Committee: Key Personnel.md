@@ -50,7 +50,7 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td style="width: 50%;"><img style="width: 50%;" src="/images/kp17.jpg"><p style="text-align: center;">Ms Wong Yoke Lye<br>Level Head / Mathematics<br><a href="mailto:wong_yoke_lye@moe.edu.sg">wong_yoke_lye@moe.edu.sg</a></p></td>
-<td style="width: 50%;"><img style="width: 50%;" src="/images/kp0026.jpg"><p style="text-align: center;">Ms Ng Hui Lin Dion<br>
+<td style="width: 50%;"><img style="width: 50%;" src="/images/kp0026.jepg"><p style="text-align: center;">Ms Ng Hui Lin Dion<br>
   Level Head / Mathematics<br><a href="mailto:ng_hui_lin_dion@moe.edu.sg">ng_hui_lin_dion@moe.edu.sg</a></p></td>
 </tr>
 <tr>
