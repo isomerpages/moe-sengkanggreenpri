@@ -16,12 +16,14 @@ third_nav_title: School Organisation
 <tr>
 <td style="width: 50%;"><p style="text-align: center;"></p>
   <p style="text-align: center;"></p>
-  <p style="text-align: center;">&nbsp;</p>
+  <p style="text-align: center;"></p>
 	<img style="width: 50%;" src="/images/kp7.jpg">
   <p style="text-align: center;">Ms Chew Mei Jun <br>
     Head of Department / Science<a href="mailto:chew_mei_jun@moe.edu.sg"><br>
       chew_mei_jun@moe.edu.sg</a></p></td>
-<td style="width: 50%;"><img style="width: 50%;" src="/images/kp4.jpg"><p style="text-align: center;">Mdm Claire Chan<br>Head of Department / Mother Tongue Language<br><a href="mailto:chan_si_wei@moe.edu.sg">chan_si_wei@moe.edu.sg</a></p></td>
+<td style="width: 50%;"><p style="text-align: center;"></p>
+	<p style="text-align: center;"></p>
+	<img style="width: 50%;" src="/images/kp4.jpg"><p style="text-align: center;">Mdm Claire Chan<br>Head of Department / Mother Tongue Language<br><a href="mailto:chan_si_wei@moe.edu.sg">chan_si_wei@moe.edu.sg</a></p></td>
 </tr>
 <tr>
 <td style="width: 50%;"><img style="width: 50%;" src="/images/kp5.jpg"><p style="text-align: center;">Mrs Ivy Tan<br>Head of Department / CCE<br><a href="mailto:chua_siang_peng@moe.edu.sg">chua_siang_peng@moe.edu.sg</a></p></td>
