@@ -14,16 +14,23 @@ third_nav_title: School Organisation
 <td style="width: 50%;"><img style="width: 50%;" src="/images/kp2.jpg"><p style="text-align: center;">Ms Chua Siew Kheng<br>Head of Department / English<br><a href="mailto:chua_siew_kheng@moe.edu.sg">chua_siew_kheng@moe.edu.sg</a></p></td>
 </tr>
 <tr>
-<td style="width: 50%;"><img style="width: 50%;" src="/images/kp3.jpg"><p style="text-align: center;">Ms Imelda Bte As'ari<br>Head of Department / PAM<br><a href="mailto:imelda_asari@moe.edu.sg">imelda_asari@moe.edu.sg</a></p></td>
+<td style="width: 50%;"><p style="text-align: center;"></p>
+  <p style="text-align: center;"></p>
+  <p style="text-align: center;">&nbsp;</p>
+	<img style="width: 50%;" src="/images/kp7.jpg">
+  <p style="text-align: center;">Ms Chew Mei Jun <br>
+    Head of Department / Science<a href="mailto:chew_mei_jun@moe.edu.sg"><br>
+      chew_mei_jun@moe.edu.sg</a></p></td>
 <td style="width: 50%;"><img style="width: 50%;" src="/images/kp4.jpg"><p style="text-align: center;">Mdm Claire Chan<br>Head of Department / Mother Tongue Language<br><a href="mailto:chan_si_wei@moe.edu.sg">chan_si_wei@moe.edu.sg</a></p></td>
 </tr>
 <tr>
 <td style="width: 50%;"><img style="width: 50%;" src="/images/kp5.jpg"><p style="text-align: center;">Mrs Ivy Tan<br>Head of Department / CCE<br><a href="mailto:chua_siang_peng@moe.edu.sg">chua_siang_peng@moe.edu.sg</a></p></td>
-<td style="width: 50%;"><img style="width: 50%;" src="/images/kp6.jpg"><p style="text-align: center;">Mdm Gina Lee<br>Head of Department / Mathematics<br><a href="mailto:lee_quee_choo_gina@moe.edu.sg">lee_quee_choo_gina@moe.edu.sg</a></p></td>
+<td style="width: 50%;"><img style="width: 50%;" src="/images/kp8.jpg"><p style="text-align: center;">Ms Tan Wan Cheng, Rachael<br>Head of Department / Mathematics<br><a href="mailto:tan_wan_cheng_rachael@moe.edu.sg">tan_wan_cheng_rachael@moe.edu.sg</a></p></td>
 </tr>
 <tr>
-<td style="width: 50%;"><img style="width: 50%;" src="/images/kp7.jpg"><p style="text-align: center;">Ms Chew Mei Jun<br>Head of Department / Science<br><a href="mailto:chew_mei_jun@moe.edu.sg">chew_mei_jun@moe.edu.sg</a></p></td>
-<td style="width: 50%;"><img style="width: 50%;" src="/images/kp8.jpg"><p style="text-align: center;">Ms Tan Wan Cheng, Rachael<br>Head of Department / Mathematics<br><a href="mailto:tan_wan_cheng_rachael@moe.edu.sg">tan_wan_cheng_rachael@moe.edu.sg</a></p></td>
+<td style="width: 50%;"><img style="width: 50%;" src="/images/kp18.jpg"><p style="text-align: center;">Mrs Jacelyn Liu<br>Level Head / English<br><a href="mailto:jacelyn_tan_mei_ying@moe.edu.sg">jacelyn_tan_mei_ying@moe.edu.sg</a></p></td>
+<td style="width: 50%;"><img style="width: 50%;" src="/images/kp0025.jpeg"><p style="text-align: center;">Mdm Winnie Tan Wei Lin<br>
+  Level Head / English<br><a href="mailto:tan_wei_lin_winnie@moe.edu.sg">tan_wei_lin_winnie@moe.edu.sg</a></p></td>
 </tr>
 <tr>
 <td style="width: 50%;"><img style="width: 50%;" src="/images/kp9.jpg"><p style="text-align: center;">Mr Alan Lim<br>Subject Head / ICT<br><a href="mailto:lim_kok_min_alan@moe.edu.sg">lim_kok_min_alan@moe.edu.sg</a></p></td>
@@ -43,7 +50,8 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td style="width: 50%;"><img style="width: 50%;" src="/images/kp17.jpg"><p style="text-align: center;">Ms Wong Yoke Lye<br>Level Head / Mathematics<br><a href="mailto:wong_yoke_lye@moe.edu.sg">wong_yoke_lye@moe.edu.sg</a></p></td>
-<td style="width: 50%;"><img style="width: 50%;" src="/images/kp18.jpg"><p style="text-align: center;">Mrs Jacelyn Liu<br>Level Head / English<br><a href="mailto:jacelyn_tan_mei_ying@moe.edu.sg">jacelyn_tan_mei_ying@moe.edu.sg</a></p></td>
+<td style="width: 50%;"><img style="width: 50%;" src="/images/kp0026.jpg"><p style="text-align: center;">Ms Ng Hui Lin Dion<br>
+  Level Head / Mathematics<br><a href="mailto:ng_hui_lin_dion@moe.edu.sg">ng_hui_lin_dion@moe.edu.sg</a></p></td>
 </tr>
 <tr>
 <td style="width: 50%;"><img style="width: 50%;" src="/images/kp19.jpg"><p style="text-align: center;">Mrs Eunice Kwok<br>Senior Teacher / English<br><a href="mailto:eunice_kwok@moe.edu.sg">eunice_kwok@moe.edu.sg</a></p></td>
