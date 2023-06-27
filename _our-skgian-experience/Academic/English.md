@@ -30,9 +30,9 @@ third_nav_title: Academic
 <td width="456">&nbsp;</td>
 </tr>
 <tr>
-<td><img src="/images/English1.jpg"></td>
+<td><img src="/images/english1.jpg"></td>
 <td>
-<p><img src="/images/English2.jpg"></p>
+<p><img src="/images/english2.jpg"></p>
 </td>
 </tr>
 <tr>
@@ -44,7 +44,7 @@ third_nav_title: Academic
 </td>
 </tr>
 <tr>
-<td width="415"><img src="/images/English3.jpg"></td>
+<td width="415"><img src="/images/english3.jpg"></td>
 <td width="419">&nbsp;</td>
 </tr>
 <tr>
@@ -72,10 +72,10 @@ third_nav_title: Academic
 <tbody>
 <tr>
 <td width="318">
-<p><strong><img alt="" src="/images/English4.jpg"><br> </strong>Students showcasing their oracy skills in front of their parents and teachers.</p>
+<p><strong><img alt="" src="/images/english4.jpg"><br> </strong>Students showcasing their oracy skills in front of their parents and teachers.</p>
 </td>
 <td width="290">
-<p><strong><img alt="" src="/images/English5.jpg"><br> </strong>Students enjoying the big occasion and exhibiting active teamwork.</p>
+<p><strong><img alt="" src="/images/english5.jpg"><br> </strong>Students enjoying the big occasion and exhibiting active teamwork.</p>
 </td>
 </tr>
 </tbody>
@@ -88,8 +88,8 @@ third_nav_title: Academic
 <table width="772">
 <tbody>
 <tr>
-<td width="386"><img src="/images/English6.jpg"></td>
-<td width="385"><img src="/images/English7.jpg"></td>
+<td width="386"><img src="/images/english6.jpg"></td>
+<td width="385"><img src="/images/english7.jpg"></td>
 </tr>
 <tr>
 <td width="60">
