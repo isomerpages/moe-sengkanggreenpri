@@ -78,3 +78,11 @@ third_nav_title: Academic
 <p><u>&nbsp;</u></p>
 <p><u>Monthly Book Recommendation </u><u>每月</u><u>读物推荐</u></p>
 <p>Special: Theme on Chinese New Year 本月主题：农历新年</p>
+<img alt="" src="/images/mtl002.jpg">
+<u>Monthly Book Recommendation by CL teachers for all levels</u>
+
+
+<p><u>每月中文教师为各个年级推荐的读物</u></p>
+<img alt="" src="/images/mtl003.jpg">
+<p><u> 世界书香日 World Book Day by Chinese Department in April</u></p>
+<img alt="" src="/images/mtl004.JPG">
