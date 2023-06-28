@@ -99,3 +99,17 @@ third_nav_title: Academic
 
 <strong>康林咖啡店</strong><strong>1.0 </strong><strong>和</strong><strong>康林咖啡店</strong><strong>2.0</strong>
 <p>An authentic learning experience were students practice purchasing food items using Play Money in Chinese Language, with the support of volunteers from our Parent Support Group. They then share with peers what they have bought. In this experience, the students get to touch and smell actual fruits and food.<br>这是一项年级活动，本部门通过体验式学习营造学生在学习母语语言和文化方面的沉浸式环境。在家长志愿的支持下，学生们使用玩具货币来练习用中文购买食品。随后，他们与同学分享他们所买的东西。在这个体验中，学生们可以亲手触摸和闻到真实的水果和食品。</p>
+<img alt="" src="/images/mtl006.JPG">
+<img alt="" src="/images/mtl007.JPG">
+<p><strong>康林小侦探</strong><strong> P2 Explorer</strong></p>
+
+<p>An outdoor lesson that incorporates experiential learning and multi-sensorial learning. Students role play as explorers while parents from the PSG take on the role of park rangers to support the learning experience. The lesson encourages collaborative learning where students got to different stations in groups to complete tasks given by the rangers while collecting sticker rewards on their explorer card after completion.</p>
+<p>这是一堂融合了体验式学习和多感官学习的户外课程。学生们扮演小侦探的角色，而家长志愿者则扮演公园管理员，支持学生的学习体验。这堂课程鼓励学生共同合作，分组前往不同的站点完成公园管理员分配的任务。学生在完成任务后，可以在小侦探护照上收集贴纸奖励。</p>
+<img alt="" src="/images/mtl008.JPG">
+<img alt="" src="/images/mtl009.jpg">
+<p>Learning of Science seed germination cycle during lesson <br>学习绿豆发芽的过程</p>
+<img alt="" src="/images/mtl010.jpg">
+<p>Learning of Bean Art as part of the cultural experience</p>
+<img alt="" src="/images/mtl011.JPG">
+<p>Making of Rainbow Spin-Wheel through learning the steps and instructions in Chinese</p>
+<img alt="" src="/images/mtl012.jpg">
