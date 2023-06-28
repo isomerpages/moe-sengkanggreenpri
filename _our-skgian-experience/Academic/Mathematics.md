@@ -82,13 +82,13 @@ third_nav_title: Academic
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+
 <p><strong>Vision</strong></p>
 <p>Every SKGian is a&nbsp;<strong>Confident&nbsp;Problem Solver</strong></p>
-<p><strong>&nbsp;</strong></p>
+
 <p><strong>Mission</strong></p>
 <p>To nurture numeracy, logical reasoning and problem solving skills and interest in learning in our students so that they are ready for everyday life and learning at the next level and beyond.</p>
-<p>&nbsp;</p>
+
 <p><strong>Department Aims</strong></p>
 <p><strong>At the end of Primary 6, our students will:</strong></p>
 <ul>
@@ -99,7 +99,7 @@ third_nav_title: Academic
 </ul>
 <p></p>
 
-<p><strong>Learning Experiences and Key Programmes<br></strong><strong>Learning Experiences</strong><br>It matters how our students learn.
+<p><strong>Learning Experiences and Key Programmes<br><br></strong><strong>Learning Experiences</strong><br>It matters how our students learn.
 <br>Mathematical concepts are abstract. To develop an understanding of these abstract concepts, it is necessary to start from concrete objects, examples and experiences that students can relate to. Therefore, learning experiences are sequenced based on Concrete-Pictorial-Abstract (CPA) approach.</p>
 <p>&nbsp;</p>
 <p>Different concepts require different approaches. The instructional strategies and resources selected in designing learning experiences take into consideration of the nature of the concepts.&nbsp; Below are some examples.</p>
@@ -126,7 +126,7 @@ third_nav_title: Academic
 <ul>
 <li>Students consolidate and deepen their learning through tasks that allow them to reflect on their learning. This is a habit that supports the development of metacognition. Examples are the use of note-taking and consolidation in math journal book and self and peer assessment checklist.</li>
 </ul>
-<p>&nbsp;</p>
+
 <ul>
 <li>Students who are more mathematically inclined will have opportunities to extend their learning by engaging in more challenging tasks that stretch their thinking and deepen their understanding.</li>
 </ul>
