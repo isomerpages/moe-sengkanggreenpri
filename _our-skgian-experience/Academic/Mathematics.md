@@ -101,8 +101,8 @@ third_nav_title: Academic
 
 <p><strong>Learning Experiences and Key Programmes<br><br></strong><strong>Learning Experiences</strong><br>It matters how our students learn.
 <br>Mathematical concepts are abstract. To develop an understanding of these abstract concepts, it is necessary to start from concrete objects, examples and experiences that students can relate to. Therefore, learning experiences are sequenced based on Concrete-Pictorial-Abstract (CPA) approach.</p>
-<p>&nbsp;</p>
-<p>Different concepts require different approaches. The instructional strategies and resources selected in designing learning experiences take into consideration of the nature of the concepts.&nbsp; Below are some examples.</p>
+
+<p>Different concepts require different approaches. The instructional strategies and resources selected in designing learning experiences take into consideration of the nature of the concepts. Below are some examples.</p>
 <p><strong>Learning about Numbers</strong></p>
 <p>Students learn by doing and applying learning. They use concrete manipulatives and pictorial representations such as fraction bars, number discs and number bonds to get a sense of the number concepts. They are then guided to connect the concrete and pictorial experiences to the abstract concept by explaining, reasoning and applying the concepts and skills to new problems. This way, students make meaning of the operations and algorithms involving numbers.</p>
 
