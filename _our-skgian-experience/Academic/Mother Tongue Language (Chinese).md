@@ -146,3 +146,21 @@ third_nav_title: Academic
 <p>Parent-child bonding activities such as lantern-making were amongst the students’ favourite activities during Mid-autumn Evening Celebration.&nbsp;&nbsp;<br>制作灯笼等亲子活动是学生在中秋晚会上最喜欢的活动之一。<u><br><br></u></p>
 <img alt="" src="/images/mtl017.JPG">
 <img alt="" src="/images/mtl018.JPG">
+
+<ul>
+<li><strong>6. Our Talent Showcase </strong><strong>才艺秀</strong></li>
+</ul>
+<p><strong>Awards in the Competitions </strong><strong>比赛奖项</strong></p>
+<p>A big congratulations to our students who participated in competitions.&nbsp; May their success spur our fellow SKGians to continue</p>
+<p>demonstrating the value of resilience and excellence in their daily life.</p>
+<p>&nbsp;</p>
+<p>恭喜参加比赛的同学们取得了优异的成绩。愿他们的成功激励本校学生们在日常生活中继续展现坚韧和卓越的价值。</p>
+<img alt="" src="/images/mtl019.JPG">
+
+<strong>7. Home School Partnership </strong><strong>学校</strong><strong>-</strong><strong>家庭合作</strong>
+<p><em>When parents and schools work together, we can help our children achieve success on multiple fronts.</em></p>
+<p><em>当家长和学校携手合作时，我们可以帮助孩子在多个方面取得成功。</em></p>
+
+Photos of PSG helping CL events
+<img alt="" src="/images/mtl020.JPG">
+<img alt="" src="/images/mtl021.JPG">
