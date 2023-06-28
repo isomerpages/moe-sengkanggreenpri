@@ -53,8 +53,7 @@ third_nav_title: Academic
 <li>Create platforms and opportunities that encourage students to use their MTL to communicate proficiently in everyday life and to develop a deeper appreciation of their culture; and</li>
 <li>Provide timely feedback to parents on students’ learning.</li>
 </ul>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <ul>
 <li>使用一系列全校学生为中心的教学方法，通过合作学习、协作学习和差异化教学等策略来使学生的学习可见，以支持来自不同背景的学习者学习语言，关注如何吸引学习者。</li>
 <li>设计具有真实背景的活动，旨在创建一种沉浸式的学习环境，以获得语言技能和文化体验。</li>
@@ -67,7 +66,7 @@ third_nav_title: Academic
 
 <p><strong>Chinese Language Experience </strong></p>
 <p><br><br><strong><u>Key Programmes</u></strong></p>
-<p><strong><u>主要课程活动</u></strong><strong><u><br><br></u></strong><strong>1.&nbsp;Reading Programme </strong><strong>阅读计划</strong></p>
+<p><strong><u>主要课程活动</u></strong><strong><u><br><br></u></strong><strong>1. Reading Programme </strong><strong>阅读计划</strong></p>
 <p><strong><br></strong>Reading is the key to success. It has been proven that reading is an essential part of learning. To engage our students to be avid readers, we have put in place a structured reading programme consisting of varied instructions and approaches to meet the different learning profiles of our students. At the same time, we work towards making reading activities joyful and easy for our students.</p>
 <p><strong>&nbsp;</strong></p>
 <p>Read@SKG&nbsp;aims to instil a love for reading MT storybooks in our students. The programme seeks to expose students to different genre of books suitable for their reading levels. Through reading, students will be able to build up their vocabulary of Chinese words and build their confidence as they make improvements in their reading and comprehension skills.</p>
@@ -75,7 +74,7 @@ third_nav_title: Academic
 <p>好书是心灵的良药，是进步的阶梯。事实证明，阅读是学习不可或缺的部分。为了培养学生对阅读的热爱，本校设计了一套结构化的阅读计划。计划中包括了不同的教学法和策略，以满足学生不同的学习需求和特点。同时，我们致力于让阅读活动变得愉快又轻松。</p>
 <p>&nbsp;</p>
 <p>Read@SKG 旨在让我们的学生爱上中文故事书。这计划让学生能接触到不同类型，而且适合他们阅读水平的书籍。通过阅读，学生将能够积累中文词汇，提高阅读理解能力，并增强自信心。</p>
-<p><u>&nbsp;</u></p>
+
 <p><u>Monthly Book Recommendation </u><u>每月</u><u>读物推荐</u></p>
 <p>Special: Theme on Chinese New Year 本月主题：农历新年</p>
 <img alt="" src="/images/mtl002.jpg">
@@ -86,3 +85,17 @@ third_nav_title: Academic
 <img alt="" src="/images/mtl003.jpg">
 <p><u> 世界书香日 World Book Day by Chinese Department in April</u></p>
 <img alt="" src="/images/mtl004.JPG">
+
+<p>CL read team had conducted “World Book Day” activities last week for P1-6 CL students. These are the 6 pages book that done by the students. Super cute! We put up a small booth in the library to showcase these cute little books.</p>
+<p>华文阅读团队上周为小一至小六的华文学生举办了“世界读书日”活动，学生们制作了这六本可爱的小书！本校在图书馆摆了一个小摊位，展示这些小书。</p>
+<ul>
+<li><strong>2. Mother Tongue Language Fortnight </strong><strong>母语双周</strong></li>
+</ul>
+<p>&nbsp;</p>
+<p>The MTL Fortnight aims to create an immersive environment for our students in their learning of the Mother Tongue language and culture. Throughout the year, a wide range of cultural and language activities related to the Chinese language&nbsp;are&nbsp;organised during their daily lessons for students to experience their culture and encourage them to use their Chinese language for interactions.</p>
+<p>母语双周旨在为学生创造一个沉浸式环境，让他们更好地学习母语语言和文化。在整个学年期间，与华语和华族文化相关的各种活动都会在学生日常课程中组织，以便让他们体验文化，并鼓励他们使用中文进行交流。</p>
+
+<img alt="" src="/images/mtl005.JPG">
+
+<strong>康林咖啡店</strong><strong>1.0 </strong><strong>和</strong><strong>康林咖啡店</strong><strong>2.0</strong>
+<p>An authentic learning experience were students practice purchasing food items using Play Money in Chinese Language, with the support of volunteers from our Parent Support Group. They then share with peers what they have bought. In this experience, the students get to touch and smell actual fruits and food.<br>这是一项年级活动，本部门通过体验式学习营造学生在学习母语语言和文化方面的沉浸式环境。在家长志愿的支持下，学生们使用玩具货币来练习用中文购买食品。随后，他们与同学分享他们所买的东西。在这个体验中，学生们可以亲手触摸和闻到真实的水果和食品。</p>
