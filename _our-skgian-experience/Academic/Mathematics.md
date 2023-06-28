@@ -4,40 +4,134 @@ permalink: /our-skgian-experience/academic/mathematics/
 description: ""
 third_nav_title: Academic
 ---
-<p><span style="text-decoration: underline;"><strong>Key Personnel:<br></strong></span><strong>Head of Department:</strong>&nbsp;Mrs Gina Cho /&nbsp;Ms Rachael Tan<br><strong>Level Head:</strong>&nbsp;Mdm Wong Yoke Lye</p>
-<p><strong><span style="text-decoration: underline;">Department Aims and Objectives:</span></strong></p>
-<p style="text-align: center;">Every SKGian is a&nbsp;<strong>Confident&nbsp;</strong>and&nbsp;<strong>Effective Problem Solver</strong></p>
-<p>We aim to equip all students with the mathematical knowledge, skills and dispositions for everyday use and continuous learning in mathematics</p>
-<p>At the end of Primary 6, students:</p>
+<p><strong>Mathematics</strong></p>
+<p><strong>Key Personnel:</strong><br><strong>Head of Department : </strong>Ms Rachael Tan</p>
+<p><strong>Level Head:</strong>&nbsp;Ms Wong Yoke Lye &amp; Ms Dion Ng<br><br></p>
+<p><strong>Department Members:</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="232">
+<p>Mdm Catherine Lim</p>
+<p>(ST LP)</p>
+</td>
+<td width="186">
+<p>Ms Hayati B Abdul Rahim</p>
+<p>(ST CCE)</p>
+</td>
+<td width="180">
+<p>Mdm Afiqah B Anwarie</p>
+</td>
+<td width="180">
+<p>Mr Ang Chern Kiat</p>
+</td>
+<td width="154">
+<p>Mdm Ng Xiang Ming</p>
+</td>
+</tr>
+<tr>
+<td width="232">
+<p>Mrs Cindy Khoo (SH MU)</p>
+</td>
+<td width="186">
+<p>Mdm Siti Ayuni Aidil</p>
+</td>
+<td width="180">
+<p>Mdm Serene Teh</p>
+</td>
+<td width="180">
+<p>Mdm Charmain Cheong</p>
+</td>
+<td width="154">
+<p>Mrs Judy Tan</p>
+</td>
+</tr>
+<tr>
+<td width="232">
+<p>Mdm Mahalakshmi d/o Kalyanam (HOD SM)</p>
+</td>
+<td width="186">
+<p>Mdm Nurhuda Binte Abu Bakar</p>
+</td>
+<td width="180">
+<p>Mrs Esther Claire Lim</p>
+</td>
+<td width="180">
+<p>Mr Rishikesh Rajendra</p>
+</td>
+<td width="154">
+<p>Ms Yue Si Wei</p>
+</td>
+</tr>
+<tr>
+<td width="232">
+<p>Mr Er Shann Jiunn (AED)</p>
+</td>
+<td width="186">
+<p>Mr Kelvin Chee</p>
+</td>
+<td width="180">
+<p>&nbsp;</p>
+</td>
+<td width="180">
+<p>&nbsp;</p>
+</td>
+<td width="154">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Vision</strong></p>
+<p>Every SKGian is a&nbsp;<strong>Confident&nbsp;Problem Solver</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Mission</strong></p>
+<p>To nurture numeracy, logical reasoning and problem solving skills and interest in learning in our students so that they are ready for everyday life and learning at the next level and beyond.</p>
+<p>&nbsp;</p>
+<p><strong>Department Aims</strong></p>
+<p><strong>At the end of Primary 6, our students will:</strong></p>
 <ul>
-<li>Acquire the relevant mathematical skills and concepts to apply in real life situations.</li>
-<li>Develop creative and critical problem solving skills.</li>
-<li>Cultivate positive attitude towards mathematics.</li>
-<li>Make effective use of various mathematical tools (including ICT tools) in the learning and application of mathematics.</li>
-<li>Become independent and self-directed learners.</li>
+<li>acquire mathematical concepts and skills for everyday use and continue learning in mathematics;</li>
+<li>develop critical thinking, reasoning, communication, problem solving and metacognitive skills;</li>
+<li>cultivate curiosity and foster interest in mathematics; and</li>
+<li>become independent and self-directed learners.</li>
 </ul>
-<p><strong><span style="text-decoration: underline;">Key Programmes</span></strong></p>
-<p><strong>1. L.E.A.P. Programme (Learning Effective Approach to Problem-solving)</strong></p>
-<p>Mathematical problem-solving is a central focus of the mathematics curriculum. It involves the application of mathematical concepts and skills to solve a variety of problems, including non-routine, open-ended and real-world problems. To develop students to be effective problem solvers, students are exposed to heuristics and problem-solving approaches such as the Polya’s four step problem-solving in class.</p>
-<p><strong>2. Learning Experiences</strong></p>
-<p>Learning experiences are designed based on the Concrete-Pictorial-Abstract (CPA) approach. Students explore and learn mathematical concepts and skills through engaging in authentic learning activities. They use concrete manipulatives and visual representations to construct understandings. From the concrete and pictorial experiences, they are guided to uncover abstract mathematical concepts. In this way, students see the meaning and relevance of mathematics.</p>
-<img style="width: 90%;" src="/images/math1.png">
-<p><strong><strong>3.&nbsp;</strong></strong><strong>Learning Support for Mathematics (LSM)</strong></p>
-<p>Learning Support Mathematics (LSM) programme provides support for selected Primary 1 and Primary 2 students who need more reinforcement in their learning of basic numeracy in Mathematics. Students are placed in smaller groups and engaged in customized learning activities based on their learning progress.</p>
-<p><strong>4. Mathematics Olympiad Programme</strong></p>
-<p>The Mathematics Olympiad programme provides opportunities for selected students in P3, P4 and P5 to extend their learning. Students are exposed to higher-order questions and are equipped with a repertoire of problem-solving strategies and higher-order thinking skills to solve these questions. This will enable students to sharpen their mathematical thinking and problem-solving skills.&nbsp;</p>
-<p><strong><span style="text-decoration: underline;">Major Events</span></strong></p>
-<p><strong>1. Mathematics Carnival<br></strong>The Mathematics Carnival provides an opportunity for our students to practise mathematics through games to achieve mastery. The carnival also includes a reward system that aims to reinforce positive behaviour and expectations. Four weeks prior to the carnival, our students will be ‘rewarded’ with carnival tokens when they display school values such as responsibility and active teamwork during math lessons. These tokens will then be used to play the mathematical games at the carnival.</p>
-<p>The carnival also allows the students to practise financial literacy through authentic learning. They will need to 'spend' their tokens at the game stalls and be involved in decision making by deciding on what games to play for the amount of tokens that they have.</p>
-<img style="width: 90%;" src="/images/math2.png">
-<p><strong>2. Mathematics Trail</strong></p>
-<p>Mathematics Trail in SKGPS provides students with the opportunity to relate mathematical concepts and skills that they have learnt to the real world. Students work in teams to apply mathematical concepts and skills such as the use of mathematical tools and estimation to complete authentic learning tasks within the school compound. Learning of mathematics becomes fun, meaningful and relevant for the students.&nbsp;</p>
-<img style="width: 90%;" src="/images/math3.png">
-<p><strong>3. P1 and P2 Mathematics Parent's Workshop</strong></p>
-<p>As part of SKGPS’ school-home partnership efforts, mathematics workshops are conducted for parents of Primary 1 and 2 students. The objectives of the workshops are to enable parents to gain greater understanding of the Primary Mathematics Syllabus and how the school engages students to acquire mathematical concepts and skills through the Concrete-Pictorial-Abstract (CPA) approach. During the workshop, parents get to experience how a mathematical concept is taught using the CPA approach. Parents are also provided with tips on how they can support their children in the learning of mathematics. For the past few years, the workshops were well received by parents. Parents have expressed that the workshops benefitted them in engaging their children in the learning of mathematics at home.</p>
-<img src="/images/math4.png">
-<p><strong>4. iDiscovery Day</strong></p>
-<p>Our Primary 3 to Primary 5 students are engaged in challenging and fun activities that promote analytical and social skills. Students work in teams to solve mathematical puzzles which involve addition and multiplication in the fastest way possible. Puzzles offer opportunities to expand social skills and they are a great way to develop and strengthen reasoning and logical thinking skills that are essential to mathematics.</p>
-<p>When children work cooperatively to complete a puzzle, they engage in active conversation. They develop a plan to solve the puzzles by taking turns and helping one another.</p>
-<p>Through this programme, our students demonstrate great interest in the mathematical tasks given and show their perseverance in solving the puzzles. This is closely-knitted to one of the department objectives – for our students to develop positive attitudes towards Mathematics.</p>
-<img src="/images/math5.png">
+<p><br><br></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Learning Experiences and Key Programmes<br></strong><strong>Learning Experiences</strong><br>It matters how our students learn.&nbsp;</p>
+<p>Mathematical concepts are abstract. To develop an understanding of these abstract concepts, it is necessary to start from concrete objects, examples and experiences that students can relate to. Therefore, learning experiences are sequenced based on Concrete-Pictorial-Abstract (CPA) approach.</p>
+<p>&nbsp;</p>
+<p>Different concepts require different approaches. The instructional strategies and resources selected in designing learning experiences take into consideration of the nature of the concepts.&nbsp; Below are some examples.</p>
+<p><strong>Learning about Numbers</strong></p>
+<p>Students learn by doing and applying learning. They use concrete manipulatives and pictorial representations such as fraction bars, number discs and number bonds to get a sense of the number concepts. They are then guided to connect the concrete and pictorial experiences to the abstract concept by explaining, reasoning and applying the concepts and skills to new problems. This way, students make meaning of the operations and algorithms involving numbers.</p>
+<p><strong>Learning about Geometry and Measurements</strong></p>
+<p>Students explore, investigate and discover geometric shapes and properties and measurements through hands-on activities.</p>
+<p>They discover and justify how formulas such as area of triangles and circles come about the use of concrete models and manipulatives and online applets.</p>
+<p><strong>Learning about Statistics</strong></p>
+<p>Students carry out simple surveys that involve data collection and use of ICT tools to generate tables and graphs to represent the data. In the process, students discuss and pose questions to deepen learning about reading, comparing and analyzing data, for example, “What data to collect’, ‘what is the purpose?’ and ‘How to present the data to convey the information gathered most clearly and effectively’.</p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Problem Solving</strong> <br>Mathematical problem-solving is a central focus of the mathematics curriculum. It involves the application of mathematical concepts and skills to solve a variety of problems including routine and familiar, non-routine, open-ended and unfamiliar problems. Therefore, students are taught general problem-solving strategies such as heuristics and ways of thinking and approaching a problem. They will also learn how to approach problems systematically. For example, students are introduced to the George Polya’s four-step problem solving process in class and heuristics such as working backwards, guess and check, systematic listing, making supposition, etc.</p>
+<p><strong>Mastery Phase of learning </strong></p>
+<p>We strive to enable all students achieve academic mastery. At the end of learning key concepts, skills or problem solving skills, students consolidate and extend their learning which include one or more of the following: &nbsp;</p>
+<p>&nbsp;</p>
+<ul>
+<li>Consistent and motivated practice with understanding is emphasized.</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>Students consolidate and deepen their learning through tasks that allow them to reflect on their learning. This is a habit that supports the development of metacognition. Examples are the use of note-taking and consolidation in math journal book and self and peer assessment checklist.</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>Students who are more mathematically inclined will have opportunities to extend their learning by engaging in more challenging tasks that stretch their thinking and deepen their understanding.</li>
+</ul>
+<p><strong>Mathematics Olympiad Programme</strong><strong><br></strong>The Mathematics Olympiad programme provides opportunities for students who are more mathematically inclined to in P4, P5 and P6 to extend their learning. Students are exposed to higher-order thinking problems and are equipped with a repertoire of problem-solving strategies and higher-order thinking skills to engage in problem solving. In the programme, students are expected to reason, justify and explain their solutions to their peers. These enable students to sharpen their mathematical thinking, reasoning, communication and problem-solving skills.&nbsp;</p>
+<p><br><br><strong>Mathematics Trail<br></strong>Mathematics Trail in SKGPS provides students with the opportunity to relate mathematical concepts and skills that they have learnt to the real world. Students work in teams to apply mathematical concepts and skills such as the use of mathematical tools and estimation to complete authentic learning tasks within the school compound. Learning of mathematics becomes fun, meaningful and relevant for the students.&nbsp;<br><br><br></p>
