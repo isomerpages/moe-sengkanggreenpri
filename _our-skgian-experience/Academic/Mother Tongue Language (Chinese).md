@@ -113,3 +113,19 @@ third_nav_title: Academic
 <img alt="" src="/images/mtl011.JPG">
 <p>Making of Rainbow Spin-Wheel through learning the steps and instructions in Chinese</p>
 <img alt="" src="/images/mtl012.jpg">
+<p>Poster making 设计海报</p>
+<p>We believe our young learners learn through play&nbsp;（娱教乐学）&nbsp;and imbibe&nbsp;values of respect and discipline when participating in the MTL Fortnight activities.</p>
+<p>我们相信我们的学生是通过娱教乐学的方式有效地学习，并在参加母语双周活动时融入尊重和纪律的价值观。</p>
+<ul>
+<li><strong>3. Learning Journey </strong><strong>学习之旅</strong></li>
+</ul>
+<p>Learning goes beyond the classrooms.&nbsp; Learning journeys are organised to expose our students to their ethnic cultures as well <br>as to promote greater interest in the learning of Chinese Language.&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>学习不仅仅局限于课堂内。我们组织学习之旅，让学生接触到自己的民族文化，同时促进对中文学习的兴趣。</strong></p>
+<p><strong>&nbsp;</strong></p>
+<ul>
+<li><strong>4. Theatre Experience </strong><strong>戏剧体验</strong></li>
+</ul>
+<p>The Theatre Experience is a learning journey that aims to expose the students to Chinese cultural performances and programmes. Cultural performances such as Drama,&nbsp;<em>Xiang Sheng&nbsp;</em>and puppet show are organised to enrich the students’ learning experience and teach them to better appreciate the Chinese culture.</p>
+<p>戏剧体验是旨在让学生接触华族文化表演和节目的学习之旅。为了丰富学生的学习体验，学校组织文化表演，如话剧、相声和木偶戏，并教导他们更好地欣赏华族文化。</p>
+<img alt="" src="/images/mtl013.JPG">
