@@ -138,3 +138,11 @@ third_nav_title: Academic
 <img alt="" src="/images/mtl014.JPG">
 <img alt="" src="/images/mtl015.JPG">
 <img alt="" src="/images/mtl016.JPG">
+<p><strong>Mid Autumn Festival </strong><strong>中秋佳节</strong></p>
+<p>Mid-Autumn Evening Celebration for Primary 1 students and parents&nbsp;</p>
+<p>In creating an environment conducive for students to appreciate diverse cultures in our multiracial society, our school organises the Mid-Autumn Evening Celebration for all Primary 1 students. While the Mid-Autumn festival has its origin in the Chinese culture, it promotes the universal values of family unity. This celebration aims to provide opportunities for all P1 students to appreciate the Chinese culture and to foster bonding between parent and child. During the celebration, our P1 students and their parents go through a multi-sensory learning experience, which includes tasting of mooncakes (halal), learning how mooncakes are made, designing of lanterns, tea tasting and guessing riddles.&nbsp;</p>
+<p>为了营造一个有利于学生欣赏我国多元文化的环境，本校组织了针对所有小一学生的中秋晚会。虽然中秋节起源于华族文化，但它弘扬的是家庭团结的普世价值观。此次庆祝旨在为所有小一学生提供欣赏华族文化的机会，促进亲子间的互动与情感交流。在庆祝活动中，小一学生和家长们共同经历了多感官学习体验，包括品尝月饼（清真）、制作月饼、设计灯笼、品尝茶叶和猜谜语等。</p>
+<p>&nbsp;</p>
+<p>Parent-child bonding activities such as lantern-making were amongst the students’ favourite activities during Mid-autumn Evening Celebration.&nbsp;&nbsp;<br>制作灯笼等亲子活动是学生在中秋晚会上最喜欢的活动之一。<u><br><br></u></p>
+<img alt="" src="/images/mtl017.JPG">
+<img alt="" src="/images/mtl018.JPG">
