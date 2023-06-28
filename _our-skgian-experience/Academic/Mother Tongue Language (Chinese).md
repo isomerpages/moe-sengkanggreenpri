@@ -62,3 +62,19 @@ third_nav_title: Academic
 <li>创建平台和机会，鼓励学生在日常生活中熟练使用母语，深入了解自己的文化；并</li>
 </ul>
 <p>• 及时向家长反馈学生的学习情况。</p>
+
+<p><img alt="" src="/images/mtl001.jpg"></p>
+
+<p><strong>Chinese Language Experience </strong></p>
+<p><br><br><strong><u>Key Programmes</u></strong></p>
+<p><strong><u>主要课程活动</u></strong><strong><u><br><br></u></strong><strong>1.&nbsp;Reading Programme </strong><strong>阅读计划</strong></p>
+<p><strong><br></strong>Reading is the key to success. It has been proven that reading is an essential part of learning. To engage our students to be avid readers, we have put in place a structured reading programme consisting of varied instructions and approaches to meet the different learning profiles of our students. At the same time, we work towards making reading activities joyful and easy for our students.</p>
+<p><strong>&nbsp;</strong></p>
+<p>Read@SKG&nbsp;aims to instil a love for reading MT storybooks in our students. The programme seeks to expose students to different genre of books suitable for their reading levels. Through reading, students will be able to build up their vocabulary of Chinese words and build their confidence as they make improvements in their reading and comprehension skills.</p>
+<p><u><br><br></u></p>
+<p>好书是心灵的良药，是进步的阶梯。事实证明，阅读是学习不可或缺的部分。为了培养学生对阅读的热爱，本校设计了一套结构化的阅读计划。计划中包括了不同的教学法和策略，以满足学生不同的学习需求和特点。同时，我们致力于让阅读活动变得愉快又轻松。</p>
+<p>&nbsp;</p>
+<p>Read@SKG 旨在让我们的学生爱上中文故事书。这计划让学生能接触到不同类型，而且适合他们阅读水平的书籍。通过阅读，学生将能够积累中文词汇，提高阅读理解能力，并增强自信心。</p>
+<p><u>&nbsp;</u></p>
+<p><u>Monthly Book Recommendation </u><u>每月</u><u>读物推荐</u></p>
+<p>Special: Theme on Chinese New Year 本月主题：农历新年</p>
