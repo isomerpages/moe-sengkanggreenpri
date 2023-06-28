@@ -129,3 +129,12 @@ third_nav_title: Academic
 <p>The Theatre Experience is a learning journey that aims to expose the students to Chinese cultural performances and programmes. Cultural performances such as Drama,&nbsp;<em>Xiang Sheng&nbsp;</em>and puppet show are organised to enrich the students’ learning experience and teach them to better appreciate the Chinese culture.</p>
 <p>戏剧体验是旨在让学生接触华族文化表演和节目的学习之旅。为了丰富学生的学习体验，学校组织文化表演，如话剧、相声和木偶戏，并教导他们更好地欣赏华族文化。</p>
 <img alt="" src="/images/mtl013.JPG">
+<ul>
+<li><strong>5. Inquiry into Chinese Festivals </strong><strong>探索</strong><strong>传统华族节庆</strong></li>
+</ul>
+<p><br><strong>Chinese New Year Celebration </strong><strong>庆祝农历新年</strong></p>
+<p>Chinese New Year is an occasion for families and friends to reunite and exchange greetings.&nbsp; &nbsp;On the eve of Chinese New Year, the celebration started with class activities to allow students to understand the meaning of the celebration and the Chinese traditional customs. Everyone had a joyous time enjoying exciting hall performances.</p>
+<p>农历新年是家人和朋友团聚并互相祝福的时刻。为了让学生了解这个节日的含义和华族的传统习俗，在除夕当天，我们的庆祝活动从班级活动开始。过后，每个人都欢欣鼓舞，享受着激动人心的礼堂表演。</p>
+<img alt="" src="/images/mtl014.JPG">
+<img alt="" src="/images/mtl015.JPG">
+<img alt="" src="/images/mtl016.JPG">
