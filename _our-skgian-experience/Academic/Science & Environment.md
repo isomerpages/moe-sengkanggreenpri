@@ -4,7 +4,7 @@ permalink: /our-skgian-experience/academic/science-environment/
 description: ""
 third_nav_title: Academic
 ---
-<p><strong><u>Key Personnel</u></strong><u><br><br></u><strong>Head of Department:</strong> Ms Chew Mei Jun<br><br></p>
+<p><strong><u>Key Personnel</u></strong><u><br><br></u><strong>Head of Department:</strong> Ms Chew Mei Jun</p>
 <p><strong><u>Department Members</u></strong><u></u></p>
 <p>Mdm Catherine Tan</p>
 <p>Mr Alan Lim</p>
