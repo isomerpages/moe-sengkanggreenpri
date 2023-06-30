@@ -42,7 +42,8 @@ third_nav_title: Student Development
 
 <p><strong><u>POSITIVE DISCIPLINE </u></strong></p>
 <p>Sengkang Green Primary is committed to establish a caring and enabling learning environment for all SKGians. Our school adopts a positive &amp; proactive approach to discipline to develop self-discipline and good character in our SKGians.</p>
-<p><em>Adapted from MOE Discipline Resource Portal</em></p>
+
+<p><em>Adapted from MOE Discipline Resource Portal</em><img alt="" src="/images/sm0001.png"></p>
 <p><em>&nbsp;</em></p>
 <p>The school believes in <strong>Connection before Correction</strong> and uses the <strong>Restorative Practices</strong> approaches to teach our SKGians to be self-disciplined.&nbsp; SKGians are also taught about making good choices and the importance of taking personal responsibility for their actions in and out of school.</p>
 <p>The school has adopted three empowering beliefs and four empowering skills from the book Positive Discipline that help our students succeed in school and life.</p>
