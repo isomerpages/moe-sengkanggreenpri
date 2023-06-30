@@ -9,6 +9,7 @@ third_nav_title: Student Development
 <tr>
 <td width="324">
 <p><strong>The CCE Team</strong></p>
+	<img alt="" src="images\cce001.png">
 <p><strong>&nbsp;</strong></p>
 </td>
 <td width="636">
