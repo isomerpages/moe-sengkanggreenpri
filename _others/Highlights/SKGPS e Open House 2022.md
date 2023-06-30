@@ -5,10 +5,9 @@ description: ""
 third_nav_title: Highlights
 ---
 <img style="width: 75%;" src="/images/eopen.jpeg">
-<h4>Welcome by Principal</h4>
-<div><iframe src="https://player.vimeo.com/video/725503968?h=220f720eff" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
-<h4>Open House Video</h4>
-<div><iframe src="https://player.vimeo.com/video/725665063?h=ea1079ba72" width="640" height="480" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<h4>Sengkang Green Primary School Corporate Video</h4>
+<p><iframe allowfullscreen="allowfullscreen" frameborder="0" height="360" width="640" src="https://player.vimeo.com/video/841075082?h=577f447e77&amp;byline=0&amp;portrait=0"></iframe></p>
+
 <h4>Virtual School Tour</h4>
 <p>*Note: For best user experience, screen size of at least 7 inches is recommended. *</p><a href="https://ths.li/TEohfo" rel="noopener" target="_blank">https://ths.li/TEohfo</a>
 
@@ -67,6 +66,8 @@ third_nav_title: Highlights
 </tr>
 </tbody>
 </table>
+<h4>Open House Video 2022</h4>
+<div><iframe src="https://player.vimeo.com/video/725665063?h=ea1079ba72" width="640" height="480" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
 <h4>P1 Registration</h4>
 <p><strong>2022 Primary&nbsp;One Registration Exercise (For Admission to Primary One in 2023) Updates &amp; New Developments</strong></p>
 <p>1. Similar to last year's P1 Registration Exercise, there will not be any in-person registration at schools and registration will be fully online.&nbsp;</p>
