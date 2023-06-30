@@ -17,12 +17,11 @@ third_nav_title: Student Development
 <p><strong>Level Discipline Team:</strong> Mr Eddy Sufyan, Mrs Aileen Kwok, Ms Ravetha Adelina S Umapathy, Mdm Siti Ayuni Aidil</p>
 <p><strong>School Counsellors</strong>: Ms Toh Xue Li &amp; Mr Haji Agus</p>
 <p><strong>Special Educational Needs Officers</strong>: Ms Tan Lay Hiong, Ms Berina Teoh</p>
-<p><strong>Department Vision</strong></p>
+
 <p><strong>&nbsp;</strong></p>
 <p><strong>&nbsp;</strong></p>
-<p><strong>Mission</strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
+
 <p><strong>Our Approach</strong></p>
 <p>Proactive empathetic engagement approach to holistic student well-being management.</p>
 <p>As student <strong>well-being</strong> is a whole-school approach, the Student Development Department comprises a big team of Key Personnel and staff members to provide students @ SKGPS with an emotionally and physically safe learning environment, one which is conducive for them to grow and be nurtured into future-ready leaders with a growth mindset.</p>
