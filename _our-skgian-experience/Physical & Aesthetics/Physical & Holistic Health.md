@@ -1,8 +1,8 @@
 ---
-title: Physical &amp; Holistic Health
+title: Physical & Holistic Health
 permalink: /our-skgian-experience/physical-aesthetics/physical-holistic-health/
 description: ""
-third_nav_title: Physical &amp; Aesthetics
+third_nav_title: Physical & Aesthetics
 ---
 <p><strong><u>Key Personnel</u></strong></p>
 <p><strong>Subject Head PE : </strong>Mr Mok Wei Chyuan</p>
@@ -97,15 +97,21 @@ third_nav_title: Physical &amp; Aesthetics
 <p>Once the foundation of fundamental skills mastery is laid at the lower primary level (P1- P3), the upper primary level (P4- P6) extends on the mastery of discrete skills to focus on more complex combinations and sequences of movements, and skills application in more recognisable forms of activity and games.</p>
 <p>Due to the spiral nature of the PE curriculum, the learning of fundamental skills are revisited from time to time to sharpen and deepen the students’ mastery.</p>
 <img src="/images/pe2.png">
+
 <p><strong><u>Key Programmes</u></strong></p>
+<p>&nbsp;</p>
 <p><em>Recess Play</em></p>
-<p>To encourage students to be active, PE equipment such as skipping ropes, colourful giant parachute, soccer balls, frisbees etc are provided in the school’s basketball court and field for the students to play during recess. This allows students to make good use of their free time to exercise and enjoy the outdoors.</p>
-<p><em>Workout Thursday</em></p>
-<p>On Thursdays, SKGians look forward to start off the day with an exercise routine. Primary 4 and 6 students will be engaged in morning jogs in the school field while Primary 1, 2, 3 and 5 students will be involved in the Jump Jam Workout, a fun and exciting kids aerobic programme. Workout Wednesdays seek to motivate SKGians to enjoy exercise, thus promoting healthy and happy individuals in SKG.</p>
-<img src="/images/pe3.png">
-<p><em>Fruity Veggie Week</em></p>
-<p>Fruity Veggie Week is carried out every year to encourage our students to eat healthily. During the Fruity Veggie Week, all staff and students are expected to eat 2 servings of fruits and 2 servings of vegetables every day. Various activities to reinforce the importance of eating healthily are conducted. This includes assembly talk and interesting recess games.</p>
-<img src="/images/pe4.png">
+<p>&nbsp;</p>
+<p>To encourage students to be active, PE equipment such as skipping ropes, soccer balls, foam balls etc are provided in the school’s basketball court and field for the students to play during recess. This allows students to make good use of their free time to exercise and enjoy the outdoors.<br> <br> </p>
+<p><em>Terrific Thursday</em></p>
+<p>&nbsp;</p>
+<p>On Thursdays, SKGians look forward to starting off the day with an exercise routine. Primary 5 and 6 students will be engaged in morning walk/jogs in the school field while Primary 1 to 4 students will be involved in the Jump Jam Workout, a fun and exciting kids aerobic programme.</p>
+<p><em>Terrific Thursdays</em> seek to motivate SKGians to enjoy exercise, thus promoting healthy and happy individuals in SKG.</p>
+<p>&nbsp;</p>
+<p>Recess Play</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><em>&nbsp;</em></p>
 <p><em>Games Carnival</em></p>
+<p>&nbsp;</p>
 <p>Games Carnival is a key SKGPS sporting event that is held on Children’s Day. The aim of the event is to provide opportunity for students to apply psychomotor skills that they had learnt during PE lessons, in a fun, cooperative and competitive game environment. These games not only promote mass participation but also put to test both individual and team camaraderie and help build class affiliation, school spirit and bonding among the students and teachers.</p>
-<img src="/images/pe5.png">
