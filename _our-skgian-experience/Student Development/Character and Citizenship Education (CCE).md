@@ -54,6 +54,7 @@ third_nav_title: Student Development
 <p>c) better understand their family and friends (Social Awareness)</p>
 <p>d) learn ways to work with their family and friends (Relationship Management) and</p>
 <p>e) make appropriate and responsible decisions (Responsible Decision Making)</p>
+<img alt="" src="images\cce005.PNG">
 <p>&nbsp;</p>
 <p><strong>CCE Lessons</strong></p>
 <p>CCE lessons focus on developing the moral well-being of our students by helping them acquire and live by the values that guide them to make appropriate choices that determine their behaviours and attitudes towards themselves, others and the environment.</p>
@@ -61,11 +62,15 @@ third_nav_title: Student Development
 <p>&nbsp;</p>
 <p><strong>Social Studies<br> </strong>The Social Studies&nbsp;curriculum spans the primary and secondary levels, and helps students to grow in knowledge, develop skills and learn values through examining issues that are of concern to our society and the world in which we live. Through inquiry-based learning and authentic learning experiences, we hope to ignite students’ interest in real-world issues that concern them.&nbsp;</p>
 <p>The knowledge, skills and values gained from Social Studies, together with the citizenship dispositions that National Education is anchored on, will help students become citizens who&nbsp;are informed, concerned and participative.&nbsp;</p>
+<img alt="" src="images\cce006.png">
 <p>&nbsp;</p>
 <p><strong>National Education (NE) Programme</strong></p>
 <p>The purpose of National Education is to develop &amp; inspire our students to take collective ownership of their future as a nation and to co construct the next chapter of Singapore. NE is then anchored on the following citizenship dispositions, which will enable our students to realise their part in flourishing of the community and nation.&nbsp;</p>
+<img alt="" src="images\cce007.PNG">
 <p><strong>NE Commemorative Events</strong><strong>&nbsp;</strong></p>
 <p>The four core NE events that the school commemorates are Total Defence Day, International Friendship Day, Racial Harmony Day and National Day. During these events, the school will organise many interesting, fun and meaningful activities to foster a sense of pride and belonging to our country.</p>
+<img alt="" src="images\cce008.PNG">
+<img alt="" src="images\cce009.PNG">
 <p>&nbsp;</p>
 <p><strong>Learning Journeys (LJs)</strong></p>
 <p>LJs aim to instil in our students, pride in Singapore’s achievements, to help them understand Singapore’s constraints, challenges and opportunities, build their confidence in our future, and nurture a sense of belonging to Singapore.</p>
@@ -76,6 +81,8 @@ third_nav_title: Student Development
 <p><strong>&nbsp;</strong></p>
 <p><strong>Values in Action (VIA)</strong><strong>&nbsp;</strong></p>
 <p>In our efforts to nurture our students to become active contributors and concerned citizens of the future, the school has adopted a 6-year spiral developmental plan in the implementation of its VIA Programme.&nbsp;Our VIA activities are designed with a focus on the home, school and the community &amp; the nation.&nbsp;Through the VIA learning experiences, our students are encouraged to identify and understand community issues, initiate actions among peers and improve the lives of others. Throughout the process, students reflect on what they have learnt and how they can continue to make a difference to others.</p>
+<img alt="" src="images\cce010.PNG">
+<img alt="" src="images\cce011.PNG">
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>SkillsFuture@SKGPS</strong></p>
