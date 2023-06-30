@@ -34,10 +34,11 @@ third_nav_title: Student Development
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong></p>
-<p><strong><br> <br> </strong></p>
+
 <p><br> <strong>Our Mission&nbsp;</strong></p>
 <p>To inculcate values and build competencies in our students to equip them with the knowledge, skills, attitudes and values to be responsible citizens who serve beyond self.</p>
 <p>&nbsp;</p>
 <p><strong>Our CCE Goals </strong></p>
+<img alt="" src="images\cce002.png">
 <p>CCE in Sengkang Green anchors on the school mission to develop our students into Leaders of Character and Socially Responsible Citizens who actively contribute to the school, community and nation. We emphasise on the interconnectedness of the core values, 21<sup>st&nbsp;</sup>century competencies and civic literacy, global awareness and cross-cultural skills that are critical to develop student into a confident person, self-directed learner, concerned citizen and an active contributor.</p>
+<img alt="" src="images\cce003.png">
