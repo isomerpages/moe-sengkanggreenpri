@@ -87,3 +87,4 @@ third_nav_title: Student Development
 <p>&nbsp;</p>
 <p><strong>SkillsFuture@SKGPS</strong></p>
 <p>Our SkillsFuture@SKGPS programme aims to equip every SKGian with the information to explore various education pathways and make well-informed educational and career choices. In this fast-changing world, we prepare our students to face challenges and seize opportunities brought about by globalisation, changing demographics and technological advancements. Therefore, SkillsFuture@SKGPS adopts a whole school approach to empower our students to embark on a journey of self-discovery, knowing more about their strengths, interests and aspirations to be future-ready.</p>
+<img alt="" src="images\cce012.PNG">
