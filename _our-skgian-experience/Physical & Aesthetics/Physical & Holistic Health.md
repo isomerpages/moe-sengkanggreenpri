@@ -113,7 +113,7 @@ Curriculum Dance</p>
 
 <p><img src="/images/phe005.jpg">Recess Play</p>
 
-<p><em>&nbsp;</em></p>
+
 <p><em>Games Carnival</em></p>
 
 <p>Games Carnival is a key SKGPS sporting event that is held on Children’s Day. The aim of the event is to provide opportunity for students to apply psychomotor skills that they had learnt during PE lessons, in a fun, cooperative and competitive game environment. These games not only promote mass participation but also put to test both individual and team camaraderie and help build class affiliation, school spirit and bonding among the students and teachers.</p>
