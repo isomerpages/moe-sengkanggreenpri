@@ -91,12 +91,15 @@ third_nav_title: Physical & Aesthetics
 </tr>
 </tbody>
 </table>
-<p><strong><u>Physical Education in Lower Primary (P1- P3)</u></strong></p>
+<p><strong><u>PHE in Lower Primary (P1- P3)</u></strong></p>
 <p>The lower primary level focuses on mastery of fundamental motor skills such as locomotor, non-locomotor and manipulative skills with application of movement concepts to develop efficiency, effectiveness and versatility in students’ performance as they practice and transfer their skills across the seven learning areas to become competent movers.</p>
-<p><strong><u>Physical Education in Upper Primary (P4-P6)</u></strong></p>
+<p><strong><u>PHE in Upper Primary (P4-P6)</u></strong></p>
 <p>Once the foundation of fundamental skills mastery is laid at the lower primary level (P1- P3), the upper primary level (P4- P6) extends on the mastery of discrete skills to focus on more complex combinations and sequences of movements, and skills application in more recognisable forms of activity and games.</p>
-<p>Due to the spiral nature of the PE curriculum, the learning of fundamental skills are revisited from time to time to sharpen and deepen the students’ mastery.</p>
-<img src="/images/pe2.png">
+<p>Due to the spiral nature of the PHE curriculum, the learning of fundamental skills are revisited from time to time to sharpen and deepen the students’ mastery.</p>
+<p><img src="/images/phe001.jpg">
+Curriculum Dance</p>
+<p><img src="/images/phe002.jpg">Throw and catch</p>
+<p><img src="/images/phe003.jpg">Two-handed bounce</p>
 
 <p><strong><u>Key Programmes</u></strong></p>
 <p>&nbsp;</p>
