@@ -63,8 +63,7 @@ third_nav_title: Student Development
 <p>&nbsp;</p>
 <p><strong><u>STUDENT LEADERSHIP</u></strong></p>
 <img alt="" src="/images/sm0002.png">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p><strong><u>Our Beliefs and Guiding Principles</u></strong></p>
 <p>At Sengkang Green Primary School, we believe that leadership can be nurtured and all students have the potential to be developed as leaders. The student leadership development (SLD) at SKGPS focuses on cultivating students’ personal leadership which lead to self-mastery and <strong>student agency</strong>, before leading others as a servant leader.</p>
 <p>The SLD is intentionally designed to facilitate all students to discover the leader within themselves. It is guided by two beliefs.</p>
