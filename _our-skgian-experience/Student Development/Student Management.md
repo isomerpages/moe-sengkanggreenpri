@@ -62,6 +62,7 @@ third_nav_title: Student Development
 </ol>
 <p>&nbsp;</p>
 <p><strong><u>STUDENT LEADERSHIP</u></strong></p>
+<img alt="" src="/images/sm0002.png">
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong><u>Our Beliefs and Guiding Principles</u></strong></p>
@@ -114,11 +115,15 @@ third_nav_title: Student Development
 </tr>
 </tbody>
 </table>
+<img alt="" src="/images/sm0003.png">
 <p>&nbsp;</p>
 <p><strong><u>Tier 1: Class Leadership Platforms &amp; Training</u></strong></p>
+<img alt="" src="/images/sm0004.PNG">
 <p><strong><u><br> Tier 2: Prefects &amp; Student Leaders Platforms &amp; Training</u></strong></p>
+<img alt="" src="/images/sm0005.PNG"> <br>
+<img alt="" src="/images/sm0006.PNG">
 <p><strong><u>Tier 3: Prefect Leaders</u></strong></p>
-<p>&nbsp;</p>
+
 <table width="654">
 <tbody>
 <tr>
@@ -128,98 +133,37 @@ third_nav_title: Student Development
 </tr>
 </tbody>
 </table>
+<img alt="" src="/images/sm0007.PNG">
 <p><strong>PEER Support Relationship </strong></p>
-<p>&nbsp;</p>
 <p>Apart from teachers and school counsellors, peers are the next best people to provide social and emotional support from student to student in need or distress.&nbsp; Peers are generally aware of what their friends are going through and therefore in the best position to alert teachers and school counsellors when they notice their friends encounter difficulties and are not coping well.&nbsp; Also, students will turn to peers when they are experiencing worry, frustration or concerns and are more comfortable in talking openly with them.&nbsp; With this initial disclosure, peers can offer emotional support and advise their friends to seek help.&nbsp;Recognising the impact a student can have on its peers, the school has embarked on a 2-tiered approach.</p>
 <p><strong>Tier 1</strong> is School-Wide Approach where students learn Peer bonding, Peer helping &amp; Peer Influencing skills during FTGP lessons. This leads to their self-mastery and promotes <strong>student agency. </strong></p>
-<p><strong>&nbsp;</strong></p>
-<p><strong>&nbsp;</strong></p>
-<p><strong>&nbsp;</strong></p>
-<p><strong>&nbsp;</strong></p>
-<p><strong>&nbsp;</strong></p>
-<p><strong>&nbsp;</strong></p>
-<p><strong>&nbsp;</strong></p>
-<p><strong>&nbsp;</strong></p>
+<img alt="" src="/images/sm0008.png">
 <p><strong>Tier 2</strong> involves a selected group of Peer Support Leaders (PSLs) for peer support. This is to further strengthen the student-student relationship (SSR) among peers, as well as, to foster a culture of care and inclusiveness within the school.</p>
 <table>
 <tbody>
 <tr>
 <td width="1014">
-<table width="100%">
-<tbody>
-<tr>
-<td>
-<table cellpadding="2" cellspacing="2" width="653" border="2">
-<tbody>
-<tr>
-<td style="width: 174.688px;">
-<p><strong>Primary 3</strong></p>
-</td>
-<td style="width: 174.203px;">
-<p><strong>Primary 4</strong></p>
-</td>
-<td style="width: 282.109px;">
-<p><strong>Primary 5</strong></p>
-</td>
-</tr>
-<tr>
-<td colspan="2" style="width: 354.891px;">
-<p>I can be a peer support leader</p>
-<p>Helping my friends</p>
-</td>
-<td rowspan="2" style="width: 282.109px;">
-<p>Encouraging my friends to seek help</p>
-<p>Learning from setbacks as a PSL</p>
-<p>Helping my friends to manage stress and build healthy habits</p>
-</td>
-</tr>
-<tr>
-<td style="width: 174.688px;">
-<p>Making Friends</p>
-</td>
-<td style="width: 174.203px;">
-<p>Being an upstander</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" style="width: 643px;">
-<p>Cyberwellness Workshop</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Tier 2 : PSL Training </strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Our PSLs and Their Roles</strong></p>
-<p><strong>&nbsp;</strong></p>
-<ul>
+<p><strong>Tier 2 : PSL Training </strong></p><img alt="" src="/images/sm0010a.PNG"><p><strong>Our PSLs and Their Roles</strong></p><ul>
 <li><strong>Befriend&nbsp;</strong>students and promote inclusiveness in the class</li>
 <li>Offer<strong>support&nbsp;</strong>in a non-judgemental and non-directive way</li>
 <li>Provide social and emotional support by offering a<strong>listening ear</strong></li>
 <li>Be alert to changes in friends’ behaviours and&nbsp;<strong>recognise common signs of distress</strong></li>
 <li><strong>Promote a culture of care</strong>within the class and resolve conflicts among classmates.</li>
 <li><strong>Encourage students to seek help</strong>from teachers and/or school counsellors when they</li>
-</ul>
-<p>&nbsp; are unable to cope.</p>
-<ul>
+</ul><p>&nbsp; are unable to cope.</p><ul>
 <li><strong>Advocating good Cyber Wellness</strong></li>
-</ul>
-<p><br><br></p>
-<p>Some Resources for Parents</p>
-<p>&nbsp;</p>
-<table width="722">
+</ul><img alt="" src="/images/sm0009.PNG"><br><p>Some Resources for Parents</p><p>&nbsp;</p><table width="100%">
+
+
+
+
+
+
+
+
+
+
+</table><table width="722">
 <tbody>
 <tr>
 <td>
@@ -257,4 +201,4 @@ third_nav_title: Student Development
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p>&nbsp;</p></td></tr></tbody></table>
