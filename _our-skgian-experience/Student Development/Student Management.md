@@ -39,6 +39,94 @@ third_nav_title: Student Development
 <li>Financial Assistance</li>
 <li>Student Awards &amp; Recognition</li>
 </ul>
+
+<p><strong><u>POSITIVE DISCIPLINE </u></strong></p>
+<p>Sengkang Green Primary is committed to establish a caring and enabling learning environment for all SKGians. Our school adopts a positive &amp; proactive approach to discipline to develop self-discipline and good character in our SKGians.</p>
+<p><em>Adapted from MOE Discipline Resource Portal</em></p>
+<p><em>&nbsp;</em></p>
+<p>The school believes in <strong>Connection before Correction</strong> and uses the <strong>Restorative Practices</strong> approaches to teach our SKGians to be self-disciplined.&nbsp; SKGians are also taught about making good choices and the importance of taking personal responsibility for their actions in and out of school.</p>
+<p>The school has adopted three empowering beliefs and four empowering skills from the book Positive Discipline that help our students succeed in school and life.</p>
+<p><strong><u>Three Empowering Beliefs that help students succeed in school and life.</u></strong></p>
+<ol>
+<li>I am capable</li>
+<li>I contribute in meaningful ways and I am genuinely needed</li>
+<li>I use my personal power to make choices that positively influence what happens to me and my peers / community</li>
+</ol>
+<p><strong><u>Four Empowering Skills that help students succeed in school and life.</u></strong></p>
+<ol>
+<li>I have discipline and self-control</li>
+<li>I can work respectfully with others</li>
+<li>I understand how my behavior affects others</li>
+<li>I can develop wisdom and judgement skills through daily practice</li>
+</ol>
+<p>&nbsp;</p>
+<p><strong><u>STUDENT LEADERSHIP</u></strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><u>Our Beliefs and Guiding Principles</u></strong></p>
+<p>At Sengkang Green Primary School, we believe that leadership can be nurtured and all students have the potential to be developed as leaders. The student leadership development (SLD) at SKGPS focuses on cultivating students’ personal leadership which lead to self-mastery and <strong>student agency</strong>, before leading others as a servant leader.</p>
+<p>The SLD is intentionally designed to facilitate all students to discover the leader within themselves. It is guided by two beliefs.</p>
+<ul>
+<li>Every SKGian student can be developed as a leader</li>
+<li>Every SKGian student is a servant leader that goes beyond self</li>
+</ul>
+<p><strong>Our Approach</strong></p>
+<p><strong>“THE SKGIAN LEADER BEGINS WITH ME”</strong> is a three-prong approach in preparing our students to lead themselvess and contribute positively to those around them, in school and beyond.</p>
+<p>Following the framework of <strong>Discover - Develop – Distinguish</strong>, it begins with equipping every student with the basic leadership skills to lead oneself first before leading others. Opportunities and space are provided for students to <strong>discover</strong> their leadership self and <strong>develop</strong> a spectrum of leadership competencies in order to be able to lead others effectively and impact the school and community.</p>
+<p><strong><u>SLD 3D Framework:&nbsp; Discover - Develop - Distinguish<br> <br> </u></strong></p>
+<table width="672">
+<tbody>
+<tr>
+<td width="119">
+<p><strong>Approach</strong></p>
+</td>
+<td width="553">
+<p><strong>Description</strong></p>
+</td>
+</tr>
+<tr>
+<td width="119">
+<p><strong>Tier 1: Discover</strong></p>
+<p>Leadership for all</p>
+</td>
+<td width="553">
+<p>Provide all students with opportunities and space to discover their strengths and unique value as leaders. Develop leadership potential by focusing on self-mastery and student agency.</p>
+</td>
+</tr>
+<tr>
+<td width="119">
+<p><strong>Tier 2: Develop</strong></p>
+<p>Leadership for student leaders</p>
+</td>
+<td width="553">
+<p>This tier represents a spectrum of leadership competencies which students can develop and become student leaders. Students will receive leadership training and platforms for development based on their role.</p>
+</td>
+</tr>
+<tr>
+<td width="119">
+<p><strong>Tier 3: Distinguish</strong></p>
+<p>Leadership for key leaders</p>
+</td>
+<td width="553">
+<p>Develop and nurture exceptional student leaders to think critically and reflect, in order to develop greater understanding and encourage others to be active contributors to the school and community.&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong><u>Tier 1: Class Leadership Platforms &amp; Training</u></strong></p>
+<p><strong><u><br> Tier 2: Prefects &amp; Student Leaders Platforms &amp; Training</u></strong></p>
+<p><strong><u>Tier 3: Prefect Leaders</u></strong></p>
+<p>&nbsp;</p>
+<table width="654">
+<tbody>
+<tr>
+<td width="654">
+<p>Prefects who have demonstrated outstanding leadership qualities and character traits are identified to be a Prefect Leader. Prefect Leaders will work together to lead and guide their fellow student leaders to carry out their duties effectively.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Some Resources for Parents</p>
 <p>&nbsp;</p>
 <table width="722">
