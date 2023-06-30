@@ -68,16 +68,12 @@ third_nav_title: Academic
 </tr>
 </tbody>
 </table>
-<p><br> <strong><u>Aims and Objectives:<br> <br> </u></strong></p>
+<p><br> <strong><u>Aims and Objectives: </u></strong></p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To build a community of students who are future-ready digital learners through being self-directed and connected learners who leverage technology for learning.<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To develop staff into digital learners who are skillful practitioners that facilitate active learning through designing engaging learning experiences.</p>
 <p><br> <strong><u>Key Programmes<br> </u></strong><br> <strong>1. ICT Baseline Skills &amp; New Media Literacy<br> </strong><br> The baseline ICT standard and New Media Literacy is a set of ICT skills set out in progressive stages. These represent the basic level of knowledge, skills and values that students need in order to benefit from a curriculum enriched with ICT.</p>
+<p><img alt="" src="images\infocom1.jpg"></p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>2. Home-Based Learning<br> <br> </strong></p>
+<p><strong>2. Home-Based Learning</strong></p>
 <p>Home-Based Learning (HBL) takes place at the homes of students. Unlike classroom learning, there is no (or little) face-to-face interaction between students and teachers for HBL</p>
 <p>&nbsp;</p>
 <p>In a HBL environment, learning content is delivered digitally via internet. Interaction and communication between students and teachers will be facilitated through the use of the internet or telecommunication.</p>
@@ -89,9 +85,11 @@ third_nav_title: Academic
 <li>formative evaluation of learning to check understanding; and</li>
 <li>remediation to meet students’ needs</li>
 </ul>
+<p><img alt="" src="images\infocom2.jpg">
+</p><p><img alt="" src="images\infocom3.jpg"></p><p></p>
 <p>&nbsp;</p>
 <p><strong>3. Cyber Wellness</strong></p>
-<p><br> Cyberwellness refers to the positive well-being of all internet users. The programme focuses on developing our students’ awareness to be respectful and responsible digital users in cyberspace.</p>
+<p> Cyberwellness refers to the positive well-being of all internet users. The programme focuses on developing our students’ awareness to be respectful and responsible digital users in cyberspace.</p>
 <p>&nbsp;</p>
 <p><strong>Topics in the Cyber Wellness programmes include:</strong></p>
 <ul>
@@ -102,5 +100,7 @@ third_nav_title: Academic
 <li>Balanced use of ICT</li>
 <li>About the Cyber World</li>
 <li>Online Identity and Expression</li>
+<li>Handling Online Content and Behaviour</li>
 </ul>
-<p>Handling Online Content and Behaviour</p>
+<p></p>
+<p><img alt="" src="images\infocom4.png"></p>
