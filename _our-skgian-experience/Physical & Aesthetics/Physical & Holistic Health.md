@@ -102,19 +102,21 @@ Curriculum Dance</p>
 <p><img src="/images/phe003.jpg">Two-handed bounce</p>
 
 <p><strong><u>Key Programmes</u></strong></p>
-<p>&nbsp;</p>
+
 <p><em>Recess Play</em></p>
-<p>&nbsp;</p>
 <p>To encourage students to be active, PE equipment such as skipping ropes, soccer balls, foam balls etc are provided in the school’s basketball court and field for the students to play during recess. This allows students to make good use of their free time to exercise and enjoy the outdoors.<br> <br> </p>
 <p><em>Terrific Thursday</em></p>
-<p>&nbsp;</p>
 <p>On Thursdays, SKGians look forward to starting off the day with an exercise routine. Primary 5 and 6 students will be engaged in morning walk/jogs in the school field while Primary 1 to 4 students will be involved in the Jump Jam Workout, a fun and exciting kids aerobic programme.</p>
 <p><em>Terrific Thursdays</em> seek to motivate SKGians to enjoy exercise, thus promoting healthy and happy individuals in SKG.</p>
-<p>&nbsp;</p>
-<p>Recess Play</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
+<p><img src="/images/phe004.jpg">Terrific Thursday Walk/ Jog</p>
+
+<p><img src="/images/phe005.jpg">Recess Play</p>
+
 <p><em>&nbsp;</em></p>
 <p><em>Games Carnival</em></p>
-<p>&nbsp;</p>
+
 <p>Games Carnival is a key SKGPS sporting event that is held on Children’s Day. The aim of the event is to provide opportunity for students to apply psychomotor skills that they had learnt during PE lessons, in a fun, cooperative and competitive game environment. These games not only promote mass participation but also put to test both individual and team camaraderie and help build class affiliation, school spirit and bonding among the students and teachers.</p>
+
+<p><img src="/images/phe006.PNG"></p>
+<p><img src="/images/phe007.PNG"></p>
