@@ -43,4 +43,4 @@ third_nav_title: Physical & Aesthetics
 </ul>
 <p>thus developing in students a passion for lifelong learning in music.</p>
 
-<img alt="" src="/images/aes006.PNG">
+<img alt="" src="/images/aes006a.PNG">
