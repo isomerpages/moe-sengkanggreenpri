@@ -76,15 +76,12 @@ third_nav_title: Student Development
 <p>LJs aim to instil in our students, pride in Singapore’s achievements, to help them understand Singapore’s constraints, challenges and opportunities, build their confidence in our future, and nurture a sense of belonging to Singapore.</p>
 <p>&nbsp;</p>
 <p>Inherent in the concept of LJs is the belief that every trip undertaken by our students out of the school is an important learning experience that will link the theoretical with the experiential - injecting life and meaning to the learning so that it becomes real and concrete. By visiting key installations in Singapore, our students will get see the principles and theories learnt in the classroom and textbooks applied in real life situations, and understand that meritocracy, hard work, the desire to excel, and readiness to take calculated risks have allowed us to overcome many constraints and turn challenges into opportunities.</p>
-<p><strong>&nbsp;</strong></p>
-<p><strong>[Examples of LJs pic]</strong></p>
-<p><strong>&nbsp;</strong></p>
-<p><strong>Values in Action (VIA)</strong><strong>&nbsp;</strong></p>
-<p>In our efforts to nurture our students to become active contributors and concerned citizens of the future, the school has adopted a 6-year spiral developmental plan in the implementation of its VIA Programme.&nbsp;Our VIA activities are designed with a focus on the home, school and the community &amp; the nation.&nbsp;Through the VIA learning experiences, our students are encouraged to identify and understand community issues, initiate actions among peers and improve the lives of others. Throughout the process, students reflect on what they have learnt and how they can continue to make a difference to others.</p>
+<img alt="" src="images\ccelj1.jpg"> <br>
+<img alt="" src="images\ccelj2.jpg">
+
+<p><strong>Values in Action (VIA)</strong><br>
+In our efforts to nurture our students to become active contributors and concerned citizens of the future, the school has adopted a 6-year spiral developmental plan in the implementation of its VIA Programme.&nbsp;Our VIA activities are designed with a focus on the home, school and the community &amp; the nation.&nbsp;Through the VIA learning experiences, our students are encouraged to identify and understand community issues, initiate actions among peers and improve the lives of others. Throughout the process, students reflect on what they have learnt and how they can continue to make a difference to others.</p>
 <img alt="" src="images\cce010.PNG">
 <img alt="" src="images\cce011.PNG">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>SkillsFuture@SKGPS</strong></p>
-<p>Our SkillsFuture@SKGPS programme aims to equip every SKGian with the information to explore various education pathways and make well-informed educational and career choices. In this fast-changing world, we prepare our students to face challenges and seize opportunities brought about by globalisation, changing demographics and technological advancements. Therefore, SkillsFuture@SKGPS adopts a whole school approach to empower our students to embark on a journey of self-discovery, knowing more about their strengths, interests and aspirations to be future-ready.</p>
+<p><strong>SkillsFuture@SKGPS</strong><br>Our SkillsFuture@SKGPS programme aims to equip every SKGian with the information to explore various education pathways and make well-informed educational and career choices. In this fast-changing world, we prepare our students to face challenges and seize opportunities brought about by globalisation, changing demographics and technological advancements. Therefore, SkillsFuture@SKGPS adopts a whole school approach to empower our students to embark on a journey of self-discovery, knowing more about their strengths, interests and aspirations to be future-ready.</p>
 <img alt="" src="images\cce012.PNG">
