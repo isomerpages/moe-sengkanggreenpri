@@ -78,4 +78,4 @@ third_nav_title: Highlights
 <li>If you have further questions, you can call the school at 6386 4255.&nbsp;</li>
 </ol>
 <p><strong>Frequently Asked Questions (FAQ)</strong></p>
-<p>Please click&nbsp;<a href="/files/FAQ%20e-Open%20House%202022.pdf" target="_blank" rel="noopener">here</a>&nbsp;to view.</p>
+<p>Please click&nbsp;<a href="/files/faq e-open house 2023.pdf" target="_blank" rel="noopener">here</a>&nbsp;to view.</p>
