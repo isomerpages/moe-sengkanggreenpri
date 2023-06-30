@@ -4,19 +4,19 @@ permalink: /our-skgian-experience/student-development/character-and-citizenship-
 description: ""
 third_nav_title: Student Development
 ---
-<table>
+<table style="width: 481px;">
 <tbody>
 <tr>
-<td width="324">
+<td style="width: 229.797px;">
 <p><strong>The CCE Team</strong></p>
-	<img alt="" src="images\cce001.png">
+<img alt="" src="images\cce001.png">
 <p><strong>&nbsp;</strong></p>
 </td>
-<td width="636">
-<table width="100%">
+<td style="width: 231.203px;">
+<table style="width: 101.718%;">
 <tbody>
 <tr>
-<td>
+<td style="width: 100%;">
 <p>Head of Department (Character and Citizenship Education): Mrs Ivy Tan</p>
 <p>Senior Teacher (Character and Citizenship Education): Ms Hayati Bte Abdul Rahim</p>
 <p>Senior Teacher (Social Studies): Mdm Neo Lay Kheng</p>
