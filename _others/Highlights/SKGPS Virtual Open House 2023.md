@@ -4,7 +4,7 @@ permalink: /others/highlights/skgps-virtual-open-house-2023/
 description: ""
 third_nav_title: Highlights
 ---
-<img style="width: 75%;" src="/images/eopen.jpeg">
+<img style="width: 75%;" src="/images/skg_openhouse2023.jpg">
 <h4>Sengkang Green Primary School Corporate Video</h4>
 <p><iframe allowfullscreen="allowfullscreen" frameborder="0" height="360" width="640" src="https://player.vimeo.com/video/841075082?h=577f447e77&amp;byline=0&amp;portrait=0"></iframe></p>
 
