@@ -18,4 +18,10 @@ sections:
           description: ""
           url: /useful-links/
       background: /images/banner.gif
+  - infopic:
+      title: Virtual Open House
+      button: Enter
+      url: /others/highlights/skgps-virtual-open-house-2023/
+      image: /images/skg_openhouse2023.jpg
+      alt: Image alt text
 ---
