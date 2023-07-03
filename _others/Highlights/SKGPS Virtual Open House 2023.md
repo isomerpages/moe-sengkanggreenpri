@@ -1,14 +1,13 @@
 ---
-title: SKGPS e Open House 2022
-permalink: /others/highlights/skgps-e-open-house-2022/
+title: SKGPS Virtual Open House 2023
+permalink: /others/highlights/skgps-virtual-open-house-2023/
 description: ""
 third_nav_title: Highlights
 ---
-<img style="width: 75%;" src="/images/eopen.jpeg">
-<h4>Welcome by Principal</h4>
-<div><iframe src="https://player.vimeo.com/video/725503968?h=220f720eff" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
-<h4>Open House Video</h4>
-<div><iframe src="https://player.vimeo.com/video/725665063?h=ea1079ba72" width="640" height="480" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<img style="width: 75%;" src="/images/skg_openhouse2023.jpg">
+<h4>Sengkang Green Primary School Corporate Video</h4>
+<p><iframe allowfullscreen="allowfullscreen" frameborder="0" height="360" width="640" src="https://player.vimeo.com/video/841075082?h=577f447e77&amp;byline=0&amp;portrait=0"></iframe></p>
+
 <h4>Virtual School Tour</h4>
 <p>*Note: For best user experience, screen size of at least 7 inches is recommended. *</p><a href="https://ths.li/TEohfo" rel="noopener" target="_blank">https://ths.li/TEohfo</a>
 
@@ -67,13 +66,16 @@ third_nav_title: Highlights
 </tr>
 </tbody>
 </table>
+<h4>Open House Video 2022</h4>
+<div><iframe src="https://player.vimeo.com/video/725665063?h=ea1079ba72" width="640" height="480" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
 <h4>P1 Registration</h4>
-<p><strong>2022 Primary&nbsp;One Registration Exercise (For Admission to Primary One in 2023) Updates &amp; New Developments</strong></p>
-<p>1. Similar to last year's P1 Registration Exercise, there will not be any in-person registration at schools and registration will be fully online.&nbsp;</p>
-<p>2. The registration of children for admission to Primary One (P1) classes in 2023 will open from Wednesday, 29 June 2022 to Monday, 31 October 2022. The dates for the different phases of registration can be found at:<a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates" target="_blank" rel="noopener">https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates</a>.</p>
-<p>3. The list of primary schools and vacancies available will also be updated on the P1 Registration website at&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration" target="_blank" rel="noopener">https://www.moe.gov.sg/primary/p1-registration</a>&nbsp;by mid-June 2022.</p>
-<p>4. Information on the P1 Registration Exercise is also available as part of the Primary School Education Booklet, which can be downloaded at&nbsp;<a href="https://www.moe.gov.sg/primary/curriculum" target="_blank" rel="noopener">https://www.moe.gov.sg/primary/curriculum</a>.</p>
-<p>5. More information can be found the MOE press release at&nbsp;<a href="https://www.moe.gov.sg/news/press-releases/20220519-2022-primary-one-registration-exercise-to-start-from-29-june-2022" target="_blank" rel="noopener">https://www.moe.gov.sg/news/press-releases/20220519-2022-primary-one-registration-exercise-to-start-from-29-june-2022</a></p>
-<p>6. If you have further questions, you can call the school at 6386 4255.&nbsp;</p><hr>
+<p><strong>2023 Primary&nbsp;One Registration Exercise (For Admission to Primary One in 2024) </strong></p>
+<ol>
+<li>Similar to last year's P1 Registration Exercise, there will not be any in-person registration at schools and registration will be fully online.&nbsp;</li>
+<li>The registration of children for admission to Primary One (P1) classes in 2024 will open from Tuesday, 4 July 2023. The dates for the different phases of registration can be found at: <a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates">https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates</a></li>
+<li>The list of primary schools and vacancies available will also be updated on the P1 Registration website at <a href="https://www.moe.gov.sg/primary/p1-registration/vacancies-and-balloting">https://www.moe.gov.sg/primary/p1-registration/vacancies-and-balloting</a></li>
+<li>More information can be found the MOE Website at <a href="https://www.moe.gov.sg/primary/p1-registration">https://www.moe.gov.sg/primary/p1-registration</a></li>
+<li>If you have further questions, you can call the school at 6386 4255.&nbsp;</li>
+</ol>
 <p><strong>Frequently Asked Questions (FAQ)</strong></p>
-<p>Please click&nbsp;<a href="/files/FAQ%20e-Open%20House%202022.pdf" target="_blank" rel="noopener">here</a>&nbsp;to view.</p>
+<p>Please click&nbsp;<a href="https://drive.google.com/file/d/1FUudkgHp8QB42PmZM0cbdah0fZYa77oy/view?usp=sharing" target="_blank" rel="noopener">here</a>&nbsp;to view.</p>
