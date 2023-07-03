@@ -17,7 +17,7 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/
-      background: /images/banner.gif
+      background: /images/new banner.gif
   - infopic:
       title: eOpen House 2023
       button: Enter
