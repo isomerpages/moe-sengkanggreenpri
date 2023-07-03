@@ -19,7 +19,7 @@ sections:
           url: /useful-links/
       background: /images/banner.gif
   - infopic:
-      title: Virtual Open House
+      title: eOpen House 2023
       button: Enter
       url: /others/highlights/skgps-virtual-open-house-2023/
       image: /images/skg_openhouse2023.jpg
