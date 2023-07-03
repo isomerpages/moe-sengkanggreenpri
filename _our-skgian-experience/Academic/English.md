@@ -4,12 +4,72 @@ permalink: /our-skgian-experience/academic/english/
 description: ""
 third_nav_title: Academic
 ---
-<p><strong>English</strong></p>
-<p><strong>&nbsp;</strong></p>
 <p><strong>Key Personnel</strong></p>
 <p>Head of Department: Ms Chua Siew Kheng</p>
-<p>Level Head: Mrs Jacelyn Liu</p>
+<p>Level Heads: Mrs Jacelyn Liu and Ms Tan Wei Lin Winnie</p>
 <p>Senior Teacher: Mrs Eunice Kwok&nbsp;</p>
+
+<p><strong>Department Members</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="234">
+<p>Ms Ng Lip Kiang (SSD)</p>
+</td>
+<td width="234">
+<p>Ms Lam Hui Hui Amy (P1 SLR)</p>
+</td>
+<td width="234">
+<p>Mrs Sangeetha Siva (P6 SLR)</p>
+</td>
+<td width="234">
+<p>Miss Lynette Tan</p>
+</td>
+</tr>
+<tr>
+<td width="234">
+<p>Mdm Nur Ain B Ahmad (YH/UP)</p>
+</td>
+<td width="234">
+<p>Mrs Aileen Kwok (P2 SLR)</p>
+</td>
+<td width="234">
+<p>Mdm Chitra Devi Gunasegar</p>
+</td>
+<td width="234">
+<p>Mdm Lam May Yuen</p>
+</td>
+</tr>
+<tr>
+<td width="234">
+<p>Mrs Toh Wai Ling (YH/LP)</p>
+</td>
+<td width="234">
+<p>Mr Aanand Pandiyan (P3 SLR)</p>
+</td>
+<td width="234">
+<p>Mdm Ravetha Adelina S Umapathy</p>
+</td>
+<td width="234">
+<p>Mrs Ofelia Yeo Shi Yun</p>
+</td>
+</tr>
+<tr>
+<td width="234">
+<p>Mdm Neo Lay Kheng (ST SS)</p>
+</td>
+<td width="234">
+<p>Ms Jaysleen Leow (P5 SLR)</p>
+</td>
+<td width="234">
+<p>Mdm Muhamudha Binte Maideen Abu Baker</p>
+</td>
+<td width="234">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>&nbsp;</p>
 <p><strong>Department Vision</strong></p>
 <p>Engaged 21<sup>st</sup>&nbsp;Century EL Learners</p>
