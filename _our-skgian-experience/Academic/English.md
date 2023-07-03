@@ -73,16 +73,15 @@ third_nav_title: Academic
 <p>&nbsp;</p>
 <p><strong>Department Vision</strong></p>
 <p>Engaged 21<sup>st</sup>&nbsp;Century EL Learners</p>
-<p>&nbsp;</p>
+
 <p><strong>Mission</strong></p>
 <p>To&nbsp;develop&nbsp;<em>empathetic communicators</em>,&nbsp;<em>discerning readers</em>&nbsp;and&nbsp;<em>creative inquirers</em>&nbsp;who have&nbsp;<em>strong fundamentals</em>&nbsp;and&nbsp;<em>21<sup>st</sup>&nbsp;century competencies</em></p>
-<p><em>&nbsp;</em></p>
+
 <p><strong>Key Programmes</strong></p>
-<p><strong>&nbsp;</strong></p>
+
 <p><strong>Read@SKGPS Programme</strong></p>
 <p>We believe that reading helps our students to be future-ready learner by building their language skills and perspective-taking skills. Thus, the reading habit and the love for reading should be cultivated since young. To this end, we have collaborated with the National Library Board (NLB) on various reading programmes and activities to get our students engaged and motivated to read. Reading is a huge part of the English Language curriculum and teachers conduct&nbsp;regular reading periods during which both teachers and students read for a period of time, hold book talks, do book presentations or engage in reading activities.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <table width="869">
 <tbody>
 <tr>
@@ -112,22 +111,17 @@ third_nav_title: Academic
 <p>Students writing book recommendations for their peers in the School Library.&nbsp;</p>
 </td>
 <td width="419">
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+
 <p><strong>Supplementary Reading Programme&nbsp;</strong></p>
 <p>To promote a positive attitude towards reading, we weave reading into the daily life of our students. An inviting reading corner is a staple feature in the classroom where students can look forward to reading a wide variety of books. In addition, we provide access to quality fiction and non-fiction texts for all our students through the Supplementary Reading Programme. Our students subscribe to graded readers and student-friendly newspapers which are used by teachers to teach language skills in class.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp; &nbsp;&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>P1 and P2 Speech and Drama Programmes</strong></p>
 <p>All our P1 and P2 students attend Speech and Drama lessons during curriculum time to develop communication and collaborative skills. The programme aims to develop our students into confident communicators as Speech and Drama integrates reading, speaking and listening skills. All our students learn to enjoy the English Language in a creative environment. They especially enjoy having the opportunity to showcase their skills and talents in a class performance with their parents as their enthusiastic and supportive audience. By getting the students involved in an authentic cooperative activity to develop their confidence, we hope to excite our students in language learning.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <table width="664">
 <tbody>
 <tr>
@@ -143,8 +137,7 @@ third_nav_title: Academic
 <p>&nbsp;</p>
 <p><strong>Literature Programme&nbsp;</strong></p>
 <p>Our students are introduced to literature study from Primary Three to Primary Five. Through the study of literature, our students learn about the purpose of reading – understanding and appreciating a writer's use of language to hook an audience of readers. Literature also shows our students how writing entails making choices to create an impact on the reader. Through literature, the study of the forms and structures of language – vocabulary, grammar and syntax – is transformed into something living and relevant to the learner’s need to communicate effectively in a complex world.&nbsp;Beyond expanding our students’ literacy skills and vocabulary, literature is also widely known to develop empathy and a deeper understanding of the world around us as our students explore themes and character studies.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <table width="772">
 <tbody>
 <tr>
