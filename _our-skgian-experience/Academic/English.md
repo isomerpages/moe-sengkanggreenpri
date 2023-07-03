@@ -166,3 +166,12 @@ third_nav_title: Academic
 <p><strong>Reading Remediation Programme 2.0 (RRP 2.0)</strong></p>
 <p>The Reading Remediation Programme (RRP) aims to provide support for P3 and P4 students who still face consistent difficulty in reading in the English Language despite having completed the Learning Support Programme in P1 and P2. The programme exposes students to a range of coping strategies for reading comprehension which will enable them to better manage their learning in the regular classroom.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
+<p><strong>Useful Websites&nbsp;</strong></p>
+<p><strong>ENGLISH&nbsp;LANGUAGE SYLLABUS 2020</strong></p>
+<p><a href="https://www.moe.gov.sg/-/media/files/primary/2020-english-language-primary.pdf"><strong>https://www.moe.gov.sg/-/media/files/primary/2020-english-language-primary.pdf</strong></a></p>
+<p>&nbsp;</p>
+<p><strong>SCHOOL eRESOURCE REPOSITORY (SERR)</strong></p>
+<p><a href="https://schoolibrary.moe.edu.sg/eresourcespri/"><strong>https://schoolibrary.moe.edu.sg/eresourcespri/</strong></a></p>
+<p>&nbsp;</p>
+<p><strong>SCHOOLBAG The Education News Site</strong></p>
+<p><a href="https://www.schoolbag.edu.sg/"><strong>https://www.schoolbag.edu.sg/</strong></a></p>
