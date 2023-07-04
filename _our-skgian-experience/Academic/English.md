@@ -10,61 +10,61 @@ third_nav_title: Academic
 <p>Senior Teacher: Mrs Eunice Kwok&nbsp;</p>
 
 <p><strong>Department Members</strong></p>
-<table>
+<table cellspacing="1" border="2" style="border-style: solid; border-color: black;">
 <tbody>
 <tr>
-<td width="234">
+<td style="width: 116.094px;">
 <p>Ms Ng Lip Kiang (SSD)</p>
 </td>
-<td width="234">
+<td style="width: 120.297px;">
 <p>Ms Lam Hui Hui Amy (P1 SLR)</p>
 </td>
-<td width="234">
+<td style="width: 135.75px;">
 <p>Mrs Sangeetha Siva (P6 SLR)</p>
 </td>
-<td width="234">
+<td style="width: 112.812px;">
 <p>Miss Lynette Tan</p>
 </td>
 </tr>
 <tr>
-<td width="234">
+<td style="width: 116.094px;">
 <p>Mdm Nur Ain B Ahmad (YH/UP)</p>
 </td>
-<td width="234">
+<td style="width: 120.297px;">
 <p>Mrs Aileen Kwok (P2 SLR)</p>
 </td>
-<td width="234">
+<td style="width: 135.75px;">
 <p>Mdm Chitra Devi Gunasegar</p>
 </td>
-<td width="234">
+<td style="width: 112.812px;">
 <p>Mdm Lam May Yuen</p>
 </td>
 </tr>
 <tr>
-<td width="234">
+<td style="width: 116.094px;">
 <p>Mrs Toh Wai Ling (YH/LP)</p>
 </td>
-<td width="234">
+<td style="width: 120.297px;">
 <p>Mr Aanand Pandiyan (P3 SLR)</p>
 </td>
-<td width="234">
+<td style="width: 135.75px;">
 <p>Mdm Ravetha Adelina S Umapathy</p>
 </td>
-<td width="234">
+<td style="width: 112.812px;">
 <p>Mrs Ofelia Yeo Shi Yun</p>
 </td>
 </tr>
 <tr>
-<td width="234">
+<td style="width: 116.094px;">
 <p>Mdm Neo Lay Kheng (ST SS)</p>
 </td>
-<td width="234">
+<td style="width: 120.297px;">
 <p>Ms Jaysleen Leow (P5 SLR)</p>
 </td>
-<td width="234">
+<td style="width: 135.75px;">
 <p>Mdm Muhamudha Binte Maideen Abu Baker</p>
 </td>
-<td width="234">
+<td style="width: 112.812px;">
 <p>&nbsp;</p>
 </td>
 </tr>
