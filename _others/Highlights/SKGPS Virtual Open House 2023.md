@@ -66,8 +66,8 @@ third_nav_title: Highlights
 </tr>
 </tbody>
 </table>
-<h4>Open House Video 2022</h4>
-<div><iframe src="https://player.vimeo.com/video/725665063?h=ea1079ba72" width="640" height="480" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<h4>Open House Video</h4>
+<div><iframe src="https://player.vimeo.com/video/841726073?h=505c9d3613" width="640" height="480" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
 <h4>P1 Registration</h4>
 <p><strong>2023 Primary&nbsp;One Registration Exercise (For Admission to Primary One in 2024) </strong></p>
 <ol>
