@@ -10,66 +10,67 @@ third_nav_title: Academic
 <p>Senior Teacher: Mrs Eunice Kwok&nbsp;</p>
 
 <p><strong>Department Members</strong></p>
-<table cellspacing="1" border="2" style="height: 292px; border-style: solid; border-color: black;">
-<tbody>
-<tr style="height: 64px;">
-<td style="width: 116.094px; height: 64px;">
-<p>Ms Ng Lip Kiang (SSD)</p>
-</td>
-<td style="width: 120.297px; height: 64px;">
-<p>Ms Lam Hui Hui Amy (P1 SLR)</p>
-</td>
-<td style="width: 135.75px; height: 64px;">
-<p>Mrs Sangeetha Siva (P6 SLR)</p>
-</td>
-<td style="width: 112.797px; height: 64px;">
-<p>Miss Lynette Tan</p>
-</td>
-</tr>
-<tr style="height: 64px;">
-<td style="width: 116.094px; height: 64px;">
-<p>Mdm Nur Ain B Ahmad (YH/UP)</p>
-</td>
-<td style="width: 120.297px; height: 64px;">
-<p>Mrs Aileen Kwok (P2 SLR)</p>
-</td>
-<td style="width: 135.75px; height: 64px;">
-<p>Mdm Chitra Devi Gunasegar</p>
-</td>
-<td style="width: 112.797px; height: 64px;">
-<p>Mdm Lam May Yuen</p>
-</td>
-</tr>
-<tr style="height: 82px;">
-<td style="width: 116.094px; height: 82px;">
-<p>Mrs Toh Wai Ling (YH/LP)</p>
-</td>
-<td style="width: 120.297px; height: 82px;">
-<p>Mr Aanand Pandiyan (P3 SLR)</p>
-</td>
-<td style="width: 135.75px; height: 82px;">
-<p>Mdm Ravetha Adelina S Umapathy</p>
-</td>
-<td style="width: 112.797px; height: 82px;">
-<p>Mrs Ofelia Yeo Shi Yun</p>
-</td>
-</tr>
-<tr style="height: 82px;">
-<td style="width: 116.094px; height: 82px;">
-<p>Mdm Neo Lay Kheng (ST SS)</p>
-</td>
-<td style="width: 120.297px; height: 82px;">
-<p>Ms Jaysleen Leow (P5 SLR)</p>
-</td>
-<td style="width: 135.75px; height: 82px;">
-<p>Mdm Muhamudha Binte Maideen Abu Baker</p>
-</td>
-<td style="width: 112.797px; height: 82px;">
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
+<table style="border:1px solid windowtext; width:975px" class="Table" border="1">
+	<tbody>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-width:1px; width:237px">
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Ms Ng Lip Kiang (SSD)</span></span></span></span></p>
+			</td>
+			<td style="border-color:black; border-style:solid; border-width:1px; width:231px">
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Ms Lam Hui Hui Amy (P1 SLR)</span></span></span></span></p>
+			</td>
+			<td style="border-color:black; border-style:solid; border-width:1px; width:298px">
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Mrs Sangeetha Siva (P6 SLR)</span></span></span></span></p>
+			</td>
+			<td style="border-color:black; border-style:solid; border-width:1px; width:182px">
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Miss Lynette Tan</span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-width:1px; width:237px">
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Mdm Nur Ain B Ahmad (YH/UP)</span></span></span></span></p>
+			</td>
+			<td style="border-color:black; border-style:solid; border-width:1px; width:231px">
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Mrs Aileen Kwok (P2 SLR)</span></span></span></span></p>
+			</td>
+			<td style="border-color:black; border-style:solid; border-width:1px; width:298px">
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Mdm Chitra Devi Gunasegar</span></span></span></span></p>
+			</td>
+			<td style="border-color:black; border-style:solid; border-width:1px; width:182px">
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Mdm Lam May Yuen</span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-width:1px; width:237px">
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Mrs Toh Wai Ling (YH/LP)</span></span></span></span></p>
+			</td>
+			<td style="border-color:black; border-style:solid; border-width:1px; width:231px">
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Mr Aanand Pandiyan (P3 SLR)</span></span></span></span></p>
+			</td>
+			<td style="border-color:black; border-style:solid; border-width:1px; width:298px">
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Mdm Ravetha Adelina S Umapathy</span></span></span></span></p>
+			</td>
+			<td style="border-color:black; border-style:solid; border-width:1px; width:182px">
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Mrs Ofelia Yeo Shi Yun</span></span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-width:1px; width:237px">
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Mdm Neo Lay Kheng (ST SS)</span></span></span></span></p>
+			</td>
+			<td style="border-color:black; border-style:solid; border-width:1px; width:231px">
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Ms Jaysleen Leow (P5 SLR)</span></span></span></span></p>
+			</td>
+			<td style="border-color:black; border-style:solid; border-width:1px; width:298px">
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Mdm Muhamudha Binte Maideen Abu Baker</span></span></span></span></p>
+			</td>
+			<td style="border-color:black; border-style:solid; border-width:1px; width:182px">
+			<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">&nbsp;</span></span></p>
+			</td>
+		</tr>
+	</tbody>
 </table>
+
 <p>&nbsp;</p>
 <p><strong>Department Vision</strong></p>
 <p>Engaged 21<sup>st</sup>&nbsp;Century EL Learners</p>
