@@ -10,61 +10,61 @@ third_nav_title: Academic
 <p>Senior Teacher: Mrs Eunice Kwok&nbsp;</p>
 
 <p><strong>Department Members</strong></p>
-<table cellspacing="1" border="2" style="border-style: solid; border-color: black;">
+<table cellspacing="1" border="2" style="height: 292px; border-style: solid; border-color: black;">
 <tbody>
-<tr>
-<td style="width: 116.094px;">
+<tr style="height: 64px;">
+<td style="width: 116.094px; height: 64px;">
 <p>Ms Ng Lip Kiang (SSD)</p>
 </td>
-<td style="width: 120.297px;">
+<td style="width: 120.297px; height: 64px;">
 <p>Ms Lam Hui Hui Amy (P1 SLR)</p>
 </td>
-<td style="width: 135.75px;">
+<td style="width: 135.75px; height: 64px;">
 <p>Mrs Sangeetha Siva (P6 SLR)</p>
 </td>
-<td style="width: 112.812px;">
+<td style="width: 112.797px; height: 64px;">
 <p>Miss Lynette Tan</p>
 </td>
 </tr>
-<tr>
-<td style="width: 116.094px;">
+<tr style="height: 64px;">
+<td style="width: 116.094px; height: 64px;">
 <p>Mdm Nur Ain B Ahmad (YH/UP)</p>
 </td>
-<td style="width: 120.297px;">
+<td style="width: 120.297px; height: 64px;">
 <p>Mrs Aileen Kwok (P2 SLR)</p>
 </td>
-<td style="width: 135.75px;">
+<td style="width: 135.75px; height: 64px;">
 <p>Mdm Chitra Devi Gunasegar</p>
 </td>
-<td style="width: 112.812px;">
+<td style="width: 112.797px; height: 64px;">
 <p>Mdm Lam May Yuen</p>
 </td>
 </tr>
-<tr>
-<td style="width: 116.094px;">
+<tr style="height: 82px;">
+<td style="width: 116.094px; height: 82px;">
 <p>Mrs Toh Wai Ling (YH/LP)</p>
 </td>
-<td style="width: 120.297px;">
+<td style="width: 120.297px; height: 82px;">
 <p>Mr Aanand Pandiyan (P3 SLR)</p>
 </td>
-<td style="width: 135.75px;">
+<td style="width: 135.75px; height: 82px;">
 <p>Mdm Ravetha Adelina S Umapathy</p>
 </td>
-<td style="width: 112.812px;">
+<td style="width: 112.797px; height: 82px;">
 <p>Mrs Ofelia Yeo Shi Yun</p>
 </td>
 </tr>
-<tr>
-<td style="width: 116.094px;">
+<tr style="height: 82px;">
+<td style="width: 116.094px; height: 82px;">
 <p>Mdm Neo Lay Kheng (ST SS)</p>
 </td>
-<td style="width: 120.297px;">
+<td style="width: 120.297px; height: 82px;">
 <p>Ms Jaysleen Leow (P5 SLR)</p>
 </td>
-<td style="width: 135.75px;">
+<td style="width: 135.75px; height: 82px;">
 <p>Mdm Muhamudha Binte Maideen Abu Baker</p>
 </td>
-<td style="width: 112.812px;">
+<td style="width: 112.797px; height: 82px;">
 <p>&nbsp;</p>
 </td>
 </tr>
