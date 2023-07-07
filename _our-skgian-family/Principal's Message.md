@@ -21,7 +21,7 @@ description: ""
 <li>Developing eco-stewardship to nurture SKGians to be champions of sustainability;</li>
 <li>Equipping students to use technology responsibly and effectively to learn.</li>
 </ul>
-<pre style="text-align: center;"><img src="/images/pm2.jpg" style="width: 70%;"><br><span style="text-align: center;">Mr Gau encouraging P6 students in Market Place </span>2022, <br>a Values-In-Action (VIA) activity<br><br><br><br><img src="/images/pm3.jpg" style="width: 70%;"><br>Mr Gau with our ever-supportive Parent Support Group<br><br><br><br><img src="/images/pm4.jpg" style="width: 70%;"><br>Mr Gau led school staff on a retreat in November 2022<br>to discuss and plan for the 10<sup style="font-family: Verdana, Arial, Helvetica, sans-serif;">th</sup>Anniversary in 2023</pre>
+<pre style="text-align: center;"><img src="/images/pm2.jpg" style="width: 80%;"><span style="text-align: center;">Mr Gau encouraging P6 students in Market Place </span>2022, <br>a Values-In-Action (VIA) activity<br><br><img src="/images/pm3.jpg" style="width: 80%;"><br>Mr Gau with our ever-supportive Parent Support Group<br><br><br><img src="/images/pm4.jpg" style="width: 80%;"><br>Mr Gau led school staff on a retreat in November 2022 to discuss <br>and plan for the 10<sup style="font-family: Verdana, Arial, Helvetica, sans-serif;">th</sup>Anniversary in 2023</pre>
 <p>I call upon all teachers (and staff), parents, stakeholders and SKGians to rally around the school as a community to celebrate our anniversary actively and meaningfully. More details on the 10<sup>th</sup>&nbsp;Anniversary celebration events will be made known in due time.</p>
 <p>Happy 10<sup>th</sup>&nbsp;Anniversary! And I wish everyone a successful year ahead.</p>
 <p>Mr Gau Poh Teck<br>Principal</p>
