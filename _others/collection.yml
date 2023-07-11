@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - Banner Slider.md
       - Announcements/10th Year Anniversary Celebration.md
       - Announcements/.keep
       - Announcements/Announcements.md
@@ -16,12 +15,3 @@ collections:
       - Highlights/Chinese New Year well wishes for Teachers.md
       - Highlights/SKGPS Virtual Open House 2023.md
       - Highlights/MK Open House 2023.md
-      - Parents/.keep
-      - Parents/Parents.md
-      - Parents/Archives.md
-      - Parents/Open House 2019.md
-      - Photo Gallery.md
-      - School Brochures 2015.md
-      - MOE Kindergarten.md
-      - Principal's Message.md
-      - Announcements – Archives.md
