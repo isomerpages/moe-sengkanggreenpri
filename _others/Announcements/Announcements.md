@@ -4,6 +4,11 @@ permalink: /others/announcements/
 description: ""
 third_nav_title: Announcements
 ---
+<p><strong>Art Outreach @ National Museum Singapore</strong></p>
+<p>Please click <a rel="noopener" target="_blank" href="https://drive.google.com/file/d/1wXeEPxAgJBx3knqtrYqNILt26RMJ0xrD/view?usp=drive_link">here</a> for more info.</p>
+<p>Thank you.</p>
+<hr>
+
 <p><strong>10th Year Anniversary Celebration</strong></p>
 <p>Dear all,</p>
 <p>We are pleased to announce that the event photos have been uploaded to the designated drive.&nbsp;</p>

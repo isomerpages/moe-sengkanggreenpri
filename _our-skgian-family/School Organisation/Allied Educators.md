@@ -24,7 +24,7 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td style="text-align: center;">Special Educational Needs Officer</td>
-<td style="text-align: center;">Mdm Tan Yam Peng (Mandy)</td>
+<td style="text-align: center;">Ms Nurlyana Binte Mohd Bahtiaraffandi</td>
 </tr>
 <tr>
 <td style="text-align: center;">Special Educational Needs Officer</td>
