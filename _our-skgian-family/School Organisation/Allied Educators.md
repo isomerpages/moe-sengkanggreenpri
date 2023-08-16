@@ -18,6 +18,10 @@ third_nav_title: School Organisation
 <td style="text-align: center;">School Counsellor</td>
 <td style="text-align: center;">Mr Haji Agus Bin Abdullah</td>
 </tr>
+	<tr>
+<td style="text-align: center;">School Counsellor</td>
+<td style="text-align: center;">Ms Lim Choon Eng</td>
+</tr>
 <tr>
 <td style="text-align: center;">Special Educational Needs Officer</td>
 <td style="text-align: center;">Ms Tan Lay Hiong</td>
@@ -26,13 +30,9 @@ third_nav_title: School Organisation
 <td style="text-align: center;">Special Educational Needs Officer</td>
 <td style="text-align: center;">Ms Nurlyana Binte Mohd Bahtiaraffandi</td>
 </tr>
+
 <tr>
-<td style="text-align: center;">Special Educational Needs Officer</td>
-<td style="text-align: center;">Ms Berina Teoh Li Min</td>
-</tr>
-<tr>
-<td style="text-align: center;">Special Educational Needs Officer</td>
-<td style="text-align: center;">Ms Fitriah Binti Osman </td>
+
 </tr>
 </tbody>
 </table>
