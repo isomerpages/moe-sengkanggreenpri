@@ -9,34 +9,65 @@ third_nav_title: Academic
 <p><strong>母</strong><strong>语组主任：</strong>陈思薇 女士</p>
 <p>&nbsp;</p>
 <p>Mother Tongue Teachers:</p>
-<p>Mdm Chng E-Hwei (Senior Teacher)</p>
-<p>Mdm Lim Peak Deng</p>
-<p>Mr Zhang Xingang</p>
-<p>Ms Liu Xiaoyu</p>
-<p>Mdm Luo Yanping</p>
-<p>Ms Koh Jia Shan</p>
-<p>Mdm Wang Yan</p>
-<p>Mdm Stephanie Tan Xian Hui</p>
-<p>Mdm Serene Tan</p>
-<p>Ms Lee Ya Ting</p>
-<p>Ms Kao Pow Ling</p>
-<p>Ms Lo Yuan Yuan</p>
-<p>Mdm Ngo Seoh Chwee</p>
-<p>Ms Lim See Chii</p>
-<p>Ms Alies Wong&nbsp;</p>
-<p>Mdm Andrea Goh</p>
-<p>Mdm Lim Sock Ngoh</p>
-<p>Ms Chua Seow Koon</p>
-<p>&nbsp;</p>
-<p>Mdm Norashikin Bte Abdul Hamid (Subject Head ML)</p>
-<p>Mdm Yasmin B Azahari (Senior Teacher)</p>
-<p>Ms Syazwani Binti Hasrol</p>
-<p>Mdm Humairiah Bte Ahmad</p>
-<p>Ms Wan Nur Raudhah</p>
-<p>Mr Aman bin Samat</p>
-<p>&nbsp;</p>
-<p>Mdm Suguna Gopynathan</p>
-<p>Mr Syed Ashratullah s/o Syed Sebakhatulla</p>
+<table width="756">
+<tbody>
+<tr>
+<td width="337">Mdm Chng E-Hwei (Senior Teacher)&nbsp;</td>
+<td width="270">Ms Koh Jia Shan&nbsp;</td>
+<td width="149">Ms Lo Yuan Yuan&nbsp;</td>
+</tr>
+<tr>
+<td>Mdm Lim Peak Deng&nbsp;</td>
+<td>Mdm Wang Yan&nbsp;</td>
+<td>Mdm Ngo Seoh Chwee&nbsp;</td>
+</tr>
+<tr>
+<td>Mr Zhang Xingang&nbsp;</td>
+<td>Ms Kao Pow Ling&nbsp;</td>
+<td>Ms Lim See Chii&nbsp;</td>
+</tr>
+<tr>
+<td>Ms Liu Xiaoyu&nbsp;</td>
+<td>Mdm Serene Tan&nbsp;</td>
+<td>Ms Alies Wong&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>Mdm Luo Yanping&nbsp;</td>
+<td>Ms Lee Ya Ting&nbsp;</td>
+<td>Mdm Andrea Goh</td>
+</tr>
+<tr>
+<td>Ms Chua Seow Koon</td>
+<td>Mdm Lim Sock Ngoh</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Mdm Norashikin Bte Abdul Hamid (Subject Head ML)&nbsp;</td>
+<td>Mdm Humairiah Bte Ahmad&nbsp;</td>
+<td>Mr Aman bin Samat&nbsp;</td>
+</tr>
+<tr>
+<td>Ms Syazwani Binti Hasrol&nbsp;</td>
+<td>Ms Wan Nur Raudhah&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Mdm Suguna Gopynathan</td>
+<td>Mr Syed Ashratullah s/o Syed Sebakhatulla</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
 <p>&nbsp;</p>
 <p><strong><u>Aims &amp; Objectives</u></strong><strong><u>宗旨与目</u></strong><strong><u>标</u></strong><br><br>To develop students into confident and competent Mother Tongue Language users who appreciate the Mother Tongue Language culture and values through a fun, innovative and culturally rich experience.</p>
 <p>通过有趣、创新和文化丰富的体验，培养学生成为自信和熟练的母语语言使用者，欣赏母语语言文化和价值观。</p>
