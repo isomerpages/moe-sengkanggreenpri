@@ -6,17 +6,13 @@ third_nav_title: Academic
 ---
 <p><strong><u>Key Personnel</u></strong><u><br><br></u><strong>Head of Department:</strong> Ms Chew Mei Jun</p>
 <p><strong><u>Department Members</u></strong><u></u></p>
-<p>Mdm Catherine Tan</p>
-<p>Mr Alan Lim</p>
-<p>Mdm Ong Ngiap Seng</p>
-<p>Mr Chong Kuan Hoe</p>
-<p>Ms Kwok Wing Chiu Anna</p>
-<p>Ms Diane Chua</p>
-<p>Mdm Nazura Binte Hadam Hussain</p>
-<p>Ms Jeslin Wee</p>
-<p>Mdm Kong Siew May</p>
-<p>Mr Jamen Tan</p>
-<p>Mdm Nurul Zawanah</p>
+     <!--table {mso-displayed-decimal-separator:"\\."; mso-displayed-thousand-separator:"\\,";} @page {margin:.75in .7in .75in .7in; mso-header-margin:.3in; mso-footer-margin:.3in;} tr {mso-height-source:auto;} col {mso-width-source:auto;} br {mso-data-placement:same-cell;} td {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Calibri, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto; mso-protection:locked visible; white-space:nowrap; mso-rotate:0;} .xl65 {border:.5pt solid windowtext;} .xl66 {color:#484848; font-family:Lato, sans-serif; mso-font-charset:0; vertical-align:middle; border:.5pt solid windowtext; white-space:normal;} -->
+
+<table style="border-collapse:
+ collapse;width:488pt" width="649" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:7377;width:159pt" width="211"> <col style="mso-width-source:userset;mso-width-alt:8960;width:193pt" width="257"> <col style="mso-width-source:userset;mso-width-alt:6306;width:136pt" width="181"></colgroup><tbody><tr style="height:18.0pt" height="24"><td style="height:18.0pt;width:159pt" width="211" class="xl66" height="24">Mdm Catherine Tan</td><td style="border-left:none;width:193pt" width="257" class="xl66">Ms Kwok Wing Chiu Anna</td><td style="border-left:none;width:136pt" width="181" class="xl66">Mdm Kong Siew May</td></tr><tr style="height:18.0pt" height="24"><td style="height:18.0pt;border-top:none;
+  width:159pt" width="211" class="xl66" height="24">Mr Alan Lim</td><td style="border-top:none;border-left:none;width:193pt" width="257" class="xl66">Ms Diane Chua</td><td style="border-top:none;border-left:none;width:136pt" width="181" class="xl66">Mr Jamen Tan</td></tr><tr style="height:18.0pt" height="24"><td style="height:18.0pt;border-top:none;
+  width:159pt" width="211" class="xl66" height="24">Mdm Ong Ngiap Seng</td><td style="border-top:none;border-left:none;width:193pt" width="257" class="xl66">Mdm Nazura Binte Hadam Hussain</td><td style="border-top:none;border-left:none;width:136pt" width="181" class="xl66">Mdm Nurul Zawanah</td></tr><tr style="height:18.0pt" height="24"><td style="height:18.0pt;border-top:none;
+  width:159pt" width="211" class="xl66" height="24">Mr Chong Kuan Hoe</td><td style="border-top:none;border-left:none;width:193pt" width="257" class="xl66">Ms Jeslin Wee</td><td style="border-top:none;border-left:none" class="xl65">&nbsp;</td></tr></tbody></table>
 <p><br><strong><u>Vision</u></strong></p>
 <p>Inquiring Minds, Critical Thinkers, Environmental Advocates</p>
 <p><strong><u>Mission</u></strong></p>
