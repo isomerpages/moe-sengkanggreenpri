@@ -30,7 +30,7 @@ third_nav_title: School Organisation
 </tr>
 <tr style="height: 18px;">
 <td rowspan="2" style="text-align: center; height: 36px; width: 95.5px;">1 Brave</td>
-<td style="text-align: center; height: 18px; width: 232.125px;">Ms Lynnette Krystall G Aviadog</td>
+<td style="text-align: center; height: 18px; width: 232.125px;">Ms Lynnette Krystall G Aviado</td>
 <td style="text-align: center; height: 18px; width: 337.375px;"><a target="" href="mailto:lynnette_krystall_g_aviado@moe.edu.sg">lynnette_krystall_g_aviado@moe.edu.sg</a></td>
 </tr>
 <tr style="height: 18px;">
