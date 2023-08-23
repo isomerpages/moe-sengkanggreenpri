@@ -231,7 +231,7 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td style="text-align: center;">Ms Shannon Low</td>
-<td style="text-align: center;"><a href="mailto: shannon_low_si-en@moe.edu.sg">shannon_low_si-en@moe.edu.sg</a></td>
+<td style="text-align: center;"><a href="mailto:shannon_low_si-en@moe.edu.sg">shannon_low_si-en@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td rowspan="2" style="text-align: center;">3 Caring</td>
