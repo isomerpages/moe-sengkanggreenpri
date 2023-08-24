@@ -19,9 +19,9 @@ sections:
           url: /useful-links/
       background: /images/new banner 1.gif
   - infopic:
-      title: eOpen House 2023
+      title: Alumni Meet-Up 2023
       button: Click here for more details
-      url: /others/highlights/skgps-virtual-open-house-2023/
-      image: /images/skg_openhouse2023.jpg
+      url: /others/highlights/alumnimeetup2023/
+      image: /images/meetup2023.PNG
       alt: Image alt text
 ---
