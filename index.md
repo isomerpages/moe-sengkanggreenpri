@@ -24,4 +24,12 @@ sections:
       url: /others/highlights/alumnimeetup2023/
       image: /images/meetup2023.PNG
       alt: Image alt text
+  - infopic:
+      title: Affirmation Note
+      description: Please remember to drop an affirmation note to your teachers to
+        thank them for all they have done.
+      button: Click here
+      url: /our-skgian-family/a-note-of-affirmation/
+      image: /images/affirm.png
+      alt: Image alt text
 ---
