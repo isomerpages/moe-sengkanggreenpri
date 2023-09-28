@@ -38,7 +38,7 @@ third_nav_title: Parents
 <p>I would like to take this opportunity to welcome you and /or your spouse to join our Parent Support Group. Let this mark the beginning of the strong partnership between you and SKGPS.</p>
 <p>Lastly, I would like to share a quote with you that touches me, by Jesse Jackson “Your children need your presence more than your presents.” So come join us and let’s make a difference together in your child’s learning!</p>
 <p>Thank you.<br>Sherlyn Ong<br>Chairperson, SKGPS Parent Support Group</p>
-<img style="width: 25%;" src="/images/skgp psg logo revised 2022 small.png" align="left"><br><br><br><br>
+<img style="width: 25%;" src="/images/skgp psg logo revised 2022 mid.png" align="left"><br><br><br><br>
 <p><strong><u>Meaning of PSG Logo</u></strong></p>
 <p>The SKGPS PSG logo features many outstretched hands, signifying volunteering and working together to make a difference. The hands vibrate in different colours that are reflective of SKGPS’s multi-cultural environment. There is a combination of big and small hands representing an inclusive and welcoming community in the school. The logo also depicts the PSG movement of creating a nurturing environment for our children, impacting pupils as active participants in moulding their own future and the legacy of the school.</p>
 <p><strong><u>Objectives:</u></strong><br>We aim to:<br>(1) Promote close co-operation and understanding between parents/guardians, school leaders and teachers in matters relating to holistic development of pupils<br>(2) Provide support to school in the holistic development of pupils<br>(3) Encourage social activities and relationship among parents, teachers and pupils</p>
