@@ -3,47 +3,6 @@ title: Parents Support Group (PSG)
 permalink: /partners/parents/parents-support-group-psg/
 description: ""
 third_nav_title: Parents
+variant: tiptap
 ---
-<p style="text-align: center;"><strong>PSG MAIN EXCO TEAM</strong></p>
-<table>
-<tbody>
-<tr>
-<td colspan="2"><p style="text-align: center;"><img style="width: 25%;" src="/images/psg1.jpg"></p>
-</td>
-</tr>
-<tr><td colspan="2">
-<p style="text-align: center;"><strong>Mdm Sherlyn Ong<br></strong><strong>Chairperson</strong></p>
-</td>
-</tr>
-<tr>
-<td style="width: 50%; text-align: center;"><p style="text-align: center;"><img style="width: 48%;" src="/images/psg2.jpg"></p></td>
-<td style="width: 50%; text-align: center;"><p style="text-align: center;"><img style="width: 50%;" src="/images/psg3.jpg"></p></td>
-</tr>
-<tr>
-<td style="text-align: center;">
-<p><strong>Mdm Zaliha Rashid<br></strong><strong>Vice Chairperson</strong></p>
-</td>
-<td style="text-align: center;">
-<p><strong>Mdm Chin Kai Li&nbsp;<br></strong><strong>Vice Chairperson</strong></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Message from the Parent Support Group (PSG) Chairperson</strong></p>
-<p>Dear Parents of fellow SKGians,</p>
-<p>Along with my EXCO Team, Hello and a warm welcome to Sengkang Green Primary School (SKGPS) Parents Support Group (PSG).</p>
-<p>The endemic has affected us in different ways, and in this new school term, I am heartened that the Safe Management Measures will be lifted gradually and resume our physical interactions in school. To regain back the vibrancy of enriching of our children’s learnings, the school and PSG are constantly and actively exploring ways to engage, connect and reach out to our PSG community.</p>
-<p>Over the years, I have learnt and participated with my children in many SKGPS-PSG collaborated activities. Through my active participation and involvement in the school activities have sent a strong signal to them that I am giving time to be part of their learning journeys and showing interest in their school life. I am now more aware of what they are experiencing in school, have more common school-life topics to talk about, and foster greater parent-child relationship and bonding. This gives me a better sense of assurance that my children are truly enjoying school life.</p>
-<p>To sum it up, being a PSG member, you will get to build a close rapport with our school leaders and teachers, network with fellow parents, share/gain parenting tips and create wonderful memories with your child through regular participation in school and PSG activities. We invite you to come and participate in our activities throughout the school terms whenever your schedule permits.</p>
-<p>I would like to take this opportunity to welcome you and /or your spouse to join our Parent Support Group. Let this mark the beginning of the strong partnership between you and SKGPS.</p>
-<p>Lastly, I would like to share a quote with you that touches me, by Jesse Jackson “Your children need your presence more than your presents.” So come join us and let’s make a difference together in your child’s learning!</p>
-<p>Thank you.<br>Sherlyn Ong<br>Chairperson, SKGPS Parent Support Group</p>
-<img style="width: 25%;" src="/images/skgp psg logo revised 2022 mid.png" align="left"><br><br><br><br>
-<p><strong><u>Meaning of PSG Logo</u></strong></p>
-<p>The SKGPS PSG logo features many outstretched hands, signifying volunteering and working together to make a difference. The hands vibrate in different colours that are reflective of SKGPS’s multi-cultural environment. There is a combination of big and small hands representing an inclusive and welcoming community in the school. The logo also depicts the PSG movement of creating a nurturing environment for our children, impacting pupils as active participants in moulding their own future and the legacy of the school.</p>
-<p><strong><u>Objectives:</u></strong><br>We aim to:<br>(1) Promote close co-operation and understanding between parents/guardians, school leaders and teachers in matters relating to holistic development of pupils<br>(2) Provide support to school in the holistic development of pupils<br>(3) Encourage social activities and relationship among parents, teachers and pupils</p>
-<p><strong><u>Why join the PSG</u></strong></p>
-<p>As a PSG Member, you will be able:<br>(1) Participate in social and educational programmes for pupils and other parents<br>(2) Be part of the feedback unit to build a nurturing, caring school and home environment for your child</p>
-<p>How can you play a part? Join the PSG and be a Parent volunteer.<br>If you are interested, you may fill up this online&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLSemVCT_i3qzCI_bRaXVikW1axqClt-ZZu-2BIdKscuo-7XIhQ/viewform?usp=sf_link" target="_blank" rel="noopener">application form</a>.<br>Kindly email to&nbsp;<a href="mailto:chua_siang_peng@moe.edu.sg" target="">chua_siang_peng@moe.edu.sg</a> for any queries or clarification with regards to the PSG.</p>
-<p><strong>Highlights of Present activities – participated by PSG Members</strong></p>
-<img src="/images/psg.png">
+<p><strong>PSG MAIN EXCO TEAM</strong></p><table><tbody><tr><td rowspan="1" colspan="2"><p></p></td></tr><tr><td rowspan="1" colspan="2"><p></p><div class="isomer-image-wrapper"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Capture.PNG"></div></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Mdm_Daisy_Tan.PNG"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Mdm_Chin_Kai_Li.PNG"></div></td></tr></tbody></table><p>PSG Chairperson Message for 2024</p><p>Hi Parents,</p><p>Welcome to Sengkang Green Primary School Parent Support Group (PSG).</p><p>PSG is welcoming new leadership and members in 2024.</p><p>It is my great pleasure to take on this journey as the next Chairperson of PSG.</p><p>I believe in working closely with school and teachers for a more holistic learning experience for our children. Joining PSG is one of the way to achieve it.</p><p>In PSG, I get to know other like minded parents who have the same passion.</p><p>We fulfilled our passion through facilitating school activiies at our available time to help children enhanced their learning experience in school.</p><p>Parents get to connect through school activities and interest groups like exercising, dancing, singing and crafting. We shared valuable parenting tips and school information.</p><p>My involvement through school activities is my way of showing support for my child's learnng journey. In turn I hope it will motivate her to excel in school.</p><p>My child and i have more common topics to discuss at home as well in whch I can relate better when she shared about her experiences in school.</p><p>Together with my two Vice Chairpersons, Mdm Daisy Tan, and Mdm Chin Kai Li, we hope to bring new experiences and adventures to PSG in the coming years.</p><p>All the above will not be possible without a capable and competent team - the PSG EXCOs. I'm thankful for their commitments and having them as my wonderful working partners.</p><p>On top of that, having a strong and supportive team of PSG members, the parents, is one that I'm most grateful for. You are our most valuable resource.</p><p>No school activities can be successful without your physical support and contributions.</p><p>United by our passion to volunteer in school, we hope to bring PSG to a greater height.</p><p>Do come join us if you hold the same passion and we look forward to partner you in this journey.</p><p>Meanwhile i wish all be safe, well and happy!</p><p>With best regards,</p><p>Catherine Lim<br>Chairperson, SKGPS Parent Support Group</p><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" src="/images/skgp psg logo revised 2022 mid.png"></div><p><strong><u>Meaning of PSG Logo</u></strong></p><p>The SKGPS PSG logo features many outstretched hands, signifying volunteering and working together to make a difference. The hands vibrate in different colours that are reflective of SKGPS’s multi-cultural environment. There is a combination of big and small hands representing an inclusive and welcoming community in the school. The logo also depicts the PSG movement of creating a nurturing environment for our children, impacting pupils as active participants in moulding their own future and the legacy of the school.</p><p><strong><u>Objectives:</u></strong><br>We aim to:<br>(1) Promote close co-operation and understanding between parents/guardians, school leaders and teachers in matters relating to holistic development of pupils<br>(2) Provide support to school in the holistic development of pupils<br>(3) Encourage social activities and relationship among parents, teachers and pupils</p><p><strong><u>Why join the PSG</u></strong></p><p>As a PSG Member, you will be able:<br>(1) Participate in social and educational programmes for pupils and other parents<br>(2) Be part of the feedback unit to build a nurturing, caring school and home environment for your child</p><p>How can you play a part? Join the PSG and be a Parent volunteer.<br>If you are interested, you may fill up this online&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLSemVCT_i3qzCI_bRaXVikW1axqClt-ZZu-2BIdKscuo-7XIhQ/viewform?usp=sf_link" rel="noopener" target="_blank">application form</a>.<br>Kindly email to&nbsp;<a href="mailto:chua_siang_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chua_siang_peng@moe.edu.sg</a> for any queries or clarification with regards to the PSG.</p><p><strong>Highlights of Present activities – participated by PSG Members</strong></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/psg.png"></div><p></p>
