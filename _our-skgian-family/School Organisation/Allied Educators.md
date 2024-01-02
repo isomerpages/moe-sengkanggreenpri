@@ -3,36 +3,6 @@ title: Allied Educators
 permalink: /our-skgian-family/school-organization/allied-educators/
 description: ""
 third_nav_title: School Organisation
+variant: tiptap
 ---
-<table border="1" cellspacing="2">
-<tbody>
-<tr>
-<td style="text-align: center;"><strong>Designation</strong></td>
-<td style="text-align: center;"><strong>Name</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;">School Counsellor</td>
-<td style="text-align: center;">Ms Toh Xue Li</td>
-</tr>
-<tr>
-<td style="text-align: center;">School Counsellor</td>
-<td style="text-align: center;">Mr Haji Agus Bin Abdullah</td>
-</tr>
-	<tr>
-<td style="text-align: center;">School Counsellor</td>
-<td style="text-align: center;">Ms Lim Eng Choon</td>
-</tr>
-<tr>
-<td style="text-align: center;">Special Educational Needs Officer</td>
-<td style="text-align: center;">Ms Tan Lay Hiong</td>
-</tr>
-<tr>
-<td style="text-align: center;">Special Educational Needs Officer</td>
-<td style="text-align: center;">Ms Nurlyana Binte Mohd Bahtiaraffandi</td>
-</tr>
-
-<tr>
-
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Designation</strong></p></td><td rowspan="1" colspan="1"><p><strong>Name</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>School Counsellor</p></td><td rowspan="1" colspan="1"><p>Ms Toh Xue Li</p></td></tr><tr><td rowspan="1" colspan="1"><p>School Counsellor</p></td><td rowspan="1" colspan="1"><p>Mr Haji Agus Bin Abdullah</p></td></tr><tr><td rowspan="1" colspan="1"><p>Special Educational Needs Officer</p></td><td rowspan="1" colspan="1"><p>Ms Tan Lay Hiong</p></td></tr><tr><td rowspan="1" colspan="1"><p>Special Educational Needs Officer</p></td><td rowspan="1" colspan="1"><p>Ms Nurlyana Binte Mohd Bahtiaraffandi</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
