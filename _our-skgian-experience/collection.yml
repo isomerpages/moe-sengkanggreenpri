@@ -1,0 +1,23 @@
+collections:
+  our-skgian-experience:
+    output: true
+    order:
+      - Signature Programmes/Applied Learning Programme (ALP).md
+      - Signature Programmes/.keep
+      - Signature Programmes/Learning for Life Programme (LLP).md
+      - Academic/.keep
+      - Academic/English.md
+      - Academic/Mathematics.md
+      - Academic/Mother Tongue Language (Chinese).md
+      - Academic/Mother Tongue Language (Malay).md
+      - Academic/Mother Tongue Language (Tamil).md
+      - Academic/Science & Environment.md
+      - Academic/Information & Communication Technology (ICT).md
+      - Physical & Aesthetics/.keep
+      - Physical & Aesthetics/Physical & Holistic Health.md
+      - Physical & Aesthetics/Aesthetics.md
+      - Student Development/Student Management.md
+      - Student Development/Sexuality Education.md
+      - Student Development/.keep
+      - Student Development/Character and Citizenship Education (CCE).md
+      - Student iCON.md

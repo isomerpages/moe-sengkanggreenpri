@@ -1,0 +1,24 @@
+collections:
+  our-skgian-family:
+    output: true
+    order:
+      - Principal's Message.md
+      - School Information/.keep
+      - School Information/School Information.md
+      - School Information/Mission Vision Values.md
+      - School Information/School Song.md
+      - School Information/School Uniform.md
+      - School Information/School Hours.md
+      - School Information/School Rules.md
+      - School Information/School Facilities.md
+      - School Organisation/.keep
+      - "School Organisation/School Executive Committee: Leaders Profile.md"
+      - "School Organisation/School Executive Committee: Key Personnel.md"
+      - School Organisation/Allied Educators.md
+      - School Organisation/School Admin Team.md
+      - School Organisation/Teaching Staff.md
+      - School Calendar.md
+      - MOE Kindergarten.md
+      - Visitors to School.md
+      - Contact Us.md
+      - A Note of Affirmation.md

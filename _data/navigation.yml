@@ -1,0 +1,52 @@
+logo: /images/logo1.png
+links:
+  - title: Our SKGian Family
+    url: /our-skgian-family/school-information
+    sublinks:
+      - title: School Information
+        url: /our-skgian-family/school-information
+      - title: Principal's Message
+        url: /our-skgian-family/principals-message
+      - title: School Organisation
+        url: /our-skgian-family/school-organization/school-executive-committee/leaders-profile/
+      - title: School Calendar
+        url: /our-skgian-family/school-calendar
+      - title: MOE Kindergarten
+        url: /our-skgian-family/moe-kindergarten
+      - title: Visitors to School
+        url: /our-skgian-family/visitors-to-school
+      - title: Contact Us
+        url: /contact-us/
+      - title: A Note of Affirmation
+        url: /our-skgian-family/a-note-of-affirmation
+  - title: Our SKGian Experience
+    url: /our-skgian-experience/academic/english/
+    sublinks:
+      - title: Signature Programmes
+        url: /our-skgian-experience/signature-programmes/applied-learning-programme/
+      - title: Academic
+        url: /our-skgian-experience/academic/english/
+      - title: Physical & Aesthetics
+        url: /our-skgian-experience/physical-aesthetics/physical-holistic-health/
+      - title: Student Development
+        url: /our-skgian-experience/student-development/character-and-citizenship-education-cce/
+  - title: OUR CCA
+    url: /cca/clubs-n-societies/art-club
+    sublinks:
+      - title: Clubs & Societies
+        url: /cca/clubs-n-societies/art-club
+      - title: Performing Arts
+        url: /cca/performing-arts/chinese-dance
+      - title: Sports
+        url: /cca/sports/basketball
+      - title: Uniformed Groups
+        url: /cca/uniformed-groups/scouts
+  - title: Our Partners
+    url: /partners/parents/parents-support-group-psg
+    sublinks:
+      - title: Parents
+        url: /partners/parents/parents-support-group-psg
+      - title: Our Suppliers
+        url: /partners/our-suppliers/bookshop
+  - title: MOE Kindergarten
+    collection: moe-kindergarten
