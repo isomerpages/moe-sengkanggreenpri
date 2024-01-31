@@ -61,31 +61,3 @@ variant: markdown
   </tbody>
 </table>
 <p></p>
-
-  
-      
-        <p></p>
-        <div class="isomer-image-wrapper">
-        <img style="float:left" height="50% width=" src="/images/GinnyChua.jpg">
-        <p>
-            <b>
-              </b></p><center><b>Mdm Ginny Chua <br>Vice Principal (Admin)
-            </b>
-          <p></p>
-    </center></div>
-    <div class="imgContainer">
-        <img width="50%" height="50%" src="/images/AdillaOng.jpg" class="middle-img">
-         <p>
-            <b>
-              </b></p><center><b>Ms Adila Ong <br>Vice Principal
-            </b>
-          <p></p>
-    </center></div>
-    <div class="imgContainer">
-         <img width="50%" height="50%" src="/images/JeremyTan.jpg">
-       <p>
-            <b>
-              </b></p><center><b>Mr Jeremy Tan <br>Vice Principal
-            </b>
-          <p></p>
-    </center></div>
