@@ -27,7 +27,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="auto" height="auto" width="30%" alt="" src="/images/sec2.jpg">
+          <img style="auto" height="100%" width="auto" alt="" src="/images/GinnyChua.jpg">
           <p>
             <b>
               </b></p><center><b>Mdm Ginny Chua <br>Vice Principal (Admin)
@@ -38,7 +38,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="auto" height="auto" width="30%" alt="" src="/images/sec3.jpg">
+          <img style="auto" height="100%" width="auto" alt="" src="/images/AdillaOng.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Adila Ong <br>Vice Principal
@@ -49,7 +49,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="100%" height="100%" width="auto" alt="" src="/images/Mr_Jeremy_Tan_Keng_Lim.JPG">
+          <img style="auto" height="100%" width="auto" alt="" src="/images/JeremyTan.jpg">
           <p>
             <b>
               </b></p><center><b>Mr Jeremy Tan <br>Vice Principal
