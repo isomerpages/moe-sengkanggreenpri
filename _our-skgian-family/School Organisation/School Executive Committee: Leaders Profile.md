@@ -28,13 +28,13 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="auto" height="" width="100%" alt="" src="/images/sec3.jpg">
+          <img style="auto" height="100%" width="100%" alt="" src="/images/sec3.jpg">
         </div>
       </td>
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width: auto" height="auto" width="100%" alt="" src="/images/Mr_Jeremy_Tan_Keng_Lim.JPG">
+          <img style="auto" height="100%" width="100%" alt="" src="/images/Mr_Jeremy_Tan_Keng_Lim.JPG">
         </div>
       </td>
     </tr>
