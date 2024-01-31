@@ -38,7 +38,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="auto" height="100%" width="33%" alt="" src="/images/AdillaOng.jpg">
+          <img style="auto" height="auto" width="33%" alt="" src="/images/AdillaOng.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Adila Ong <br>Vice Principal
@@ -49,7 +49,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="auto" height="100%" width="33%" alt="" src="/images/JeremyTan.jpg">
+          <img style="auto" height="auto" width="33%" alt="" src="/images/JeremyTan.jpg">
           <p>
             <b>
               </b></p><center><b>Mr Jeremy Tan <br>Vice Principal
