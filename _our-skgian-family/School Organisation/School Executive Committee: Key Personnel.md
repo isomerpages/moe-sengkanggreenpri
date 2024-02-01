@@ -10,6 +10,31 @@ variant: markdown
 </h3>
 		<table>
   <tbody>
+		  <tr>
+      <td rowspan="1" colspan="1">
+        <p></p>
+        <div class="isomer-image-wrapper">
+          <img style="width:500px" alt="" src="/images/GinnyChua.jpg">
+          <p>
+            <b>
+              </b></p><center><b>Mdm Ginny Chua <br>Vice Principal (Admin)
+            </b>
+          <p></p>
+        </center></div>
+      </td>
+      <td rowspan="1" colspan="1">
+        <p></p>
+        <div class="isomer-image-wrapper">
+          <img style="width:500px" alt="" src="/images/AdillaOng.jpg">
+          <p>
+            <b>
+              </b></p><center><b>Ms Adila Ong <br>Vice Principal
+            </b>
+          <p></p>
+        </center></div>
+      </td>
+      
+    </tr>
     <tr>
       <td rowspan="1" colspan="1">
         <p></p>
