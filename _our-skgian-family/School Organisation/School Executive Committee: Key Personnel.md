@@ -8,13 +8,15 @@ variant: markdown
 <h3>
   <strong>Key Personal</strong>
 </h3>
-	<table>
+<table>
   <tbody>
-		  <tr>
-      <td rowspan="1" colspan="2">
+</tbody></table><table>
+  <tbody>
+    <tr>
+      <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/GinnyChua.jpg">
+          <img style="width:500px" alt="" src="/images/GinnyChua.jpg">
           <p>
             <b>
               </b></p><center><b>Mdm Ginny Chua <br>Vice Principal (Admin)
@@ -25,7 +27,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/AdillaOng.jpg">
+          <img style="width:500px" alt="" src="/images/AdillaOng.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Adila Ong <br>Vice Principal
@@ -33,11 +35,53 @@ variant: markdown
           <p></p>
         </center></div>
       </td>
-        
-      
-    </tr>
-    <tr>
       <td rowspan="1" colspan="1">
+        <p></p>
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+    
+      
+        <p></p>
+        <div class="isomer-image-wrapper">
+          <img style="width:500px" alt="" src="/images/GinnyChua.jpg">
+          <p>
+            <b>
+              </b></p><center><b>Mdm Ginny Chua <br>Vice Principal (Admin)
+            </b>
+          <p></p>
+        </center></div>
+      
+      
+        <p></p>
+        <div class="isomer-image-wrapper">
+          <img style="width:500px" alt="" src="/images/AdillaOng.jpg">
+          <p>
+            <b>
+              </b></p><center><b>Ms Adila Ong <br>Vice Principal
+            </b>
+          <p></p>
+        </center></div>
+      
+      
+        <p></p>
+        <div class="isomer-image-wrapper">
+          <img style="width:500px" alt="" src="/images/JeremyTan.jpg">
+          <p>
+            <b>
+              </b></p><center><b>Mr Jeremy Tan <br>Vice Principal
+            </b>
+          <p></p>
+        </center></div>
+      
+    
+  
+
+    
+    
+      
         <p></p>
         <div class="isomer-image-wrapper">
           <img style="width:200px" alt="" src="/images/kp1.jpg">
@@ -48,8 +92,8 @@ variant: markdown
 					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
     <p></p>
         </center></div>
-      </td>
-      <td rowspan="1" colspan="1">
+      
+      
         <p></p>
         <div class="isomer-image-wrapper">
           <img style="width:200px" alt="" src="/images/kp1.jpg">
@@ -62,8 +106,8 @@ variant: markdown
     <p></p>
         </center></div>
 				<p></p>
-				    </td></tr><tr>
-      <td rowspan="1" colspan="1">
+				    
+      
         <p></p>
         <div class="isomer-image-wrapper">
           <img style="width:200px" alt="" src="/images/kp1.jpg">
@@ -74,57 +118,8 @@ variant: markdown
 					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
     <p></p>
         </center></div>
-      </td>
-      <td rowspan="1" colspan="1">
-        <p></p>
-        <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
-          <p>
-            <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
-        </center></div>
-				<p></p>
-				   </td></tr><tr>
-      <td rowspan="1" colspan="1">
-        <p></p>
-        <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
-          <p>
-            <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
-        </center></div>
-      </td>
-      <td rowspan="1" colspan="1">
-        <p></p>
-        <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
-          <p>
-            <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
-        </center></div>
-				    </td></tr><tr>
-      <td rowspan="1" colspan="1">
-        <p></p>
-        <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
-          <p>
-            <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
-        </center></div>
-      </td>
-      <td rowspan="1" colspan="1">
+      
+      
         <p></p>
         <div class="isomer-image-wrapper">
           <img style="width:200px" alt="" src="/images/kp1.jpg">
@@ -136,8 +131,8 @@ variant: markdown
     <p></p>
         </center></div>
 				<p></p>
-				    </td></tr><tr>
-      <td rowspan="1" colspan="1">
+				   
+      
         <p></p>
         <div class="isomer-image-wrapper">
           <img style="width:200px" alt="" src="/images/kp1.jpg">
@@ -148,8 +143,8 @@ variant: markdown
 					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
     <p></p>
         </center></div>
-      </td>
-      <td rowspan="1" colspan="1">
+      
+      
         <p></p>
         <div class="isomer-image-wrapper">
           <img style="width:200px" alt="" src="/images/kp1.jpg">
@@ -160,9 +155,8 @@ variant: markdown
 					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
     <p></p>
         </center></div>
-				<p></p>
-	  </td></tr><tr>
-      <td rowspan="1" colspan="1">
+				    
+      
         <p></p>
         <div class="isomer-image-wrapper">
           <img style="width:200px" alt="" src="/images/kp1.jpg">
@@ -173,33 +167,8 @@ variant: markdown
 					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
     <p></p>
         </center></div>
-      </td>
-      <td rowspan="1" colspan="1">
-        <p></p>
-        <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
-          <p>
-            <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
-        </center></div>
-				<p></p>
-				    </td></tr><tr>
-      <td rowspan="1" colspan="1">
-        <p></p>
-        <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
-          <p>
-            <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
-        </center></div>
-      </td>
-      <td rowspan="1" colspan="1">
+      
+      
         <p></p>
         <div class="isomer-image-wrapper">
           <img style="width:200px" alt="" src="/images/kp1.jpg">
@@ -211,8 +180,8 @@ variant: markdown
     <p></p>
         </center></div>
 				<p></p>
-				   </td></tr><tr>
-      <td rowspan="1" colspan="1">
+				    
+      
         <p></p>
         <div class="isomer-image-wrapper">
           <img style="width:200px" alt="" src="/images/kp1.jpg">
@@ -223,32 +192,8 @@ variant: markdown
 					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
     <p></p>
         </center></div>
-      </td>
-      <td rowspan="1" colspan="1">
-        <p></p>
-        <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
-          <p>
-            <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
-        </center></div>
-				    </td></tr><tr>
-      <td rowspan="1" colspan="1">
-        <p></p>
-        <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
-          <p>
-            <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
-        </center></div>
-      </td>
-      <td rowspan="1" colspan="1">
+      
+      
         <p></p>
         <div class="isomer-image-wrapper">
           <img style="width:200px" alt="" src="/images/kp1.jpg">
@@ -260,8 +205,8 @@ variant: markdown
     <p></p>
         </center></div>
 				<p></p>
-				    </td></tr><tr>
-      <td rowspan="1" colspan="1">
+	  
+      
         <p></p>
         <div class="isomer-image-wrapper">
           <img style="width:200px" alt="" src="/images/kp1.jpg">
@@ -272,8 +217,8 @@ variant: markdown
 					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
     <p></p>
         </center></div>
-      </td>
-      <td rowspan="1" colspan="1">
+      
+      
         <p></p>
         <div class="isomer-image-wrapper">
           <img style="width:200px" alt="" src="/images/kp1.jpg">
@@ -284,6 +229,105 @@ variant: markdown
 					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
     <p></p>
         </center></div>
-  </td></tr>
-	</tbody>
-	</table>
+				<p></p>
+				    
+      
+        <p></p>
+        <div class="isomer-image-wrapper">
+          <img style="width:200px" alt="" src="/images/kp1.jpg">
+          <p>
+            <b>
+              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
+            </b>
+					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
+    <p></p>
+        </center></div>
+      
+      
+        <p></p>
+        <div class="isomer-image-wrapper">
+          <img style="width:200px" alt="" src="/images/kp1.jpg">
+          <p>
+            <b>
+              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
+            </b>
+					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
+    <p></p>
+        </center></div>
+				<p></p>
+				   
+      
+        <p></p>
+        <div class="isomer-image-wrapper">
+          <img style="width:200px" alt="" src="/images/kp1.jpg">
+          <p>
+            <b>
+              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
+            </b>
+					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
+    <p></p>
+        </center></div>
+      
+      
+        <p></p>
+        <div class="isomer-image-wrapper">
+          <img style="width:200px" alt="" src="/images/kp1.jpg">
+          <p>
+            <b>
+              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
+            </b>
+					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
+    <p></p>
+        </center></div>
+				    
+      
+        <p></p>
+        <div class="isomer-image-wrapper">
+          <img style="width:200px" alt="" src="/images/kp1.jpg">
+          <p>
+            <b>
+              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
+            </b>
+					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
+    <p></p>
+        </center></div>
+      
+      
+        <p></p>
+        <div class="isomer-image-wrapper">
+          <img style="width:200px" alt="" src="/images/kp1.jpg">
+          <p>
+            <b>
+              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
+            </b>
+					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
+    <p></p>
+        </center></div>
+				<p></p>
+				    
+      
+        <p></p>
+        <div class="isomer-image-wrapper">
+          <img style="width:200px" alt="" src="/images/kp1.jpg">
+          <p>
+            <b>
+              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
+            </b>
+					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
+    <p></p>
+        </center></div>
+      
+      
+        <p></p>
+        <div class="isomer-image-wrapper">
+          <img style="width:200px" alt="" src="/images/kp1.jpg">
+          <p>
+            <b>
+              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
+            </b>
+					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
+    <p></p>
+        </center></div>
+  
+	
+	
