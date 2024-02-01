@@ -284,5 +284,6 @@ variant: markdown
 					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
     <p></p>
         </center></div>
-  </td></tr></tbody>
-</table>
+  </td></tr>
+	</tbody>
+	</table>
