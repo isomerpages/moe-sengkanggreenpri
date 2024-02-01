@@ -14,6 +14,58 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
+          <img style="width:250px" alt="" src="/images/kp1.jpg">
+          <p>
+            <b>
+              </b></p><center><b>Ms Ng Lip Kiang <br>School Staff Developer (SSD)
+            </b><br><a href="mailto: ng_lip_kiang@moe.edu.sg">ng_lip_kiang@moe.edu.sg</a>
+          <p></p>
+        </center></div>
+      </td>
+      <td rowspan="1" colspan="1">
+        <p></p>
+        <div class="isomer-image-wrapper">
+          <img style="width:250px" alt="" src="/images/kp2.jpg">
+          <p>
+            <b>
+              </b></p><center><b>Ms Adila Ong <br>Vice Principal
+            </b><br><a href="mailto: ng_lip_kiang@moe.edu.sg">ng_lip_kiang@moe.edu.sg</a>
+          <p></p>
+        </center></div>
+  </td></tr></tbody>
+</table>
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="1" colspan="1">
+        <p></p>
+        <div class="isomer-image-wrapper">
+          <img style="width:300px" alt="" src="/images/kp1.jpg">
+          <p>
+            <b>
+              </b></p><center><b>Ms Ng Lip Kiang <br>School Staff Developer (SSD)
+            </b><br><a href="mailto: ng_lip_kiang@moe.edu.sg">ng_lip_kiang@moe.edu.sg</a>
+          <p></p>
+        </center></div>
+      </td>
+      <td rowspan="1" colspan="1">
+        <p></p>
+        <div class="isomer-image-wrapper">
+          <img style="width:300px" alt="" src="/images/kp2.jpg">
+          <p>
+            <b>
+              </b></p><center><b>Ms Adila Ong <br>Vice Principal
+            </b><br><a href="mailto: ng_lip_kiang@moe.edu.sg">ng_lip_kiang@moe.edu.sg</a>
+          <p></p>
+        </center></div>
+  </td></tr></tbody>
+</table>
+ <table>
+  <tbody>
+    <tr>
+      <td rowspan="1" colspan="1">
+        <p></p>
+        <div class="isomer-image-wrapper">
           <img style="width:300px" alt="" src="/images/kp1.jpg">
           <p>
             <b>
@@ -40,318 +92,231 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:500px" alt="" src="/images/GinnyChua.jpg">
+          <img style="width:300px" alt="" src="/images/kp1.jpg">
           <p>
             <b>
-              </b></p><center><b>Mdm Ginny Chua <br>Vice Principal (Admin)
-            </b>
+              </b></p><center><b>Ms Ng Lip Kiang <br>School Staff Developer (SSD)
+            </b><br><a href="mailto: ng_lip_kiang@moe.edu.sg">ng_lip_kiang@moe.edu.sg</a>
           <p></p>
         </center></div>
       </td>
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:500px" alt="" src="/images/AdillaOng.jpg">
+          <img style="width:300px" alt="" src="/images/kp2.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Adila Ong <br>Vice Principal
-            </b>
+            </b><br><a href="mailto: ng_lip_kiang@moe.edu.sg">ng_lip_kiang@moe.edu.sg</a>
           <p></p>
         </center></div>
-      </td>
-      <td rowspan="1" colspan="1">
-        <p></p>
-        
-      </td>
-    </tr>
-  </tbody>
+  </td></tr></tbody>
 </table>
-    
-      
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:500px" alt="" src="/images/GinnyChua.jpg">
+          <img style="width:300px" alt="" src="/images/kp1.jpg">
           <p>
             <b>
-              </b></p><center><b>Mdm Ginny Chua <br>Vice Principal (Admin)
-            </b>
+              </b></p><center><b>Ms Ng Lip Kiang <br>School Staff Developer (SSD)
+            </b><br><a href="mailto: ng_lip_kiang@moe.edu.sg">ng_lip_kiang@moe.edu.sg</a>
           <p></p>
         </center></div>
-      
-      
+      </td>
+      <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:500px" alt="" src="/images/AdillaOng.jpg">
+          <img style="width:300px" alt="" src="/images/kp2.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Adila Ong <br>Vice Principal
-            </b>
+            </b><br><a href="mailto: ng_lip_kiang@moe.edu.sg">ng_lip_kiang@moe.edu.sg</a>
           <p></p>
         </center></div>
-      
-      
+  </td></tr></tbody>
+</table>
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:500px" alt="" src="/images/JeremyTan.jpg">
+          <img style="width:300px" alt="" src="/images/kp1.jpg">
           <p>
             <b>
-              </b></p><center><b>Mr Jeremy Tan <br>Vice Principal
-            </b>
+              </b></p><center><b>Ms Ng Lip Kiang <br>School Staff Developer (SSD)
+            </b><br><a href="mailto: ng_lip_kiang@moe.edu.sg">ng_lip_kiang@moe.edu.sg</a>
           <p></p>
         </center></div>
-      
-    
-  
-
-    
-    
-      
+      </td>
+      <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
+          <img style="width:300px" alt="" src="/images/kp2.jpg">
           <p>
             <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
+              </b></p><center><b>Ms Adila Ong <br>Vice Principal
+            </b><br><a href="mailto: ng_lip_kiang@moe.edu.sg">ng_lip_kiang@moe.edu.sg</a>
+          <p></p>
         </center></div>
-      
-      
+  </td></tr></tbody>
+</table>
+ <table>
+  <tbody>
+    <tr>
+      <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
+          <img style="width:300px" alt="" src="/images/kp1.jpg">
           <p>
             <b>
-              </b></p><center><b>Ms Chua Siew Kheng  
-<br>Head of Department / English
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
+              </b></p><center><b>Ms Ng Lip Kiang <br>School Staff Developer (SSD)
+            </b><br><a href="mailto: ng_lip_kiang@moe.edu.sg">ng_lip_kiang@moe.edu.sg</a>
+          <p></p>
         </center></div>
-				<p></p>
-				    
-      
+      </td>
+      <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
+          <img style="width:300px" alt="" src="/images/kp2.jpg">
           <p>
             <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
+              </b></p><center><b>Ms Adila Ong <br>Vice Principal
+            </b><br><a href="mailto: ng_lip_kiang@moe.edu.sg">ng_lip_kiang@moe.edu.sg</a>
+          <p></p>
         </center></div>
-      
-      
+  </td></tr></tbody>
+</table>
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
+          <img style="width:300px" alt="" src="/images/kp1.jpg">
           <p>
             <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
+              </b></p><center><b>Ms Ng Lip Kiang <br>School Staff Developer (SSD)
+            </b><br><a href="mailto: ng_lip_kiang@moe.edu.sg">ng_lip_kiang@moe.edu.sg</a>
+          <p></p>
         </center></div>
-				<p></p>
-				   
-      
+      </td>
+      <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
+          <img style="width:300px" alt="" src="/images/kp2.jpg">
           <p>
             <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
+              </b></p><center><b>Ms Adila Ong <br>Vice Principal
+            </b><br><a href="mailto: ng_lip_kiang@moe.edu.sg">ng_lip_kiang@moe.edu.sg</a>
+          <p></p>
         </center></div>
-      
-      
+  </td></tr></tbody>
+</table>
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
+          <img style="width:300px" alt="" src="/images/kp1.jpg">
           <p>
             <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
+              </b></p><center><b>Ms Ng Lip Kiang <br>School Staff Developer (SSD)
+            </b><br><a href="mailto: ng_lip_kiang@moe.edu.sg">ng_lip_kiang@moe.edu.sg</a>
+          <p></p>
         </center></div>
-				    
-      
+      </td>
+      <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
+          <img style="width:300px" alt="" src="/images/kp2.jpg">
           <p>
             <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
+              </b></p><center><b>Ms Adila Ong <br>Vice Principal
+            </b><br><a href="mailto: ng_lip_kiang@moe.edu.sg">ng_lip_kiang@moe.edu.sg</a>
+          <p></p>
         </center></div>
-      
-      
+  </td></tr></tbody>
+</table>
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
+          <img style="width:300px" alt="" src="/images/kp1.jpg">
           <p>
             <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
+              </b></p><center><b>Ms Ng Lip Kiang <br>School Staff Developer (SSD)
+            </b><br><a href="mailto: ng_lip_kiang@moe.edu.sg">ng_lip_kiang@moe.edu.sg</a>
+          <p></p>
         </center></div>
-				<p></p>
-				    
-      
+      </td>
+      <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
+          <img style="width:300px" alt="" src="/images/kp2.jpg">
           <p>
             <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
+              </b></p><center><b>Ms Adila Ong <br>Vice Principal
+            </b><br><a href="mailto: ng_lip_kiang@moe.edu.sg">ng_lip_kiang@moe.edu.sg</a>
+          <p></p>
         </center></div>
-      
-      
+  </td></tr></tbody>
+</table>
+ <table>
+  <tbody>
+    <tr>
+      <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
+          <img style="width:300px" alt="" src="/images/kp1.jpg">
           <p>
             <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
+              </b></p><center><b>Ms Ng Lip Kiang <br>School Staff Developer (SSD)
+            </b><br><a href="mailto: ng_lip_kiang@moe.edu.sg">ng_lip_kiang@moe.edu.sg</a>
+          <p></p>
         </center></div>
-				<p></p>
-	  
-      
+      </td>
+      <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
+          <img style="width:300px" alt="" src="/images/kp2.jpg">
           <p>
             <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
+              </b></p><center><b>Ms Adila Ong <br>Vice Principal
+            </b><br><a href="mailto: ng_lip_kiang@moe.edu.sg">ng_lip_kiang@moe.edu.sg</a>
+          <p></p>
         </center></div>
-      
-      
+  </td></tr></tbody>
+</table>
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
+          <img style="width:300px" alt="" src="/images/kp1.jpg">
           <p>
             <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
+              </b></p><center><b>Ms Ng Lip Kiang <br>School Staff Developer (SSD)
+            </b><br><a href="mailto: ng_lip_kiang@moe.edu.sg">ng_lip_kiang@moe.edu.sg</a>
+          <p></p>
         </center></div>
-				<p></p>
-				    
-      
+      </td>
+      <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
+          <img style="width:300px" alt="" src="/images/kp2.jpg">
           <p>
             <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
+              </b></p><center><b>Ms Adila Ong <br>Vice Principal
+            </b><br><a href="mailto: ng_lip_kiang@moe.edu.sg">ng_lip_kiang@moe.edu.sg</a>
+          <p></p>
         </center></div>
-      
-      
-        <p></p>
-        <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
-          <p>
-            <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
-        </center></div>
-				<p></p>
-				   
-      
-        <p></p>
-        <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
-          <p>
-            <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
-        </center></div>
-      
-      
-        <p></p>
-        <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
-          <p>
-            <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
-        </center></div>
-				    
-      
-        <p></p>
-        <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
-          <p>
-            <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
-        </center></div>
-      
-      
-        <p></p>
-        <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
-          <p>
-            <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
-        </center></div>
-				<p></p>
-				    
-      
-        <p></p>
-        <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
-          <p>
-            <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
-        </center></div>
-      
-      
-        <p></p>
-        <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
-          <p>
-            <b>
-              </b></p><center><b>Ms Ng Lip Kiang<br>School Staff Developer (SSD) 
-            </b>
-					<a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_lip_kiang@moe.edu.sg</a>
-    <p></p>
-        </center></div>
-  
-	
-	
+  </td></tr></tbody>
+</table>
