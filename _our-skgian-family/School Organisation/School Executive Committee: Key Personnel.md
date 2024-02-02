@@ -32,7 +32,7 @@ variant: markdown
             </b><br><a href="mailto: ng_lip_kiang@moe.edu.sg">ng_lip_kiang@moe.edu.sg</a>
           <p></p>
         </center></div>
-  </td></tr></tbody>
+	</td></tr></tbody>
 </table>
 <table>
   <tbody>
