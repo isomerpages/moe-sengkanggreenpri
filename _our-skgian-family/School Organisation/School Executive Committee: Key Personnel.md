@@ -14,7 +14,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:250px" alt="" src="/images/kp1.jpg">
+          <img style="width:200px" alt="" src="/images/kp1.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Ng Lip Kiang <br>School Staff Developer (SSD)
@@ -25,7 +25,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:250px" alt="" src="/images/kp2.jpg">
+          <img style="width:200px" alt="" src="/images/kp2.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Adila Ong <br>Vice Principal
@@ -40,7 +40,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:250px" alt="" src="/images/kp1.jpg">
+          <img style="width:200px" alt="" src="/images/kp1.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Ng Lip Kiang <br>School Staff Developer (SSD)
@@ -51,7 +51,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:250px" alt="" src="/images/kp2.jpg">
+          <img style="width:200px" alt="" src="/images/kp2.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Adila Ong <br>Vice Principal
@@ -66,7 +66,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:250px" alt="" src="/images/kp1.jpg">
+          <img style="width:200px" alt="" src="/images/kp1.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Ng Lip Kiang <br>School Staff Developer (SSD)
@@ -77,7 +77,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:250px" alt="" src="/images/kp2.jpg">
+          <img style="width:200px" alt="" src="/images/kp2.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Adila Ong <br>Vice Principal
@@ -92,7 +92,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:250px" alt="" src="/images/kp1.jpg">
+          <img style="width:200px" alt="" src="/images/kp1.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Ng Lip Kiang <br>School Staff Developer (SSD)
@@ -103,7 +103,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:250px" alt="" src="/images/kp2.jpg">
+          <img style="width:200px" alt="" src="/images/kp2.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Adila Ong <br>Vice Principal
@@ -118,7 +118,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:250px" alt="" src="/images/kp1.jpg">
+          <img style="width:200px" alt="" src="/images/kp1.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Ng Lip Kiang <br>School Staff Developer (SSD)
@@ -129,7 +129,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:250px" alt="" src="/images/kp2.jpg">
+          <img style="width:200px" alt="" src="/images/kp2.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Adila Ong <br>Vice Principal
@@ -144,7 +144,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:250px" alt="" src="/images/kp1.jpg">
+          <img style="width:200px" alt="" src="/images/kp1.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Ng Lip Kiang <br>School Staff Developer (SSD)
@@ -155,7 +155,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:250px" alt="" src="/images/kp2.jpg">
+          <img style="width:200px" alt="" src="/images/kp2.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Adila Ong <br>Vice Principal
@@ -170,7 +170,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:250px" alt="" src="/images/kp1.jpg">
+          <img style="width:200px" alt="" src="/images/kp1.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Ng Lip Kiang <br>School Staff Developer (SSD)
@@ -181,7 +181,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:250px" alt="" src="/images/kp2.jpg">
+          <img style="width:200px" alt="" src="/images/kp2.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Adila Ong <br>Vice Principal
@@ -196,7 +196,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:250px" alt="" src="/images/kp1.jpg">
+          <img style="width:200px" alt="" src="/images/kp1.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Ng Lip Kiang <br>School Staff Developer (SSD)
@@ -207,7 +207,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:250px" alt="" src="/images/kp2.jpg">
+          <img style="width:200px" alt="" src="/images/kp2.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Adila Ong <br>Vice Principal
@@ -222,7 +222,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:250px" alt="" src="/images/kp1.jpg">
+          <img style="width:200px" alt="" src="/images/kp1.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Ng Lip Kiang <br>School Staff Developer (SSD)
@@ -233,7 +233,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:250px" alt="" src="/images/kp2.jpg">
+          <img style="width:200px" alt="" src="/images/kp2.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Adila Ong <br>Vice Principal
@@ -248,7 +248,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:250px" alt="" src="/images/kp1.jpg">
+          <img style="width:200px" alt="" src="/images/kp1.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Ng Lip Kiang <br>School Staff Developer (SSD)
@@ -259,7 +259,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:250px" alt="" src="/images/kp2.jpg">
+          <img style="width:200px" alt="" src="/images/kp2.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Adila Ong <br>Vice Principal
@@ -274,7 +274,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:250px" alt="" src="/images/kp1.jpg">
+          <img style="width:200px" alt="" src="/images/kp1.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Ng Lip Kiang <br>School Staff Developer (SSD)
@@ -285,7 +285,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:250px" alt="" src="/images/kp2.jpg">
+          <img style="width:200px" alt="" src="/images/kp2.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Adila Ong <br>Vice Principal
@@ -300,7 +300,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:250px" alt="" src="/images/kp1.jpg">
+          <img style="width:200px" alt="" src="/images/kp1.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Ng Lip Kiang <br>School Staff Developer (SSD)
@@ -311,7 +311,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:250px" alt="" src="/images/kp2.jpg">
+          <img style="width:200px" alt="" src="/images/kp2.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Adila Ong <br>Vice Principal
