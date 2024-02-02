@@ -297,7 +297,7 @@ variant: markdown
 <table>
   <tbody>
     <tr>
-      <td rowspan="1" colspan="1">
+      <td rowspan="1" colspan="2">
         <p></p>
         <div class="isomer-image-wrapper">
           <img style="width:200px" alt="" src="/images/kp1.jpg">
@@ -308,7 +308,7 @@ variant: markdown
           <p></p>
         </center></div>
       </td>
-      <td rowspan="1" colspan="1">
+      <td rowspan="1" colspan="2">
         <p></p>
         <div class="isomer-image-wrapper">
           <img style="width:200px" alt="" src="/images/kp2.jpg">
