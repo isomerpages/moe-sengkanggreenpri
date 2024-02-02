@@ -14,7 +14,7 @@ variant: markdown
       <td rowspan="1" colspan="3">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/sec1.jpg">
+          <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Mr_Gau_Poh_Teck.JPG">
           <p>
             <b>
               </b></p><center><b>Mr. Gau Poh Teck <br>Principal
