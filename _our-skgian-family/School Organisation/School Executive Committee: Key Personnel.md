@@ -118,7 +118,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp0026.JPG">
+          <img style="width:200px" alt="" src="/images/Ms_Ng_Hui_Lin_Dion.JPG">
           <p>
             <b>
               </b></p><center><b>Ms Ng Hui Lin Dion<br>Level Head / Mathematics
