@@ -14,7 +14,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp1.jpg">
+          <img style="width:150px" alt="" src="/images/kp1.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Ng Lip Kiang <br>School Staff Developer (SSD)
@@ -25,7 +25,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp2.jpg">
+          <img style="width:150px" alt="" src="/images/kp2.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Chua Siew Kheng<br>Head of Department / English
@@ -40,7 +40,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp7.jpg">
+          <img style="width:150px" alt="" src="/images/kp7.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Chew Mei Jun<br>Head of Department / Science
@@ -51,7 +51,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp5.jpg">
+          <img style="width:150px" alt="" src="/images/kp5.jpg">
           <p>
             <b>
               </b></p><center><b>Mrs Ivy Tan<br>Head of Department / CCE
@@ -66,7 +66,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp8.jpg">
+          <img style="width:150px" alt="" src="/images/kp8.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Tan Wan Cheng, Rachael<br>Head of Department / Mathematics
@@ -77,7 +77,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/Ms_Wang_Siyang.JPG">
+          <img style="width:150px" alt="" src="/images/Ms_Wang_Siyang.JPG">
           <p>
             <b>
               </b></p><center><b>Ms Wang Siyang<br>Head of Department / ICT
@@ -92,7 +92,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/Mdm_Tan_Wei_Lin_Winnie.jpg">
+          <img style="width:150px" alt="" src="/images/Mdm_Tan_Wei_Lin_Winnie.jpg">
           <p>
             <b>
               </b></p><center><b>Mdm Winnie Tan Wei Lin<br>Level Head / English
@@ -103,7 +103,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp17.jpg">
+          <img style="width:150px" alt="" src="/images/kp17.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Wong Yoke Lye<br>Level Head / Mathematics
@@ -118,7 +118,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/Ms_Ng_Hui_Lin_Dion.JPG">
+          <img style="width:150px" alt="" src="/images/Ms_Ng_Hui_Lin_Dion.JPG">
           <p>
             <b>
               </b></p><center><b>Ms Ng Hui Lin Dion<br>Level Head / Mathematics
@@ -129,7 +129,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp9.jpg">
+          <img style="width:150px" alt="" src="/images/kp9.jpg">
           <p>
             <b>
               </b></p><center><b>Mr Alan Lim<br>Subject Head / ICT
@@ -144,7 +144,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp10.jpg">
+          <img style="width:150px" alt="" src="/images/kp10.jpg">
           <p>
             <b>
               </b></p><center><b>Mdm Norashikin Bte Abdul Hamid<br>Subject Head / Malay
@@ -155,7 +155,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp12.jpg">
+          <img style="width:150px" alt="" src="/images/kp12.jpg">
           <p>
             <b>
               </b></p><center><b>Mr Kenneth Mok<br>Subject Head / Physical Education
@@ -170,7 +170,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp13.jpg">
+          <img style="width:150px" alt="" src="/images/kp13.jpg">
           <p>
             <b>
               </b></p><center><b>Mrs Cindy Khoo<br>Subject Head / Music
@@ -181,7 +181,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp14.jpg">
+          <img style="width:150px" alt="" src="/images/kp14.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Toh Wai Ling<br>Year Head / Lower Primary
@@ -196,7 +196,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp15.jpg">
+          <img style="width:150px" alt="" src="/images/kp15.jpg">
           <p>
             <b>
               </b></p><center><b>Mdm Catherine Tan<br>Year Head / Middle Primary
@@ -207,7 +207,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp16.jpg">
+          <img style="width:150px" alt="" src="/images/kp16.jpg">
           <p>
             <b>
               </b></p><center><b>Mdm Nur Ain Binte Ahmad<br>Year Head / Upper Primary
@@ -222,7 +222,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp20.jpg">
+          <img style="width:150px" alt="" src="/images/kp20.jpg">
           <p>
             <b>
               </b></p><center><b>Mdm Lim Chee Ang Catherine<br>Senior Teacher / Lower Primary Learner
@@ -233,7 +233,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp21.jpg">
+          <img style="width:150px" alt="" src="/images/kp21.jpg">
           <p>
             <b>
               </b></p><center><b>Mdm Chng E-Hwei<br>Senior Teacher / Chinese
@@ -248,7 +248,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp23.jpg">
+          <img style="width:150px" alt="" src="/images/kp23.jpg">
           <p>
             <b>
               </b></p><center><b>Mrs Felicia Ng<br>Senior Teacher / Art
@@ -259,7 +259,7 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width:200px" alt="" src="/images/kp0030.jpg">
+          <img style="width:150px" alt="" src="/images/kp0030.jpg">
           <p>
             <b>
               </b></p><center><b>Ms Hayati Bte Abdul Rahi<br>Senior Teacher / CCE
