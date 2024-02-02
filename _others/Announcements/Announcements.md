@@ -145,21 +145,6 @@ on the following link to view.
 <br><a href="/files/Annexes%20For%20SLS.pdf" rel="noopener" target="_blank">Annexes For SLS Portal</a>
 </p>
 <hr>
-<p><strong>School Bus Services For Year 2022<br></strong>Please download
-the file below to view the letter:
-<br><a href="/files/School%20Bus%20Services%20for%20Year%202022.pdf" rel="noopener" target="_blank">School Bus Services For Year 2022</a>
-</p>
-<hr>
-<p><strong>Nominations for the 14th Caring Teacher Awards (CTA) 2022<br></strong>Announcement
-for parents, students and teachers</p>
-<p>The Caring Teacher Awards (CTA) aims to acknowledge teachers in our schools
-who go beyond the call of duty, nurturing the holistic development of their
-students and ensuring their charges grow up to be confident, independent
-and resilient learners for our nation.</p>
-<p>To submit online nominations, please visit&nbsp;<a href="http://www.cta.nie.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.cta.nie.edu.sg</a>. A hard
-copy of the completed nomination form can also be submitted to the school.
-Closing date for nominations is 31 January 2022.</p>
-<hr>
 <p><strong>User Guide on Installation of Language Pack (Chinese Language Input/Tamil Language Input)<br></strong>Please
 click&nbsp;<a href="/files/User%20Guide%20to%20install%20language%20in%20Win%2010.pdf" rel="noopener" target="_blank">here</a>&nbsp;to
 download.</p>
