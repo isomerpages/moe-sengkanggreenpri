@@ -52,9 +52,9 @@ available time to help children enhanced their learning experience in school.</p
 exercising, dancing, singing and crafting. We shared valuable parenting
 tips and school information.</p>
 <p>My involvement through school activities is my way of showing support
-for my child's learnng journey. In turn I hope it will motivate her to
+for my child's learning journey. In turn I hope it will motivate her to
 excel in school.</p>
-<p>My child and i have more common topics to discuss at home as well in whch
+<p>My child and i have more common topics to discuss at home as well in which
 I can relate better when she shared about her experiences in school.</p>
 <p>Together with my two Vice Chairpersons, Mdm Daisy Tan, and Mdm Chin Kai
 Li, we hope to bring new experiences and adventures to PSG in the coming
@@ -86,7 +86,7 @@ is a combination of big and small hands representing an inclusive and welcoming
 community in the school. The logo also depicts the PSG movement of creating
 a nurturing environment for our children, impacting pupils as active participants
 in moulding their own future and the legacy of the school.</p>
-<p><strong><u>Objectives:</u></strong>
+<p><strong><u>Objectives:</u></strong> 
 <br>We aim to:
 <br>(1) Promote close co-operation and understanding between parents/guardians,
 school leaders and teachers in matters relating to holistic development
