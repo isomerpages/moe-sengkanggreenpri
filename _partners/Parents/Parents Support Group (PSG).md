@@ -72,8 +72,8 @@ a greater height.</p>
 you in this journey.</p>
 <p>Meanwhile i wish all be safe, well and happy!</p>
 <p>With best regards,</p>
-<p>Catherine Lim
-<br>Chairperson, SKGPS Parent Support Group</p>
+<p><strong>Catherine Lim <br><em>Chairperson, SKGPS Parent Support Group</em></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/skgp psg logo revised 2022 mid.png">
 </div>
