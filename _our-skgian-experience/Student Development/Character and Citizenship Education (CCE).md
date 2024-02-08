@@ -32,20 +32,17 @@ To inculcate values and build competencies in our students to equip them with th
 <p><strong>Values-based Assembly / Form Teacher Guidance (FTGP Programme)/HEART to Heart Programme.</strong><strong>&nbsp;&nbsp;</strong></p>
 <img alt="" src="images\cce004.png">
 <p>Anchored on the school’s ICAR<sup>2</sup>E values, and the SEL Competencies framework, the weekly 1-hour school assembly programme alternates with the FTGP lessons to teach&nbsp;school values, social-emotional competencies, Habits &amp; Routines and Life Skills.</p>
-<p>FTGP and Heart-to-Heart programmes optimise opportunities for teachers to build positive relationship with their students. It provides quality interaction time for form teachers to engage in meaningful conversations with their students and future build on their 5 Social Emotional Competencies.</p>
-<p>&nbsp;</p>
-<p>The lessons are designed for students to acquire skills that will help them to:</p>
-<p>a) better understand themselves (Self-Awareness)</p>
-<p>b) learn ways to manage themselves (Self-Management)</p>
-<p>c) better understand their family and friends (Social Awareness)</p>
-<p>d) learn ways to work with their family and friends (Relationship Management) and</p>
-<p>e) make appropriate and responsible decisions (Responsible Decision Making)</p>
+FTGP and Heart-to-Heart programmes optimise opportunities for teachers to build positive relationship with their students. It provides quality interaction time for form teachers to engage in meaningful conversations with their students and future build on their 5 Social Emotional Competencies.<p></p>
+The lessons are designed for students to acquire skills that will help them to:<p></p>
+a) better understand themselves (Self-Awareness)<br>
+b) learn ways to manage themselves (Self-Management)<br>
+c) better understand their family and friends (Social Awareness)<br>
+d) learn ways to work with their family and friends (Relationship Management) and<br>
+e) make appropriate and responsible decisions (Responsible Decision Making)<p></p>
 <img alt="" src="images\cce005.PNG">
-<p>&nbsp;</p>
 <p><strong>CCE Lessons</strong></p>
-<p>CCE lessons focus on developing the moral well-being of our students by helping them acquire and live by the values that guide them to make appropriate choices that determine their behaviours and attitudes towards themselves, others and the environment.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+CCE lessons focus on developing the moral well-being of our students by helping them acquire and live by the values that guide them to make appropriate choices that determine their behaviours and attitudes towards themselves, others and the environment.<p></p>
+
 <p><strong>Social Studies<br> </strong>The Social Studies&nbsp;curriculum spans the primary and secondary levels, and helps students to grow in knowledge, develop skills and learn values through examining issues that are of concern to our society and the world in which we live. Through inquiry-based learning and authentic learning experiences, we hope to ignite students’ interest in real-world issues that concern them.&nbsp;</p>
 <p>The knowledge, skills and values gained from Social Studies, together with the citizenship dispositions that National Education is anchored on, will help students become citizens who&nbsp;are informed, concerned and participative.&nbsp;</p>
 <img alt="" src="images\cce006.png">
