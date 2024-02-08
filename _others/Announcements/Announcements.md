@@ -3,6 +3,64 @@ title: Announcements
 permalink: /others/announcements/
 description: ""
 third_nav_title: Announcements
-variant: tiptap
+variant: markdown
 ---
-<p></p><p><strong>P6 Parent Engagement Session 2024<br></strong>Please click on the following link to download the presentation slides.</p><p><a href="/files/Primary_6_PES.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 PES slides</a></p><hr><p><strong>P1 Engagement Session 2024<br></strong>Please click on the following links to download the presentation slides.</p><p><a href="/files/Principal_Sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Sharing</a></p><p><a href="/files/Year_Head_Sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head's Sharing</a></p><p><a href="/files/Technology_for_Learning.pdf" rel="noopener noreferrer nofollow" target="_blank">Technology for the Lifelong Learner</a></p><p><a href="/files/Holistic_Health.pdf" rel="noopener noreferrer nofollow" target="_blank">Holistic Health</a></p><p><a href="/files/English_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a></p><p><a href="/files/Mathematics_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a></p><p><a href="/files/Chinese_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Language</a></p><p><a href="/files/Malay_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Language</a></p><p><a href="/files/Tamil_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Language</a></p><hr><p><strong>ECHA Application 2023</strong></p><p>Please click <a href="https://docs.google.com/document/d/1hz1IhJCLECUDAyEUmUG0NGEq29Wy1eOl/edit?usp=drive_link&amp;ouid=109524831007664083125&amp;rtpof=true&amp;sd=true" rel="noopener" target="_blank">here</a> to download the form.</p><p>Thank you.</p><hr><p><strong>Art Outreach @ National Museum Singapore</strong></p><p>Please click <a href="https://drive.google.com/file/d/1wXeEPxAgJBx3knqtrYqNILt26RMJ0xrD/view?usp=drive_link" rel="noopener" target="_blank">here</a> for more info.</p><p>Thank you.</p><hr><p><strong>10th Year Anniversary Celebration</strong></p><p>Dear all,</p><p>We are pleased to announce that the event photos have been uploaded to the designated drive.&nbsp;</p><p>Please click the link below to view.<br><br><a href="https://drive.google.com/drive/folders/1s2eae6oBfmkk-Y4OBZM-vFcOTuWjbXOH?usp=sharing" rel="noopener" target="_blank">SKGians Celebrate!</a></p><p><a href="/others/announcements/10thyearanniversarycelebration/" rel="noopener noreferrer nofollow" target="_blank">Corporate Video and MTV Video&nbsp;</a></p><p><a href="https://drive.google.com/drive/folders/1--zrSWJ7DkQG_FIZfQXhHaGRM0Sp7tLz" rel="noopener" target="_blank">ICARE Book</a></p><p>Additionally, if you prefer not to have your or your child's photo displayed on the school website, kindly send an email to <a href="mailto:kao_pow_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="">kao_pow_ling@moe.edu.sg</a> with the exact photo number. The photo will be removed within 7 working days upon receiving your request.</p><p>Thank you for your understanding and cooperation</p><hr><p><strong>P2 Parent Engagement Session 2023<br></strong>Please click on the following links to view:<br><a href="/files/P2%20PES%20P%20and%20YH%20Sharing%20Slides%202023%20for%20Uploading.pdf" rel="noopener" target="_blank">P2 PES P and YH Sharing Slides 2023</a><br><a href="/files/Parent%20Engagement%20Session_P2%20Curriculum_for%20uploading.pdf" rel="noopener" target="_blank">Parent Engagement Session P2 Curriculum</a></p><hr><p><strong>P3 and P4 Parent Engagement Session 2023<br></strong>Please click on following link to view:</p><p><strong>P3<br></strong><a href="/files/2023%20P3%20PES%2022%20Feb%20_P%20and%20YH%20talk.pdf" rel="noopener" target="_blank">2023 P3 PES 22 Feb</a><br><a href="/files/Changes%20to%20School-Based%20Assessment_P3%20PES%202023.pdf" rel="noopener" target="_blank">P3 - Changes to School-Based Assessment</a></p><p><strong>P4<br></strong><a href="/files/2023%20P4%20PES_17%20Feb.pdf" rel="noopener" target="_blank">2023 P4 PES 17 Feb</a><br><a href="/files/Changes%20to%20School-Based%20Assessment_P4%20PES%202023.pdf" rel="noopener" target="_blank">P4 - Changes to School-Based Assessment</a></p><hr><p><strong>P5 Parent Engagement Session 2023<br></strong>Please click on the following link to download the presentation slides<br><a href="/files/1%20P5%20PES%202023%20-%20Principal%20and%20YH%20Time%20For%20website.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 PES 2023 - Principal and Year Head Time</a><br><a href="/files/2%20P5%20PES%202023%20-%20Changes%20to%20School-Based%20Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 PES 2023 - Changes to School-Based Assessment</a></p><hr><p><strong>P6 Parent Engagement Session 2023<br></strong>Please click on the following link to download the presentation slides.<br><a href="/files/1%20P6%20PES%202023%20-%20Principal%20and%20YH%20Time%20for%20uploading.pdf" rel="noopener" target="_blank">P6 PES 2023 - Pincipal and Year Head Time</a><br><a href="/files/2%20P6%20PES%202023%20-%20Changes%20to%20School-Based%20Assessment%20for%20uploading.pdf" rel="noopener" target="_blank">P6 PES 2023 - Changes to School-Based Assessment</a></p><hr><p><strong>Open for Nominations: Inspiring Teacher of English Award 2023<br></strong>Please click&nbsp;<a href="/others/announcements/open-for-nominations-inspiring-teacher-of-english-award-2023" rel="noopener noreferrer nofollow" target="_blank">here</a> for more info.<br>Thank you.</p><hr><p><strong>P1 Engagement Session 2023<br></strong>Please click on the following links to download the presentation slides.</p><ul data-tight="true" class="tight"><li><p><a href="/files/Principals%20Sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Sharing</a></p></li><li><p><a href="/files/Year%20Head%20Sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head's Sharing</a></p></li><li><p><a href="/files/English%20Language.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a></p></li><li><p><a href="/files/Mathematics.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a></p></li><li><p><a href="/files/Chinese%20Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Language</a></p></li><li><p><a href="/files/Malay%20Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Language</a></p></li><li><p><a href="/files/Tamil%20Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Language</a></p></li><li><p><a href="/files/Holistic%20Health.pdf" rel="noopener noreferrer nofollow" target="_blank">Holistic Health</a></p></li><li><p><a href="/files/Technology%20for%20Learning.pdf" rel="noopener noreferrer nofollow" target="_blank">Technology for Learning</a></p></li></ul><hr><p><strong>Sengkang Green P1 Orientation 2023</strong><br>Please click&nbsp;<a href="/files/SengKang%20Green%20P1%20Orientation%202023%20Updated.pdf" rel="noopener" target="_blank">here</a>&nbsp;to download the presentation slides.</p><hr><p><strong>SLS Annex A and Annex B (3 Feb 2022)<br></strong>Please click on the following link to view.<br><a href="/files/Annexes%20For%20SLS.pdf" rel="noopener" target="_blank">Annexes For SLS Portal</a></p><hr><p><strong>School Bus Services For Year 2022<br></strong>Please download the file below to view the letter:<br><a href="/files/School%20Bus%20Services%20for%20Year%202022.pdf" rel="noopener" target="_blank">School Bus Services For Year 2022</a></p><hr><p><strong>Nominations for the 14th Caring Teacher Awards (CTA) 2022<br></strong>Announcement for parents, students and teachers</p><p>The Caring Teacher Awards (CTA) aims to acknowledge teachers in our schools who go beyond the call of duty, nurturing the holistic development of their students and ensuring their charges grow up to be confident, independent and resilient learners for our nation.</p><p>To submit online nominations, please visit&nbsp;<a href="http://www.cta.nie.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.cta.nie.edu.sg</a>. A hard copy of the completed nomination form can also be submitted to the school. Closing date for nominations is 31 January 2022.</p><hr><p><strong>User Guide on Installation of Language Pack (Chinese Language Input/Tamil Language Input)<br></strong>Please click&nbsp;<a href="/files/User%20Guide%20to%20install%20language%20in%20Win%2010.pdf" rel="noopener" target="_blank">here</a>&nbsp;to download.</p><hr><p><strong>Edusave Character Award Nomination Form<br></strong>Please click&nbsp;<a href="/files/ECHA%20NOMINATION%20FORM%202020.pdf" rel="noopener" target="_blank">here</a>&nbsp;to view the form.<strong><br></strong></p><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><p>Click&nbsp;<a href="/others/announcements-archives" rel="noopener noreferrer nofollow" target="">Here</a>&nbsp;For Archives4</p>
+<p></p>
+<p><strong>P6 Parent Engagement Session 2024<br></strong>Please click on
+the following link to download the presentation slides.</p>
+<p><a href="/files/Primary_6_PES.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 PES slides</a>
+</p>
+<hr>
+<p><strong>P1 Engagement Session 2024<br></strong>Please click on the following
+links to download the presentation slides.</p>
+<p><a href="/files/Principal_Sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Sharing</a>
+</p>
+<p><a href="/files/Year_Head_Sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head's Sharing</a>
+</p>
+<p><a href="/files/Technology_for_Learning.pdf" rel="noopener noreferrer nofollow" target="_blank">Technology for the Lifelong Learner</a>
+</p>
+<p><a href="/files/Holistic_Health.pdf" rel="noopener noreferrer nofollow" target="_blank">Holistic Health</a>
+</p>
+<p><a href="/files/English_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
+</p>
+<p><a href="/files/Mathematics_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
+</p>
+<p><a href="/files/Chinese_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Language</a>
+</p>
+<p><a href="/files/Malay_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Language</a>
+</p>
+<p><a href="/files/Tamil_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Language</a>
+</p>
+<hr>
+<p><strong>ECHA Application 2024</strong>
+</p>
+<p>Please click <a href="https://docs.google.com/document/d/1hz1IhJCLECUDAyEUmUG0NGEq29Wy1eOl/edit?usp=drive_link&amp;ouid=109524831007664083125&amp;rtpof=true&amp;sd=true" rel="noopener" target="_blank">here</a> to
+download the form.</p>
+<p>Thank you.</p>
+<hr>
+<p><strong>10th Year Anniversary Celebration</strong>
+</p>
+<p>Dear all,</p>
+<p>We are pleased to announce that the event photos have been uploaded to
+the designated drive.&nbsp;</p>
+<p>Please click the link below to view.
+<br>
+<br><a href="https://drive.google.com/drive/folders/1s2eae6oBfmkk-Y4OBZM-vFcOTuWjbXOH?usp=sharing" rel="noopener" target="_blank">SKGians Celebrate!</a>
+</p>
+<p><a href="/others/announcements/10thyearanniversarycelebration/" rel="noopener noreferrer nofollow" target="_blank">Corporate Video and MTV Video&nbsp;</a>
+</p>
+<p><a href="https://drive.google.com/drive/folders/1--zrSWJ7DkQG_FIZfQXhHaGRM0Sp7tLz" rel="noopener" target="_blank">ICARE Book</a>
+</p>
+<p>Additionally, if you prefer not to have your or your child's photo displayed
+on the school website, kindly send an email to <a href="mailto:kao_pow_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="">kao_pow_ling@moe.edu.sg</a> with the
+exact photo number. The photo will be removed within 7 working days upon
+receiving your request.</p>
+<p>Thank you for your understanding and cooperation</p>
+<hr>
+<p><strong>User Guide on Installation of Language Pack (Chinese Language Input/Tamil Language Input)<br></strong>Please
+click&nbsp;<a href="/files/User%20Guide%20to%20install%20language%20in%20Win%2010.pdf" rel="noopener" target="_blank">here</a>&nbsp;to
+download.</p>
+<hr>
+<p><strong>Edusave Character Award Nomination Form<br></strong>Please click&nbsp;
+<a href="/files/ECHA%20NOMINATION%20FORM%202020.pdf" rel="noopener" target="_blank">here</a>&nbsp;to view the form.<strong><br></strong>
+</p>
