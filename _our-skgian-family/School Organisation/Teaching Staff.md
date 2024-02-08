@@ -8,7 +8,7 @@ variant: markdown
 <h4>
   <strong>Primary 1</strong>
 </h4>
-<table>
+<center></center><table>
   <tbody>
     <tr>
       <td rowspan="1" colspan="1">
@@ -29,8 +29,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="1" colspan="1">
-        <p>Year Head</p>
-      </td>
+        <p><b>Year Head</b></p><b>
+      </b></td>
       <td rowspan="1" colspan="1">
         <p>Mrs Toh Wai Ling</p>
       </td>
@@ -41,9 +41,9 @@ variant: markdown
       </td>
     </tr>
     <tr>
-      <td rowspan="2" colspan="1">
-        <p>1 Attentive</p>
-      </td>
+			<td rowspan="2" colspan="1">
+        <center><b>1 <br>Attentive<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mdm Thilagam D/O Ramalingam</p>
       </td>
@@ -65,8 +65,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>1 Brave</p>
-      </td>
+        <center><b>1<br>Brave<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mrs Aileen Kwok</p>
       </td>
@@ -88,8 +88,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>1 Caring</p>
-      </td>
+        <center><b>1<br>Caring<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mrs Felicia Ng</p>
       </td>
@@ -111,8 +111,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>1 Diligent</p>
-      </td>
+        <center><b>1<br> Diligent<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Ms Tan Miao Yun Lynette</p>
       </td>
@@ -136,8 +136,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>1 Excellent</p>
-      </td>
+        <center><b>1<br>Excellent<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mdm Tan Wei Lin Winnie</p>
       </td>
@@ -163,8 +163,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>1 Friendly</p>
-      </td>
+        <center><b>1<br> Friendly<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mdm Esther Claire Li</p>
       </td>
@@ -190,8 +190,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>1 Gracious</p>
-      </td>
+        <center><b>1<br> Gracious<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Ms Jeslin Wee</p>
       </td>
@@ -215,8 +215,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>1 Honest</p>
-      </td>
+        <center><b>1<br>Honest<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Ms Ng Lip Kiang</p>
       </td>
@@ -242,8 +242,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>1 Integrity</p>
-      </td>
+        <center><b>1<br> Integrity<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mdm Catherine Lim</p>
       </td>
@@ -291,8 +291,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="1" colspan="1">
-        <p>Year Head</p>
-      </td>
+        <b>Year Head<p></p>
+      </b></td>
       <td rowspan="1" colspan="1">
         <p>Mrs Toh Wai Ling</p>
       </td>
@@ -304,8 +304,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>2 Attentive</p>
-      </td>
+        <center><b>2<br> Attentive<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mrs Toh Wai Ling</p>
       </td>
@@ -329,8 +329,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>2 Brave</p>
-      </td>
+        <center><b>2<br> Brave<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Ms Lynnette Krystall G Aviado</p>
       </td>
@@ -339,15 +339,14 @@ variant: markdown
           <a href="mailto:lynnette_krystall_g_aviado@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
             <u>lynnette_krystall_g_aviado@moe.edu.sg</u>
           </a>
-        </p>
-      </td>
+      </p></td>
     </tr>
     <tr>
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>2 Caring</p>
-      </td>
+        <center><b>2<br> Caring<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mrs Jennifer Ong</p>
       </td>
@@ -369,8 +368,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>2 Diligent</p>
-      </td>
+       <center><b>2<br>Diligent<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mdm Muhamudha Binte Maideen Abu Baker</p>
       </td>
@@ -396,8 +395,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>2 Excellent</p>
-      </td>
+        <center><b>2<br> Excellent<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mdm Peh Peck Hoon, Wendy</p>
       </td>
@@ -421,8 +420,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>2 Friendly</p>
-      </td>
+        <center><b>2<br> Friendly<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mdm Siti Ayuni Aidil</p>
       </td>
@@ -448,8 +447,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>2 Gracious</p>
-      </td>
+        <center><b>2<br>Gracious<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Ms Lam Hui Hui Amy</p>
       </td>
@@ -473,8 +472,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>2 Honest</p>
-      </td>
+        <center><b>2<br> Honest<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Ms Nazura Binte Hadam Hussain</p>
       </td>
@@ -500,8 +499,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>2 Integrity</p>
-      </td>
+        <center><b>2<br> Integrity<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Ms Ng Hui Lin Dion</p>
       </td>
@@ -551,8 +550,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="1" colspan="1">
-        <p>Year Head</p>
-      </td>
+        <b>Year Head<p></p>
+      </b></td>
       <td rowspan="1" colspan="1">
         <p>Mdm Tan Puay Kheng Catherine</p>
       </td>
@@ -564,8 +563,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>3 Attentive</p>
-      </td>
+        <center><b>3<br> Attentive<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mr Chew Chee Siang Richard</p>
       </td>
@@ -591,8 +590,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>3 Brave</p>
-      </td>
+        <center><b>3<br>Brave<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Ms Sew Bee Jun Pearlyn</p>
       </td>
@@ -614,8 +613,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>3 Caring</p>
-      </td>
+        <center><b>3<br>Caring<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mr Aanand Pandiyan</p>
       </td>
@@ -639,8 +638,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>3 Diligent</p>
-      </td>
+        <center><b>3<br> Diligent<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mrs Chitra Guna</p>
       </td>
@@ -666,8 +665,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>3 Excellent</p>
-      </td>
+        <center><b>3<br> Excellent<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mdm Tan Puay Kheng Catherine</p>
       </td>
@@ -691,8 +690,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>3 Friendly</p>
-      </td>
+        <center><b>3<br> Friendly<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mdm Norashikin Bte Abdul Hamid</p>
       </td>
@@ -716,8 +715,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>3 Gracious</p>
-      </td>
+        <center><b>3<br> Gracious<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Ms Hayati Bte Abdul Rahim</p>
       </td>
@@ -763,8 +762,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="1" colspan="1">
-        <p>Year Head</p>
-      </td>
+        <b>Year Head<p></p>
+      </b></td>
       <td rowspan="1" colspan="1">
         <p>Mdm Tan Puay Kheng Catherine</p>
       </td>
@@ -776,8 +775,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>4 Attentive</p>
-      </td>
+        <center><b>4<br> Attentive<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mrs Pearlyn Lim&nbsp;</p>
       </td>
@@ -801,8 +800,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>4 Brave</p>
-      </td>
+        <center><b>4<br> Brave<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mrs Sangeetha Siva</p>
       </td>
@@ -824,8 +823,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>4 Caring</p>
-      </td>
+        <center><b>4<br> Caring<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Ms Chew Mei Jun</p>
       </td>
@@ -849,8 +848,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>4 Diligent</p>
-      </td>
+        <center><b>4<br>Diligent<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mdm Susanna Sim Hui Fang</p>
       </td>
@@ -874,8 +873,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>4 Excellent</p>
-      </td>
+        <center><b>4<br> Excellent<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mdm Judy Lim</p>
       </td>
@@ -901,8 +900,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>4 Friendly</p>
-      </td>
+        <center><b>4<br>Friendly<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mdm Nurhuda Binte Abu Bakar</p>
       </td>
@@ -928,8 +927,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>4 Gracious</p>
-      </td>
+        <center><b>4<br>Gracious<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mdm Ong Ngiap Seng</p>
       </td>
@@ -979,8 +978,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="1" colspan="1">
-        <p>Year Head</p>
-      </td>
+        <b>Year Head<p></p>
+      </b></td>
       <td rowspan="1" colspan="1">
         <p>Mdm Nur Ain Binte Ahmad</p>
       </td>
@@ -992,8 +991,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>5 Attentive</p>
-      </td>
+        <center><b>5<br>Attentive<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mr Chong Kuan Hoe</p>
       </td>
@@ -1019,8 +1018,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>5 Brave</p>
-      </td>
+        <center><b>5<br> Brave<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Ms Chua Yun Zhi, Diane</p>
       </td>
@@ -1046,8 +1045,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>5 Caring</p>
-      </td>
+        <center><b>5<br>Caring<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mrs Cindy Khoo</p>
       </td>
@@ -1069,8 +1068,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>5 Diligent</p>
-      </td>
+        <center><b>5<br>Diligent<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mdm Serene Teh Xian Hui</p>
       </td>
@@ -1090,8 +1089,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>5 Excellent</p>
-      </td>
+        <center><b>5<br>Excellent<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Ms Chua Siew Kheng</p>
       </td>
@@ -1117,8 +1116,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>5 Friendly</p>
-      </td>
+        <center><b>5<br>Friendly<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mr Lim Kok Min Alan</p>
       </td>
@@ -1144,8 +1143,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>5 Gracious</p>
-      </td>
+        <center><b>5<br>Gracious<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mr Eddy Sufyan</p>
       </td>
@@ -1169,8 +1168,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>5 Honest</p>
-      </td>
+        <center><b>5<br>Honest<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mr Jamen Tan Kay Wee</p>
       </td>
@@ -1220,7 +1219,7 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="1" colspan="1">
-        <p>Year Head</p>
+        <b>Year Head</b>
       </td>
       <td rowspan="1" colspan="1">
         <p>Mdm Nur Ain Binte Ahmad</p>
@@ -1233,8 +1232,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>6&nbsp;Attentive</p>
-      </td>
+        <center><b>6<br>Attentive<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Ms Tan Wan Cheng Rachael</p>
       </td>
@@ -1260,8 +1259,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>6&nbsp;Brave</p>
-      </td>
+        <center><b>6<br>Brave<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Ms Hoe Suyi Florina</p>
       </td>
@@ -1287,8 +1286,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>6&nbsp;Caring</p>
-      </td>
+        <center><b>6<br>Caring<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mdm Leow Pei Shan Jaysleen</p>
       </td>
@@ -1314,8 +1313,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>6&nbsp;Diligent</p>
-      </td>
+         <center><b>6<br>Diligent<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mdm Mahalakshmi</p>
       </td>
@@ -1341,8 +1340,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>6&nbsp;Excellent</p>
-      </td>
+         <center><b>6<br>Excellent<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mdm Nurul Zawanah Binte Abdul Wahab</p>
       </td>
@@ -1368,8 +1367,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>6&nbsp;Friendly</p>
-      </td>
+         <center><b>6<br>Friendly<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Ms Anna Kwok Wing Chiu&nbsp;</p>
       </td>
@@ -1393,8 +1392,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>6 Gracious</p>
-      </td>
+         <center><b>6<br>Gracious<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Mrs Ofelia Yeo</p>
       </td>
@@ -1420,8 +1419,8 @@ variant: markdown
     </tr>
     <tr>
       <td rowspan="2" colspan="1">
-        <p>6 Honest</p>
-      </td>
+         <center><b>6<br>Honest<p></p>
+      </b></center></td>
       <td rowspan="1" colspan="1">
         <p>Ms Lo Yuan Yuan</p>
       </td>
