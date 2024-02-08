@@ -3,41 +3,27 @@ title: Character and Citizenship Education (CCE)
 permalink: /our-skgian-experience/student-development/character-and-citizenship-education-cce/
 description: ""
 third_nav_title: Student Development
+variant: markdown
 ---
 <table style="width: 481px;">
 <tbody>
 <tr>
 <td style="width: 229.797px;">
 <p><strong>The CCE Team</strong></p>
-<img alt="" src="images\cce001.png">
-<p><strong>&nbsp;</strong></p>
-</td>
-<td style="width: 231.203px;">
-<table style="width: 101.718%;">
-<tbody>
+</td></tr></tbody><tbody>
 <tr>
 <td style="width: 100%;">
-<p>Head of Department (Character and Citizenship Education): Mrs Ivy Tan</p>
-<p>Senior Teacher (Character and Citizenship Education): Ms Hayati Bte Abdul Rahim</p>
-<p>Senior Teacher (Social Studies): Mdm Neo Lay Kheng</p>
-<p>Senior Teacher (Chinese Language): Mdm Chng E-Hwei</p>
-<p>Senior Teacher (Art): Mrs Felicia Ng</p>
-<p>&nbsp;Mdm Suguna Gopynathan, Ms Koh Jia Shan, Mdm Humairiah Bte Ahmad</p>
-<p>Mdm Luo Yanping, Mr Zhang Xingang, Mr Aanand Pandiyan</p>
-<p>Mrs Chitra Guna, Ms Tan Shumin Charissa, Mr Rishikesh Rajendra Naidu</p>
-<p>Ms Tan Miao Yun Lynette, Mdm Judy Lim, Mdm Kong Siew May</p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-
-<p><br> <strong>Our Mission&nbsp;</strong></p>
-<p>To inculcate values and build competencies in our students to equip them with the knowledge, skills, attitudes and values to be responsible citizens who serve beyond self.</p>
-<p>&nbsp;</p>
+	<b>Head of Department (Character and Citizenship Education):</b><br> Mrs Ivy Tan<p></p>
+	<b>Senior Teacher (Character and Citizenship Education):</b><br>Ms Hayati Bte Abdul Rahim<p></p>
+	<b>Senior Teacher (Social Studies):</b><br> Mdm Neo Lay Kheng<p></p>
+	<b>Senior Teacher (Chinese Language):</b><br> Mdm Chng E-Hwei<p></p>
+<b>Senior Teacher (Art):</b><br> Mrs Felicia Ng<br>
+Mdm Suguna Gopynathan<br>Ms Koh Jia Shan<br>Mdm Humairiah Bte Ahmad<br>
+Mdm Luo Yanping<br>Mr Zhang Xingang<br>Mr Aanand Pandiyan<br>
+Mrs Chitra Guna<br>Ms Tan Shumin Charissa<br>Mr Rishikesh Rajendra Naidu<br>
+Ms Tan Miao Yun Lynette<br>Mdm Judy Lim<br>Mdm Kong Siew May<br>
+<br> <strong>Our Mission</strong><p></p>
+To inculcate values and build competencies in our students to equip them with the knowledge, skills, attitudes and values to be responsible citizens who serve beyond self.<p></p>
 <p><strong>Our CCE Goals </strong></p>
 <img alt="" src="images\cce002.png">
 <p>CCE in Sengkang Green anchors on the school mission to develop our students into Leaders of Character and Socially Responsible Citizens who actively contribute to the school, community and nation. We emphasise on the interconnectedness of the core values, 21<sup>st&nbsp;</sup>century competencies and civic literacy, global awareness and cross-cultural skills that are critical to develop student into a confident person, self-directed learner, concerned citizen and an active contributor.</p>
@@ -84,4 +70,4 @@ In our efforts to nurture our students to become active contributors and concern
 <img alt="" src="images\cce010.PNG">
 <img alt="" src="images\cce011.PNG">
 <p><strong>SkillsFuture@SKGPS</strong><br>Our SkillsFuture@SKGPS programme aims to equip every SKGian with the information to explore various education pathways and make well-informed educational and career choices. In this fast-changing world, we prepare our students to face challenges and seize opportunities brought about by globalisation, changing demographics and technological advancements. Therefore, SkillsFuture@SKGPS adopts a whole school approach to empower our students to embark on a journey of self-discovery, knowing more about their strengths, interests and aspirations to be future-ready.</p>
-<img alt="" src="images\cce012.PNG">
+<img alt="" src="images\cce012.PNG"></td></tr></tbody></table>
