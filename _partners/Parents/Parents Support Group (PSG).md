@@ -20,7 +20,7 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Mdm_Catherine_Lim.png">
 	<b>
-              </b><p></p><center><b>Mdm Catherine Lim<br>Chairman
+              </b><p></p><center><b>Mdm Catherine Lim<br>Chairperson
             </b>
 </center></div>
 </td>
@@ -30,7 +30,7 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Mdm_Daisy_Tan.png">
 	<b>
-              </b><p></p><center><b>Mdm Daisy Tan<br>Vice Chairman
+              </b><p></p><center><b>Mdm Daisy Tan<br>Vice Chairperson
             </b>
 </center></div>
 </td>
@@ -38,7 +38,7 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Mdm_Chin_Kai_Li.png">
 	<b>
-              </b><p></p><center><b>Mdm Chin Kai Li<br>Vice Chairman
+              </b><p></p><center><b>Mdm Chin Kai Li<br>Vice Chairperson
             </b>
 </center></div>
 </td>
