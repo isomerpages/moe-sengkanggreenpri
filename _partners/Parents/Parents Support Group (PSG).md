@@ -3,7 +3,7 @@ title: Parents Support Group (PSG)
 permalink: /partners/parents/parents-support-group-psg/
 description: ""
 third_nav_title: Parents
-variant: tiptap
+variant: markdown
 ---
 <p><strong>PSG MAIN EXCO TEAM</strong>
 </p>
@@ -18,20 +18,29 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Capture.PNG">
-</div>
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Mdm_Catherine_Lim.png">
+	<b>
+              </b><p></p><center><b>Mdm Catherine Lim<br>Chairperson
+            </b>
+</center></div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Mdm_Daisy_Tan.PNG">
-</div>
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Mdm_Daisy_Tan.png">
+	<b>
+              </b><p></p><center><b>Mdm Daisy Tan<br>Vice Chairperson
+            </b>
+</center></div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Mdm_Chin_Kai_Li.PNG">
-</div>
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Mdm_Chin_Kai_Li.png">
+	<b>
+              </b><p></p><center><b>Mdm Chin Kai Li<br>Vice Chairperson
+            </b>
+</center></div>
 </td>
 </tr>
 </tbody>
