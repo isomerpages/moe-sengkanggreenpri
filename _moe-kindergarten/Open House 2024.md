@@ -16,12 +16,10 @@ of learning in our children!</p>
 </p>
 <p><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/mkopenhouse" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a><strong> for the Open House registration link!</strong>
 </p>
-<p><a href="https://drive.google.com/file/d/10Of-ICYBxfeIWLVn39S_7kCl10wuCs2P/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a><strong> for the map to get to MK@SengKang Green!</strong>
+<p><strong><u>Open House Programme:</u></strong>
 </p>
 <p></p>
-<p><strong><u>Quick Preview of our Programme:</u></strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS88DlxX4YgXEfkThl-m2E0w-wo8bsQaE2nL2HTpJ2pvdOtqbHf_6e8cAhyYuwSiC54jn0ZWtcsQfWV/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK_SG_Open_House_Programme_Sheet.jpg">
 </div>
 <p></p>
