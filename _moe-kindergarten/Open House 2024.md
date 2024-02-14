@@ -18,7 +18,6 @@ of learning in our children!</p>
 </p>
 <p><strong><u>Open House Programme:</u></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK_SG_Open_House_Programme_Sheet.jpg">
 </div>
