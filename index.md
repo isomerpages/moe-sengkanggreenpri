@@ -23,7 +23,7 @@ sections:
       subtitle: Add an image and text
       id: infopic
       button: CLICK HERE TO FIND OUT MORE.
-      url: https://www.sengkanggreenpri.moe.edu.sg/moe-kindergarten/open-house-2024
+      url: /moe-kindergarten/open-house-2024
       alt: Image alt text
       image: /images/mkoh.png
   - infopic:
