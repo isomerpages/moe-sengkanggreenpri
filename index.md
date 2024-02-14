@@ -19,6 +19,13 @@ sections:
           url: /useful-links/
       background: /images/new banner 1.gif
   - infopic:
+      title: Find out more about our MOE Kindergarten's Open House
+      subtitle: Add an image and text
+      id: infopic
+      button: CLICK HERE TO FIND OUT MORE.
+      url: https://www.sengkanggreenpri.moe.edu.sg/moe-kindergarten/vision-mission-beliefs/
+      alt: Image alt text
+  - infopic:
       title: Alumni Meet-Up 2023
       button: Click here for more details
       url: /others/highlights/alumnimeetup2023/
