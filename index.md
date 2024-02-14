@@ -25,6 +25,7 @@ sections:
       button: CLICK HERE TO FIND OUT MORE.
       url: https://www.sengkanggreenpri.moe.edu.sg/moe-kindergarten/vision-mission-beliefs/
       alt: Image alt text
+      image: /images/mkoh.png
   - infopic:
       title: Alumni Meet-Up 2023
       button: Click here for more details
