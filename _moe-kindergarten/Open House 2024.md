@@ -9,7 +9,7 @@ description: ""
 to find out why MK is the quality preschool choice and how we ignite joy
 of learning in our children!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mkskg-map.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Getting_Here.png">
 </div>
 <p></p>
 <p><strong><u>Open House Programme:</u></strong>
