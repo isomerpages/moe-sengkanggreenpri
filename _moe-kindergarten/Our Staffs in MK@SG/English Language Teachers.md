@@ -9,8 +9,8 @@ variant: markdown
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/Ms_Diana.png"></td>
-<td style="width: 33.3333%;"><img src="/images/elt2.png"></td>
-<td style="width: 33.3333%;"><img src="/images/elt3.png"></td>
+<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/Ashilah_EL.png"></td>
+<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/Afiqah_EL.png"></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/elt4.png"></td>
