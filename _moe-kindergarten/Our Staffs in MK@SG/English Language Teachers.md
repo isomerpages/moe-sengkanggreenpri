@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Staffs in MK@SG
 variant: markdown
 ---
-<table style="border-collapse: collapse; width: 100%;" border="">
+<table style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/Ms_Diana.png"></td>
