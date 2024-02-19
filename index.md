@@ -13,7 +13,7 @@ sections:
           url: /others/announcements/
         - title: Highlights
           description: ""
-          url: /others/highlights/
+          url: moe-kindergarten/open-house-2024/
         - title: Useful Links
           description: ""
           url: /useful-links/
