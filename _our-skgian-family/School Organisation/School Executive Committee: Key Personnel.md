@@ -267,22 +267,36 @@ variant: markdown
 <img style="width:150px" height="auto" width="100%" alt="" src="/images/kp23.jpg">
 </div>
 <p></p>
-<p></p><center><strong>Mrs Felicia Ng<br>Senior Teacher / Art </strong>
+<p></p><center><strong>Mrs Felicia Ng<br>Senior Teacher / Art</strong>
 <br><a href="mailto: ong_tze_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_tze_yu@moe.edu.sg</a>
-<p></p>
 <p></p>
 </center></td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width:150px" height="auto" width="100%" alt="" src="/images/mrjosh.jpg">
+</div>
+<p></p>
+<p></p><center><strong>Mr Joshua Seow<br>Senior Teacher / PE </strong>
+<br><a href="mailto: seow_eng_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_eng_huat@moe.edu.sg</a>
+<p></p>
+<p></p>
+</center></td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr><td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width:150px" height="auto" width="100%" alt="" src="/images/kp0030.jpg">
 </div>
 <p></p>
-<p></p><center><strong>Ms Hayati Bte Abdul Rahi<br>Senior Teacher / CCE </strong>
+<p></p><center><strong>Ms Hayati Bte Abdul Rahi<br>Senior Teacher / CCE</strong>
 <br><a href="mailto: hayati_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hayati_abdul_rahim@moe.edu.sg</a>
 <p></p>
 </center></td>
 </tr>
 </tbody>
 </table>
-<p></p>
