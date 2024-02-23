@@ -34,7 +34,7 @@ the following link to download the presentation slides.</p>
 <p><a href="/files/Primary_6_PES.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 PES slides</a>
 </p>
 <hr>
-<p><strong>P1 Engagement Session 2024<br></strong>Please click on the following
+<p><strong>P1 Parent Engagement Session 2024<br></strong>Please click on the following
 links to download the presentation slides.</p>
 <p><a href="/files/Principal_Sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Sharing</a>
 </p>
