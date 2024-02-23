@@ -277,7 +277,7 @@ variant: markdown
 <img style="width:150px" height="auto" width="100%" alt="" src="/images/kp11.jpg">
 </div>
 <p></p>
-<p></p><center><strong>Mr Joshua Seow<br>Senior Teacher / PE </strong>
+<p></p><center><strong>Mr Joshua Seow<br>Senior Teacher / Physical Education </strong>
 <br><a href="mailto: seow_eng_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_eng_huat@moe.edu.sg</a>
 <p></p>
 <p></p>
