@@ -8,9 +8,9 @@ variant: markdown
 <p></p>
 <p><strong>P2 Parent Engagement Session 2024<br></strong>Please click on
 the following link to download the presentation slides.</p>
-<p><a href="/files/2024_P2 PES/2024_P2_PES_Principal.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Sharing</a>
+<p><a href="/files/2024_PES/2024_P2_PES_Principal.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Sharing</a>
 </p>
-<p><a href="/files/2024_P2 PES/P2_PES_2024_Acad_Heads_Sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head's Sharing</a>
+<p><a href="/files/2024_PES/P2_PES_2024_Acad_Heads_Sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head's Sharing</a>
 </p>
 <hr>
 <p><strong>P6 Parent Engagement Session 2024<br></strong>Please click on
