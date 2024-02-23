@@ -274,7 +274,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/mrjosh.jpg">
+<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp11.jpg">
 </div>
 <p></p>
 <p></p><center><strong>Mr Joshua Seow<br>Senior Teacher / PE </strong>
