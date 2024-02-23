@@ -6,6 +6,11 @@ third_nav_title: Announcements
 variant: markdown
 ---
 <p></p>
+<p><strong>P2 Parent Engagement Session 2024<br></strong>Please click on
+the following link to download the presentation slides.</p>
+<p><a href="/files/Primary_6_PES.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 PES slides</a>
+</p>
+<hr>
 <p><strong>P6 Parent Engagement Session 2024<br></strong>Please click on
 the following link to download the presentation slides.</p>
 <p><a href="/files/Primary_6_PES.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 PES slides</a>
