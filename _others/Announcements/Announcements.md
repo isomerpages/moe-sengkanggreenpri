@@ -13,6 +13,22 @@ the following link to download the presentation slides.</p>
 <p><a href="/files/2024_PES/P2_PES_2024_Acad_Heads_Sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head's Sharing</a>
 </p>
 <hr>
+<p></p>
+<p><strong>P3 Parent Engagement Session 2024<br></strong>Please click on
+the following link to download the presentation slides.</p>
+<p><a href="/files/2024_PES/2024_P3_PES_Principal.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Sharing</a>
+</p>
+<p><a href="/files/2024_PES/P3_PES_2024_Acad_Heads_Sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head's Sharing</a>
+</p>
+<hr>
+<p></p>
+<p><strong>P4 Parent Engagement Session 2024<br></strong>Please click on
+the following link to download the presentation slides.</p>
+<p><a href="/files/2024_PES/2024_P4_PES_Principal.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Sharing</a>
+</p>
+<p><a href="/files/2024_PES/P4_PES_2024_Acad_Heads_Sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head's Sharing</a>
+</p>
+<hr>
 <p><strong>P6 Parent Engagement Session 2024<br></strong>Please click on
 the following link to download the presentation slides.</p>
 <p><a href="/files/Primary_6_PES.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 PES slides</a>
