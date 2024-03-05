@@ -10,7 +10,7 @@ variant: markdown
 the following link to download the presentation slides.</p>
 <p><a href="/files/2024_PES/2024_P2_PES_Principal.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal &amp; Year Head Sharing</a>
 </p>
-<p><a href="/files/2024_PES/P2_PES_2024_Acad_Heads_Sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Curriculum Head Sharing</a>
+<p><a href="/files/2024_PES/p2_pes_2024_acad_heads_sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Curriculum Head Sharing</a>
 </p>
 <hr>
 <p></p>
