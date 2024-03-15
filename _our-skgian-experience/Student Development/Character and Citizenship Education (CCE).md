@@ -39,7 +39,7 @@ b) learn ways to manage themselves (Self-Management)<br>
 c) better understand their family and friends (Social Awareness)<br>
 d) learn ways to work with their family and friends (Relationship Management) and<br>
 e) make appropriate and responsible decisions (Responsible Decision Making)<p></p>
-<img alt="" src="images\cce005.PNG">
+<img alt="" src="images/cce005.PNG">
 <p><strong>CCE Lessons</strong></p>
 CCE lessons focus on developing the moral well-being of our students by helping them acquire and live by the values that guide them to make appropriate choices that determine their behaviours and attitudes towards themselves, others and the environment.<p></p>
 
