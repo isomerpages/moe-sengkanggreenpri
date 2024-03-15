@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Student Development
 variant: markdown
 ---
-<table style="width: 650px;">
+<table>
 <tbody>
 <tr>
-<td style="width: 250px;">
+<td>
 <p><strong>The CCE Team</strong></p>
 </td></tr></tbody><tbody>
 <tr>
