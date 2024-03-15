@@ -45,8 +45,7 @@ CCE lessons focus on developing the moral well-being of our students by helping 
 
 <p><strong>Social Studies<br> </strong>The Social Studies&nbsp;curriculum spans the primary and secondary levels, and helps students to grow in knowledge, develop skills and learn values through examining issues that are of concern to our society and the world in which we live. Through inquiry-based learning and authentic learning experiences, we hope to ignite students’ interest in real-world issues that concern them.&nbsp;</p>
 <p>The knowledge, skills and values gained from Social Studies, together with the citizenship dispositions that National Education is anchored on, will help students become citizens who&nbsp;are informed, concerned and participative.&nbsp;</p>
-<img alt="" src="/images/cce006.png">
-<p>&nbsp;</p>
+<img style="width:450px" height="auto" width="100%" alt="" src="/images/cce006.png">
 <p><strong>National Education (NE) Programme</strong></p>
 <p>The purpose of National Education is to develop &amp; inspire our students to take collective ownership of their future as a nation and to co construct the next chapter of Singapore. NE is then anchored on the following citizenship dispositions, which will enable our students to realise their part in flourishing of the community and nation.&nbsp;</p>
 <img alt="" src="/images/cce007.PNG">
@@ -54,10 +53,8 @@ CCE lessons focus on developing the moral well-being of our students by helping 
 <p>The four core NE events that the school commemorates are Total Defence Day, International Friendship Day, Racial Harmony Day and National Day. During these events, the school will organise many interesting, fun and meaningful activities to foster a sense of pride and belonging to our country.</p>
 <img alt="" src="/images/cce008.PNG">
 <img alt="" src="/images/cce009.PNG">
-<p>&nbsp;</p>
 <p><strong>Learning Journeys (LJs)</strong></p>
 <p>LJs aim to instil in our students, pride in Singapore’s achievements, to help them understand Singapore’s constraints, challenges and opportunities, build their confidence in our future, and nurture a sense of belonging to Singapore.</p>
-<p>&nbsp;</p>
 <p>Inherent in the concept of LJs is the belief that every trip undertaken by our students out of the school is an important learning experience that will link the theoretical with the experiential - injecting life and meaning to the learning so that it becomes real and concrete. By visiting key installations in Singapore, our students will get see the principles and theories learnt in the classroom and textbooks applied in real life situations, and understand that meritocracy, hard work, the desire to excel, and readiness to take calculated risks have allowed us to overcome many constraints and turn challenges into opportunities.</p>
 <img alt="" src="/images/ccelj1.jpg"> <br>
 <img alt="" src="/images/ccelj2.jpg">
