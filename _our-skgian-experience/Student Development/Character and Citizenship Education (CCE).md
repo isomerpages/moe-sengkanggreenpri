@@ -8,7 +8,7 @@ variant: markdown
 <table style="width: 650px;">
 <tbody>
 <tr>
-<td style="width: 229.797px;">
+<td style="width: 250px;">
 <p><strong>The CCE Team</strong></p>
 </td></tr></tbody><tbody>
 <tr>
