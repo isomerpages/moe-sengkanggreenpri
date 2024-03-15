@@ -25,7 +25,7 @@ Ms Tan Miao Yun Lynette<br>Mdm Judy Lim<br>Mdm Kong Siew May<br>
 <br> <strong>Our Mission</strong><br>
 To inculcate values and build competencies in our students to equip them with the knowledge, skills, attitudes and values to be responsible citizens who serve beyond self.<p></p>
 <p><strong>Our CCE Goals </strong>
-<img alt="" src="/images/cce002.jpg">
+<img alt="" src="/images/cce002.png">
 CCE in Sengkang Green anchors on the school mission to develop our students into Leaders of Character and Socially Responsible Citizens who actively contribute to the school, community and nation. We emphasise on the interconnectedness of the core values, 21<sup>st&nbsp;</sup>century competencies and civic literacy, global awareness and cross-cultural skills that are critical to develop student into a confident person, self-directed learner, concerned citizen and an active contributor.</p>
 <img alt="" src="/images/cce003.png">
 
