@@ -3,7 +3,8 @@ title: Student Care Centre
 permalink: /partners/our-suppliers/student-care-centre/
 description: ""
 third_nav_title: Our Suppliers
+variant: markdown
 ---
-<h4><strong>Young Men's Christian Association of Singapore</strong></h4>
-<p>Contact Number : 6447 8661 / 9835 0538</p>
-<p>Email : <a href="mailto:sgscc@ymca.edu.sg">sgscc@ymca.edu.sg</a></p>
+<h4><strong>EduSMART SCC@Sengkang Green</strong></h4>
+<p>Contact Number :  9298 7538</p>
+<p>Email : <a href="mailto:sengkangg_sccops@singaporeedusmart.edu.sg">sengkangg_sccops@singaporeedusmart.edu.sg</a></p>
