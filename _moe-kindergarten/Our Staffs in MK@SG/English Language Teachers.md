@@ -23,8 +23,8 @@ variant: markdown
 <td style="width: 33.3333%;"><img src="/images/elt9.png"></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">&nbsp;</td>
 <td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/Sarah_EL.png"></td>
+<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/Peishan.png"></td>
 <td style="width: 33.3333%;">&nbsp;</td>
 </tr>
 </tbody>
