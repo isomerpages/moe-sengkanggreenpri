@@ -2,6 +2,7 @@
 title: Student iCON
 permalink: /our-skgian-experience/student-icon/
 description: ""
+variant: markdown
 ---
 <p><strong><u>Student iCON Onboarding Guide<br></u></strong><a href="/files/Student%20iCON%20Onboarding%20Guide.pdf" target="_blank" rel="noopener">Student iCON Onboarding Guide.pdf</a></p>
 <p><strong><u>FREQUENTLY ASKED QUESTIONS</u></strong></p>
@@ -81,6 +82,6 @@ description: ""
 <p>c) Contact the school's General Office at&nbsp;<strong>6386 4255</strong><strong>.</strong>&nbsp;Please provide your&nbsp;child’s&nbsp;full name&nbsp;and&nbsp;class.</p>
 <p><strong>Q6. I receive the following message:&nbsp;Your account is temporarily locked to prevent unauthorized use. What should I do?</strong></p>
 <p>Please click the following link to report the locked account:</p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSc-TpWlMSZ9exQyZIVbagqmZUXericidl0LDafQZMR0c4Ip4A/viewform" target="_blank" rel="noopener">https://docs.google.com/forms/d/e/1FAIpQLSc-TpWlMSZ9exQyZIVbagqmZUXericidl0LDafQZMR0c4Ip4A/viewform</a></p>
+<p><a href="https://docs.google.com/forms/d/1uRFXdQ9CEqRqrdGF2PPeuzupTiXe_vYsBihXfn5ODZQ/viewform?edit_requested=true" target="_blank" rel="noopener">Request for Students' Password Reset</a></p>
 <p><strong>Q7. There is no prompt of change of password when I first log-in to the account. Do I need to change my password?</strong></p>
 <p>There is no need to change password as the account will be synchronised to the school’s computer lab log-in password which is the default password given to your child.</p>
