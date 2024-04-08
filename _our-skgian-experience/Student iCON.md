@@ -13,7 +13,7 @@ variant: markdown
 <li>Should the student’s full name have words such as “Bte” and “s/o”, they will not appear in the email address.</li>
 <li>For cases where students share the same full name, we have added a numerical number (e.g. Jon_Tan_1, Jon_Tan_2) to differentiate their email addresses.</li>
 </ol>
-<p><strong>Q2. How can my child log in to Student iCON?<br></strong>Student iCON is web-based. Students can use their web browser in their internet- enabled computing or mobile devices to visit <a href="https://workspace.google.com/dashboard" target="_blank" rel="noopener"><strong>https://workspace.google.com/dashboard</strong></a>to access Student iCON</p>
+<p><strong>Q2. How can my child log in to Student iCON?<br></strong>Student iCON is web-based. Students can use their web browser in their internet- enabled computing or mobile devices to visit <a href="https://workspace.google.com/dashboard" target="_blank" rel="noopener"><strong>https://workspace.google.com/dashboard</strong></a> to access Student iCON</p>
 <p><strong>Q3. Which Operating System or browser should my students use?<br></strong>You can refer to the following table for guidance on the Operating Systems/browsers which students can use to log in.</p>
 <table>
 <tbody>
