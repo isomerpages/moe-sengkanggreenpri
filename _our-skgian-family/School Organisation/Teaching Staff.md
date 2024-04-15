@@ -779,11 +779,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Salihah Begum</p>
+<p>Ms Salihah Begum Kaleelur Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Salihah_Begum_Kaleelur_Rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_shu_rong</a>
-<a href="mailto:ng_shu_rong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:Salihah_Begum_Kaleelur_Rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Salihah_Begum_Kaleelur_Rahman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -913,7 +912,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>5<br>Attentive</strong>
 </p>
 <p></p>
@@ -936,7 +935,16 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Ms Luo Jun Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Luo_Junheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">luo_junheng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p><strong>5<br>Brave</strong>
 </p>
 <p></p>
@@ -959,6 +967,15 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wan Hazimah Mohammad Salemi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Wan_Hazimah_Mohammad_Salemi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wan_Hazimah_Mohammad_Salemi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p><strong>5<br>Caring</strong>
 </p>
@@ -974,10 +991,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Ms Rachel Cheng Ying Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="mailto:Rachel_Cheng_Ying_Ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rachel_Cheng_Ying_Ying@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -996,10 +1014,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Ms Wu Yan Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="mailto:Wu_Yanjie_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wu_Yanjie_A@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
