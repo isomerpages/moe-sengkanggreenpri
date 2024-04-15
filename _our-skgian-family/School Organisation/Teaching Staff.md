@@ -3,7 +3,7 @@ title: Teaching Staff
 permalink: /our-skgian-family/school-organization/teaching-staff/
 description: ""
 third_nav_title: School Organisation
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>Primary 1</strong></h4>
 <table>
@@ -313,7 +313,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-	<tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Peak Deng</p>
 </td>
@@ -387,6 +387,7 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -754,7 +755,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>4<br>Caring</strong>
 </p>
 <p></p>
@@ -775,7 +776,15 @@ variant: markdown
 <p><a href="mailto:ng_shu_rong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_shu_rong@moe.edu.sg</a>
 </p>
 </td>
-	
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Shu Rong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_shu_rong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_shu_rong@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
