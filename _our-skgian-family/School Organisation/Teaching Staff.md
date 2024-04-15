@@ -375,20 +375,18 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Peh Peck Hoon, Wendy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:peh_peck_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peh_peck_hoon_wendy@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Tan Wee Bee Serene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_wee_bee_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_wee_bee_serene@moe.edu.sg</u></a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 </td>
 </tr>
 <tr>
@@ -398,19 +396,19 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Ayuni Aidil</p>
+<p>Ms Alies Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_ayuni_aidil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>siti_ayuni_aidil@moe.edu.sg</u></a>
+<p><a href="mailto:alies_wong_shie_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>alies_wong_shie_lin@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Alies Wong</p>
+<p>Ms Lim Xin Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:alies_wong_shie_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>alies_wong_shie_lin@moe.edu.sg</u></a>
+<p><a href="mailto:lim_xin_yi_ae@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_xin_yi_ae@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
