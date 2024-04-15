@@ -775,6 +775,7 @@ variant: markdown
 <p><a href="mailto:ng_shu_rong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_shu_rong@moe.edu.sg</a>
 </p>
 </td>
+	
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
