@@ -21,10 +21,9 @@ sections:
   - infopic:
       title: SKGians Celebrates 2024
       id: infopic
-      description: Infopic description
-      button: CLICK HERE
-      url: ss
+      description: Becoming a Future-Ready Learner Promoting Holistic Health
       alt: Image alt text
+      image: /images/SKGians Celebrates/SkGians_Celebrate_2024.jpg
   - infopic:
       title: Affirmation Note
       description: Please remember to drop an affirmation note to your teachers to
