@@ -19,7 +19,7 @@ sections:
           url: /useful-links/
       background: /images/new banner 1.gif
   - infopic:
-      title: SKGians Celebrates 2024
+      title: SKGians Celebrate! 2024
       id: infopic
       description: Becoming a Future-Ready Learner Promoting Holistic Health
       alt: Image alt text
