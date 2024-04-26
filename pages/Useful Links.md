@@ -62,7 +62,7 @@ variant: markdown
 <td style="text-align: center; width: 200px;">&nbsp;</td>
 <td style="text-align: center; width: 200px;">&nbsp;</td>
 <td style="text-align: center; width: 200px;"><img style="width: 25%;" src="/images/moe.png">
-<div><a href="https://intranet.moe.gov.sg" target="_blank" rel="noopener">MOE INTRANET</a></div>
+<div><a href="https://intranet.moe.gov.sg/" target="_blank" rel="noopener">MOE INTRANET</a></div>
 </td>
 </tr>
 <tr>
