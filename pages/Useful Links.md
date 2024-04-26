@@ -62,14 +62,14 @@ variant: markdown
 <td style="text-align: center; width: 200px;">&nbsp;</td>
 <td style="text-align: center; width: 200px;">&nbsp;</td>
 <td style="text-align: center; width: 200px;"><img style="width: 25%;" src="/images/moe.png">
-<div><a href="https://intranet.moe.gov.sg/" target="_blank" rel="noopener">MOE INTRANET</a></div>
+<div><a href="https://intranet.moe.gov.sg" target="_blank" rel="noopener">MOE INTRANET</a></div>
 </td>
 </tr>
 <tr>
 <td style="text-align: center; width: 200px;">&nbsp;</td>
 <td style="text-align: center; width: 200px;">&nbsp;</td>
 <td style="text-align: center; width: 20px;"><img style="width: 50%;" src="/images/acad.jpg">
-<div><a href="https://www.academyofsingaporeteachers.moe.edu.sg/" target="_blank" rel="noopener">Academy of Singapore Teachers</a></div>
+<div><a href="https://academyofsingaporeteachers.moe.edu.sg/" target="_blank" rel="noopener">Academy of Singapore Teachers</a></div>
 </td>
 </tr>
 <tr>
