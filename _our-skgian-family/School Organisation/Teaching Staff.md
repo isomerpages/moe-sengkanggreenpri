@@ -960,7 +960,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wan Hazimah Mohammad Salemi</p>
+<p>Ms Wan Hazimah Mohammad Salemi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Wan_Hazimah_Mohammad_Salemi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wan_Hazimah_Mohammad_Salemi@moe.edu.sg</a>
