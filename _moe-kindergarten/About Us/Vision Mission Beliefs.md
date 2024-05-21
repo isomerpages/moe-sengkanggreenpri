@@ -21,7 +21,7 @@ Singaporeans and catalysing quality improvements in the sector.</p>
 strong social skills and have a good foundation in literacy and numeracy.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE Kindergarten/MK_Logo.png">
+<img style="width: 70%" height="auto" width="70%" alt="" src="/images/MOE Kindergarten/MK_Logo.png">
 </div>
 </li>
 </ul>
