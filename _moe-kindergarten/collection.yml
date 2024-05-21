@@ -2,7 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - MK Calendar.md
       - Open House 2024.md
       - About Us/.keep
       - About Us/Vision Mission Beliefs.md
@@ -20,3 +19,4 @@ collections:
       - Kindergarten Care (KCare).md
       - MK Uniforms.md
       - MK Forms.md
+      - MK Calendar.md
