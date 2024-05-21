@@ -3,8 +3,8 @@ title: Vision Mission Beliefs
 permalink: /moe-kindergarten/vision-mission-beliefs/
 description: ""
 third_nav_title: About Us
+variant: markdown
 ---
-
 <ul>
 <li>Our vision is to provide A Strong Start for Every Child.</li>
 <li>We aim to provide a quality pre-school education that is affordable to Singaporeans and catalysing quality improvements in the sector.</li>
