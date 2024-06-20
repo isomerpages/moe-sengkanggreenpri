@@ -3,10 +3,15 @@ title: Teaching Staff
 permalink: /our-skgian-family/school-organization/teaching-staff/
 description: ""
 third_nav_title: School Organisation
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>Primary 1</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -51,11 +56,10 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Siew Hui Rena</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_siew_hui_rena@moe.edu.sg" rel="noopener noreferrer nofollow" target="">ng_siew_hui_rena@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -245,7 +249,12 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>Primary 2</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -477,7 +486,12 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>Primary 3</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -670,7 +684,12 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>Primary 4</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -873,7 +892,12 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>Primary 5</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1108,7 +1132,12 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>Primary 6</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
