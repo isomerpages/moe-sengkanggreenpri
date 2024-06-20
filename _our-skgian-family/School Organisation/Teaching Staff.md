@@ -850,20 +850,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurhuda Binte Abu Bakar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nurhuda_abu_bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurhuda_abu_bakar@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Luo Yanping</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:luo_yanping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>luo_yanping@moe.edu.sg</u></a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
