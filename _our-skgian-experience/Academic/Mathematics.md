@@ -48,7 +48,7 @@ variant: tiptap
 <p>Mrs Cindy Khoo (SH MU)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Ayuni Aidil</p>
+<p>Mrs Esther Claire Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Serene Teh</p>
@@ -68,7 +68,7 @@ variant: tiptap
 <p>Mdm Nurhuda Binte Abu Bakar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Esther Claire Lim</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
