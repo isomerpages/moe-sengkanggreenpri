@@ -118,19 +118,7 @@ variant: markdown
 <p></p>
 <p></p>
 </center></td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp17.jpg">
-</div>
-<p></p>
-<p></p><center>
-<p><strong>Ms Wong Yoke Lye<br>Level Head / Mathematics </strong>
-<br><a href="mailto: wong_yoke_lye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yoke_lye@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
-</center></td>
+
 </tr>
 </tbody>
 </table>
