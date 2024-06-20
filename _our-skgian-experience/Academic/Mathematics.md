@@ -65,7 +65,7 @@ variant: tiptap
 <p>Mdm Mahalakshmi d/o Kalyanam (HOD SM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurhuda Binte Abu Bakar</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
