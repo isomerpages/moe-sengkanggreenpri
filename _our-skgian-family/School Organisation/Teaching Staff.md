@@ -943,20 +943,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Yoke Lye</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_yoke_lye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_yoke_lye@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Luo Jun Heng</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Luo_Junheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">luo_junheng@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
