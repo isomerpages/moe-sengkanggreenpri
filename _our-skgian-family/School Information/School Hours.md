@@ -3,6 +3,7 @@ title: School Hours
 permalink: /our-skgian-family/school-information/school-hours/
 description: ""
 third_nav_title: School Information
+variant: markdown
 ---
 <p><strong><u>Lesson Time:<br></u></strong></p>
 <table>
@@ -35,7 +36,6 @@ third_nav_title: School Information
 </tbody>
 </table>
 <p>A snack break will be given in between lessons daily at the appropriate time.</p>
-
 <p><strong><u>Gate Opening Hours</u></strong></p>
 <table>
 <tbody>
