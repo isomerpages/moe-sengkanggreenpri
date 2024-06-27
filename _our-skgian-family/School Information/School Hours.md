@@ -82,16 +82,13 @@ time.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<strong>Location</strong>
-</p>
+<p>&nbsp;Location</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>School Day Opening hours</strong>
-</p>
+<p>School Day Opening hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>School Holiday Opening hours</strong>
-</p>
+<p>School Holiday Opening hours</p>
 </td>
 </tr>
 <tr>
