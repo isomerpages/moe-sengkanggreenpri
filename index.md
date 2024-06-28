@@ -19,7 +19,7 @@ sections:
           url: /useful-links/
       background: /images/new banner 1.gif
   - infopic:
-      title: SKGPS Virtual Open House 2024
+      title: SKGPS eOpen House 2024
       id: infopic
       description: Becoming a Future-Ready Learner Promoting Holistic Health
       alt: Image alt text
