@@ -8,6 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 50%" height="auto" width="50%" alt="" src="/images/eOpen24Banner.png">
 </div>
+<h4>Principal's Address</h4>
 <h4>Virtual School Tour</h4>
 <p>*Note: For best user experience, screen size of at least 7 inches is recommended.
 *</p>
