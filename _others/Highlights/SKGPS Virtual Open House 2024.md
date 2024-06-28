@@ -5,78 +5,212 @@ description: ""
 third_nav_title: Highlights
 variant: tiptap
 ---
-<img style="width: 75%;" src="/images/skg_openhouse2023.jpg">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" src="/images/skg_openhouse2023.jpg">
+</div>
 <h4>Sengkang Green Primary School Corporate Video</h4>
-<p><iframe allowfullscreen="allowfullscreen" frameborder="0" height="360" width="640" src="https://player.vimeo.com/video/841075082?h=577f447e77&amp;byline=0&amp;portrait=0"></iframe></p>
-
+<div class="iframe-wrapper">
+<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/841075082?h=577f447e77&amp;byline=0&amp;portrait=0"></iframe>
+</div>
 <h4>Virtual School Tour</h4>
-<p>*Note: For best user experience, screen size of at least 7 inches is recommended. *</p><a href="https://ths.li/TEohfo" rel="noopener" target="_blank">https://ths.li/TEohfo</a>
-
+<p>*Note: For best user experience, screen size of at least 7 inches is recommended.
+*</p>
+<p><a href="https://ths.li/TEohfo" rel="noopener" target="_blank">https://ths.li/TEohfo</a>
+</p>
 <h4>Getting to Know the Departments</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td>
-<a href="/our-skgian-experience/academic/english/"><img src="/images/but1.png"></a></td>
-<td><a href="/our-skgian-experience/academic/mathematics/"><img src="/images/but2.png"></a></td>
-<td><a href="/our-skgian-experience/academic/science-environment/"><img src="/images/but3.png"></a></td>
-<td><a href="/our-skgian-experience/academic/chinese-language/"><img src="/images/but4.png"></a></td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/but1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/but2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/but3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/but4.png">
+</div>
+</td>
 </tr>
 <tr>
-<td><a href="/our-skgian-experience/physical-aesthetics/aesthetics/"><img src="/images/but5.png"></a></td>
-<td><a href="/our-skgian-experience/physical-aesthetics/physical-holistic-health/"><img src="/images/but6.png"></a></td>
-<td><a href="/our-skgian-experience/academic/information-n-communication-technology-ict/"><img src="/images/but7.png"></a></td>
-<td><a href="/our-skgian-experience/student-development/character-and-citizenship-education-cce/"><img src="/images/but8.png"></a></td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/but5.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/but6.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/but7.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/but8.png">
+</div>
+</td>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th><iframe src="https://player.vimeo.com/video/725505154?h=7fe3a72ed3" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></th>
-<th><iframe src="https://player.vimeo.com/video/725506755?h=ae76937460" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></th>
-<th><iframe src="https://player.vimeo.com/video/725506150?h=c6ad341962" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></th>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/725505154?h=7fe3a72ed3"></iframe>
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/725506755?h=ae76937460"></iframe>
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/725506150?h=c6ad341962"></iframe>
+</div>
+</th>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>English Language Dept</strong></td>
-<td style="text-align: center;"><strong>Mother Tongue Language Dept</strong></td>
-<td style="text-align: center;"><strong>Mathematics Dept</strong></td>
+<td rowspan="1" colspan="1">
+<p><strong>English Language Dept</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mother Tongue Language Dept</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mathematics Dept</strong>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th><iframe src="https://player.vimeo.com/video/725507642?h=593466d815" width="640" height="480" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></th>
-<th><iframe src="https://player.vimeo.com/video/725508034?h=243f727dd5" width="640" height="480" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></th>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="480" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/725507642?h=593466d815"></iframe>
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="480" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/725508034?h=243f727dd5"></iframe>
+</div>
+</th>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Programme for Active Learning</strong></td>
-<td style="text-align: center;"><strong>PE/ART/MUSIC Dept</strong></td>
+<td rowspan="1" colspan="1">
+<p><strong>Programme for Active Learning</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>PE/ART/MUSIC Dept</strong>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
 <h4>P1 &amp; P2 Student Life Videos</h4>
-<p><strong>Voices of Students</strong></p>
-<table>
+<p><strong>Voices of Students</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th><iframe src="https://player.vimeo.com/video/428404741" width="360" height="185" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe><br><br></th>
-<th><iframe src="https://player.vimeo.com/video/428404859" width="360" height="185" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe><br><br></th>
-<th><iframe src="https://player.vimeo.com/video/428404924" width="360" height="185" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></th>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="185" width="360" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/428404741"></iframe>
+</div>
+<p>
+<br>
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="185" width="360" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/428404859"></iframe>
+</div>
+<p>
+<br>
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="185" width="360" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/428404924"></iframe>
+</div>
+</th>
 </tr>
 </tbody>
 </table>
-<h4>Open House Video</h4>
-<div><iframe src="https://player.vimeo.com/video/841726073?h=505c9d3613" width="640" height="480" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<h4>Past Open House Video</h4>
+<div class="iframe-wrapper">
+<iframe height="480" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/841726073?h=505c9d3613"></iframe>
+</div>
 <h4>P1 Registration</h4>
-<p><strong>2023 Primary&nbsp;One Registration Exercise (For Admission to Primary One in 2024) </strong></p>
-<ol>
-<li>Similar to last year's P1 Registration Exercise, there will not be any in-person registration at schools and registration will be fully online.&nbsp;</li>
-<li>The registration of children for admission to Primary One (P1) classes in 2024 will open from Tuesday, 4 July 2023. The dates for the different phases of registration can be found at: <a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates">https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates</a></li>
-<li>The list of primary schools and vacancies available will also be updated on the P1 Registration website at <a href="https://www.moe.gov.sg/primary/p1-registration/vacancies-and-balloting">https://www.moe.gov.sg/primary/p1-registration/vacancies-and-balloting</a></li>
-<li>More information can be found the MOE Website at <a href="https://www.moe.gov.sg/primary/p1-registration">https://www.moe.gov.sg/primary/p1-registration</a></li>
-<li>If you have further questions, you can call the school at 6386 4255.&nbsp;</li>
+<p><strong>2024 Primary&nbsp;One Registration Exercise (For Admission to Primary One in 2025)</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Similar to last year's P1 Registration Exercise, there will not be any
+in-person registration at schools and registration will be fully online.&nbsp;</p>
+</li>
+<li>
+<p>The registration of children for admission to Primary One (P1) classes
+in 2024 will open from Tuesday, 4 July 2023. The dates for the different
+phases of registration can be found at: <a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates</a>
+</p>
+</li>
+<li>
+<p>The list of primary schools and vacancies available will also be updated
+on the P1 Registration website at <a href="https://www.moe.gov.sg/primary/p1-registration/vacancies-and-balloting" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration/vacancies-and-balloting</a>
+</p>
+</li>
+<li>
+<p>More information can be found the MOE Website at <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a>
+</p>
+</li>
+<li>
+<p>If you have further questions, you can call the school at 6386 4255.&nbsp;</p>
+</li>
 </ol>
-<p><strong>Frequently Asked Questions (FAQ)</strong></p>
-<p>Please click&nbsp;<a href="https://drive.google.com/file/d/1FUudkgHp8QB42PmZM0cbdah0fZYa77oy/view?usp=sharing" target="_blank" rel="noopener">here</a>&nbsp;to view.</p>
+<p><strong>Frequently Asked Questions (FAQ)</strong>
+</p>
+<p>Please click&nbsp;<a href="https://drive.google.com/file/d/1FUudkgHp8QB42PmZM0cbdah0fZYa77oy/view?usp=sharing" rel="noopener" target="_blank">here</a>&nbsp;to
+view.</p>
