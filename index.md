@@ -24,6 +24,7 @@ sections:
       description: Becoming a Future-Ready Learner Promoting Holistic Health
       alt: Image alt text
       image: /images/eOpen24Banner.png
+      url: /others/highlights/skgps-virtual-open-house-2024/
   - infopic:
       title: Affirmation Note
       description: Please remember to drop an affirmation note to your teachers to
