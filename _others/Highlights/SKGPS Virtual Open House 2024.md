@@ -193,7 +193,7 @@ in-person registration at schools and registration will be fully online.&nbsp;</
 </li>
 <li>
 <p>The registration of children for admission to Primary One (P1) classes
-in 2024 will open from Tuesday, 4 July 2023. The dates for the different
+in 2025 will open from Tuesday, 2 July 2024. The dates for the different
 phases of registration can be found at: <a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates</a>
 </p>
 </li>
