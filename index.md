@@ -25,6 +25,7 @@ sections:
       alt: Image alt text
       image: /images/eOpen24Banner.png
       url: /others/highlights/skgps-virtual-open-house-2024/
+      button: click here to enter
   - infopic:
       title: Affirmation Note
       description: Please remember to drop an affirmation note to your teachers to
