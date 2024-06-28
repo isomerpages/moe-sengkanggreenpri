@@ -19,11 +19,11 @@ sections:
           url: /useful-links/
       background: /images/new banner 1.gif
   - infopic:
-      title: SKGians Celebrate! 2024
+      title: SKG eOpen House 2024
       id: infopic
       description: Becoming a Future-Ready Learner Promoting Holistic Health
       alt: Image alt text
-      image: /images/SKGians Celebrates/SkGians_Celebrate_2024.jpg
+      image: /images/eOpen24Banner.png
   - infopic:
       title: Affirmation Note
       description: Please remember to drop an affirmation note to your teachers to
