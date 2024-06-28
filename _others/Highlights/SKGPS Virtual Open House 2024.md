@@ -8,15 +8,15 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 50%" height="auto" width="50%" alt="" src="/images/eOpen24Banner.png">
 </div>
-<h4>Sengkang Green Primary School Corporate Video</h4>
-<div class="iframe-wrapper">
-<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/841075082?h=577f447e77&amp;byline=0&amp;portrait=0"></iframe>
-</div>
 <h4>Virtual School Tour</h4>
 <p>*Note: For best user experience, screen size of at least 7 inches is recommended.
 *</p>
 <p><a href="https://ths.li/TEohfo" rel="noopener" target="_blank">https://ths.li/TEohfo</a>
 </p>
+<h4>Sengkang Green Primary School Corporate Video</h4>
+<div class="iframe-wrapper">
+<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/841075082?h=577f447e77&amp;byline=0&amp;portrait=0"></iframe>
+</div>
 <h4>Getting to Know the Departments</h4>
 <table style="minWidth: 100px">
 <colgroup>
