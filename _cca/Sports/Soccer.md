@@ -3,16 +3,13 @@ title: Soccer
 permalink: /cca/sports/soccer/
 description: ""
 third_nav_title: Sports
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 48%;" src="/images/foot1.jpg" align="left">
-<img style="width: 48%;" src="/images/foot2.jpg" align="right"><br><br><br><br><br><br><br><br>
-<div class="isomer-image-wrapper">
-<img style="width: 49%;" height="auto" width="100%" src="/images/foot1.jpg">
+<img style="width: 48%;" height="auto" width="100%" src="/images/foot1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 49%;" height="auto" width="100%" src="/images/foot2.jpg">
+<img style="width: 48%;" height="auto" width="100%" src="/images/foot2.jpg">
 </div>
 <p></p>
 <p>The football CCA is a popular choice among the boys in SKGPS. The boys
@@ -22,4 +19,4 @@ opponent.</p>
 <p>Apart from the knowledge and understanding, the CCA aims to inculcate
 footballers with the school values of integrity in fair play and responsibility
 for oneself and team mates during training sessions in order to play successfully
-and safely.</p></div>
+and safely.</p>
