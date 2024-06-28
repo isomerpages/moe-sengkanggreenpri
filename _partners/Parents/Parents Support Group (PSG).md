@@ -18,7 +18,7 @@ variant: markdown
 <td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="90%" alt="" src="/images/Mdm_Catherine_Lim.png">
+<img style="width: 35%;" height="auto" width="95%" alt="" src="/images/psgchairman.png">
 	<b>
               </b><p></p><center><b>Mdm Catherine Lim<br>Chairperson
             </b>
