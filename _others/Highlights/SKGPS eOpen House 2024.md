@@ -213,5 +213,4 @@ on the P1 Registration website at <a href="https://www.moe.gov.sg/primary/p1-reg
 </ol>
 <p><strong>Frequently Asked Questions (FAQ)</strong>
 </p>
-<p>Please click&nbsp;<a href="https://drive.google.com/file/d/1FUudkgHp8QB42PmZM0cbdah0fZYa77oy/view?usp=sharing" rel="noopener" target="_blank">here</a>&nbsp;to
-view.</p>
+<p>Please click&nbsp;<a href="/files/FAQ_e_Open_House_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>to view.</p>
