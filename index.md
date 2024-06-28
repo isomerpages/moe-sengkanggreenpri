@@ -34,4 +34,11 @@ sections:
       url: /our-skgian-family/a-note-of-affirmation/
       image: /images/affirm.png
       alt: Image alt text
+  - infopic:
+      title: SKGians Celebrate! 2024
+      subtitle: Add an image and text
+      id: infopic
+      description: Becoming a Future-Ready Learner Promoting Holistic Health
+      image: /images/SkGians_Celebrate_2024.jpg
+      alt: Image alt text
 ---
