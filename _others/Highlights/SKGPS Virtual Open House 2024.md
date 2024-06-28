@@ -6,7 +6,7 @@ third_nav_title: Highlights
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/skg_openhouse2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eOpen24Banner.png">
 </div>
 <h4>Sengkang Green Primary School Corporate Video</h4>
 <div class="iframe-wrapper">
