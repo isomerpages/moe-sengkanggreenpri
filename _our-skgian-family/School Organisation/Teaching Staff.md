@@ -957,7 +957,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>5<br>Attentive</strong>
 </p>
 <p></p>
@@ -972,22 +972,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Toh Heap Khoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="toh_heap_khoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_heap_khoon@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>5<br>Brave</strong>
 </p>
 <p></p>
@@ -1007,14 +1000,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Wan_Hazimah_Mohammad_Salemi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wan_Hazimah_Mohammad_Salemi@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1064,7 +1049,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>5<br>Excellent</strong>
 </p>
 <p></p>
@@ -1083,6 +1068,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wang_yan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wang_yan_a@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Poh Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="chan_poh_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_poh_chin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
