@@ -804,7 +804,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>4<br>Caring</strong>
 </p>
 <p></p>
@@ -823,15 +823,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_shu_rong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_shu_rong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Salihah Begum Kaleelur Rahman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Salihah_Begum_Kaleelur_Rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Salihah_Begum_Kaleelur_Rahman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -897,10 +888,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Trupti Vikas Palkar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="trupti_vikas_palkar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">trupti_vikas_palkar@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
