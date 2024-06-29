@@ -697,7 +697,8 @@ variant: tiptap
 <p>Mr Aman Bin Samat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="aman_samat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aman_samat@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -705,7 +706,8 @@ variant: tiptap
 <p>Ms Tinie Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="Tan_Mui_Ngin_Tinie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Mui_Ngin_Tinie@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -747,7 +749,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>4<br>Attentive</strong>
 </p>
 <p></p>
@@ -766,6 +768,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_hui_ying_f@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_ying_g@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Jin Ru</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="lee_jin_ru@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jin_ru@moe.edu.sg</a>
 </p>
 </td>
 </tr>
