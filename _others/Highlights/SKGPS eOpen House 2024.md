@@ -6,7 +6,7 @@ third_nav_title: Highlights
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="50%" alt="" src="/images/eOpen24Banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_2024_Updated_8_July.jpg">
 </div>
 <h4>Principal's Address</h4>
 <div class="iframe-wrapper">
