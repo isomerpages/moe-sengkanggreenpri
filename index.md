@@ -23,7 +23,7 @@ sections:
       id: infopic
       description: Becoming a Future-Ready Learner Promoting Holistic Health
       alt: Image alt text
-      image: /images/eOpen24Banner.png
+      image: /images/Open_House_2024_Updated_8_July.jpg
       url: /others/highlights/skgps-virtual-open-house-2024/
       button: click here to enter
   - infopic:
