@@ -8,28 +8,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_2024_Updated_8_July.jpg">
 </div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/978927371?h=8e2b1bfd6d&amp;byline=0&amp;portrait=0"></iframe>
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
 <h4>Principal's Address</h4>
 <div class="iframe-wrapper">
 <iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/978927371?h=8e2b1bfd6d&amp;byline=0&amp;portrait=0"></iframe>
