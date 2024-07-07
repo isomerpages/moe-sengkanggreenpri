@@ -9,6 +9,9 @@ variant: tiptap
 <img style="width: 50%" height="auto" width="50%" alt="" src="/images/eOpen24Banner.png">
 </div>
 <h4>Principal's Address</h4>
+<div class="iframe-wrapper">
+<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/978927371?h=8e2b1bfd6d&amp;byline=0&amp;portrait=0"></iframe>
+</div>
 <h4>Virtual School Tour</h4>
 <p>*Note: For best user experience, screen size of at least 7 inches is recommended.
 *</p>
