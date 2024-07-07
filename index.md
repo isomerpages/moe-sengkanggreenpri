@@ -13,17 +13,25 @@ sections:
           url: /others/announcements/
         - title: Highlights
           description: ""
-          url: /moe-kindergarten/open-house-2024/
+          url: /others/highlights/skgps-virtual-open-house-2024/
         - title: Useful Links
           description: ""
           url: /useful-links/
       background: /images/new banner 1.gif
   - infopic:
-      title: SKGians Celebrate! 2024
+      title: SKGPS eOpen House 2024
       id: infopic
       description: Becoming a Future-Ready Learner Promoting Holistic Health
       alt: Image alt text
-      image: /images/SKGians Celebrates/SkGians_Celebrate_2024.jpg
+      image: /images/Open_House_2024_Updated_8_July.jpg
+      url: /others/highlights/skgps-virtual-open-house-2024/
+      button: click here to enter
+  - infopic:
+      title: SKGians Celebrate! 2024
+      id: infopic
+      description: Becoming a Future-Ready Learner Promoting Holistic Health
+      image: /images/SkGians_Celebrate_2024.jpg
+      alt: Image alt text
   - infopic:
       title: Affirmation Note
       description: Please remember to drop an affirmation note to your teachers to

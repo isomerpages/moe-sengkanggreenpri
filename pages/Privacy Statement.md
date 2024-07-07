@@ -1,8 +1,8 @@
 ---
 title: Privacy Statement
 permalink: /privacy/
-description: ""
 variant: tiptap
+description: ""
 ---
 <ol data-tight="true" class="tight">
 <li>

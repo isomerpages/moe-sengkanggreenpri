@@ -1,5 +1,5 @@
 ---
-title: Open House 2024
+title: MK Open House 2024
 permalink: /moe-kindergarten/open-house-2024/
 variant: markdown
 description: ""

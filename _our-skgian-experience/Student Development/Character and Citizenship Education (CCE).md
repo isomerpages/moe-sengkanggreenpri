@@ -15,7 +15,6 @@ variant: markdown
 <td style="width: 100%;">
 	<b>Head of Department (Character and Citizenship Education):</b><br> Mrs Ivy Tan<p></p>
 	<b>Senior Teacher (Character and Citizenship Education):</b><br>Ms Hayati Bte Abdul Rahim<p></p>
-	<b>Senior Teacher (Social Studies):</b><br> Mdm Neo Lay Kheng<p></p>
 	<b>Senior Teacher (Chinese Language):</b><br> Mdm Chng E-Hwei<p></p>
 <b>Senior Teacher (Art):</b><br> Mrs Felicia Ng<br>
 Mdm Suguna Gopynathan<br>Ms Koh Jia Shan<br>Mdm Humairiah Bte Ahmad<br>
