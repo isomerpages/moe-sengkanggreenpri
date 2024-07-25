@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Organisation
 variant: markdown
 ---
-<h3><strong>Key Personal</strong></h3>
+<h3><strong>Key Personnel</strong></h3>
 <table>
 <tbody>
 <tr>
