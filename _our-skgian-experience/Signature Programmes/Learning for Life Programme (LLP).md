@@ -3,9 +3,10 @@ title: Learning for Life Programme (LLP)
 permalink: /our-skgian-experience/signature-programmes/learning-for-life-programme-llp/
 description: ""
 third_nav_title: Signature Programmes
+variant: markdown
 ---
-<p><strong>Learning for Life Programme (LLP)<br> ‘ICAR<sup>2</sup>E Through Arts @ Sengkang Green Primary School’</strong></p>
-<p>ICAR<sup>2</sup>E Through Arts, is the signature Learning for Life Programme (LLP) at Sengkang Green Primary School that applies Inquiry-Based Learning in the Arts Education to inspire and motivate our students to foster positive values and traits; to have strength of character and ready to serve. Through inquiry, students learn about values of Integrity, Care, Active Teamwork, Respect, Responsibility and Excellence (<strong>ICAR<sup>2</sup>E</strong>) by creating and responding to art.</p>
+<p><strong>Learning for Life Programme (LLP)<br> ‘ICAR<sup>2</sup>E Through the Arts @ Sengkang Green Primary School’</strong></p>
+<p>ICAR<sup>2</sup>E Through the Arts, is the signature Learning for Life Programme (LLP) at Sengkang Green Primary School that applies Inquiry-Based Learning in the Arts Education to inspire and motivate our students to foster positive values and traits; to have strength of character and ready to serve. Through inquiry, students learn about values of Integrity, Care, Active Teamwork, Respect, Responsibility and Excellence (<strong>ICAR<sup>2</sup>E</strong>) by creating and responding to art.</p>
 <p>The LLP designed is rooted to the belief that ‘<strong>All SKGiangs are artists at work in our own special ways.</strong>’ The four domains in the framework are: Inspire, Inquire, Create and Connect. Through the different learning experiences, students inspire and inquire, and vice versa. This leads to creation of various art forms: Performing Arts, Visual Arts and Literary Arts. In this process, students are able to connect purposefully to oneself, meaningfully to others and respectfully towards the environment and their surroundings.</p>
 
 <p>By undergoing this programme, it provides our students opportunities to develop into:</p>
