@@ -91,15 +91,15 @@ of national identity. These authentic experiences are invaluable in nurturing
 our student agency and helping them become effective communicators and
 well-rounded individuals.<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ndp5.jpg">
+<img style="width: 70%" height="auto" width="70%" alt="" src="/images/Ndp5.jpg">
 </div>
 <p><strong><u>My Ethnic Costume</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ndp6.png">
+<img style="width: 50%" height="auto" width="0%" alt="" src="/images/Ndp6.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ndp7.png">
+<img style="width: 50%" height="auto" width="50%" alt="" src="/images/Ndp7.png">
 </div>
 <p><strong><u>Postcard Giveaway</u></strong>
 </p>
