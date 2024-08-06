@@ -19,6 +19,12 @@ sections:
           url: /useful-links/
       background: /images/new banner 1.gif
   - infopic:
+      title: The significance of the school’s National Day Souvenir
+      subtitle: Happy National Day 2024!
+      id: infopic
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: SKGPS eOpen House 2024
       id: infopic
       description: Becoming a Future-Ready Learner Promoting Holistic Health
