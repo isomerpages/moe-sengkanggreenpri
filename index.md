@@ -24,6 +24,7 @@ sections:
       id: infopic
       button: Button Text
       alt: Image alt text
+      image: /images/NDP1.png
   - infopic:
       title: SKGPS eOpen House 2024
       id: infopic
