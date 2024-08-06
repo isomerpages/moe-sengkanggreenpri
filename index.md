@@ -13,7 +13,7 @@ sections:
           url: /others/announcements/
         - title: Highlights
           description: ""
-          url: /others/highlights/skgps-virtual-open-house-2024/
+          url: /others/highlights/the-significance-of-the-school-s-national-day-souvenir/
         - title: Useful Links
           description: ""
           url: /useful-links/
