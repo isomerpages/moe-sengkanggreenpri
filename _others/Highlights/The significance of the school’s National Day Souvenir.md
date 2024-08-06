@@ -7,8 +7,6 @@ third_nav_title: Highlights
 ---
 <p><strong>Happy National Day 2024!</strong>
 </p>
-<p><strong>The significance of the school’s National Day Souvenir</strong>
-</p>
 <p><strong>"Together, As One United People"</strong> is the theme for this
 year’s National Day Celebrations, highlighting our collective strength
 and the importance of unity. This theme underscores our nation's success
