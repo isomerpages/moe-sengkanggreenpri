@@ -22,9 +22,10 @@ sections:
       title: The significance of the school’s National Day Souvenir
       subtitle: Happy National Day 2024!
       id: infopic
-      button: Button Text
+      button: CLICK HERE TO ENTER
       alt: Image alt text
       image: /images/NDP1.png
+      url: https://www.sengkanggreenpri.moe.edu.sg/the-significance-of-the-school-s-national-day-souvenir/
   - infopic:
       title: SKGPS eOpen House 2024
       id: infopic
