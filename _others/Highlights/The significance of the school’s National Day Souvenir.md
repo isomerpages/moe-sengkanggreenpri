@@ -61,8 +61,9 @@ Square (<a href="https://www.streetdirectory.com/sg/fernvale-square/51a-sengkang
 <p><em>As our students dance together, they demonstrate the power of collaboration despite their diverse individualities. This perfectly aligns with the theme for this year’s National Day celebrations: “Together, As One United People.” Through "Alice in Funkyland," we celebrate how working together and appreciating each other’s uniqueness can make us stronger and more united.”</em>
 </p>
 <p></p>
-<p><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_06_143215.png">
+</div>
 <p><strong>b) Art Club CCA in Collaboration with National Museum Singapore for NDP Art Outreach</strong>
 </p>
 <p><strong>Date:</strong> 9 August 2024, Friday</p>
@@ -75,7 +76,6 @@ Square (<a href="https://www.streetdirectory.com/sg/fernvale-square/51a-sengkang
 learning experiences beyond the school, and provides a valued opportunity
 for them to lead others and strengthen their communication skills as they
 guide the younger children and their family in the art-making process.</p>
-<p>&nbsp;</p>
 <p>For the preparation, our students from Art Club</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; went on a guided tour
 to the National Museum of Singapore to gain an understanding of the lifestyle
@@ -91,17 +91,29 @@ of national identity. These authentic experiences are invaluable in nurturing
 our student agency and helping them become effective communicators and
 well-rounded individuals.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ndp5.jpg">
+</div>
 <p><strong><u>My Ethnic Costume</u></strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ndp6.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ndp7.png">
+</div>
 <p><strong><u>Postcard Giveaway</u></strong>
 </p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ndp8.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ndp9.png">
+</div>
 <p><strong><em>Come and join us at Fernvale Square and National Museum this National Day!</em>&nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <p></p>
