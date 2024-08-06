@@ -39,21 +39,20 @@ Our school’s Learning for Life Programme – ICAR<strong><sup>2</sup></strong>
 through the Arts, aims to nurture socially responsible citizens who contribute
 meaningfully to the community, through the learning and display of school
 values, knowledge and skills.<p></p>
-These experiences are designed to promote student agency and initiative.
+<p>These experiences are designed to promote student agency and initiative.
 As part of the art creation process, students reflect on their experiences,
 the values they have put into practice, and how they can continue to contribute
-meaningfully to their community.<p></p>
-<strong>Our students will take part in the two activities as part of Singapore’s 59<sup>th</sup> Birthday Celebrations:</strong>
-<p></p>
+meaningfully to their community.</p>
+<strong></strong><p><strong>Our students will take part in the two activities as part of Singapore’s 59<sup>th</sup> Birthday Celebrations:</strong></p>
 <strong>a) International Dance CCA at Fernvale&nbsp;National Day&nbsp;Celebration&nbsp;&amp; Fireworks Extravaganza</strong>
 <p><strong>Date:</strong> 8 August 2024, Thursday, <strong>Venue: </strong>Fernvale
 Square (<a href="https://www.streetdirectory.com/sg/fernvale-square/51a-sengkang-west-avenue-797384/114861_423065.html#google_vignette" rel="noopener noreferrer nofollow" target="_blank">Map Link</a>)
-<br><strong>Time:</strong> 7p.m. – 9.30p.m&nbsp;</p>
-(Our performance will take place at about 7 – 7.15p.m.) <strong>Admission is free.</strong>
-<br>For more information, please click on the <a href="https://www.onepa.gov.sg/events/fernvale-national-day-celebration-fireworks-extravaganza-2024-21291077" rel="noopener noreferrer nofollow" target="_blank">link</a>.<p></p>
+</p><p><strong>Time:</strong> 7p.m. – 9.30p.m&nbsp;</p>
+<p>(Our performance will take place at about 7 – 7.15p.m.) <strong>Admission is free.</strong>
+</p><p>For more information, please click on the <a href="https://www.onepa.gov.sg/events/fernvale-national-day-celebration-fireworks-extravaganza-2024-21291077" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p><p></p>
 <strong>Our Performance Sypnosis:</strong>
-<br><em>“Our dance performance, "Alice in Funkyland," garnered a Distinction Award in this year’s Singapore Youth Festival Arts Presentation. In this fun and imaginative dance, Alice embarks on an adventure into the unknown in Funkyland, where every character comes to life with energetic and funky dance moves. From the quirky Alices to the playful Rabbits, our dancers display curiosity and confidence as they explore Funkyland.</em>
-<p></p>
+<p><em>“Our dance performance, "Alice in Funkyland," garnered a Distinction Award in this year’s Singapore Youth Festival Arts Presentation. In this fun and imaginative dance, Alice embarks on an adventure into the unknown in Funkyland, where every character comes to life with energetic and funky dance moves. From the quirky Alices to the playful Rabbits, our dancers display curiosity and confidence as they explore Funkyland.</em>
+</p><p></p>
 <em>As our students dance together, they demonstrate the power of collaboration despite their diverse individualities. This perfectly aligns with the theme for this year’s National Day celebrations: “Together, As One United People.” Through "Alice in Funkyland," we celebrate how working together and appreciating each other’s uniqueness can make us stronger and more united.”</em>
 <p></p>
 <p></p>
@@ -62,10 +61,11 @@ Square (<a href="https://www.streetdirectory.com/sg/fernvale-square/51a-sengkang
 </div>
 <p><strong>b) Art Club CCA in Collaboration with National Museum Singapore for NDP Art Outreach</strong>
 </p>
-<strong>Date:</strong> 9 August 2024, Friday<p></p>
-<strong>Venue:</strong> Glass Atrium, Level 2, National Museum Singapore
-(<a href="https://www.streetdirectory.com/sg/national-museum-of-singapore/93-stamford-road-178897/14384_12851.html#google_vignette" rel="noopener noreferrer nofollow" target="_blank">Map Link</a>)<p></p>
-<strong>Time:</strong> 9.30 a.m. to 4 p.m.<p></p>For more information, please click on the <a href="https://www.nhb.gov.sg/nationalmuseum/whats-on/programme/national-day-celebrations/events#section_The-Singapura-Life" rel="noopener noreferrer nofollow" target="_blank">link</a>.<p></p>
+<p><strong>Date:</strong> 9 August 2024, Friday</p>
+<p><strong>Venue:</strong> Glass Atrium, Level 2, National Museum Singapore
+(<a href="https://www.streetdirectory.com/sg/national-museum-of-singapore/93-stamford-road-178897/14384_12851.html#google_vignette" rel="noopener noreferrer nofollow" target="_blank">Map Link</a>)</p><p></p>
+<p><strong>Time:</strong> 9.30 a.m. to 4 p.m.
+</p><p></p>For more information, please click on the <a href="https://www.nhb.gov.sg/nationalmuseum/whats-on/programme/national-day-celebrations/events#section_The-Singapura-Life" rel="noopener noreferrer nofollow" target="_blank">link</a>.<p></p>
 
 This Art Outreach collaboration with the National Museum extends our SKGians
 learning experiences beyond the school, and provides a valued opportunity
@@ -109,6 +109,6 @@ well-rounded individuals.<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%" height="auto" width="50%" alt="" src="/images/Ndp9.png">
 </div>
-<p><strong><em>Come and join us at Fernvale Square and National Museum this National Day!</em>&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<p><strong><em>Come and join us at Fernvale Square and National Museum this National Day!</em></strong>
 </p>
 <p></p>
