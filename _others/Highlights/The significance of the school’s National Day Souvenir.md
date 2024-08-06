@@ -58,7 +58,7 @@ Square (<a href="https://www.streetdirectory.com/sg/fernvale-square/51a-sengkang
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_06_143215.png">
+<img style="width: 70%" height="auto" width="70%" alt="" src="/images/Screenshot_2024_08_06_143215.png">
 </div>
 <p><strong>b) Art Club CCA in Collaboration with National Museum Singapore for NDP Art Outreach</strong>
 </p>
@@ -91,12 +91,12 @@ of national identity. These authentic experiences are invaluable in nurturing
 our student agency and helping them become effective communicators and
 well-rounded individuals.<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%" height="auto" width="70%" alt="" src="/images/Ndp5.jpg">
+<img style="width: 60%" height="auto" width="70%" alt="" src="/images/Ndp5.jpg">
 </div>
 <p><strong><u>My Ethnic Costume</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="0%" alt="" src="/images/Ndp6.png">
+<img style="width: 50%" height="auto" width="50%" alt="" src="/images/Ndp6.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 50%" height="auto" width="50%" alt="" src="/images/Ndp7.png">
@@ -104,10 +104,10 @@ well-rounded individuals.<p></p>
 <p><strong><u>Postcard Giveaway</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ndp8.png">
+<img style="width: 50%" height="auto" width="50%" alt="" src="/images/Ndp8.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ndp9.png">
+<img style="width: 50%" height="auto" width="50%" alt="" src="/images/Ndp9.png">
 </div>
 <p><strong><em>Come and join us at Fernvale Square and National Museum this National Day!</em>&nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
