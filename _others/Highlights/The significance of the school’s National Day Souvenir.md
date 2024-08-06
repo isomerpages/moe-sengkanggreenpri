@@ -77,40 +77,40 @@ learning experiences beyond the school, and provides a valued opportunity
 for them to lead others and strengthen their communication skills as they
 guide the younger children and their family in the art-making process.</p>
 <p>For the preparation, our students from Art Club</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; went on a guided tour
-to the National Museum of Singapore to gain an understanding of the lifestyle
-of people living in the period from the 1920s to the 1990s</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participated in hands-on
-sessions to practise making the crafts</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rehearsed with peers
-on how to provide clear instructions and guide young children&nbsp;</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>went on a guided tour to the National Museum of Singapore to gain an understanding
+of the lifestyle of people living in the period from the 1920s to the 1990s</p>
+</li>
+<li>
+<p>Participated in hands-on sessions to practise making the crafts</p>
+</li>
+<li>
+<p>Rehearsed with peers on how to provide clear instructions and guide young
+children&nbsp;</p>
+</li>
+</ul>
 <p>We believe that the experience will help them learn to understand and
 appreciate Singapore’s history and heritage, developing a stronger sense
 of national identity. These authentic experiences are invaluable in nurturing
 our student agency and helping them become effective communicators and
 well-rounded individuals.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ndp5.jpg">
 </div>
 <p><strong><u>My Ethnic Costume</u></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ndp6.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ndp7.png">
 </div>
 <p><strong><u>Postcard Giveaway</u></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ndp8.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ndp9.png">
 </div>
