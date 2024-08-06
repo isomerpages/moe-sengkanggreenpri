@@ -60,6 +60,7 @@ Square (<a href="https://www.streetdirectory.com/sg/fernvale-square/51a-sengkang
 <p></p>
 <p><em>As our students dance together, they demonstrate the power of collaboration despite their diverse individualities. This perfectly aligns with the theme for this year’s National Day celebrations: “Together, As One United People.” Through "Alice in Funkyland," we celebrate how working together and appreciating each other’s uniqueness can make us stronger and more united.”</em>
 </p>
+<p></p>
 <p><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>
 </p>
 <p><strong>b) Art Club CCA in Collaboration with National Museum Singapore for NDP Art Outreach</strong>
