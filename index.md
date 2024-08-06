@@ -40,4 +40,10 @@ sections:
       url: /our-skgian-family/a-note-of-affirmation/
       image: /images/affirm.png
       alt: Image alt text
+  - infopic:
+      title: The significance of the school’s National Day Souvenir
+      subtitle: Happy National Day 2024!
+      id: infopic
+      button: Button Text
+      alt: Image alt text
 ---
