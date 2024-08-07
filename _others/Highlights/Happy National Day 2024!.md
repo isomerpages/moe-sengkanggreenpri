@@ -1,6 +1,6 @@
 ---
 title: Happy National Day 2024!
-permalink: /the-significance-of-the-school-s-national-day-souvenir/
+permalink: /happy-national-day-2024/
 variant: tiptap
 description: ""
 third_nav_title: Highlights

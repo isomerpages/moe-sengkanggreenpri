@@ -13,7 +13,7 @@ sections:
           url: /others/announcements/
         - title: Highlights
           description: ""
-          url: /others/highlights/the-significance-of-the-school-s-national-day-souvenir/
+          url: /others/highlights/happy-national-day-2024/
         - title: Useful Links
           description: ""
           url: /useful-links/
@@ -24,7 +24,7 @@ sections:
       button: CLICK HERE TO ENTER
       alt: Image alt text
       image: /images/NDP1.png
-      url: https://www.sengkanggreenpri.moe.edu.sg/the-significance-of-the-school-s-national-day-souvenir/
+      url: https://sengkanggreenpri.moe.edu.sg/happy-national-day-2024/
   - infopic:
       title: SKGPS eOpen House 2024
       id: infopic
