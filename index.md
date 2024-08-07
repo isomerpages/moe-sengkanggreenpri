@@ -13,7 +13,7 @@ sections:
           url: /others/announcements/
         - title: Highlights
           description: ""
-          url: /others/highlights/happy-national-day-2024/
+          url: https://www.sengkanggreenpri.moe.edu.sg/happy-national-day-2024/
         - title: Useful Links
           description: ""
           url: /useful-links/
