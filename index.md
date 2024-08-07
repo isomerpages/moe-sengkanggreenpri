@@ -19,8 +19,7 @@ sections:
           url: /useful-links/
       background: /images/new banner 1.gif
   - infopic:
-      title: The significance of the school’s National Day Souvenir
-      subtitle: Happy National Day 2024!
+      title: Happy National Day 2024!
       id: infopic
       button: CLICK HERE TO ENTER
       alt: Image alt text
