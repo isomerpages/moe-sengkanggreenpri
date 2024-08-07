@@ -13,14 +13,13 @@ sections:
           url: /others/announcements/
         - title: Highlights
           description: ""
-          url: /others/highlights/skgps-virtual-open-house-2024/
+          url: /others/highlights/the-significance-of-the-school-s-national-day-souvenir/
         - title: Useful Links
           description: ""
           url: /useful-links/
       background: /images/new banner 1.gif
   - infopic:
-      title: The significance of the school’s National Day Souvenir
-      subtitle: Happy National Day 2024!
+      title: Happy National Day 2024!
       id: infopic
       button: CLICK HERE TO ENTER
       alt: Image alt text
