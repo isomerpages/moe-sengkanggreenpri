@@ -13,7 +13,7 @@ sections:
           url: /others/announcements/
         - title: Highlights
           description: ""
-          url: /others/highlights/the-significance-of-the-school-s-national-day-souvenir/
+          url: /others/highlights/happy-national-day-2024/
         - title: Useful Links
           description: ""
           url: /useful-links/
