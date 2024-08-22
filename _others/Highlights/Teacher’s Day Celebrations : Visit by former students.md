@@ -55,7 +55,7 @@ of affirmation or join the alumni.&nbsp;</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="notesofaffirmation" src="/images/Screenshot_2024_08_22_114814.png">
+<img style="width: 50%" height="auto" width="50%" alt="notesofaffirmation" src="/images/Screenshot_2024_08_22_114814.png">
 </div>
 <p></p>
 <p><strong>CLICK this link : <a href="https://go.gov.sg/skgpsnotesofaffirmation2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/skgpsnotesofaffirmation2024</a> &nbsp;</strong>
