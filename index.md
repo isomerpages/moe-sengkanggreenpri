@@ -57,4 +57,8 @@ sections:
       url: /our-skgian-family/a-note-of-affirmation/
       image: /images/affirm.png
       alt: Image alt text
+  - infopic:
+      id: infopic
+      image: /images/Teachers_day_Invite_on_the_website.jpg
+      alt: Image alt text
 ---
