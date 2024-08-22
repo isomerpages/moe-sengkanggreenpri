@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Highlights
 variant: tiptap
 ---
-<p>We warmly welcome former SKGians to visit their teachers on 29 August
-2024.</p>
+<p>Dear Students,</p>
+<p>If you have plans to visit your former teachers on&nbsp; 29 August 2024,</p>
+<p>Pls take note of the following information.</p>
 <p><strong><u>Details:</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -17,7 +18,8 @@ variant: tiptap
 <p>Time : 10.30 a.m. to 11.30 a.m.</p>
 </li>
 <li>
-<p>Venue: Canteen</p>
+<p><strong>Venue: Canteen</strong>
+</p>
 </li>
 </ul>
 <p><strong><u>Other Important information:</u></strong>
@@ -39,14 +41,8 @@ variant: tiptap
 <p>We need your fullest cooperation to adhere to the school rules.</p>
 </li>
 </ul>
-<p><strong>Register for the event by clicking on this link:</strong>
-</p>
-<p><strong><a href="https://www.eventbrite.sg/e/skgps-10th-anniversary-alumni-meet-up-2023-tickets-705291805777?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank">https://www.eventbrite.sg/e/skgps-10th-anniversary-alumni-meet-up-2023-tickets-705291805777?aff=oddtdtcreator</a></strong>
-</p>
-<p><strong>Alternatively, you may scan this QR code to register:</strong>
-</p>
-<p></p>
-<p>Looking forward to meeting up with all of you on 29 August 2024!</p>
+<p>We warmly welcome former SKGians to visit their teachers on 29 August
+2024.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -56,6 +52,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>You may want to drop your teachers or the staff of the school some notes
 of affirmation or join the alumni.&nbsp;</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="notesofaffirmation" src="/images/Screenshot_2024_08_22_114814.png">
+</div>
+<p></p>
 <p><strong>CLICK this link : <a href="https://go.gov.sg/skgpsnotesofaffirmation2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/skgpsnotesofaffirmation2024</a> &nbsp;</strong>
 </p>
 </td>
