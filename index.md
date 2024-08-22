@@ -13,15 +13,23 @@ sections:
           url: /others/announcements/
         - title: Highlights
           description: ""
-          url: https://www.sengkanggreenpri.moe.edu.sg/happy-national-day-2024/
+          url: /others/highlights/visitbyformerstudents2024/
         - title: Useful Links
           description: ""
           url: /useful-links/
       background: /images/new banner 1.gif
   - infopic:
+      title: Teacher’s Day Celebrations
+      id: infopic
+      description: Visit by former students
+      button: CLICK HERE FOR DETAILS
+      url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/visitbyformerstudents2024/
+      image: /images/SkgTeachersDay.png
+      alt: Image alt text
+  - infopic:
       title: Happy National Day 2024!
       id: infopic
-      button: CLICK HERE TO ENTER
+      button: CLICK HERE FOR DETAILS
       alt: Image alt text
       image: /images/NDP1.png
       url: https://sengkanggreenpri.moe.edu.sg/happy-national-day-2024/
@@ -39,11 +47,13 @@ sections:
       description: Becoming a Future-Ready Learner Promoting Holistic Health
       image: /images/SkGians_Celebrate_2024.jpg
       alt: Image alt text
+      button: CLICK HERE FOR DETAILS
+      url: https://others/highlights/skgps-virtual-open-house-2024/
   - infopic:
       title: Affirmation Note
       description: Please remember to drop an affirmation note to your teachers to
         thank them for all they have done.
-      button: Click here
+      button: CLICK HERE FOR DETAILS
       url: /our-skgian-family/a-note-of-affirmation/
       image: /images/affirm.png
       alt: Image alt text
