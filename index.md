@@ -13,11 +13,19 @@ sections:
           url: /others/announcements/
         - title: Highlights
           description: ""
-          url: https://www.sengkanggreenpri.moe.edu.sg/happy-national-day-2024/
+          url: /others/highlights/visitbyformerstudents2024/
         - title: Useful Links
           description: ""
           url: /useful-links/
       background: /images/new banner 1.gif
+  - infopic:
+      title: Teacher’s Day Celebrations
+      id: infopic
+      description: Visit by former students
+      button: CLICK HERE FOR DETAILS
+      url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/visitbyformerstudents2024/
+      image: /images/happy_teachers_day_background_free_vector.jpg
+      alt: Image alt text
   - infopic:
       title: Happy National Day 2024!
       id: infopic
