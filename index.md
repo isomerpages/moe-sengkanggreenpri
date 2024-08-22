@@ -24,7 +24,7 @@ sections:
       description: Visit by former students
       button: CLICK HERE FOR DETAILS
       url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/visitbyformerstudents2024/
-      image: /images/happy_teachers_day_background_free_vector.jpg
+      image: /images/SkgTeachersDay.png
       alt: Image alt text
   - infopic:
       title: Happy National Day 2024!
