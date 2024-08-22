@@ -20,20 +20,12 @@ sections:
       background: /images/new banner 1.gif
   - infopic:
       id: infopic
-      image: /images/Teachers_day_Invite_on_the_website.jpg
+      image: /images/Staff_Appreciation.jpg
       alt: Image alt text
-      title: Teacher’s Day Celebrations
+      title: Staff Appreciation Day
       description: Visit by former students
       button: CLICK HERE FOR DETAILS
       url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/visitbyformerstudents2024/
-  - infopic:
-      title: Teacher’s Day Celebrations
-      id: infopic
-      description: Visit by former students
-      button: CLICK HERE FOR DETAILS
-      url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/visitbyformerstudents2024/
-      image: /images/SkgTeachersDay.png
-      alt: Image alt text
   - infopic:
       title: Happy National Day 2024!
       id: infopic
