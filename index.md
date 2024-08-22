@@ -19,6 +19,14 @@ sections:
           url: /useful-links/
       background: /images/new banner 1.gif
   - infopic:
+      id: infopic
+      image: /images/Teachers_day_Invite_on_the_website.jpg
+      alt: Image alt text
+      title: Teacher’s Day Celebrations
+      description: Visit by former students
+      button: CLICK HERE FOR DETAILS
+      url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/visitbyformerstudents2024/
+  - infopic:
       title: Teacher’s Day Celebrations
       id: infopic
       description: Visit by former students
@@ -56,9 +64,5 @@ sections:
       button: CLICK HERE FOR DETAILS
       url: /our-skgian-family/a-note-of-affirmation/
       image: /images/affirm.png
-      alt: Image alt text
-  - infopic:
-      id: infopic
-      image: /images/Teachers_day_Invite_on_the_website.jpg
       alt: Image alt text
 ---
