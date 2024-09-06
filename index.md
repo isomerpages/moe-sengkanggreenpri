@@ -16,7 +16,7 @@ sections:
           url: /others/highlights/visitbyformerstudents2024/
         - title: Useful Links
           description: ""
-          url: /useful-links/
+          url: https://www.sengkanggreenpri.moe.edu.sg/useful-links/
       background: /images/new banner 1.gif
   - infopic:
       id: infopic
