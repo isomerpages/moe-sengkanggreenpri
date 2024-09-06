@@ -9,4 +9,4 @@ variant: markdown
 <p>Contact : 9686 1279 (HP)</p>
 <p>Email : <a href="mailto:sng_mlts@hotmail.com">sng_mlts@hotmail.com</a></p>
 
-<p><a href="https://go.gov.sg/schoolbusregistrationform">School Bus Registration Form</a></p>
+<p><a href="https://www.sengkanggreenpri.moe.edu.sg/files/SKG_Forms/Bus_registration_forms_2025.pdf">School Bus Registration Form</a></p>
