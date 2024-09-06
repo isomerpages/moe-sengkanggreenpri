@@ -77,7 +77,7 @@ variant: markdown
 <td style="text-align: center; width: 200px;">&nbsp;</td>
 <td style="text-align: center; width: 200px;">
 <img style="width: 30%;" src="/images/web.jpg">
-<div><a href="[Outlook (schools.gov.sg)]https://schools.gov.sg/owa/auth/logon.aspx?replaceCurrent=1&amp;url=https%3a%2f%2fschools.gov.sg%2fowa" target="_blank" rel="noopener">Web based Outlook</a></div>
+<div><a href="[Outlook (schools.gov.sg)]https://schools.gov.sg/owa/" target="_blank" rel="noopener">Web based Outlook</a></div>
 </td>
 </tr>
 </tbody>
