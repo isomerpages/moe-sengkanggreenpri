@@ -53,7 +53,6 @@ Square (<a href="https://www.streetdirectory.com/sg/fernvale-square/51a-sengkang
 <p><strong>Time:</strong> 7p.m. – 9.30p.m&nbsp;</p>
 <p>(Our performance will take place at about 7 – 7.15p.m.) <strong>Admission is free.</strong>
 </p>
-<p>For more information, please click on the <a href="https://www.onepa.gov.sg/events/fernvale-national-day-celebration-fireworks-extravaganza-2024-21291077" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
 <p><strong>Our Performance Sypnosis:</strong>
 </p>
 <p><em>“Our dance performance, "Alice in Funkyland," garnered a Distinction Award in this year’s Singapore Youth Festival Arts Presentation. In this fun and imaginative dance, Alice embarks on an adventure into the unknown in Funkyland, where every character comes to life with energetic and funky dance moves. From the quirky Alices to the playful Rabbits, our dancers display curiosity and confidence as they explore Funkyland.</em>
@@ -69,7 +68,6 @@ Square (<a href="https://www.streetdirectory.com/sg/fernvale-square/51a-sengkang
 <p><strong>Venue:</strong> Glass Atrium, Level 2, National Museum Singapore
 (<a href="https://www.streetdirectory.com/sg/national-museum-of-singapore/93-stamford-road-178897/14384_12851.html#google_vignette" rel="noopener noreferrer nofollow" target="_blank">Map Link</a>)</p>
 <p><strong>Time:</strong> 9.30 a.m. to 4 p.m.</p>
-<p>For more information, please click on the <a href="https://www.nhb.gov.sg/nationalmuseum/whats-on/programme/national-day-celebrations/events#section_The-Singapura-Life" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
 <p>This Art Outreach collaboration with the National Museum extends our SKGians
 learning experiences beyond the school, and provides a valued opportunity
 for them to lead others and strengthen their communication skills as they
