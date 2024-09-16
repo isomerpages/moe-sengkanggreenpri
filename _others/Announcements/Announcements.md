@@ -6,6 +6,10 @@ third_nav_title: Announcements
 variant: markdown
 ---
 <p></p>
+<p><strong>Sengkang Green Primary School -   Phase 2B Parent Volunteer (PV) Application Form<br></strong>Please click on
+the following link to access the online form<br>
+</p><p><a href="https://form.gov.sg/66e2524e7674675e1a7b667a" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Scheme 2025</a>
+</p><p></p>
 <p><strong>P2 Parent Engagement Session 2024<br></strong>Please click on
 the following link to download the presentation slides.</p>
 <p><a href="/files/2024_PES/2024_P2_PES_Principal.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal &amp; Year Head Sharing</a>
