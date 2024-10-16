@@ -28,7 +28,7 @@ sections:
       image: /images/PAT.jpg
       alt: Image alt text
   - infopic:
-      title: 2025 Outstanding Youth in Education Award
+      title: Outstanding Youth in Education Award 2025
       subtitle: Add an image and text
       id: infopic
       description: The Outstanding Youth in Education Award (OYEA) gives national
