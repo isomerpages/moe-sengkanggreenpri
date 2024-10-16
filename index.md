@@ -29,7 +29,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: Outstanding Youth in Education Award 2025
-      subtitle: Add an image and text
       id: infopic
       description: The Outstanding Youth in Education Award (OYEA) gives national
         recognition to young teachers who are role models for the teaching
