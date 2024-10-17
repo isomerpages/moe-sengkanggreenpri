@@ -19,25 +19,6 @@ sections:
           url: https://www.sengkanggreenpri.moe.edu.sg/useful-links/
       background: /images/new banner 1.gif
   - infopic:
-      title: President’s Award for Teachers 2025
-      id: infopic
-      description: The President’s Award for Teachers (PAT) gives national recognition
-        to experienced teachers who are role models for the teaching profession.
-      button: Nominate here
-      url: /president-s-award-for-teachers-2025/
-      image: /images/PAT.jpg
-      alt: Image alt text
-  - infopic:
-      title: Outstanding Youth in Education Award 2025
-      id: infopic
-      description: The Outstanding Youth in Education Award (OYEA) gives national
-        recognition to young teachers who are role models for the teaching
-        profession.
-      button: Nominate here
-      url: /outstanding-youth-in-education-award/
-      image: /images/OYEA.jpg
-      alt: Image alt text
-  - infopic:
       id: infopic
       image: /images/Staff_Appreciation.jpg
       alt: Image alt text
