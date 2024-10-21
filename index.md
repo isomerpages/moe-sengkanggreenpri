@@ -13,7 +13,7 @@ sections:
           url: /others/announcements/
         - title: Highlights
           description: ""
-          url: /others/highlights/president-s-award-for-teachers-2025/
+          url: https://www.sengkanggreenpri.moe.edu.sg/president-s-award-for-teachers-2025/
         - title: Useful Links
           description: ""
           url: https://www.sengkanggreenpri.moe.edu.sg/useful-links/
