@@ -57,4 +57,13 @@ sections:
       url: /our-skgian-family/a-note-of-affirmation/
       image: /images/affirm.png
       alt: Image alt text
+  - infopic:
+      title: President’s Award for Teachers 2025
+      id: infopic
+      description: The President’s Award for Teachers (PAT) gives national recognition
+        to experienced teachers who are role models for the teaching profession.
+      button: Nominate here
+      url: https://go.gov.sg/oyea2025
+      image: /images/PAT.jpg
+      alt: Image alt text
 ---
