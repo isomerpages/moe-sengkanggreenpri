@@ -58,16 +58,8 @@ sections:
       description: Becoming a Future-Ready Learner Promoting Holistic Health
       alt: Image alt text
       image: /images/Open_House_2024_Updated_8_July.jpg
-      url: /others/highlights/skgps-virtual-open-house-2024/
+      url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/skgps-virtual-open-house-2024/
       button: click here to enter
-  - infopic:
-      title: SKGians Celebrate! 2024
-      id: infopic
-      description: Becoming a Future-Ready Learner Promoting Holistic Health
-      image: /images/SkGians_Celebrate_2024.jpg
-      alt: Image alt text
-      button: CLICK HERE FOR DETAILS
-      url: https://others/highlights/skgps-virtual-open-house-2024/
   - infopic:
       title: Affirmation Note
       description: Please remember to drop an affirmation note to your teachers to
