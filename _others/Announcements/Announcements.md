@@ -6,6 +6,9 @@ third_nav_title: Announcements
 variant: markdown
 ---
 <p></p>
+<p><strong>Sengkang Green Primary School - 2025, P1 Orientation for Parents (Nov 24' briefing)<br></strong>Please click on the following link to access the briefing slides and videos<br>
+</p><p><a href="https://drive.google.com/drive/folders/1pEyVRPJPnPFnwGjisfdvgzNq17X9nWcG?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2025 P1 Orientation Briefing for Parents</a>
+</p><p></p>
 <p><strong>Sengkang Green Primary School -   Phase 2B Parent Volunteer (PV) Application Form<br></strong>Please click on
 the following link to access the online form<br>
 </p><p><a href="https://form.gov.sg/66e2524e7674675e1a7b667a" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Scheme 2025</a>
