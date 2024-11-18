@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - K1 Orientation for 2025 Children.md
       - MK Open House 2024.md
       - About Us/.keep
       - About Us/Vision Mission Beliefs.md
