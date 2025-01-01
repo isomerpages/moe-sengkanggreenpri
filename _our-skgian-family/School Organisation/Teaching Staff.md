@@ -42,12 +42,12 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>1 <br>Attentive</strong>
+<p><strong>1 Attentive</strong>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Afiqah Binte Anwarie</p>
+<p>Ms Lam Hui Hui (Amy)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_afiqah_anwarie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_afiqah_anwarie@moe.edu.sg</a>
@@ -65,7 +65,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>1<br>Brave</strong>
+<p><strong>1 Brave</strong>
 </p>
 <p></p>
 </td>
@@ -88,7 +88,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>1<br>Caring</strong>
+<p><strong>1 Caring</strong>
 </p>
 <p></p>
 </td>
@@ -111,7 +111,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>1<br>Diligent</strong>
+<p><strong>1 Diligent</strong>
 </p>
 <p></p>
 </td>
@@ -134,7 +134,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>1<br>Excellent</strong>
+<p><strong>1 Excellent</strong>
 </p>
 <p></p>
 </td>
@@ -157,7 +157,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>1<br>Friendly</strong>
+<p><strong>1 Friendly</strong>
 </p>
 <p></p>
 </td>
@@ -180,7 +180,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>1<br>Gracious</strong>
+<p><strong>1 Gracious</strong>
 </p>
 <p></p>
 </td>
@@ -203,7 +203,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>1<br>Honest</strong>
+<p><strong>1 Honest</strong>
 </p>
 <p></p>
 </td>
@@ -226,7 +226,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>1<br>Integrity</strong>
+<p><strong>1 Integrity</strong>
 </p>
 <p></p>
 </td>
@@ -287,7 +287,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>2<br>Attentive</strong>
+<p><strong>2 Attentive</strong>
 </p>
 <p></p>
 </td>
@@ -311,7 +311,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>2<br>Brave</strong>
+<p><strong>2 Brave</strong>
 </p>
 <p></p>
 </td>
@@ -334,7 +334,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>2<br>Caring</strong>
+<p><strong>2 Caring</strong>
 </p>
 <p></p>
 </td>
@@ -357,7 +357,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>2<br>Diligent</strong>
+<p><strong>2 Diligent</strong>
 </p>
 <p></p>
 </td>
@@ -380,7 +380,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>2<br>Excellent</strong>
+<p><strong>2 Excellent</strong>
 </p>
 <p></p>
 </td>
@@ -403,7 +403,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>2<br>Friendly</strong>
+<p><strong>2 Friendly</strong>
 </p>
 <p></p>
 </td>
@@ -426,7 +426,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>2<br>Gracious</strong>
+<p><strong>2 Gracious</strong>
 </p>
 <p></p>
 </td>
@@ -449,7 +449,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>2<br>Honest</strong>
+<p><strong>2 Honest</strong>
 </p>
 <p></p>
 </td>
@@ -472,7 +472,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>2<br>Integrity</strong>
+<p><strong>2 Integrity</strong>
 </p>
 <p></p>
 </td>
