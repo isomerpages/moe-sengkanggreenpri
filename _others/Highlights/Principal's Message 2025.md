@@ -17,44 +17,40 @@ continue to guide us.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
 </div>
 <br><strong><u>Our Theme for 2025: "Becoming a Future-ready Learner – Learning with Technology"</u></strong><br>
-<br>This year, we move forward with the theme, “Becoming a Future-ready Learner
+<p>This year, we move forward with the theme, “Becoming a Future-ready Learner
 – Learning with Technology”. Technology is impacting education, work, and
 daily life at an unprecedented pace, so it’s important for our SKGians
 to build the skills and mindset and become happy learners who uses it confidently
-and responsibly.
-<br>
-<br>At Sengkang Green, we are committed to preparing SKGians to excel in a
+and responsibly.</p>
+<p>At Sengkang Green, we are committed to preparing SKGians to excel in a
 digitally interconnected world. They will learn essential digital skills.
 These skills will help SKGians use technology effectively, safely, and
 responsibly. It also involves nurturing problem-solving and critical thinking
 skills through the use of digital tools. We want to help our SKGians become
 adaptable so they can handle change and face challenges with creativity
-and resilience.
-<br>
-<br>Our focus on communication, collaboration, and critical thinking, combined
+and resilience.</p>
+<p>Our focus on communication, collaboration, and critical thinking, combined
 with adaptive and inventive thinking (CAIT), will empower our SKGians to
 harness technology in meaningful ways. Aligned with our school’s mission,
 we nurture SKGians’ ability to connect and collaborate with peers beyond
 classroom. These competencies will not only enhance their learning experiences
 but also prepare them to “be ready to serve” now and in the future.
-<br>
-<p></p>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
 </div>
-<br>By leveraging technology, SKGians can explore new perspectives, broaden
+<p>By leveraging technology, SKGians can explore new perspectives, broaden
 their horizons, and participate in global learning opportunities. In 2024,
 some SKGians met peers from Ban Mai School, our partner school in Hanoi,
 Vietnam via online conferencing, with the guidance of their teachers. Technology
 can help us to make connections beyond the classroom.
-<br>
-<br>The Student Learning Space (SLS), an MOE provision, offers a safe platform
+</p>
+<p>The Student Learning Space (SLS), an MOE provision, offers a safe platform
 for SKGians to explore learning with technology independently and collaboratively
 with their teachers and peers. SLS also incorporates Artificial Intelligence
 features. An example is Language Feedback Assistant for English (LangFA-EL),
 which can be used to support school-based curriculum, and enhance teaching
-and learning practices as follows:
-<br>
+and learning practices as follows:</p>
 <br>1. LangFA-EL provides feedback akin to peer-editing to help SKGians identify
 possible areas for improvement in grammatical accuracy and clarity of meaning.
 It can be useful in practices such as process writing.
