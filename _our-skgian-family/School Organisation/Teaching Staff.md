@@ -224,29 +224,8 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>1 Integrity</strong>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Catherine Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_chee_ang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_chee_ang@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Balasubramanian Devi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:balasubramanian_devi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">balasubramanian_devi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
+
+
 </tbody>
 </table>
 <h4><strong>Primary 2</strong></h4>
