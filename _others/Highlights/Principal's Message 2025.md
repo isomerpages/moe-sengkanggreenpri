@@ -6,11 +6,10 @@ description: principal message 2025
 third_nav_title: Highlights
 ---
 <p>Dear Students, Parents and Partners,
-<br>Happy New Year and welcome to a new school year at Sengkang Green Primary
-School! As we begin 2025, I am excited about the great opportunities and
-growth awaiting everyone in our school community.<br>
+</p><p>Happy New Year and welcome to a new school year at Sengkang Green Primary
+School! As we begin 2025, I am excited about the great opportunities and growth awaiting everyone in our school community.</p>
 <br><strong><u>Reflecting on 2024</u></strong>
-<br>Last year, our school focused on “Becoming a Future-ready Learner – Promoting
+<p>Last year, our school focused on “Becoming a Future-ready Learner – Promoting
 Holistic Health,” encouraging SKGians to care for their physical, mental,
 emotional, social health, and Cyber Wellness. The emphasis from 2024 will
 continue to guide us.</p>
