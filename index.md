@@ -68,4 +68,13 @@ sections:
       url: /our-skgian-family/a-note-of-affirmation/
       image: /images/affirm.png
       alt: Image alt text
+  - infopic:
+      title: Principal's Message 2025
+      id: infopic
+      description: Happy New Year and welcome to a new school year at Sengkang Green
+        Primary School!
+      button: Click Here
+      url: /principal-s-message-2025/
+      image: /images/Picture1.png
+      alt: Image alt text
 ---
