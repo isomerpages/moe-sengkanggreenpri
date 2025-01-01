@@ -13,11 +13,20 @@ sections:
           url: /others/announcements/
         - title: Highlights
           description: ""
-          url: https://www.sengkanggreenpri.moe.edu.sg/president-s-award-for-teachers-2025/
+          url: https://www.sengkanggreenpri.moe.edu.sg/principal-s-message-2025/
         - title: Useful Links
           description: ""
           url: https://www.sengkanggreenpri.moe.edu.sg/useful-links/
       background: /images/new banner 1.gif
+  - infopic:
+      title: Principal's Message 2025
+      id: infopic
+      description: Happy New Year and welcome to a new school year at Sengkang Green
+        Primary School!
+      button: Click Here
+      url: /principal-s-message-2025/
+      image: /images/Picture1.png
+      alt: Image alt text
   - infopic:
       title: President’s Award for Teachers 2025
       id: infopic
