@@ -17,8 +17,7 @@ continue to guide us.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
 </div>
-<p>
-<br><strong><u>Our Theme for 2025: "Becoming a Future-ready Learner – Learning with Technology"</u></strong>
+<br><strong><u>Our Theme for 2025: "Becoming a Future-ready Learner – Learning with Technology"</u></strong><br>
 <br>This year, we move forward with the theme, “Becoming a Future-ready Learner
 – Learning with Technology”. Technology is impacting education, work, and
 daily life at an unprecedented pace, so it’s important for our SKGians
@@ -40,12 +39,10 @@ we nurture SKGians’ ability to connect and collaborate with peers beyond
 classroom. These competencies will not only enhance their learning experiences
 but also prepare them to “be ready to serve” now and in the future.
 <br>
-</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
 </div>
-<p>
 <br>By leveraging technology, SKGians can explore new perspectives, broaden
 their horizons, and participate in global learning opportunities. In 2024,
 some SKGians met peers from Ban Mai School, our partner school in Hanoi,
@@ -98,14 +95,12 @@ healthy balance between online and offline activities.
 a spiral approach, with age-appropriate content, as shown in the table
 below. Through these efforts over the six primary school years, SKGians
 will develop a deep understanding of how to use technology as a tool for
-growth while maintaining overall well-being.</p>
-<p></p>
+growth while maintaining overall well-being.<p></p>
 <p><strong>Cyber Wellness area of focus for 2025</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/table.png">
 </div>
-<p>
 <br><strong><u>Partnership with Parents</u></strong>
 <br>
 <br>Parents’ role in guiding and supporting your children’s use of technology
@@ -128,5 +123,5 @@ forward to an amazing year of learning and growth!
 <br>
 <br>Gau Poh Teck
 <br>Principal
-<br>Sengkang Green Primary School</p>
+<br>Sengkang Green Primary School<p></p>
 <p></p>
