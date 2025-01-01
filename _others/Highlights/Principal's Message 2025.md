@@ -15,7 +15,9 @@ growth awaiting everyone in our school community.</p>
 Holistic Health,” encouraging SKGians to care for their physical, mental,
 emotional, social health, and Cyber Wellness. The emphasis from 2024 will
 continue to guide us.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
+</div>
 <p><u>Our Theme for 2025: "Becoming a Future-ready Learner – Learning with Technology"</u>
 </p>
 <p>This year, we move forward with the theme, “Becoming a Future-ready Learner
@@ -37,6 +39,9 @@ we nurture SKGians’ ability to connect and collaborate with peers beyond
 classroom. These competencies will not only enhance their learning experiences
 but also prepare them to “be ready to serve” now and in the future.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+</div>
 <p>By leveraging technology, SKGians can explore new perspectives, broaden
 their horizons, and participate in global learning opportunities. In 2024,
 some SKGians met peers from Ban Mai School, our partner school in Hanoi,
@@ -83,164 +88,6 @@ to emphasize on Cyber Wellness so that SKGians are:</p>
 technology ethically.</p>
 <p>o&nbsp;&nbsp;&nbsp; able to manage screen time effectively to ensure a
 healthy balance between online and offline activities.</p>
-<table style="minWidth: 175px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>School Focus</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>P1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>P2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>P3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>P4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>P5</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>P6</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Cyber Use</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ü</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ü</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ü</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ü</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ü&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;ü</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Cyber Identity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ü</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ü</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ü</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ü</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ü</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ü</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Cyber Relationships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ü</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ü</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ü</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ü</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ü</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ü</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Cyber Citizenship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ü</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ü</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ü</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ü</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Cyber Ethics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ü</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ü</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>SKGians will learn a comprehensive range of Cyber Wellness topics through
 a spiral approach, with age-appropriate content, as shown in the table
 below. Through these efforts over the six primary school years, SKGians
@@ -248,6 +95,9 @@ will develop a deep understanding of how to use technology as a tool for
 growth while maintaining overall well-being.</p>
 <p><strong>Cyber Wellness area of focus for 2025</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/table.png">
+</div>
 <p><u>Partnership with Parents</u>
 </p>
 <p>Parents’ role in guiding and supporting your children’s use of technology
@@ -263,9 +113,7 @@ opportunities while staying mindful of its challenges. Together, we can
 build a supportive learning environment where every student thrives.</p>
 <p>Thank you for being an important part of our school community. I look
 forward to an amazing year of learning and growth!</p>
-<p>&nbsp;</p>
 <p>Sincerely yours,</p>
-<p>&nbsp;</p>
 <p>Gau Poh Teck
 <br>Principal</p>
 <p>Sengkang Green Primary School</p>
