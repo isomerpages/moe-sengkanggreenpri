@@ -123,5 +123,5 @@ forward to an amazing year of learning and growth!
 <br>
 <br>Gau Poh Teck
 <br>Principal
-<br>Sengkang Green Primary School<p></p>
+<br>Sengkang Green Primary School
 <p></p>
