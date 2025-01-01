@@ -9,7 +9,7 @@ third_nav_title: Highlights
 <p>Happy New Year and welcome to a new school year at Sengkang Green Primary
 School! As we begin 2025, I am excited about the great opportunities and
 growth awaiting everyone in our school community.</p>
-<p><u>Reflecting on 2024</u>
+<p><strong><u>Reflecting on 2024</u></strong>
 </p>
 <p>Last year, our school focused on “Becoming a Future-ready Learner – Promoting
 Holistic Health,” encouraging SKGians to care for their physical, mental,
@@ -18,7 +18,7 @@ continue to guide us.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
 </div>
-<p><u>Our Theme for 2025: "Becoming a Future-ready Learner – Learning with Technology"</u>
+<p><strong><u>Our Theme for 2025: "Becoming a Future-ready Learner – Learning with Technology"</u></strong>
 </p>
 <p>This year, we move forward with the theme, “Becoming a Future-ready Learner
 – Learning with Technology”. Technology is impacting education, work, and
