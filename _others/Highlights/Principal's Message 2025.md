@@ -95,7 +95,7 @@ healthy balance between online and offline activities.
 a spiral approach, with age-appropriate content, as shown in the table
 below. Through these efforts over the six primary school years, SKGians
 will develop a deep understanding of how to use technology as a tool for
-growth while maintaining overall well-being.<p></p>
+growth while maintaining overall well-being.
 <p><strong>Cyber Wellness area of focus for 2025</strong>
 </p>
 <div class="isomer-image-wrapper">
