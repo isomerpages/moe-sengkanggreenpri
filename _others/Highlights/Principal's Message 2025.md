@@ -8,7 +8,7 @@ third_nav_title: Highlights
 <p>Dear Students, Parents and Partners,
 <br>Happy New Year and welcome to a new school year at Sengkang Green Primary
 School! As we begin 2025, I am excited about the great opportunities and
-growth awaiting everyone in our school community.
+growth awaiting everyone in our school community.<br>
 <br><strong><u>Reflecting on 2024</u></strong>
 <br>Last year, our school focused on “Becoming a Future-ready Learner – Promoting
 Holistic Health,” encouraging SKGians to care for their physical, mental,
@@ -95,7 +95,7 @@ healthy balance between online and offline activities.
 a spiral approach, with age-appropriate content, as shown in the table
 below. Through these efforts over the six primary school years, SKGians
 will develop a deep understanding of how to use technology as a tool for
-growth while maintaining overall well-being.<p></p>
+growth while maintaining overall well-being.
 <p><strong>Cyber Wellness area of focus for 2025</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -123,5 +123,4 @@ forward to an amazing year of learning and growth!
 <br>
 <br>Gau Poh Teck
 <br>Principal
-<br>Sengkang Green Primary School<p></p>
-<p></p>
+<br>Sengkang Green Primary School
