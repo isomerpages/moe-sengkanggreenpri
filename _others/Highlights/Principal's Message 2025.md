@@ -19,13 +19,11 @@ continue to guide us.</p>
 </div>
 <p>
 <br><strong><u>Our Theme for 2025: "Becoming a Future-ready Learner – Learning with Technology"</u></strong>
-<br>
 <br>This year, we move forward with the theme, “Becoming a Future-ready Learner
 – Learning with Technology”. Technology is impacting education, work, and
 daily life at an unprecedented pace, so it’s important for our SKGians
 to build the skills and mindset and become happy learners who uses it confidently
-and responsibly.
-<br>
+and responsibly.<br>
 <br>At Sengkang Green, we are committed to preparing SKGians to excel in a
 digitally interconnected world. They will learn essential digital skills.
 These skills will help SKGians use technology effectively, safely, and
@@ -46,7 +44,6 @@ but also prepare them to “be ready to serve” now and in the future.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
 </div>
-<p>
 <br>By leveraging technology, SKGians can explore new perspectives, broaden
 their horizons, and participate in global learning opportunities. In 2024,
 some SKGians met peers from Ban Mai School, our partner school in Hanoi,
@@ -60,16 +57,16 @@ features. An example is Language Feedback Assistant for English (LangFA-EL),
 which can be used to support school-based curriculum, and enhance teaching
 and learning practices as follows:
 <br>
-</p>
-<p>LangFA-EL provides feedback akin to peer-editing to help SKGians identify
+<p></p>
+<br>1. LangFA-EL provides feedback akin to peer-editing to help SKGians identify
 possible areas for improvement in grammatical accuracy and clarity of meaning.
-It can be useful in practices such as process writing.</p>
-<p>Teachers can decide when LangFA-EL is activated during the writing process
+It can be useful in practices such as process writing.<br>
+<br>2. Teachers can decide when LangFA-EL is activated during the writing process
 (planning, drafting or revision stage) for SKGians to correct their basic
 language errors. This gives SKGians the chance to not be fearful to make
-mistakes and then review their language errors.</p>
-<p>LangFA-EL is meant to complement and ride on existing teaching and learning
-practices and makes the use of writing assignments on SLS more meaningful.</p>
+mistakes and then review their language errors.<br>
+<br>3. LangFA-EL is meant to complement and ride on existing teaching and learning
+practices and makes the use of writing assignments on SLS more meaningful.<br>
 <p><strong><u>Technology is not everything</u></strong>
 </p>
 <p>In schools, integrating technology into learning offers exciting opportunities
