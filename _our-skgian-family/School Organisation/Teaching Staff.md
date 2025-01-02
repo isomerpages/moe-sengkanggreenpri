@@ -464,16 +464,16 @@ variant: tiptap
 <p>Mdm Lim Chee Ang - (Mdm Catherine Lim)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_hui_lin_dion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_hui_lin_dion@moe.edu.sg</u></a>
+<p><a href="mailto:lim_chee_ang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chee_ang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Eunice Kwok</p>
+<p>Ms Nur Hafizah Binte Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:eunice_kwok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>eunice_kwok@moe.edu.sg</u></a>
+<p><a href="mailto:Nur_Hafizah_Ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Hafizah_Ibrahim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
