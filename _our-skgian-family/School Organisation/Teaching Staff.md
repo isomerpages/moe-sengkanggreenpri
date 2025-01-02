@@ -517,53 +517,52 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>3<br>Attentive</strong>
+<p><strong>3 Attentive</strong>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chew Chee Siang Richard</p>
+<p>Mdm Nur Ain Binte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chew_chee_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chew_chee_siang@moe.edu.sg</u></a>
+<p><a href="mailto:nur_ain_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ain_ahmad@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chng E-Hwei</p>
+<p>Mdm Jorah Bte Salim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chng_e_hwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chng_e_hwei@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>3<br>Brave</strong>
+<p><strong>3 Brave</strong>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sew Bee Jun Pearlyn</p>
+<p>Mdm Ong Ngiap Seng (Mrs Chong)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sew_bee_jun_pearlyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sew_bee_jun_pearlyn@moe.edu.sg</a>
+<p><a href="mailto:Ong_Ngiap_Seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ong_Ngiap_Seng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Andrea Goh Sio Poh</p>
+<p>Mdm Balasubramanian Devi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_sio_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_sio_poh@moe.edu.sg</a>
+<p><a href="mailto:Balasubramanian_Devi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Balasubramanian_Devi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p><strong>3<br>Caring</strong>
+<p><strong>3 Caring</strong>
 </p>
 <p></p>
 </td>
@@ -595,7 +594,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>3<br>Diligent</strong>
+<p><strong>3 Diligent</strong>
 </p>
 <p></p>
 </td>
@@ -618,7 +617,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>3<br>Excellent</strong>
+<p><strong>3 Excellent</strong>
 </p>
 <p></p>
 </td>
@@ -641,7 +640,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>3<br>Friendly</strong>
+<p><strong>3 Friendly</strong>
 </p>
 <p></p>
 </td>
@@ -664,7 +663,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p><strong>3<br>Gracious</strong>
+<p><strong>3 Gracious</strong>
 </p>
 <p></p>
 </td>
