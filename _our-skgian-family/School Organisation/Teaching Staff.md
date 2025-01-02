@@ -1022,40 +1022,31 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p><strong>5<br>Excellent</strong>
+<td rowspan="2" colspan="1">
+<p><strong>5 Excellent</strong>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chua Siew Kheng</p>
+<p>Mr Ang Chern Kiat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_siew_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_siew_kheng@moe.edu.sg</u></a>
+<p><a href="mailto:ang_chern_kiat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_chern_kiat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Yan</p>
+<p>Mdm Humairiah Bte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wang_yan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wang_yan_a@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chan Poh Chin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="chan_poh_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_poh_chin@moe.edu.sg</a>
+<p><a href="mailto:humairiah_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">humairiah_ahmad@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>5<br>Friendly</strong>
+<p><strong>5 Friendly</strong>
 </p>
 <p></p>
 </td>
@@ -1078,7 +1069,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>5<br>Gracious</strong>
+<p><strong>5 Gracious</strong>
 </p>
 <p></p>
 </td>
@@ -1101,7 +1092,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>5<br>Honest</strong>
+<p><strong>5 Honest</strong>
 </p>
 <p></p>
 </td>
