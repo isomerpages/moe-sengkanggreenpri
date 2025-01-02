@@ -724,7 +724,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p><strong>4<br>Attentive</strong>
+<p><strong>4 Attentive</strong>
 </p>
 <p></p>
 </td>
@@ -756,7 +756,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>4<br>Brave</strong>
+<p><strong>4 Brave</strong>
 </p>
 <p></p>
 </td>
@@ -779,7 +779,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>4<br>Caring</strong>
+<p><strong>4 Caring</strong>
 </p>
 <p></p>
 </td>
@@ -802,7 +802,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>4<br>Diligent</strong>
+<p><strong>4 Diligent</strong>
 </p>
 <p></p>
 </td>
@@ -825,7 +825,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>4<br>Excellent</strong>
+<p><strong>4 Excellent</strong>
 </p>
 <p></p>
 </td>
@@ -848,7 +848,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>4<br>Friendly</strong>
+<p><strong>4 Friendly</strong>
 </p>
 <p></p>
 </td>
@@ -871,7 +871,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>4<br>Gracious</strong>
+<p><strong>4 Gracious</strong>
 </p>
 <p></p>
 </td>
