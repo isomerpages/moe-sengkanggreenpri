@@ -1051,19 +1051,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Kok Min Alan</p>
+<p>Mdm Mahalakshmi d/o Kalyanam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:alim_kok_min_alan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_kok_min_alan@moe.edu.sg</u></a>
+<p><a href="mailto:mahalakshmi_kalyanam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mahalakshmi_kalyanam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lum Kit Chung</p>
+<p>Ms Wang Siyang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lum_kit_chung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lum_kit_chung@moe.edu.sg</u></a>
+<p><a href="mailto:Wang_Siyang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wang_Siyang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1074,19 +1074,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Eddy Sufyan</p>
+<p>Ms Janice Tor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:eddy_sufyan_selamat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>eddy_sufyan_selamat@moe.edu.sg</u></a>
+<p><a href="mailto:Janice_Tor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Janice_Tor@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wang Siyang</p>
+<p>Mdm Nursyazwani B Ghazali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Wang_Siyang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_siyang@moe.edu.sg</a>
+<p><a href="mailto:Nursyazwani_Ghazali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nursyazwani_Ghazali@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1097,19 +1097,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jamen Tan Kay Wee</p>
+<p>Mr Wu Yan Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kay_wee_jamen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_kay_wee_jamen@moe.edu.sg</u></a>
+<p><a href="mailto:Wu_Yanjie_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wu_Yanjie_A@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Liu Xiao Yu</p>
+<p>Ms Kwok Wing Chiu (Mrs Anna Poh)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liu_xiaoyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>liu_xiaoyu@moe.edu.sg</u></a>
+<p><a href="mailto:KWOK_Wing_Chiu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">KWOK_Wing_Chiu@moe.edu.sg</a>
 </p>
 </td>
 </tr>
