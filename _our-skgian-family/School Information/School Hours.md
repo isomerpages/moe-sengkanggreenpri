@@ -45,7 +45,7 @@ have lunch in school.
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 1 and 2</p>
+<p>Primary 1 and 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10.00 to 10.30 am</p>
@@ -53,7 +53,7 @@ have lunch in school.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 3 and 4</p>
+<p>Primary 2 and 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11.00 to 11.30 am</p>
@@ -64,7 +64,7 @@ have lunch in school.
 <p>Primary 5 and 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.30 am to 11.00 am</p>
+<p>10.30 to 11.00 am</p>
 </td>
 </tr>
 </tbody>
