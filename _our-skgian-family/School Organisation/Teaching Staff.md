@@ -1152,76 +1152,76 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>6<br>Attentive</strong>
+<p><strong>6 Attentive</strong>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Wan Cheng Rachael</p>
+<p>Mr Chong Kuan Hoe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_wan_cheng_rachael@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_wan_cheng_rachael@moe.edu.sg</u></a>
+<p><a href="mailto:chong_kuan_hoe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_kuan_hoe@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Sai Wee</p>
+<p>Mr Toh Heap Khoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_sai_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>goh_sai_wee@moe.edu.sg</u></a>
+<p><a href="mailto:Toh_Heap_Khoon_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Toh_Heap_Khoon_A@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>6<br>Brave</strong>
+<p><strong>6 Brave</strong>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hoe Suyi Florina</p>
+<p>Mdm Kong Siew May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hoe_suyi_florina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hoe_suyi_florina@moe.edu.sg</u></a>
+<p><a href="mailto:kong_siew_may@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_siew_may@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Ain Binte Ahmad</p>
+<p>Mdm Norashikin Bte Abdul Hamid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_ain_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_ain_ahmad@moe.edu.sg</u></a>
+<p><a href="mailto:norashikin_abdul_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norashikin_abdul_hamid@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>6<br>Caring</strong>
+<p><strong>6 Caring</strong>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Leow Pei Shan Jaysleen</p>
+<p>Mr Lum Kit Chung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leow_pei_shan_jaysleen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>leow_pei_shan_jaysleen@moe.edu.sg</u></a>
+<p><a href="mailto:lum_kit_chung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_kit_chung@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Jia Shan</p>
+<p>Ms Chew Mei Jun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_jia_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>koh_jia_shan@moe.edu.sg</u></a>
+<p><a href="mailto:chew_mei_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_mei_jun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>6<br>Diligent</strong>
+<p><strong>6 Diligent</strong>
 </p>
 <p></p>
 </td>
