@@ -1226,53 +1226,53 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mahalakshmi</p>
+<p>Mdm Serene Teh Xian Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mahalakshmi_kalyanam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mahalakshmi_kalyanam@moe.edu.sg</u></a>
+<p><a href="mailto:serene_teh_xian-hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">serene_teh_xian-hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kenneth Mok Wei Chyuan</p>
+<p>Ms Liu Xiao Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mok_wei_chyuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mok_wei_chyuan@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>6<br>Excellent</strong>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nurul Zawanah Binte Abdul Wahab</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nurul_zawanah_abdul_wahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurul_zawanah_abdul_wahab@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Kao Pow Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kao_pow_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kao_pow_ling@moe.edu.sg</u></a>
+<p><a href="mailto:liu_xiaoyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_xiaoyu@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>6<br>Friendly</strong>
+<p><strong>6 Excellent</strong>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Anna Kwok Wing Chiu&nbsp;</p>
+<p>Ms Sew Bee Jun Pearlyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Sew_Bee_Jun_Pearlyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sew_Bee_Jun_Pearlyn@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wang Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wang_yan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yan_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>6 Friendly</strong>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chua Siang Peng Ivy (Mrs Ivy Tan)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:KWOK_Wing_Chiu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Kwok_Wing_Chiu@moe.edu.sg</u></a>
