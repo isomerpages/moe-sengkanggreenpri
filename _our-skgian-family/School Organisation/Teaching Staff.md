@@ -1275,62 +1275,62 @@ variant: tiptap
 <p>Mdm Chua Siang Peng Ivy (Mrs Ivy Tan)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:KWOK_Wing_Chiu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Kwok_Wing_Chiu@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Kong Siew May&nbsp;&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kong_siew_may@moe.edu.sg" rel="noopener noreferrer nofollow" target="">kong_siew_may@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>6<br>Gracious</strong>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Ofelia Yeo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ofelia_lim_shi_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ofelia_lim_shi_yun@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ang Chern Kiat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ang_chern_kiat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ang_chern_kiat@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>6<br>Honest</strong>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lo Yuan Yuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lo_yuan_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lo_yuan_yuan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Ivy Tan</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:chua_siang_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_siang_peng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Wee Bee Serene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_wee_bee_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wee_bee_serene@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>6 Gracious</strong>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurul Zawanah Bte Abdul Wahab</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Nurul_Zawanah_Abdul_Wahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nurul_Zawanah_Abdul_Wahab@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Hern Ngee Cindy - (Mrs Cindy Khoo)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_hern_ngee_cindy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hern_ngee_cindy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>6 Honest</strong>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Kay Wee Jamen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tan_Kay_Wee_Jamen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Kay_Wee_Jamen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Wan Cheng Rachael</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_wan_cheng_rachael@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wan_cheng_rachael@moe.edu.sg</a>
 </p>
 </td>
 </tr>
