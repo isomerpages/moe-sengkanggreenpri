@@ -837,7 +837,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>4 Friendly</strong>
 </p>
 <p></p>
@@ -860,25 +860,34 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Ms Shariffah Ayesha Almenoar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Shariffah_Ayesha_Almenoar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Shariffah_Ayesha_Almenoar@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p><strong>4 Gracious</strong>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Ngiap Seng</p>
+<p>Ms Hayati Bte Abdul Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_ngiap_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ong_ngiap_seng@moe.edu.sg</u></a>
+<p><a href="mailto:hayati_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hayati_abdul_rahim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nursyazwani B Ghazali</p>
+<p>Ms Qian Yaya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nursyazwani_ghazali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nursyazwani_ghazali@moe.edu.sg</u></a>
+<p><a href="mailto:Qian_Yaya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Qian_Yaya@moe.edu.sg</a>
 </p>
 </td>
 </tr>
