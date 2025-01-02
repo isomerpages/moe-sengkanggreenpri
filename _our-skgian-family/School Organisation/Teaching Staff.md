@@ -931,7 +931,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>5<br>Attentive</strong>
+<p><strong>5 Attentive</strong>
 </p>
 <p></p>
 </td>
@@ -954,7 +954,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>5<br>Brave</strong>
+<p><strong>5 Brave</strong>
 </p>
 <p></p>
 </td>
@@ -977,47 +977,47 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>5<br>Caring</strong>
+<p><strong>5 Caring</strong>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Cindy Khoo</p>
+<p>Mdm Tan Puay Kheng Catherine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_hern_ngee_cindy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_hern_ngee_cindy@moe.edu.sg</u></a>
+<p><a href="mailto:tan_puay_kheng_catherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_puay_kheng_catherine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Rachel Cheng Ying Ying</p>
+<p>Mdm Suguna Gopynathan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Rachel_Cheng_Ying_Ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rachel_Cheng_Ying_Ying@moe.edu.sg</a>
+<p><a href="mailto:sugunaiswari_gopynathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sugunaiswari_gopynathan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>5<br>Diligent</strong>
+<p><strong>5 Diligent</strong>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Serene Teh Xian Hui</p>
+<p>Ms Chua Siew Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:serene_teh_xian-hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">serene_teh_xian-hui@moe.edu.sg</a>
+<p><a href="mailto:chua_siew_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_siew_kheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wu Yan Jie</p>
+<p>Ms Chong Ai Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Wu_Yanjie_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wu_Yanjie_A@moe.edu.sg</a>
+<p><a href="mailto:chong_ai_lin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_ai_lin_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
