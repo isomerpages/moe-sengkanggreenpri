@@ -64,7 +64,7 @@ have lunch in school.
 <p>Primary 5 and 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.30 am to 11.00 am</p>
+<p>10.30 to 11.00 am</p>
 </td>
 </tr>
 </tbody>
