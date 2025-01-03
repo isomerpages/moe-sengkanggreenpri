@@ -220,7 +220,7 @@ variant: tiptap
 <p>Mdm Chua Seow Koon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p> <a href="mailto:chua_seow_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_seow_koon@moe.edu.sg</a>
+<p><a href="mailto:chua_seow_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_seow_koon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
