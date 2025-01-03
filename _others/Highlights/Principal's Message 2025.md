@@ -94,7 +94,7 @@ growth while maintaining overall well-being.
 <p><strong>Cyber Wellness area of focus for 2025</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/table.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/table2.png">
 </div>
 <br><strong><u>Partnership with Parents</u></strong>
 <br>
