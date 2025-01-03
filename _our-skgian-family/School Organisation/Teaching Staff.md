@@ -220,7 +220,8 @@ variant: tiptap
 <p>Mdm Chua Seow Koon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chua_seow_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_seow_koon@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -534,7 +535,8 @@ variant: tiptap
 <p>Mdm Jorah Bte Salim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:jorah_salim_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jorah_salim_A@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -810,7 +812,8 @@ variant: tiptap
 <p>Ms Ng Weini Joey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_weini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_weini@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
