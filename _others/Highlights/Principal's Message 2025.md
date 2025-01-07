@@ -1,121 +1,113 @@
 ---
 title: Principal's Message 2025
 permalink: /principal-s-message-2025/
-variant: markdown
+variant: tiptap
 description: principal message 2025
 third_nav_title: Highlights
 ---
-<p>Dear Students, Parents and Partners,</p>
-<p>Happy New Year and welcome to a new school year at Sengkang Green Primary
-School! As we begin 2025, I am excited about the great opportunities and growth awaiting everyone in our school community.</p>
-<br><strong><u>Reflecting on 2024</u></strong>
-<p>Last year, our school focused on “Becoming a Future-ready Learner – Promoting
-Holistic Health,” encouraging SKGians to care for their physical, mental,
-emotional, social health, and Cyber Wellness. The emphasis from 2024 will
-continue to guide us.</p>
+<p><strong>Dear Students, Parents, and Partners,</strong>
+</p>
+<p><strong>Happy New Year!</strong> Welcome to an exciting new academic year
+at Sengkang Green Primary School. This year is particularly special as <u>Singapore celebrates SG60</u>—marking
+60 years of independence. SG60 gives us a chance to reflect on the shared
+values that have shaped our nation—multiculturalism, boldness, resilience,
+and openness. These values inspire us to work together in building Singapore’s
+future. Reflecting this spirit, our school theme, “Becoming a Future-ready
+Learner”<strong>,</strong> encourages us all to embrace growth, innovation,
+and collaboration as we prepare for the opportunities and challenges ahead.</p>
+<p><strong>Reflecting on 2024</strong>
+</p>
+<p>Last year, our school focused on <em>“Becoming a Future-ready Learner – Promoting Holistic Health”,</em> encouraging
+SKGians to prioritise their physical, mental, emotional, and social well-being,
+alongside Cyber Wellness. These foundational aspects of <u>holistic health remain critical</u> as
+we prepare our students for the challenges of an ever-changing world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
 </div>
-<br><strong><u>Our Theme for 2025: "Becoming a Future-ready Learner – Learning with Technology"</u></strong><br>
-<p>This year, we move forward with the theme, “Becoming a Future-ready Learner
-– Learning with Technology”. Technology is impacting education, work, and
-daily life at an unprecedented pace, so it’s important for our SKGians
-to build the skills and mindset and become happy learners who uses it confidently
-and responsibly.</p>
-<p>At Sengkang Green, we are committed to preparing SKGians to excel in a
-digitally interconnected world. They will learn essential digital skills.
-These skills will help SKGians use technology effectively, safely, and
-responsibly. It also involves nurturing problem-solving and critical thinking
-skills through the use of digital tools. We want to help our SKGians become
-adaptable so they can handle change and face challenges with creativity
-and resilience.</p>
-<p>Our focus on communication, collaboration, and critical thinking, combined
-with adaptive and inventive thinking (CAIT), will empower our SKGians to
-harness technology in meaningful ways. Aligned with our school’s mission,
-we nurture SKGians’ ability to connect and collaborate with peers beyond
-classroom. These competencies will not only enhance their learning experiences
-but also prepare them to “be ready to serve” now and in the future.
+<p>
+<br><strong>Our Theme for 2025: "Becoming a Future-ready Learner – Learning with Technology"</strong>
 </p>
+<p>Building on the importance of holistic health, we are now shifting our
+focus to <u>“Becoming a Future-ready Learner – Learning with Technology” as our school theme for 2025</u>.
+Technology is changing the way we learn, work, and live, and it is vital
+for our students to use it effectively, safely, and responsibly. This year,
+we <u>aim to help SKGians develop critical, adaptive, and inventive thinking skills, empowering them to navigate challenges with confidence and creativity in a fast-paced, digital world</u>.</p>
+<p>At Sengkang Green, we believe that learning with <u>technology should go hand-in-hand with building connections and fostering collaboration</u>.
+These skills, aligned with our school’s mission, allow students to learn
+meaningfully and contribute to their communities. By mastering these competencies,
+our SKGians will not only enhance their learning but also be well-prepared
+to serve both now and in the future.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MrGau_ICT.jpg">
+</div>
+<p><strong>Learning Beyond Boundaries</strong>
+</p>
+<p>Technology opens doors to global learning experiences and new perspectives.
+For example, last year, some of our students connected with peers from
+Ban Mai School in Hanoi, Vietnam, through online conferencing, guided by
+their teachers. These meaningful exchanges demonstrate how <u>technology can help our students build friendships and learn beyond the classroom</u>.</p>
+<p><strong>Harnessing the Student Learning Space (SLS)</strong>
+</p>
+<p><u>The Student Learning Space (SLS), provided by MOE, is a platform that supports independent and collaborative learning with technology</u>.
+One of its features, the Language Feedback Assistant for English (LangFA-EL),
+uses Artificial Intelligence to support writing skills. For example:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LangFA-EL provides helpful
+feedback, like a peer editor, guiding students to improve grammar and clarity,
+especially during process writing.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teachers can activate
+LangFA-EL at various stages—planning, drafting, or revising—encouraging
+students to learn from mistakes without fear.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LangFA-EL is meant to
+complement and ride on existing teaching and learning practices and makes
+the use of writing assignments on SLS more meaningful.</p>
+<p>Through tools like SLS, our SKGians can explore technology in a safe and
+enriching way, preparing them for the future.</p>
+<p><strong>Technology is not everything</strong>
+</p>
+<p>While technology is an important part of learning, it is not the only
+approach. At Sengkang Green, we believe in using a variety of teaching
+methods to provide a well-rounded education. <u>Technology should enhance, not replace, traditional ways of learning, ensuring that our SKGians have a well-rounded educational experience that fosters quality outcomes</u>.</p>
+<p>As we explore ways to better equip our SKGians with digital literacy skills,
+we are mindful that <u>digital learning must be developmentally appropriate and introduced gradually</u>.
+Lower primary students learn best through concrete, hands-on experiences
+and meaningful interactions with teachers and friends. Therefore, they
+do not require extensive use of devices. As our SKGians progress to the
+upper primary levels, the frequency of device usage increases, under the
+guidance and supervision of their teachers and parents to ensure purposeful
+and safe learning.</p>
+<p><strong>The Importance of Cyber Wellness</strong>
+</p>
+<p>As we embrace technology, it is essential to nurture strong values and
+good habits in our students. This year, we will <u>continue to emphasise Cyber Wellness</u>,
+helping SKGians grow into:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Responsible digital citizens</u> who
+treat others with respect and use technology ethically.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Individuals who <u>manage screen time effectively</u>,
+maintaining a healthy balance between online and offline activities.</p>
+<p>Our Cyber Wellness programme follows a spiral approach, teaching age-appropriate
+content over the six primary school years. This ensures that our SKGians
+gain a deep understanding of how to use technology as a tool for learning
+while safeguarding their overall well-being.</p>
+<p><strong>Partnership with Parents</strong>
+</p>
+<p><u>Parents play a key role in guiding and supporting their children’s use of technology</u>.
+By creating a positive home environment that blends technology with other
+meaningful activities, parents help their children grow holistically. Together,
+we can nurture happy, healthy learners who are ready to thrive in diverse
+educational settings.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
 </div>
-<p>By leveraging technology, SKGians can explore new perspectives, broaden
-their horizons, and participate in global learning opportunities. In 2024,
-some SKGians met peers from Ban Mai School, our partner school in Hanoi,
-Vietnam via online conferencing, with the guidance of their teachers. Technology
-can help us to make connections beyond the classroom.
-</p>
-<p>The Student Learning Space (SLS), an MOE provision, offers a safe platform
-for SKGians to explore learning with technology independently and collaboratively
-with their teachers and peers. SLS also incorporates Artificial Intelligence
-features. An example is Language Feedback Assistant for English (LangFA-EL),
-which can be used to support school-based curriculum, and enhance teaching
-and learning practices as follows:</p>
-<br>1. LangFA-EL provides feedback akin to peer-editing to help SKGians identify
-possible areas for improvement in grammatical accuracy and clarity of meaning.
-It can be useful in practices such as process writing.
-<br>
-<br>2. Teachers can decide when LangFA-EL is activated during the writing
-process (planning, drafting or revision stage) for SKGians to correct their
-basic language errors. This gives SKGians the chance to not be fearful
-to make mistakes and then review their language errors.
-<br>
-<br>3. LangFA-EL is meant to complement and ride on existing teaching and
-learning practices and makes the use of writing assignments on SLS more
-meaningful.
-<br>
-<br><strong><u>Technology is not everything</u></strong>
-<br>
-<br>In schools, integrating technology into learning offers exciting opportunities
-to enhance education, but it is essential to approach it thoughtfully.
-Technology should not overshadow traditional teaching methods but instead
-serve as part of a diverse set of strategies that support effective learning.
-By combining technological tools with other proven approaches, we can create
-a well-rounded educational experience that fosters quality outcomes for
-all students.
-<br>
-<br><strong><u>Importance of Cyber Wellness</u></strong>
-<br>
-<br>As we embrace technology in learning, it is equally important to guide
-SKGians to develop strong values and habits. This year, we will continue
-to emphasize on Cyber Wellness so that SKGians are:
-<br>
-<br>o&nbsp;&nbsp; responsible digital citizens who respect others and use
-technology ethically.
-<br>
-<br>o&nbsp;&nbsp;&nbsp; able to manage screen time effectively to ensure a
-healthy balance between online and offline activities.
-<br>
-<br>SKGians will learn a comprehensive range of Cyber Wellness topics through
-a spiral approach, with age-appropriate content, as shown in the table
-below. Through these efforts over the six primary school years, SKGians
-will develop a deep understanding of how to use technology as a tool for
-growth while maintaining overall well-being.
-<p><strong>Cyber Wellness area of focus for 2025</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/table2.png">
-</div>
-<br><strong><u>Partnership with Parents</u></strong>
-<br>
-<br>Parents’ role in guiding and supporting your children’s use of technology
-is invaluable in terms of cultivating good values and forming good habits.
-By creating a positive and constructive learning environment at home which
-incorporates technology on top of a broad range of other social activities,
-you help to develop your children holistically. Together, we can nurture
-a generation of happy and healthy learners who are able to navigate learning
-in a diverse range of education settings.
-<br>
-<br>As we begin this journey, I invite students, parents, teachers, and stakeholders
-to work together to make this year’s theme a success. Let’s embrace technology’s
-opportunities while staying mindful of its challenges. Together, we can
-build a supportive learning environment where every student thrives.
-<br>
-<br>Thank you for being an important part of our school community. I look
-forward to an amazing year of learning and growth!
+<p>
+<br>As we begin this exciting journey, I invite all <u>our SKGians, parents, teachers, and stakeholders to work hand-in-hand to make this year’s theme a success</u>.
+Let us embrace the opportunities technology offers while staying mindful
+of its challenges. Together, we can build a supportive learning environment
+where every student flourishes.</p>
+<p><u>Thank you for being an integral part of our school community</u>. I
+look forward to an exciting year of learning, growth, and achievements!
 <br>
 <br>Sincerely yours,
 <br>
 <br>Gau Poh Teck
 <br>Principal
-<br>Sengkang Green Primary School
+<br>Sengkang Green Primary School</p>

@@ -3,6 +3,7 @@ title: Physical & Holistic Health
 permalink: /our-skgian-experience/physical-aesthetics/physical-holistic-health/
 description: ""
 third_nav_title: Physical & Aesthetics
+variant: tiptap
 ---
 <p><strong><u>Key Personnel</u></strong></p>
 <p><strong>Subject Head PE : </strong>Mr Mok Wei Chyuan</p>
