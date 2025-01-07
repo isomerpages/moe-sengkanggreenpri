@@ -21,8 +21,8 @@ sections:
   - infopic:
       title: Principal's Message 2025
       id: infopic
-      description: Happy New Year and welcome to a new school year at Sengkang Green
-        Primary School!
+      description: Happy New Year! Welcome to an exciting new academic year at
+        Sengkang Green Primary School.
       button: Click Here
       url: /principal-s-message-2025/
       image: /images/Picture1.png
