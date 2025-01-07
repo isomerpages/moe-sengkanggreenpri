@@ -38,7 +38,7 @@ meaningfully and contribute to their communities. By mastering these competencie
 our SKGians will not only enhance their learning but also be well-prepared
 to serve both now and in the future.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MrGau_ICT.jpg">
 </div>
 <p><strong>Learning Beyond Boundaries</strong>
 </p>
