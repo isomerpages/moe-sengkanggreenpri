@@ -96,7 +96,7 @@ meaningful activities, parents help their children grow holistically. Together,
 we can nurture happy, healthy learners who are ready to thrive in diverse
 educational settings.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/table2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
 </div>
 <p>
 <br>As we begin this exciting journey, I invite all <u>our SKGians, parents, teachers, and stakeholders to work hand-in-hand to make this year’s theme a success</u>.
