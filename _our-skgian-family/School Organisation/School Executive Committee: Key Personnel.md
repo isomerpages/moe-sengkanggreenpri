@@ -108,6 +108,38 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width:150px" height="auto" width="100%" alt="" src="/images/Staff Photos/Mdm_Mahalakshmi.jpg">
+</div>
+<p></p>
+<p></p><center>
+<p><strong>Mdm Mahalakshmi<br>HOD / Student Management</strong>
+<br><a href="mailto: mahalakshmi_kalyanam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mahalakshmi_kalyanam@moe.edu.sg</a>
+</p>
+<p></p>
+<p></p>
+</center></td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:150px" height="auto" width="100%" alt="" src="/images/Tinie_Tan.jpg">
+</div>
+<p></p>
+<p></p><center>
+<p><strong>Mdm Tinie Tan Mui Ngin<br>Head of Department / Mother Tongue </strong>
+<br><a href="tan_mui_ngin_tinie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mui_ngin_tinie@moe.edu.sg</a>
+</p>
+<p></p>
+<p></p>
+</center></td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width:150px" height="auto" width="100%" alt="" src="/images/Mdm_Tan_Wei_Lin_Winnie.jpg">
 </div>
 <p></p>
