@@ -185,6 +185,38 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width:150px" height="auto" width="100%" alt="" src="/images/Staff Photos/chong kuan hoe.png">
+</div>
+<p></p>
+<p></p><center>
+<p><strong>Mr Chong Kuan Hoe<br>Level Head / Science </strong>
+<br><a href="mailto: chong_kuan_hoe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_kuan_hoe@moe.edu.sg</a>
+</p>
+<p></p>
+<p></p>
+</center></td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:150px" height="auto" width="100%" alt="" src="/images/Ms_Ng_Hui_Lin_Dion.JPG">
+</div>
+<p></p>
+<p></p><center>
+<p><strong>Ms Ng Hui Lin Dion<br>Level Head / Mathematics </strong>
+<br><a href="mailto: ng_hui_lin_dion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hui_lin_dion@moe.edu.sg</a>
+</p>
+<p></p>
+<p></p>
+</center></td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width:150px" height="auto" width="100%" alt="" src="/images/kp9.jpg">
 </div>
 <p></p>
