@@ -204,12 +204,12 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/Ms_Ng_Hui_Lin_Dion.JPG">
+<img style="width:150px" height="auto" width="100%" alt="" src="/images/Staff Photos/eddy sufyan.jpg">
 </div>
 <p></p>
 <p></p><center>
-<p><strong>Ms Ng Hui Lin Dion<br>Level Head / Mathematics </strong>
-<br><a href="mailto: ng_hui_lin_dion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hui_lin_dion@moe.edu.sg</a>
+<p><strong>Mr Eddy Sufyan Bin Selamat<br>Subject Head / Discipline</strong>
+<br><a href="mailto: eddy_sufyan_selamat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eddy_sufyan_selamat@moe.edu.sg</a>
 </p>
 <p></p>
 <p></p>
