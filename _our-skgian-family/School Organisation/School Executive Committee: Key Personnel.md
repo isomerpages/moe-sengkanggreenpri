@@ -332,12 +332,12 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp20.jpg">
+<img style="width:150px" height="auto" width="100%" alt="" src="/images/Staff Photos/lum kit chung.png">
 </div>
 <p></p>
 <p></p><center>
-<p><strong>Mdm Lim Chee Ang Catherine<br>Senior Teacher / Lower Primary Learner </strong>
-<br><a href="mailto: lim_chee_ang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chee_ang@moe.edu.sg</a>
+<p><strong>Mr Lum Kit Chung<br>   Assistant Year Head /P3 &amp; P6</strong>
+<br><a href="mailto: lum_kit_chung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_kit_chung@moe.edu.sg</a>
 </p>
 <p></p>
 <p></p>
@@ -345,12 +345,12 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp21.jpg">
+<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp20.jpg">
 </div>
 <p></p>
 <p></p><center>
-<p><strong>Mdm Chng E-Hwei<br>Senior Teacher / Chinese </strong>
-<br><a href="mailto: chng_e_hwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_e_hwei@moe.edu.sg</a>
+<p><strong>Mdm Lim Chee Ang Catherine<br>Senior Teacher / Lower Primary Learner </strong>
+<br><a href="mailto: lim_chee_ang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chee_ang@moe.edu.sg</a>
 </p>
 <p></p>
 <p></p>
@@ -392,7 +392,16 @@ variant: markdown
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+	<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp21.jpg">
+</div>
+<p></p>
+<p></p><center>
+<p><strong>Mdm Chng E-Hwei<br>Senior Teacher / Chinese </strong>
+<br><a href="mailto: chng_e_hwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_e_hwei@moe.edu.sg</a>
+</p></center></td><td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:150px" height="auto" width="100%" alt="" src="/images/kp0030.jpg">
