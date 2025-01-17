@@ -76,7 +76,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Linda Chia</p>
 </td>
-</tr>	
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>ICT Manager</p>
@@ -115,14 +115,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Quek Yew Sian</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Masiah Bte Taib</p>
 </td>
 </tr>
 <tr>
