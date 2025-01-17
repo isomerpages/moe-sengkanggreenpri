@@ -39,6 +39,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Toh Mui Choo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,6 +67,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Fong Wen Feng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Foo Ai Ling</p>
 </td>
 </tr>
 </tbody>
