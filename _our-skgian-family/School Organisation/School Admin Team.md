@@ -3,7 +3,7 @@ title: School Admin Team
 permalink: /our-skgian-family/school-organization/school-admin-team/
 description: ""
 third_nav_title: School Organisation
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -76,7 +76,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Mdm Linda Chia</p>
 </td>
-</tr>	
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>ICT Manager</p>
@@ -115,14 +115,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Quek Yew Sian</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Masiah Bte Taib</p>
 </td>
 </tr>
 <tr>

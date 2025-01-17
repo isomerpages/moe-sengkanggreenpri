@@ -108,12 +108,12 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/Mdm_Tan_Wei_Lin_Winnie.jpg">
+<img style="width:150px" height="auto" width="100%" alt="" src="/images/Staff Photos/Mdm_Mahalakshmi.jpg">
 </div>
 <p></p>
 <p></p><center>
-<p><strong>Mdm Winnie Tan Wei Lin<br>Level Head / English </strong>
-<br><a href="mailto: tan_wei_lin_winnie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_lin_winnie@moe.edu.sg</a>
+<p><strong>Mdm Mahalakshmi<br>HOD / Student Management</strong>
+<br><a href="mailto: mahalakshmi_kalyanam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mahalakshmi_kalyanam@moe.edu.sg</a>
 </p>
 <p></p>
 <p></p>
@@ -140,12 +140,76 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width:150px" height="auto" width="100%" alt="" src="/images/Mdm_Tan_Wei_Lin_Winnie.jpg">
+</div>
+<p></p>
+<p></p><center>
+<p><strong>Mdm Winnie Tan Wei Lin<br>Level Head / English </strong>
+<br><a href="mailto: tan_wei_lin_winnie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_lin_winnie@moe.edu.sg</a>
+</p>
+<p></p>
+<p></p>
+</center></td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:150px" height="auto" width="100%" alt="" src="/images/Staff Photos/Janice.jpg">
+</div>
+<p></p>
+<p></p><center>
+<p><strong>Mrs Janice Wan<br>HOD/SEN</strong>
+<br><a href="Janice_Tor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Janice_Tor@moe.edu.sg</a>
+</p>
+<p></p>
+<p></p>
+</center></td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width:150px" height="auto" width="100%" alt="" src="/images/Ms_Ng_Hui_Lin_Dion.JPG">
 </div>
 <p></p>
 <p></p><center>
 <p><strong>Ms Ng Hui Lin Dion<br>Level Head / Mathematics </strong>
 <br><a href="mailto: ng_hui_lin_dion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hui_lin_dion@moe.edu.sg</a>
+</p>
+<p></p>
+<p></p>
+</center></td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:150px" height="auto" width="100%" alt="" src="/images/Staff Photos/chong kuan hoe.png">
+</div>
+<p></p>
+<p></p><center>
+<p><strong>Mr Chong Kuan Hoe<br>Level Head / Science </strong>
+<br><a href="mailto: chong_kuan_hoe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_kuan_hoe@moe.edu.sg</a>
+</p>
+<p></p>
+<p></p>
+</center></td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:150px" height="auto" width="100%" alt="" src="/images/Staff Photos/eddy sufyan .jpg">
+</div>
+<p></p>
+<p></p><center>
+<p><strong>Mr Eddy Sufyan Bin Selamat<br>Subject Head / Discipline</strong>
+<br><a href="mailto: eddy_sufyan_selamat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eddy_sufyan_selamat@moe.edu.sg</a>
 </p>
 <p></p>
 <p></p>
@@ -268,12 +332,12 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp20.jpg">
+<img style="width:150px" height="auto" width="100%" alt="" src="/images/Staff Photos/lum kit chung.png">
 </div>
 <p></p>
 <p></p><center>
-<p><strong>Mdm Lim Chee Ang Catherine<br>Senior Teacher / Lower Primary Learner </strong>
-<br><a href="mailto: lim_chee_ang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chee_ang@moe.edu.sg</a>
+<p><strong>Mr Lum Kit Chung<br>   Assistant Year Head /P3 &amp; P6</strong>
+<br><a href="mailto: lum_kit_chung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_kit_chung@moe.edu.sg</a>
 </p>
 <p></p>
 <p></p>
@@ -281,12 +345,12 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp21.jpg">
+<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp20.jpg">
 </div>
 <p></p>
 <p></p><center>
-<p><strong>Mdm Chng E-Hwei<br>Senior Teacher / Chinese </strong>
-<br><a href="mailto: chng_e_hwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_e_hwei@moe.edu.sg</a>
+<p><strong>Mdm Lim Chee Ang Catherine<br>Senior Teacher / Lower Primary Learner </strong>
+<br><a href="mailto: lim_chee_ang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chee_ang@moe.edu.sg</a>
 </p>
 <p></p>
 <p></p>
@@ -328,7 +392,16 @@ variant: markdown
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+	<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp21.jpg">
+</div>
+<p></p>
+<p></p><center>
+<p><strong>Mdm Chng E-Hwei<br>Senior Teacher / Chinese </strong>
+<br><a href="mailto: chng_e_hwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_e_hwei@moe.edu.sg</a>
+</p></center></td><td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:150px" height="auto" width="100%" alt="" src="/images/kp0030.jpg">
