@@ -153,12 +153,12 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/Tinie_Tan.jpg">
+<img style="width:150px" height="auto" width="100%" alt="" src="/images/Staff Photos/Janice.jpg">
 </div>
 <p></p>
 <p></p><center>
-<p><strong>Mdm Tinie Tan Mui Ngin<br>Head of Department / Mother Tongue </strong>
-<br><a href="tan_mui_ngin_tinie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mui_ngin_tinie@moe.edu.sg</a>
+<p><strong>Mrs Janice Wan<br>HOD/SEN</strong>
+<br><a href="Janice_Tor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Janice_Tor@moe.edu.sg</a>
 </p>
 <p></p>
 <p></p>
