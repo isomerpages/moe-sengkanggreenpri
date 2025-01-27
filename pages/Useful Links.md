@@ -2,7 +2,7 @@
 title: Useful Links
 permalink: /useful-links/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <table>
 <tbody>
