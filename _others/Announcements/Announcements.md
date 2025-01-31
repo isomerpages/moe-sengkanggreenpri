@@ -62,12 +62,7 @@ links to download the presentation slides.</p>
 <p><a href="/files/Tamil_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Language</a>
 </p>
 <hr>
-<p><strong>ECHA Application 2024</strong>
-</p>
-<p>Please click <a href="https://docs.google.com/document/d/1hz1IhJCLECUDAyEUmUG0NGEq29Wy1eOl/edit?usp=drive_link&amp;ouid=109524831007664083125&amp;rtpof=true&amp;sd=true" rel="noopener" target="_blank">here</a> to
-download the form.</p>
-<p>Thank you.</p>
-<hr>
+
 <p><strong>10th Year Anniversary Celebration</strong>
 </p>
 <p>Dear all,</p>
