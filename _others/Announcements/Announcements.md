@@ -8,7 +8,9 @@ variant: markdown
 <p></p>
 <p><strong>P6 Parent Engagement Session 2025<br></strong>Please click on
 the following link to download the presentation slides.</p>
-<p><a href="/files/Primary_6_PES.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 PES slides</a>
+<p><a href="/files/2025_PES/P6_PES/principal_address.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 PES Principal Address</a>
+<br><a href="/files/2025_PES/P6_PES/p6_yearhead" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Year Head Sharing</a>
+	<br><a href="/files/2025_PES/P6_PES/p6_academic_heads" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Academic Heads Sharing</a>
 </p>
 <p></p>
 <hr>
