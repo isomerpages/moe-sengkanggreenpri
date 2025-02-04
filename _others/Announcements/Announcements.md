@@ -6,63 +6,34 @@ third_nav_title: Announcements
 variant: markdown
 ---
 <p></p>
-<p><strong>Sengkang Green Primary School - 2025, P1 Orientation for Parents (Nov 24' briefing)<br></strong>Please click on the following link to access the briefing slides and videos<br>
-</p><p><a href="https://drive.google.com/drive/folders/1pEyVRPJPnPFnwGjisfdvgzNq17X9nWcG?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2025 P1 Orientation Briefing for Parents</a>
-</p><p></p>
-<p><strong>Sengkang Green Primary School -   Phase 2B Parent Volunteer (PV) Application Form<br></strong>Please click on
-the following link to access the online form<br>
-</p><p><a href="https://form.gov.sg/66e2524e7674675e1a7b667a" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Scheme 2025</a>
-</p><p></p>
-<p><strong>P2 Parent Engagement Session 2024<br></strong>Please click on
+<p><strong>P6 Parent Engagement Session 2025<br></strong>Please click on
 the following link to download the presentation slides.</p>
-<p><a href="/files/2024_PES/2024_P2_PES_Principal.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal &amp; Year Head Sharing</a>
+<p><a href="/files/2025_PES/P6_PES/principal_address.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 PES Principal Address</a>
+<br><a href="/files/2025_PES/P6_PES/p6_yearhead" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Year Head Sharing</a>
+	<br><a href="/files/2025_PES/P6_PES/p6_academic_heads" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Academic Heads Sharing</a>
 </p>
-<p><a href="/files/2024_PES/p2_pes_2024_acad_heads_sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Curriculum Head Sharing</a>
-</p>
+<p></p>
 <hr>
 <p></p>
-<p><strong>P3 Parent Engagement Session 2024<br></strong>Please click on
-the following link to download the presentation slides.</p>
-<p><a href="/files/2024_PES/2024_P3_PES_Principal.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal &amp; Year Head Sharing</a>
+<p></p>
+<p><strong>Sengkang Green Primary School - 2025, P1 Orientation for Parents (Nov 24' briefing)<br></strong>Please
+click on the following link to access the briefing slides and videos
+<br>
 </p>
-<p><a href="/files/2024_PES/P3_PES_2024_Acad_Heads_Sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Curriculum Head Sharing</a>
+<p><a href="https://drive.google.com/drive/folders/1pEyVRPJPnPFnwGjisfdvgzNq17X9nWcG?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2025 P1 Orientation Briefing for Parents</a>
 </p>
+<p></p>
 <hr>
 <p></p>
-<p><strong>P4 Parent Engagement Session 2024<br></strong>Please click on
-the following link to download the presentation slides.</p>
-<p><a href="/files/2024_PES/2024_P4_PES_Principal.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal &amp; Year Head Sharing</a>
+<p><strong>Sengkang Green Primary School - Phase 2B Parent Volunteer (PV) Application Form<br></strong>Please
+click on the following link to access the online form
+<br>
 </p>
-<p><a href="/files/2024_PES/P4_PES_2024_Acad_Heads_Sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Curriculum Head Sharing</a>
+<p><a href="https://form.gov.sg/66e2524e7674675e1a7b667a" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Scheme 2025</a>
 </p>
+<p></p>
 <hr>
-<p><strong>P6 Parent Engagement Session 2024<br></strong>Please click on
-the following link to download the presentation slides.</p>
-<p><a href="/files/Primary_6_PES.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 PES slides</a>
-</p>
 <hr>
-<p><strong>P1 Parent Engagement Session 2024<br></strong>Please click on the following
-links to download the presentation slides.</p>
-<p><a href="/files/Principal_Sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Sharing</a>
-</p>
-<p><a href="/files/Year_Head_Sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head's Sharing</a>
-</p>
-<p><a href="/files/Technology_for_Learning.pdf" rel="noopener noreferrer nofollow" target="_blank">Technology for the Lifelong Learner</a>
-</p>
-<p><a href="/files/Holistic_Health.pdf" rel="noopener noreferrer nofollow" target="_blank">Holistic Health</a>
-</p>
-<p><a href="/files/English_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
-</p>
-<p><a href="/files/Mathematics_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
-</p>
-<p><a href="/files/Chinese_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Language</a>
-</p>
-<p><a href="/files/Malay_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Language</a>
-</p>
-<p><a href="/files/Tamil_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Language</a>
-</p>
-<hr>
-
 <p><strong>10th Year Anniversary Celebration</strong>
 </p>
 <p>Dear all,</p>
