@@ -2,9 +2,9 @@ collections:
   others:
     output: true
     order:
-      - Announcements/10th Year Anniversary Celebration.md
       - Announcements/.keep
       - Announcements/Announcements.md
+      - Announcements/10th Year Anniversary Celebration.md
       - "Announcements/Open for Nominations: Inspiring Teacher of English Award
         2024.md"
       - Highlights/P1 Engagement Session 2025.md
