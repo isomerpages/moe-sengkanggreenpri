@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <p>Dear Parents/Guardians,</p>
-<p>We warmly welcome you and your child to attend the <strong>2025 MOE Kindergarten Open House on 17 February 2024 from 8.30am to 12.30pm</strong>,
+<p>We warmly welcome you and your child to attend the <strong>2025 MOE Kindergarten Open House on 8 February 2025 from 8.30am to 12.30pm</strong>,
 to find out why MK is the quality preschool choice and how we ignite joy
 of learning in our children!</p>
 <div class="isomer-image-wrapper">
