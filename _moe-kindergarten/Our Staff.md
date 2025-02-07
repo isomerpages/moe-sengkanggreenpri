@@ -1,6 +1,6 @@
 ---
-title: Our Staffs
-permalink: /our-staffs/
+title: Our Staff
+permalink: /our-staff/
 variant: markdown
 description: ""
 ---
