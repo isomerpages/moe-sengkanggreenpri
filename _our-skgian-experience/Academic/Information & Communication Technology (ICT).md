@@ -22,10 +22,9 @@ future-ready learners.</p>
 data literate learning designers who embrace a culture of collaboration.</p>
 <p>3. To develop intelligent, responsive, digitally equipped learning environment
 by creating a digitally connected learning space.</p>
-<p>
 <br><strong><u>Key Programmes<br></u></strong>
 <br><strong>1.&nbsp;&nbsp;&nbsp; <u>Baseline ICT Program</u></strong>
-</p>
+<p></p>
 <p>The Baseline ICT program is a program infused in various subject curriculums
 to develop SKGians with a set of digital skills over their 6 years education
 journey in Sengkang Green Primary School.</p>
