@@ -155,7 +155,4 @@ will learn relevant topics through spiral approach as below:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/table2.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="images\infocom4.png">
-</div>
 <p></p>
