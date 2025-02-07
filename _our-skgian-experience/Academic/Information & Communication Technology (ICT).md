@@ -6,13 +6,11 @@ third_nav_title: Academic
 variant: markdown
 ---
 <p><strong><u>Key Personnel</u></strong>
-<br>
 </p>
 <p><strong>ICT Head of Department: </strong>Ms Wang Siyang
-<br><strong>Subject Head:</strong>&nbsp;Mr Alan Lim</p>
-<p>
+<br><strong>Subject Head:</strong>Mr Alan Lim</p>
 <br><strong><u>Department Vision</u></strong>
-</p>
+<p></p>
 <p>To nurture digitally empowered and responsible future-ready learners</p>
 <p><strong><u>Department Aims</u></strong>
 </p>
@@ -22,10 +20,9 @@ future-ready learners.</p>
 data literate learning designers who embrace a culture of collaboration.</p>
 <p>3. To develop intelligent, responsive, digitally equipped learning environment
 by creating a digitally connected learning space.</p>
-<p>
 <br><strong><u>Key Programmes<br></u></strong>
 <br><strong>1.&nbsp;&nbsp;&nbsp; <u>Baseline ICT Program</u></strong>
-</p>
+<p></p>
 <p>The Baseline ICT program is a program infused in various subject curriculums
 to develop SKGians with a set of digital skills over their 6 years education
 journey in Sengkang Green Primary School.</p>
