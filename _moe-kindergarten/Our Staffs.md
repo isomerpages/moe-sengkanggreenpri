@@ -48,23 +48,23 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/16__Aasiriye_Seerin.jpg"></td>
 <td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/17__Chai_Laoshi.jpg"></td>
 <td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/18__Chen_Laoshi.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/20__Du_Laoshi.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/21__Hong_Laoshi.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/22__Ke_Laoshi.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/23__Yang_Laoshi.jpg"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/24__Yang_Yi_Laoshi.png"></td>
+<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/25__Ying_Laoshi.png"></td>
+<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/26__Zhou_Laoshi.jpg"></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/19__Cikgu_Izah.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/20__Du_Laoshi.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/21__Hong_Laoshi.jpg"></td>
-</tr>
-<tr>
-<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/22__Ke_Laoshi.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/23__Yang_Laoshi.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/24__Yang_Yi_Laoshi.png"></td>
-</tr>
-<tr>
-<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/25__Ying_Laoshi.png"></td>
-<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/26__Zhou_Laoshi.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/16__Aasiriye_Seerin.jpg"></td>
 <td style="width: 33.3333%;">&nbsp;</td>
 </tr>
 </tbody>
