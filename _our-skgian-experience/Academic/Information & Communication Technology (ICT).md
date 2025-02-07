@@ -149,8 +149,15 @@ with the knowledge and skills to harness the power of ICT for positive
 purposes, maintain a positive presence in cyberspace and be safe and responsible
 users of ICT.&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cyberwellness.png">
+</div>
 <p>The Cyber Wellness curriculum is organized into 5 topics, and SKGians
 will learn relevant topics through spiral approach as below:</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/table2.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="images\infocom4.png">
 </div>
