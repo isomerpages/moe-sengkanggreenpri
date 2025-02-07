@@ -5,4 +5,173 @@ description: ""
 third_nav_title: Academic
 variant: tiptap
 ---
-<p><strong><u>Key Personnel</u></strong><br></p><p><strong>ICT Head of Department: </strong>Ms Wang Siyang<br><strong>Subject Head:</strong>&nbsp;Mr Alan Lim</p><p>&nbsp;</p><p><strong><u>Department Members</u></strong></p><table><tbody><tr><td rowspan="1" colspan="1"><p>Mdm Catherine Lim</p><p>(ST LP)</p></td><td rowspan="1" colspan="1"><p>Ms Nazura Binte Hadam Hussain</p></td><td rowspan="1" colspan="1"><p>Mdm Tan Wee Bee Serene</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Chew Chee Siang Richard</p></td><td rowspan="1" colspan="1"><p>Mdm Ong Ngiap Seng</p></td><td rowspan="1" colspan="1"><p>Mdm Serene Teh Xian Hui</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Ang Chern Kiat</p></td><td rowspan="1" colspan="1"><p>Ms Kao Pow Ling</p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p><br><strong><u>Aims and Objectives:</u></strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To build a community of students who are future-ready digital learners through being self-directed and connected learners who leverage technology for learning.<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To develop staff into digital learners who are skillful practitioners that facilitate active learning through designing engaging learning experiences.</p><p><br><strong><u>Key Programmes<br></u></strong><br><strong>1. ICT Baseline Skills &amp; New Media Literacy<br></strong><br>The baseline ICT standard and New Media Literacy is a set of ICT skills set out in progressive stages. These represent the basic level of knowledge, skills and values that students need in order to benefit from a curriculum enriched with ICT.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="images\infocom1.jpg"></div><p>&nbsp;</p><p><strong>2. Home-Based Learning</strong></p><p>Home-Based Learning (HBL) takes place at the homes of students. Unlike classroom learning, there is no (or little) face-to-face interaction between students and teachers for HBL</p><p>&nbsp;</p><p>In a HBL environment, learning content is delivered digitally via internet. Interaction and communication between students and teachers will be facilitated through the use of the internet or telecommunication.</p><p>&nbsp;</p><p>The following are key aspects of learning that should be retained as far as possible in HBL:</p><ul data-tight="true" class="tight"><li><p>delivery of content for learning;</p></li><li><p>interaction for learning between students and teachers as well as among students;</p></li><li><p>formative evaluation of learning to check understanding; and</p></li><li><p>remediation to meet students’ needs</p></li></ul><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="images\infocom2.jpg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="images\infocom3.jpg"></div><p></p><p>&nbsp;</p><p><strong>3. Cyber Wellness</strong></p><p>Cyberwellness refers to the positive well-being of all internet users. The programme focuses on developing our students’ awareness to be respectful and responsible digital users in cyberspace.</p><p>&nbsp;</p><p><strong>Topics in the Cyber Wellness programmes include:</strong></p><ul data-tight="true" class="tight"><li><p>Netiquette</p></li><li><p>Cyber Bullying</p></li><li><p>Cyber Contacts</p></li><li><p>Online Relationships</p></li><li><p>Balanced use of ICT</p></li><li><p>About the Cyber World</p></li><li><p>Online Identity and Expression</p></li><li><p>Handling Online Content and Behaviour</p></li></ul><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="images\infocom4.png"></div><p></p>
+<p><strong><u>Key Personnel</u></strong>
+<br>
+</p>
+<p><strong>ICT Head of Department: </strong>Ms Wang Siyang
+<br><strong>Subject Head:</strong>&nbsp;Mr Alan Lim</p>
+<p>
+<br><strong><u>Department Vision</u></strong>
+</p>
+<p>To nurture digitally empowered and responsible future-ready learners</p>
+<p><strong><u>Department Aims</u></strong>
+</p>
+<p>1. To harness technology for curriculum, pedagogy and assessment to nurture
+future-ready learners.</p>
+<p>2. To support Professional Development to develop pedagogically proficient,
+data literate learning designers who embrace a culture of collaboration.</p>
+<p>3. To develop intelligent, responsive, digitally equipped learning environment
+by creating a digitally connected learning space.</p>
+<p>
+<br><strong><u>Key Programmes<br></u></strong>
+<br><strong>1.&nbsp;&nbsp;&nbsp; <u>Baseline ICT Program</u></strong>
+</p>
+<p>The Baseline ICT program is a program infused in various subject curriculums
+to develop SKGians with a set of digital skills over their 6 years education
+journey in Sengkang Green Primary School.</p>
+<p>The baseline ICT standards define the basic level of knowledge, skills
+and values that SKGians need in order to fully benefit from a curriculum
+enriched with technology, and eventually reach their potential in future.</p>
+<p>Out Baseline ICT Program are as below:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Skills</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Handling digital devices</p>
+<p>Touch typing</p>
+<p>Typing with Microsoft Word</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Editing with Microsoft Word</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basic presentation with Microsoft Powerpoint</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Advanced presentation with Microsoft Powerpoint</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Data processing with Microsoft Excel</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gathering information with Search Engine</p>
+<p>Communication with email</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="images\infocom1.jpg">
+</div>
+<p></p>
+<p><strong>2.&nbsp;&nbsp;&nbsp; <u>Coding</u></strong>
+</p>
+<p>The Code for Fun program, offered jointly by IMDA and Ministry of Education
+(MOE), aims to expose primary school students to computational thinking
+through coding, inventive thinking through digital making and emerging
+technologies. &nbsp;</p>
+<p><strong>3.&nbsp;&nbsp;&nbsp; <u>Home-Based Learning</u></strong>
+</p>
+<p>Home-Based Learning (HBL) provides a platform for students to learn in
+settings beyond school through a blend of online and offline activities.
+These activities complement in-school learning and are designed to develop
+students' ability to be self-directed, passionate and lifelong learners.
+These self-directed experiences will also encourage the development of
+positive habits in learning, such as setting of learning goals and monitoring
+of one’s learning progress.</p>
+<p>The following are key aspects of learning that may be retained as far
+as possible during HBL:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>delivery of content for learning;</p>
+</li>
+<li>
+<p>interaction for learning between students and teachers as well as among
+students;</p>
+</li>
+<li>
+<p>formative evaluation of learning to check understanding; and</p>
+</li>
+</ol>
+<p>remediation to meet students’ needs.</p>
+<p><strong>3. Cyber Wellness</strong>
+</p>
+<p>Cyberwellness refers to the positive well-being of all internet users.
+The programme focuses on developing our students’ awareness to be respectful
+and responsible digital users in cyberspace.</p>
+<p>&nbsp;</p>
+<p><strong>Topics in the Cyber Wellness programmes include:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Netiquette</p>
+</li>
+<li>
+<p>Cyber Bullying</p>
+</li>
+<li>
+<p>Cyber Contacts</p>
+</li>
+<li>
+<p>Online Relationships</p>
+</li>
+<li>
+<p>Balanced use of ICT</p>
+</li>
+<li>
+<p>About the Cyber World</p>
+</li>
+<li>
+<p>Online Identity and Expression</p>
+</li>
+<li>
+<p>Handling Online Content and Behaviour</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="images\infocom4.png">
+</div>
+<p></p>
