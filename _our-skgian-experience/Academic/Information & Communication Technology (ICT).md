@@ -9,7 +9,6 @@ variant: markdown
 <br>
 <strong>ICT Head of Department: </strong>Ms Wang Siyang
 <br><strong>Subject Head: </strong>Mr Alan Lim<p></p>
-<br>
 <strong><u>Department Vision</u></strong>
 <br>
 <br>
@@ -33,7 +32,7 @@ and values that SKGians need in order to fully benefit from a curriculum
 enriched with technology, and eventually reach their potential in future.</p>
 <p>Our Baseline ICT Program are as below:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%" height="auto" width="80%" alt="" src="/images/baseline.png">
+<img style="width: 70%" height="auto" width="70%" alt="" src="/images/baseline.png">
 </div>
 <p><strong>2.&nbsp;&nbsp;&nbsp; <u>Coding</u></strong>
 </p>
