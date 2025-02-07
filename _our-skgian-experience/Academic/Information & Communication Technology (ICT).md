@@ -5,16 +5,17 @@ description: ""
 third_nav_title: Academic
 variant: markdown
 ---
-<p><strong><u>Key Personnel</u></strong>
-</p>
-<p><strong>ICT Head of Department: </strong>Ms Wang Siyang
-<br><strong>Subject Head: </strong>Mr Alan Lim</p>
-<p>
-<br><strong><u>Department Vision</u></strong>
-</p>
-<p>To nurture digitally empowered and responsible future-ready learners</p>
-<p><strong><u>Department Aims</u></strong>
-</p>
+<strong><u>Key Personnel</u></strong>
+<br>
+<strong>ICT Head of Department: </strong>Ms Wang Siyang
+<br><strong>Subject Head: </strong>Mr Alan Lim<p></p>
+<br>
+<strong><u>Department Vision</u></strong>
+<br>
+<br>
+To nurture digitally empowered and responsible future-ready learners
+<br><br><strong><u>Department Aims</u></strong>
+<p></p>
 <p>1. To harness technology for curriculum, pedagogy and assessment to nurture
 future-ready learners.</p>
 <p>2. To support Professional Development to develop pedagogically proficient,
