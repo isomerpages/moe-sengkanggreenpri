@@ -29,79 +29,8 @@ journey in Sengkang Green Primary School.</p>
 <p>The baseline ICT standards define the basic level of knowledge, skills
 and values that SKGians need in order to fully benefit from a curriculum
 enriched with technology, and eventually reach their potential in future.</p>
-<p>Out Baseline ICT Program are as below:</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Level</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Skills</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Handling digital devices</p>
-<p>Touch typing</p>
-<p>Typing with Microsoft Word</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Editing with Microsoft Word</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Basic presentation with Microsoft Powerpoint</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Advanced presentation with Microsoft Powerpoint</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Data processing with Microsoft Excel</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gathering information with Search Engine</p>
-<p>Communication with email</p>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="images\infocom1.jpg">
-</div>
+<p>Our Baseline ICT Program are as below:</p>
+![](/images/Screenshot_2025_02_07_151835.png)
 <p></p>
 <p><strong>2.&nbsp;&nbsp;&nbsp; <u>Coding</u></strong>
 </p>
