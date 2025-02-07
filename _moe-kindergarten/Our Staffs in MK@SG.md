@@ -45,16 +45,15 @@ description: ""
 </tr>
 </tbody>
 </table>
-
 <table style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/yangyilaoshi_cl.png"></td>
-<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/Yang_CL.png"></td>
-<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/Hong_Laoshi_cl.png"></td>
+<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/16__Aasiriye_Seerin.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/17__Chai_Laoshi.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/18__Chen_Laoshi.jpg"></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/Du_Laoshi.png"></td>
+<td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/19__Cikgu_Izah.jpg"></td>
 <td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/Chen_Laoshi.png"></td>
 <td style="width: 33.3333%;"><img src="/images/MOE Kindergarten/Ke_Laoshi.png"></td>
 </tr>
