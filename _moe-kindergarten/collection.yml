@@ -2,11 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Information for Parents/.keep
-      - Information for Parents/MK Uniforms.md
-      - Information for Parents/MK Forms.md
-      - Information for Parents/MK Calendar.md
-      - Information for Parents/K1 Orientation for 2025 Children.md
       - MK Open House 2025.md
       - About Us/.keep
       - About Us/Vision Mission Beliefs.md
@@ -16,9 +11,14 @@ collections:
       - Our Staffs in MK@SG/Key Personnel.md
       - Our Staffs in MK@SG/English Language Teachers.md
       - Our Staffs in MK@SG/Mother Tongue Language Teachers.md
-      - Kindergarten Care (KCare).md
       - Our Partners/.keep
       - Our Partners/Partnership with Sengkang Green Primary School.md
       - Our Partners/Partnership with Parents.md
       - Our Partners/Early–Years Centres Partnership.md
+      - Kindergarten Care (KCare).md
+      - Information for Parents/.keep
+      - Information for Parents/MK Uniforms.md
+      - Information for Parents/MK Forms.md
+      - Information for Parents/MK Calendar.md
+      - Information for Parents/K1 Orientation for 2025 Children.md
       - Contact Us.md
