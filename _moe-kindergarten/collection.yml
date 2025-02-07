@@ -2,11 +2,11 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Information for Parents/K1 Orientation for 2025 Children.md
-      - Information for Parents/MK Calendar.md
-      - Information for Parents/MK Forms.md
-      - Information for Parents/MK Uniforms.md
       - Information for Parents/.keep
+      - Information for Parents/MK Uniforms.md
+      - Information for Parents/MK Forms.md
+      - Information for Parents/MK Calendar.md
+      - Information for Parents/K1 Orientation for 2025 Children.md
       - MK Open House 2025.md
       - About Us/.keep
       - About Us/Vision Mission Beliefs.md
