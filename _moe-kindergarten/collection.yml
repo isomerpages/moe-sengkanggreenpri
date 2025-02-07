@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Information for Parents/.keep
       - MK Open House 2025.md
       - About Us/.keep
       - About Us/Vision Mission Beliefs.md
