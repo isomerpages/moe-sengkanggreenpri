@@ -3,6 +3,7 @@ title: K1 Orientation for 2025 Children
 permalink: /k1-orientation-for-2025-children/
 variant: tiptap
 description: ""
+third_nav_title: Information for Parents
 ---
 <p></p>
 <div class="isomer-image-wrapper">
