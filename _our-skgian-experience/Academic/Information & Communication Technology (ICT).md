@@ -136,41 +136,21 @@ students;</p>
 </li>
 </ol>
 <p>remediation to meet students’ needs.</p>
-<p><strong>3. Cyber Wellness</strong>
+<p><strong>4.&nbsp;&nbsp;&nbsp; <u>Cyber Wellness Program</u></strong>
 </p>
-<p>Cyberwellness refers to the positive well-being of all internet users.
-The programme focuses on developing our students’ awareness to be respectful
-and responsible digital users in cyberspace.</p>
-<p>&nbsp;</p>
-<p><strong>Topics in the Cyber Wellness programmes include:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Netiquette</p>
-</li>
-<li>
-<p>Cyber Bullying</p>
-</li>
-<li>
-<p>Cyber Contacts</p>
-</li>
-<li>
-<p>Online Relationships</p>
-</li>
-<li>
-<p>Balanced use of ICT</p>
-</li>
-<li>
-<p>About the Cyber World</p>
-</li>
-<li>
-<p>Online Identity and Expression</p>
-</li>
-<li>
-<p>Handling Online Content and Behaviour</p>
-</li>
-</ul>
+<p>Information and Communication Technologies (ICT) are becoming increasingly
+pervasive in our world. While creating instant connectivity and access
+to vast repositories of information, knowledge, and opinions, the open
+nature of the Internet can expose our students to undesirable content and
+influences.</p>
+<p>Our whole-school Cyber Wellness program focuses on the well-being of our
+students as they navigate cyberspace. The program aims to equip students
+with the knowledge and skills to harness the power of ICT for positive
+purposes, maintain a positive presence in cyberspace and be safe and responsible
+users of ICT.&nbsp;</p>
 <p></p>
+<p>The Cyber Wellness curriculum is organized into 5 topics, and SKGians
+will learn relevant topics through spiral approach as below:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="images\infocom4.png">
 </div>
