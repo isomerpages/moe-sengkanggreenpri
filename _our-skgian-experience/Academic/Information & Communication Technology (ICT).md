@@ -30,7 +30,7 @@ journey in Sengkang Green Primary School.</p>
 and values that SKGians need in order to fully benefit from a curriculum
 enriched with technology, and eventually reach their potential in future.</p>
 <p>Our Baseline ICT Program are as below:</p>
-![](/images/baseline.png)
+
 <p></p>
 <p><strong>2.&nbsp;&nbsp;&nbsp; <u>Coding</u></strong>
 </p>
