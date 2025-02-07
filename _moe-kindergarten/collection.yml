@@ -2,12 +2,12 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Our Staffs in MK@SG.md
       - MK Open House 2025.md
       - About Us/.keep
       - About Us/Vision Mission Beliefs.md
       - About Us/Our Learning Environment.md
       - About Us/A day in MK@SG.md
+      - Our Staffs in MK@SG.md
       - Our Staffs in MK@SG/.keep
       - Our Staffs in MK@SG/Key Personnel.md
       - Our Staffs in MK@SG/English Language Teachers.md
