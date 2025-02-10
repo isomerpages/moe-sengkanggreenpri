@@ -139,102 +139,49 @@ variant: markdown
 </p></center></center></td></tr>
 </tbody>
 </table>
-
-<table>
+<table style="border-collapse: collapse; width: 80%; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp15.jpg">
-</div>
-<p></p>
-<p></p><center>
-<p><strong>Mdm Catherine Tan<br>Year Head / Middle Primary </strong>
-<br><a href="mailto: tan_puay_kheng_catherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_puay_kheng_catherine@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
-</center></td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp16.jpg">
-</div>
-<p></p>
-<p></p><center>
-<p><strong>Mdm Nur Ain Binte Ahmad<br>Year Head / Upper Primary </strong>
-<br><a href="mailto: nur_ain_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ain_ahmad@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
-</center></td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:170px" height="auto" width="100%" alt="" src="/images/Staff Photos/lum kit chung.png">
-</div>
-<p></p>
-<p></p><center>
+<td style="width: 50%;"><img src="/images/Staff Photos/kit.png"><p></p><center>
 <p><strong>Mr Lum Kit Chung<br>   Assistant Year Head /P3 &amp; P6</strong>
 <br><a href="mailto: lum_kit_chung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_kit_chung@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
-</center></td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp20.jpg">
-</div>
-<p></p>
+</p></center></td>
+<td style="width: 50%;"><img src="/images/kp20.jpg"><p></p><p></p><center>
 <p></p><center>
 <p><strong>Mdm Lim Chee Ang Catherine<br>Senior Teacher / Lower Primary Learner </strong>
 <br><a href="mailto: lim_chee_ang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chee_ang@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
-</center></td>
-</tr>
+</p></center></center></td></tr>
 </tbody>
 </table>
-<table>
+<table style="border-collapse: collapse; width: 80%; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp23.jpg">
-</div>
-<p></p>
-<p></p><center>
+<td style="width: 50%;"><img src="/images/kp23.jpg"><p></p><center>
 <p><strong>Mrs Felicia Ng<br>Senior Teacher / Art</strong> 
 <br><a href="mailto: ong_tze_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_tze_yu@moe.edu.sg</a>
-</p>
-<p></p>
-</center></td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp11.jpg">
-</div>
-<p></p>
+</p></center></td>
+<td style="width: 50%;"><img src="/images/kp11.jpg"><p></p><p></p><center>
 <p></p><center>
 <p><strong>Mr Joshua Seow<br>Senior Teacher / Physical Education </strong>
 <br><a href="mailto: seow_eng_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_eng_huat@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
-</center></td>
-</tr>
+</p></center></center></td></tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 80%; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/kp21.jpg"><p></p><center>
+<p><strong>Mdm Chng E-Hwei<br>Senior Teacher / Chinese </strong>
+<br><a href="mailto: chng_e_hwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_e_hwei@moe.edu.sg</a>
+</p></center></td>
+<td style="width: 50%;"><img src="/images/kp0030.jpg"><p></p><p></p><center>
+<p></p><center>
+<p><strong>Ms Hayati Bte Abdul Rahi<br>Senior Teacher / CCE</strong> 
+<br><a href="mailto: hayati_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hayati_abdul_rahim@moe.edu.sg</a>
+</p></center></center></td></tr>
+</tbody>
+</table>
+
 <table>
 <tbody>
 <tr>
