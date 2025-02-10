@@ -111,40 +111,22 @@ variant: markdown
 </p></center></center></td></tr>
 </tbody>
 </table>
-
-
-<table>
+<table style="border-collapse: collapse; width: 80%; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp10.jpg">
-</div>
-<p></p>
+<td style="width: 50%;"><img src="/images/kp13.jpg"><p></p><center>
+<p><strong>Mrs Cindy Khoo<br>Subject Head / Aesthetics </strong>
+<br><a href="mailto: tan_hern_ngee_cindy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hern_ngee_cindy@moe.edu.sg</a>
+</p></center></td>
+<td style="width: 50%;"><img src="/images/kp14.jpg"><p></p><p></p><center>
 <p></p><center>
-<p><strong>Mdm Norashikin Bte Abdul Hamid<br>Subject Head / Malay </strong>
-<br><a href="mailto: norashikin_abdul_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norashikin_abdul_hamid@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
-</center></td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp12.jpg">
-</div>
-<p></p>
-<p></p><center>
-<p><strong>Mr Kenneth Mok<br>Subject Head / Physical Education </strong>
-<br><a href="mailto: mok_wei_chyuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mok_wei_chyuan@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
-</center></td>
-</tr>
+<p><strong>Ms Toh Wai Ling<br>Year Head / Lower Primary </strong>
+<br><a href="mailto: yee_wai_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yee_wai_ling@moe.edu.sg</a>
+</p></center></center></td></tr>
 </tbody>
 </table>
+
+
 <table>
 <tbody>
 <tr>
