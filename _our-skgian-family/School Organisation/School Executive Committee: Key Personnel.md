@@ -84,71 +84,35 @@ variant: markdown
 </p></center></td></tr>
 </tbody>
 </table>
-
-<table>
+<table style="border-collapse: collapse; width: 80%; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/Ms_Ng_Hui_Lin_Dion.JPG">
-</div>
-<p></p>
-<p></p><center>
-<p><strong>Ms Ng Hui Lin Dion<br>Level Head / Mathematics </strong>
-<br><a href="mailto: ng_hui_lin_dion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hui_lin_dion@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
-</center></td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:170px" height="auto" width="100%" alt="" src="/images/Staff Photos/chong kuan hoe.png">
-</div>
-<p></p>
-<p></p><center>
-<p><strong>Mr Chong Kuan Hoe<br>Level Head / Science </strong>
-<br><a href="mailto: chong_kuan_hoe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_kuan_hoe@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
-</center></td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:170px" height="auto" width="100%" alt="" src="/images/Staff Photos/eddy sufyan .jpg">
-</div>
-<p></p>
-<p></p><center>
+<td style="width: 50%;"><img src="/images/Staff Photos/eddy.png"><p></p><center>
 <p><strong>Mr Eddy Sufyan Bin Selamat<br>Subject Head / Discipline</strong>
 <br><a href="mailto: eddy_sufyan_selamat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eddy_sufyan_selamat@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
-</center></td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp9.jpg">
-</div>
-<p></p>
-<p></p><center>
+</p></center></td>
+<td style="width: 50%;"><img src="/images/kp9.jpg"><p></p><p></p><center>
 <p><strong>Mr Alan Lim<br>Subject Head / ICT </strong>
 <br><a href="mailto: lim_kok_min_alan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kok_min_alan@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
-</center></td>
-</tr>
+</p></center></td></tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 80%; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/kp10.jpg"><p></p><center>
+<p><strong>Mdm Norashikin Bte Abdul Hamid<br>Subject Head / Malay </strong>
+<br><a href="mailto: norashikin_abdul_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norashikin_abdul_hamid@moe.edu.sg</a>
+</p></center></td>
+<td style="width: 50%;"><img src="/images/kp12.jpg"><p></p><p></p><center>
+<p></p><center>
+<p><strong>Mr Kenneth Mok<br>Subject Head / Physical Education </strong>
+<br><a href="mailto: mok_wei_chyuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mok_wei_chyuan@moe.edu.sg</a>
+</p></center></center></td></tr>
+</tbody>
+</table>
+
+
 <table>
 <tbody>
 <tr>
