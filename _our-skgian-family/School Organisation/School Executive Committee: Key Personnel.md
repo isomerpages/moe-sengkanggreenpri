@@ -125,40 +125,21 @@ variant: markdown
 </p></center></center></td></tr>
 </tbody>
 </table>
-
-
-<table>
+<table style="border-collapse: collapse; width: 80%; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp13.jpg">
-</div>
-<p></p>
+<td style="width: 50%;"><img src="/images/kp15.jpg"><p></p><center>
+<p><strong>Mdm Catherine Tan<br>Year Head / Middle Primary </strong>
+<br><a href="mailto: tan_puay_kheng_catherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_puay_kheng_catherine@moe.edu.sg</a>
+</p></center></td>
+<td style="width: 50%;"><img src="/images/kp16.jpg"><p></p><p></p><center>
 <p></p><center>
-<p><strong>Mrs Cindy Khoo<br>Subject Head / Aesthetics </strong>
-<br><a href="mailto: tan_hern_ngee_cindy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hern_ngee_cindy@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
-</center></td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp14.jpg">
-</div>
-<p></p>
-<p></p><center>
-<p><strong>Ms Toh Wai Ling<br>Year Head / Lower Primary </strong>
-<br><a href="mailto: yee_wai_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yee_wai_ling@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
-</center></td>
-</tr>
+<p><strong>Mdm Nur Ain Binte Ahmad<br>Year Head / Upper Primary </strong>
+<br><a href="mailto: nur_ain_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ain_ahmad@moe.edu.sg</a>
+</p></center></center></td></tr>
 </tbody>
 </table>
+
 <table>
 <tbody>
 <tr>
