@@ -78,7 +78,7 @@ variant: markdown
 <p><strong>Ms Ng Hui Lin Dion<br>Level Head / Mathematics </strong>
 <br><a href="mailto: ng_hui_lin_dion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hui_lin_dion@moe.edu.sg</a>
 </p></center></td>
-<td style="width: 50%;"><img src="/images/Staff Photos/chong kuan hoe.png"><p></p><center>
+<td style="width: 50%;"><img src="/images/Staff Photos/kuan_hoe.png"><p></p><center>
 <p><strong>Mr Chong Kuan Hoe<br>Level Head / Science </strong>
 <br><a href="mailto: chong_kuan_hoe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_kuan_hoe@moe.edu.sg</a>
 </p></center></td></tr>
