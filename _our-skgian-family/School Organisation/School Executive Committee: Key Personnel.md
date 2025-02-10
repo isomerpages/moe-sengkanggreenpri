@@ -6,166 +6,85 @@ third_nav_title: School Organisation
 variant: markdown
 ---
 <h3><strong>Key Personnel</strong></h3>
-<table>
+<table style="border-collapse: collapse; width: 80%; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp1.jpg">
-</div>
-<p></p>
-<p></p><center>
+<td style="width: 50%;"><img src="/images/kp1.jpg"><p></p><center>
 <p><strong>Ms Ng Lip Kiang <br>School Staff Developer (SSD) </strong>
 <br><a href="mailto: ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lip_kiang@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
-</center></td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp2.jpg">
-</div>
-<p></p>
-<p></p><center>
-<p><strong>Ms Chua Siew Kheng<br>Head of Department / English </strong>
-<br><a href="mailto: chua_siew_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_siew_kheng@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
-</center></td>
+</p></center></td>
+<td style="width: 50%;"><img src="/images/kp2.jpg"><p></p><center>
+	<p><strong>Ms Chua Siew Kheng<br>Head of Department / English </strong>
+<br><a href="mailto: chua_siew_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_siew_kheng@moe.edu.sg</a></p></center></td>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="border-collapse: collapse; width: 80%; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp7.jpg">
-</div>
-<p></p>
-<p></p><center>
+<td style="width: 50%;"><img src="/images/kp7.jpg"><p></p><center>
 <p><strong>Ms Chew Mei Jun<br>Head of Department / Science </strong>
 <br><a href="mailto: chew_mei_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_mei_jun@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
-</center></td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp5.jpg">
-</div>
-<p></p>
-<p></p><center>
+</p></center></td>
+<td style="width: 50%;"><img src="/images/kp5.jpg"><p></p><center>
 <p><strong>Mrs Ivy Tan<br>Head of Department / CCE </strong>
 <br><a href="mailto: chua_siang_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_siang_peng@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
-</center></td>
-</tr>
+</p></center></td></tr>
 </tbody>
 </table>
-<table>
+<table style="border-collapse: collapse; width: 80%; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp8.jpg">
-</div>
-<p></p>
-<p></p><center>
+<td style="width: 50%;"><img src="/images/kp8.jpg"><p></p><center>
 <p><strong>Ms Tan Wan Cheng, Rachael<br>Head of Department / Mathematics </strong>
 <br><a href="mailto: tan_wan_cheng_rachael@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wan_cheng_rachael@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
-</center></td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/Ms_Wang_Siyang.JPG">
-</div>
-<p></p>
-<p></p><center>
+</p></center></td>
+<td style="width: 50%;"><img src="/images/Ms_Wang_Siyang.JPG"><p></p><center>
 <p><strong>Ms Wang Siyang<br>Head of Department / ICT </strong>
 <br><a href="Wang_Siyang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_siyang@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
-</center></td>
-</tr>
+</p></center></td></tr>
 </tbody>
 </table>
-<table>
+<table style="border-collapse: collapse; width: 80%; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/Staff Photos/Mdm_Mahalakshmi.jpg">
-</div>
-<p></p>
-<p></p><center>
+<td style="width: 50%;"><img src="/images/Staff Photos/Mdm_Mahalakshmi.jpg"><p></p><center>
 <p><strong>Mdm Mahalakshmi<br>HOD / Student Management</strong>
 <br><a href="mailto: mahalakshmi_kalyanam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mahalakshmi_kalyanam@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
-</center></td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/Tinie_Tan.jpg">
-</div>
-<p></p>
-<p></p><center>
+</p></center></td>
+<td style="width: 50%;"><img src="/images/Tinie_Tan.jpg"><p></p><center>
 <p><strong>Mdm Tinie Tan Mui Ngin<br>Head of Department / Mother Tongue </strong>
 <br><a href="tan_mui_ngin_tinie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mui_ngin_tinie@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
-</center></td>
-</tr>
+</p></center></td></tr>
 </tbody>
 </table>
-<table>
+<table style="border-collapse: collapse; width: 80%; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/Mdm_Tan_Wei_Lin_Winnie.jpg">
-</div>
-<p></p>
-<p></p><center>
+<td style="width: 50%;"><img src="/images/Mdm_Tan_Wei_Lin_Winnie.jpg"><p></p><center>
 <p><strong>Mdm Winnie Tan Wei Lin<br>Level Head / English </strong>
 <br><a href="mailto: tan_wei_lin_winnie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_lin_winnie@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
-</center></td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/Staff Photos/Ms_Janice_Tor.jpg">
-</div>
-<p></p>
-<p></p><center>
+</p></center></td>
+<td style="width: 50%;"><img src="/images/Staff Photos/Ms_Janice_Tor.jpg"><p></p><center>
 <p><strong>Mrs Janice Wan<br>HOD/SEN</strong>
 <br><a href="Janice_Tor_Shijia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Janice_Tor_Shijia@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
-</center></td>
-</tr>
+</p></center></td></tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 80%; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/Ms_Ng_Hui_Lin_Dion.JPG"><p></p><center>
+<p><strong>Ms Ng Hui Lin Dion<br>Level Head / Mathematics </strong>
+<br><a href="mailto: ng_hui_lin_dion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hui_lin_dion@moe.edu.sg</a>
+</p></center></td>
+<td style="width: 50%;"><img src="/images/Staff Photos/chong kuan hoe.png"><p></p><center>
+<p><strong>Mr Chong Kuan Hoe<br>Level Head / Science </strong>
+<br><a href="mailto: chong_kuan_hoe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_kuan_hoe@moe.edu.sg</a>
+</p></center></td></tr>
+</tbody>
+</table>
+
 <table>
 <tbody>
 <tr>
