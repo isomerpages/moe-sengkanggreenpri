@@ -24,16 +24,6 @@ click on the following link to access the briefing slides and videos
 </p>
 <p></p>
 <hr>
-<p></p>
-<p><strong>Sengkang Green Primary School - Phase 2B Parent Volunteer (PV) Application Form<br></strong>Please
-click on the following link to access the online form
-<br>
-</p>
-<p><a href="https://form.gov.sg/66e2524e7674675e1a7b667a" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Scheme 2025</a>
-</p>
-<p></p>
-<hr>
-<hr>
 <p><strong>10th Year Anniversary Celebration</strong>
 </p>
 <p>Dear all,</p>
