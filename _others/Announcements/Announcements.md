@@ -6,6 +6,14 @@ third_nav_title: Announcements
 variant: markdown
 ---
 <p></p>
+<p><strong>P4 Parent Engagement Session 2025<br></strong>Please click on
+the following link to download the presentation slides.</p>
+<p><a href="/files/2025_PES/Primary_4_PES_Principal_and_Year_Head_Sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 PES Principal &amp; Year Head Sharing</a>
+</p><p></p>
+<p><strong>P5 Parent Engagement Session 2025<br></strong>Please click on
+the following link to download the presentation slides.</p>
+<p><a href="/files/2025_PES/Primary_5_PES_Principal_and_Year_Head_Sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 PES Principal &amp; Year Head Sharing</a>
+</p><p></p>
 <p><strong>P6 Parent Engagement Session 2025<br></strong>Please click on
 the following link to download the presentation slides.</p>
 <p><a href="/files/2025_PES/P6_PES/principal_address.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 PES Principal Address</a>
@@ -23,16 +31,6 @@ click on the following link to access the briefing slides and videos
 <p><a href="https://drive.google.com/drive/folders/1pEyVRPJPnPFnwGjisfdvgzNq17X9nWcG?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2025 P1 Orientation Briefing for Parents</a>
 </p>
 <p></p>
-<hr>
-<p></p>
-<p><strong>Sengkang Green Primary School - Phase 2B Parent Volunteer (PV) Application Form<br></strong>Please
-click on the following link to access the online form
-<br>
-</p>
-<p><a href="https://form.gov.sg/66e2524e7674675e1a7b667a" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Scheme 2025</a>
-</p>
-<p></p>
-<hr>
 <hr>
 <p><strong>10th Year Anniversary Celebration</strong>
 </p>
