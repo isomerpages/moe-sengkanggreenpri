@@ -410,11 +410,19 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>2 Gracious</strong>
 </p>
-<p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jennifer Koh Lai Har</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_lai_har@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_lai_har@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Sock Ngoh</p>
 </td>
@@ -992,7 +1000,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>5 Diligent</strong>
 </p>
 <p></p>
@@ -1011,6 +1019,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_ai_lin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_ai_lin_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhd Amirul Bin Abdullah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_amirul_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_amirul_abdullah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1084,11 +1101,19 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>5 Honest</strong>
 </p>
-<p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jaslyn Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siau_ek_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siau_ek_ping@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Wu Yan Jie</p>
 </td>
