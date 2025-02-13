@@ -410,11 +410,19 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>2 Gracious</strong>
 </p>
-<p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jennifer Koh Lai Har</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_lai_har@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_lai_har@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Sock Ngoh</p>
 </td>
