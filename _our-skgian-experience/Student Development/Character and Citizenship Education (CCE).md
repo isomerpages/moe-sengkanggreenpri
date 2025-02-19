@@ -217,30 +217,47 @@ meaningful activities to foster a sense of pride and belonging to our country.</
 <p><em>Observance Ceremony during National Day</em>
 </p>
 <p></p>
-<p><strong>Learning Journeys (LJs)</strong>
+<p><strong>Learning Journeys</strong>
 </p>
-<p>LJs aim to instil in our students, pride in Singapore’s achievements,
-to help them understand Singapore’s constraints, challenges and opportunities,
-build their confidence in our future, and nurture a sense of belonging
-to Singapore.</p>
-<p>Inherent in the concept of LJs is the belief that every trip undertaken
-by our students out of the school is an important learning experience that
-will link the theoretical with the experiential - injecting life and meaning
-to the learning so that it becomes real and concrete. By visiting key installations
-in Singapore, our students will get see the principles and theories learnt
-in the classroom and textbooks applied in real life situations, and understand
-that meritocracy, hard work, the desire to excel, and readiness to take
-calculated risks have allowed us to overcome many constraints and turn
-challenges into opportunities.</p>
+<p>The main objective of these Learning Journeys is for our children to understand
+what makes Singapore tick, to understand why we are where we are today.
+They illustrate our vision and planning and reflect our society's character.
+Our children must learn about them, understand their significance, and
+think about the part that they themselves can play to ensure that in our
+journey into the future Singapore continues to stay strong as a nation
+and to make progress.</p>
+<p>Learning Journeys aim to instill in our students, pride in Singapore’s
+achievements, to help them understand Singapore’s constraints, challenges
+and opportunities, build their confidence in our future, and nurture a
+sense of belonging to Singapore.</p>
+<p>Inherent in the concept of Learning Journeys is the belief that every
+trip undertaken by the students out of the school is an important learning
+experience that will link the theoretical with the experiential - injecting
+life and meaning to the learning so that it becomes real and concrete.
+By visiting key installations in Singapore, the students will get see the
+principles and theories learnt in the classroom and textbooks applied in
+real life situations, and understand that meritocracy, hard work, the desire
+to excel, and readiness to take calculated risks have allowed us to overcome
+many constraints and turn challenges into opportunities.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ccelj1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Kreta_Ayer.png">
 </div>
-<p>
+<p><em>Learning Journey to Kreta Ayer</em>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ccelj2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Singapore_Discovery_Centre.png">
 </div>
+<p><em>Learning Journey to Singapore Discovery Centre</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Geylang_Serai.png">
+</div>
+<p><em>Learning Journey to Geylang Serai</em>
+</p>
+<p></p>
 <p><strong>Values in Action (VIA)</strong>
 <br>In our efforts to nurture our students to become active contributors and
 concerned citizens of the future, the school has adopted a 6-year spiral
