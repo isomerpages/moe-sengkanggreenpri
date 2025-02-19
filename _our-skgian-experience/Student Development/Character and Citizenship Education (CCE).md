@@ -165,15 +165,11 @@ meaningful activities to foster a sense of pride and belonging to our country.</
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/International_Friendship_Day.png">
 </div>
-<p><em>Recess activities to commemorate International Friendship Day</em>
-</p>
-<p></p>
+<center><em>Recess activities to commemorate International Friendship Day</em></center>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Racial_Harmony_Day.png">
 </div>
-<p><em>Recess Activities to commemorate Racial Harmony Day</em>
-</p>
-<p></p>
+<center><em>Recess Activities to commemorate Racial Harmony Day</em></center>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/National_Day.png">
 </div>
