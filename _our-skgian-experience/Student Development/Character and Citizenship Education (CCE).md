@@ -36,10 +36,10 @@ active contributor.</p>
 <img style="width: 70%" height="auto" width="100%" alt="" src="/images/cce002.png">
 </div>
 <center><em>Fig.1 : The CCE Goals</em></center>
-<br>a)&nbsp;&nbsp;&nbsp; Good character: Have a sound moral compass and a
+<p>a)&nbsp;&nbsp;&nbsp; Good character: Have a sound moral compass and a
 strong sense of right and wrong, think critically and ethically, be discerning
 in judgment, take responsibility for choices and actions, be caring towards
-others and strive for excellence;<p></p>
+others and strive for excellence;</p>
 <p>b)&nbsp;&nbsp;&nbsp; Resilience and social-emotional well-being: Have
 a balanced sense of self, form healthy relationships, be resilient when
 faced with challenges, find meaning in life, and have a sense of gratitude
