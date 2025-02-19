@@ -232,8 +232,7 @@ to others.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Appreciation_to_our_Bus_Captains.png">
 </div>
-<p><em>Showing appreciation to our Bus Captains and Station Staff at Sengkang MRT station and bus interchange</em>
-</p>
+<center><em>Showing appreciation to our Bus Captains and Station Staff at Sengkang MRT station and bus interchange</em></center>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Clean_Plate_Campaign.png">
