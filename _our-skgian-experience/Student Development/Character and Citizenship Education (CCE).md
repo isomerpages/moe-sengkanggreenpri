@@ -93,13 +93,11 @@ Anchored on the school’s ICAR2E values, and the SEL Competencies framework, th
 </div>
 <center><em>Fig.3 : The Relationship between SE Competenices and School Values</em>
 </center>
-<p></p>
 <p>The CCE/FTGP and Heart-to-Heart programmes optimise opportunities for
 teachers to build positive relationship with their students. It provides
 quality interaction time for form teachers to engage in meaningful conversations
-with their students and future build on their 5 Social Emotional Competencies.</p>
-
-<br>The lessons are designed for students to acquire skills that will help
+with their students and future build on their 5 Social Emotional Competencies.
+</p><p>The lessons are designed for students to acquire skills that will help
 them to:
 <br>a) better understand themselves (Self-Awareness)
 <br>b) learn ways to manage themselves (Self-Management)
@@ -107,7 +105,7 @@ them to:
 <br>d) learn ways to work with their family and friends (Relationship Management)
 and
 <br>e) make appropriate and responsible decisions (Responsible Decision Making)
-<p>Form Teacher Guidance Programme (CCE/FTGP) aims to:</p>
+</p><p>Form Teacher Guidance Programme (CCE/FTGP) aims to:</p>
 <p>&nbsp;</p>
 <p>•Strengthen the provision of pastoral care by creating stable and positive
 teacher-student relationships.</p>
