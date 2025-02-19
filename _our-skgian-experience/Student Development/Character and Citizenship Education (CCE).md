@@ -14,11 +14,10 @@ variant: markdown
 <br>Mdm Chng E-Hwei (ST/CL)
 <br>Mrs Felicia Ng (ST/Art)
 </p><p><strong>Department Vision</strong>
-</p>
-<p>Every Teacher, a CCE Teacher</p>
-<p>Every School Experience, a CCE Lesson</p>
-<p>Every Student, a Peer Supporter</p>
-<p></p>
+<br>Every Teacher, a CCE Teacher
+<br>Every School Experience, a CCE Lesson
+<br>Every Student, a Peer Supporter
+</p><p></p>
 <p><strong>Department Mission</strong>
 <br>To inculcate values and build competencies in our students to equip them
 with the knowledge, skills, attitudes and values to be responsible citizens
