@@ -91,8 +91,8 @@ Anchored on the school’s ICAR2E values, and the SEL Competencies framework, th
 <p></p><div class="isomer-image-wrapper">
 <img style="width: 70%" height="auto" width="100%" alt="" src="/images/cce004.png">
 </div>
-<p><em>Fig.3 : The Relationship between SE Competenices and School Values</em>
-</p>
+<center><em>Fig.3 : The Relationship between SE Competenices and School Values</em>
+</center>
 <p></p>
 <p>The CCE/FTGP and Heart-to-Heart programmes optimise opportunities for
 teachers to build positive relationship with their students. It provides
