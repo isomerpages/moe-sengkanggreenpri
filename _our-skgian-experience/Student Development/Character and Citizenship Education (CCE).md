@@ -98,17 +98,15 @@ Anchored on the school’s ICAR2E values, and the SEL Competencies framework, th
 teachers to build positive relationship with their students. It provides
 quality interaction time for form teachers to engage in meaningful conversations
 with their students and future build on their 5 Social Emotional Competencies.</p>
-<p>&nbsp;</p>
-<p>The lessons are designed for students to acquire skills that will help
-them to:</p>
-<p>&nbsp;</p>
-<p>a) better understand themselves (Self-Awareness)</p>
-<p>b) learn ways to manage themselves (Self-Management)</p>
-<p>c) better understand their family and friends (Social Awareness)</p>
-<p>d) learn ways to work with their family and friends (Relationship Management)
-and</p>
-<p>e) make appropriate and responsible decisions (Responsible Decision Making)</p>
-<p>&nbsp;</p>
+
+<br>The lessons are designed for students to acquire skills that will help
+them to:
+<br>a) better understand themselves (Self-Awareness)
+<br>b) learn ways to manage themselves (Self-Management)
+<br>c) better understand their family and friends (Social Awareness)
+<br>d) learn ways to work with their family and friends (Relationship Management)
+and
+<br>e) make appropriate and responsible decisions (Responsible Decision Making)
 <p>Form Teacher Guidance Programme (CCE/FTGP) aims to:</p>
 <p>&nbsp;</p>
 <p>•Strengthen the provision of pastoral care by creating stable and positive
