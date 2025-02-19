@@ -66,14 +66,13 @@ citizens of good character.</p>
 </div>
 <center><em>Fig.2 : The CCE Framework</em></center>
 <p></p>
-<br>This is achieved through the CCE curriculum, which comprises CCE lessons,
+<p>This is achieved through the CCE curriculum, which comprises CCE lessons,
 Form Teacher Guidance Period (FTGP), Programme for Active Learning (PAL)
 and CCE Guidance Modules as well as key student development experiences
 like the National Education (NE) commemorative days, Co-curricular (CCA),
 Values-in-Action (VIA) activities. The various key programmes and activities
 are integrated into every level to equip our students with the necessary
-knowledge, skills and values.&nbsp;<p></p>
-<p></p>
+knowledge, skills and values.&nbsp;</p>
 <p><strong>TEACH, EMBED and LIVE Approach</strong>:
 <br>Values are both taught and caught.
 <br>TEACH in our customised curriculum, EMBED in our signature programmes
