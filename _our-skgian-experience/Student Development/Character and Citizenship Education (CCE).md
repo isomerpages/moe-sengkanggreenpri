@@ -211,6 +211,12 @@ meaningful activities to foster a sense of pride and belonging to our country.</
 <p><em>Recess Activities to commemorate Racial Harmony Day</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/National_Day.png">
+</div>
+<p><em>Observance Ceremony during National Day</em>
+</p>
+<p></p>
 <p><strong>Learning Journeys (LJs)</strong>
 </p>
 <p>LJs aim to instil in our students, pride in Singapore’s achievements,
