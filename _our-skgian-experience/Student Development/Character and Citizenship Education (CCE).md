@@ -140,18 +140,15 @@ will help students become citizens who are informed, concerned and participative
 <center><em>Fig.4: The Singapore Social Studies Curriculum&nbsp;</em>
 </center>
 <p><strong>National Education (NE) Programme</strong>
-</p>
-<p>The purpose of National Education is to develop &amp; inspire our students
+<br>The purpose of National Education is to develop &amp; inspire our students
 to take collective ownership of their future as a nation and to co construct
 the next chapter of Singapore. NE is then anchored on the following citizenship
 dispositions, which will enable our students to realise their part in flourishing
-of the community and nation.&nbsp;</p>
+of the community and nation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce007.PNG">
 </div>
-<p><em>Fig.5 : The Citizenship Dispositions&nbsp;</em>
-</p>
-<p></p>
+<center><em>Fig.5 : The Citizenship Dispositions&nbsp;</em></center>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P5NEShow.png">
 </div>
