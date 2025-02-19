@@ -263,8 +263,7 @@ learning.<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Career_Awareness_Fest.png">
 </div>
-<p><em>Experiential Learning @ Career Awareness Fest</em>
-</p>
+<center><em>Experiential Learning @ Career Awareness Fest</em></center>
 </td>
 </tr>
 </tbody>
