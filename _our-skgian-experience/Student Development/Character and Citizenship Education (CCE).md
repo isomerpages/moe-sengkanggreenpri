@@ -13,8 +13,7 @@ variant: markdown
 <br>Ms Hayati Bte Abdul Rahim (ST/CCE)
 <br>Mdm Chng E-Hwei (ST/CL)
 <br>Mrs Felicia Ng (ST/Art)
-</p><p></p>
-<p><strong>Department Vision</strong>
+</p><p><strong>Department Vision</strong>
 </p>
 <p>Every Teacher, a CCE Teacher</p>
 <p>Every School Experience, a CCE Lesson</p>
