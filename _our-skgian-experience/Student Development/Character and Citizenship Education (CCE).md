@@ -174,7 +174,6 @@ meaningful activities to foster a sense of pride and belonging to our country.</
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/National_Day.png">
 </div>
 <center><em>Observance Ceremony during National Day</em></center>
-<p></p>
 <p><strong>Learning Journeys</strong>
 </p>
 <p>The main objective of these Learning Journeys is for our children to understand
