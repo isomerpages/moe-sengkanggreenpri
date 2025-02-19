@@ -152,8 +152,7 @@ of the community and nation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P5NEShow.png">
 </div>
-<p><em>P5 NE Show</em>
-</p>
+<center><em>P5 NE Show</em></center>
 <p><strong>NE Commemorative Events&nbsp;</strong>
 </p>
 <p>The four core NE events that the school commemorates are Total Defence
