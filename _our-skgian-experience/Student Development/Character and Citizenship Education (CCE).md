@@ -161,9 +161,7 @@ meaningful activities to foster a sense of pride and belonging to our country.</
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Total_Defence_Day.png">
 </div>
-<p><em>Fringe Activities during Total Defence Day</em>
-</p>
-<p></p>
+<center><em>Fringe Activities during Total Defence Day</em></center>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/International_Friendship_Day.png">
 </div>
