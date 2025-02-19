@@ -227,8 +227,7 @@ to others.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce010.PNG">
 </div>
-<p><em>Fig.6 : The 1-2-3 of Values in Action&nbsp;&nbsp;</em>
-</p>
+<center><em>Fig.6 : The 1-2-3 of Values in Action&nbsp;&nbsp;</em></center>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Appreciation_to_our_Bus_Captains.png">
