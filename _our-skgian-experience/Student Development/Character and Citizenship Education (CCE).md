@@ -40,24 +40,20 @@ active contributor.</p>
 strong sense of right and wrong, think critically and ethically, be discerning
 in judgment, take responsibility for choices and actions, be caring towards
 others and strive for excellence;<p></p>
-<p>&nbsp;</p>
 <p>b)&nbsp;&nbsp;&nbsp; Resilience and social-emotional well-being: Have
 a balanced sense of self, form healthy relationships, be resilient when
 faced with challenges, find meaning in life, and have a sense of gratitude
 and appreciation;</p>
-<p>&nbsp;</p>
 <p>c)&nbsp;&nbsp;&nbsp; Future readiness: Have a sense of purpose in life,
 develop the dispositions of adaptability and lifelong learning so as to
 be able to navigate education and career pathways purposefully and take
 on the challenges of the future, including the world of work and life;
 and</p>
-<p>&nbsp;</p>
 <p>d)&nbsp;&nbsp;&nbsp; Active citizenship: Develop a strong national identity
 based on a sense of belonging to the nation, a sense of hope in themselves
 and the future, an awareness of the reality of Singapore’s vulnerabilities
 and constraints, and the will to act on improving the lives of others,
 and building a future for our nation.</p>
-<p></p>
 <p>We are guided by the CCE Curriculum Framework, which is based on the belief
 that education is about developing the child holistically. Centred on the
 SKGPS vision and mission, this framework focuses on the knowledge, skills
@@ -66,18 +62,17 @@ citizens of good character.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCEFramework.png">
+<img style="width: 70%" height="auto" width="100%" alt="" src="/images/CCE/CCEFramework.png">
 </div>
-<p><em>Fig.2 : The CCE Framework</em>
-</p>
+	<br><center><em>Fig.2 : The CCE Framework</em></center>
 <p></p>
-<p>This is achieved through the CCE curriculum, which comprises CCE lessons,
+<br>This is achieved through the CCE curriculum, which comprises CCE lessons,
 Form Teacher Guidance Period (FTGP), Programme for Active Learning (PAL)
 and CCE Guidance Modules as well as key student development experiences
 like the National Education (NE) commemorative days, Co-curricular (CCA),
 Values-in-Action (VIA) activities. The various key programmes and activities
 are integrated into every level to equip our students with the necessary
-knowledge, skills and values.&nbsp;</p>
+knowledge, skills and values.&nbsp;<p></p>
 <p></p>
 <p><strong>TEACH, EMBED and LIVE Approach</strong>:</p>
 <p>Values are both taught and caught.</p>
