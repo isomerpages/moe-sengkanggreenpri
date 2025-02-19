@@ -35,7 +35,7 @@ active contributor.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%" height="auto" width="100%" alt="" src="/images/cce002.png">
 </div>
-	<br><center><em>Fig.1 : The CCE Goals</em></center>
+<center><em>Fig.1 : The CCE Goals</em></center>
 <br>a)&nbsp;&nbsp;&nbsp; Good character: Have a sound moral compass and a
 strong sense of right and wrong, think critically and ethically, be discerning
 in judgment, take responsibility for choices and actions, be caring towards
