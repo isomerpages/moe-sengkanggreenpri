@@ -113,7 +113,7 @@ teacher-student relationships.
 support in partnership with the parents.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Heart_to_Heart_interaction.jpg">
+<img style="width: 60%" height="auto" width="100%" alt="" src="/images/CCE/Heart_to_Heart_interaction.jpg">
 </div>
 <p><strong>CCE/MTL Lessons</strong>
 </p>
