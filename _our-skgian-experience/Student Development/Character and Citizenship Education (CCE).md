@@ -74,13 +74,13 @@ Values-in-Action (VIA) activities. The various key programmes and activities
 are integrated into every level to equip our students with the necessary
 knowledge, skills and values.&nbsp;<p></p>
 <p></p>
-<p><strong>TEACH, EMBED and LIVE Approach</strong>:</p>
-<p>Values are both taught and caught.</p>
-<p>TEACH in our customised curriculum, EMBED in our signature programmes
+<p><strong>TEACH, EMBED and LIVE Approach</strong>:
+<br>Values are both taught and caught.
+<br>TEACH in our customised curriculum, EMBED in our signature programmes
 and LIVE in our personal application as our Implementation Approach.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/TEACH_EMBED_and_LIVE_Approach.png">
+<img style="width: 70%" height="auto" width="100%" alt="" src="/images/CCE/TEACH_EMBED_and_LIVE_Approach.png">
 </div>
 <p><strong><u>Key Programmes</u></strong>
 </p>
