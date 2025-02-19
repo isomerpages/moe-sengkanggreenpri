@@ -279,6 +279,12 @@ to others.</p>
 <p><em>Fig.6 : The 1-2-3 of Values in Action&nbsp;&nbsp;</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Appreciation_to_our_Bus_Captains.png">
+</div>
+<p><em>Showing appreciation to our Bus Captains and Station Staff at Sengkang MRT station and bus interchange</em>
+</p>
+<p></p>
 <p><strong>SkillsFuture@SKGPS</strong>
 <br>Our SkillsFuture@SKGPS programme aims to equip every SKGian with the information
 to explore various education pathways and make well-informed educational
