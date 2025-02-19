@@ -285,6 +285,12 @@ to others.</p>
 <p><em>Showing appreciation to our Bus Captains and Station Staff at Sengkang MRT station and bus interchange</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Clean_Plate_Campaign.png">
+</div>
+<p><em>Clean Plate Campaign</em>
+</p>
+<p></p>
 <p><strong>SkillsFuture@SKGPS</strong>
 <br>Our SkillsFuture@SKGPS programme aims to equip every SKGian with the information
 to explore various education pathways and make well-informed educational
