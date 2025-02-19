@@ -162,9 +162,12 @@ in real-world issues that concern them.</p>
 <p>The knowledge, skills and values gained from Social Studies, together
 with the citizenship dispositions that National Education is anchored on,
 will help students become citizens who are informed, concerned and participative.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:450px" height="auto" width="100%" alt="" src="/images/cce006.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Social_Circle.png">
 </div>
+<p><em>Fig.4: The Singapore Social Studies Curriculum&nbsp;</em>
+</p>
 <p><strong>National Education (NE) Programme</strong>
 </p>
 <p>The purpose of National Education is to develop &amp; inspire our students
