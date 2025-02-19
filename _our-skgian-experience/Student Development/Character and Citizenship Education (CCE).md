@@ -25,17 +25,60 @@ variant: tiptap
 <br>Ms Hayati Bte Abdul Rahim (ST/CCE)</p>
 <p>Mdm Chng E-Hwei (ST/CL)</p>
 <p>Mrs Felicia Ng (ST/Art)</p>
-<p>
-<br><strong>Our Mission</strong>
+<p></p>
+<p><strong>Department Vision</strong>
+</p>
+<p>Every Teacher, a CCE Teacher</p>
+<p>Every School Experience, a CCE Lesson</p>
+<p>Every Student, a Peer Supporter</p>
+<p></p>
+<p><strong>Department Mission</strong>
 <br>To inculcate values and build competencies in our students to equip them
 with the knowledge, skills, attitudes and values to be responsible citizens
 who serve beyond self.</p>
 <p></p>
-<p><strong>Our CCE Goals</strong>
+<p><strong>Department Aims</strong>
 </p>
+<p>Character &amp; Citizenship Education (CCE) in Sengkang Green anchors
+on the school mission to develop our students into Leaders of Character
+and Socially Responsible Citizens who actively contribute to the school,
+community and nation. CCE in Sengkang Green emphasises on the interconnectedness
+of the core values, 21st century competencies and civic literacy, global
+awareness and cross-cultural skills that are critical to develop student
+into a confident person, self-directed learner, concerned citizen and an
+active contributor.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce002.png">
 </div>
+<p>a)&nbsp;&nbsp;&nbsp; Good character: Have a sound moral compass and a
+strong sense of right and wrong, think critically and ethically, be discerning
+in judgment, take responsibility for choices and actions, be caring towards
+others and strive for excellence;</p>
+<p>&nbsp;</p>
+<p>b)&nbsp;&nbsp;&nbsp; Resilience and social-emotional well-being: Have
+a balanced sense of self, form healthy relationships, be resilient when
+faced with challenges, find meaning in life, and have a sense of gratitude
+and appreciation;</p>
+<p>&nbsp;</p>
+<p>c)&nbsp;&nbsp;&nbsp; Future readiness: Have a sense of purpose in life,
+develop the dispositions of adaptability and lifelong learning so as to
+be able to navigate education and career pathways purposefully and take
+on the challenges of the future, including the world of work and life;
+and</p>
+<p>&nbsp;</p>
+<p>d)&nbsp;&nbsp;&nbsp; Active citizenship: Develop a strong national identity
+based on a sense of belonging to the nation, a sense of hope in themselves
+and the future, an awareness of the reality of Singapore’s vulnerabilities
+and constraints, and the will to act on improving the lives of others,
+and building a future for our nation.</p>
+<p></p>
+<p>We are guided by the CCE Curriculum Framework, which is based on the belief
+that education is about developing the child holistically. Centred on the
+SKGPS vision and mission, this framework focuses on the knowledge, skills
+and values which we aim to inculcate in our students to equip them to be
+citizens of good character.</p>
+<p></p>
+<p></p>
 <p>CCE in Sengkang Green anchors on the school mission to develop our students
 into Leaders of Character and Socially Responsible Citizens who actively
 contribute to the school, community and nation. We emphasise on the interconnectedness
