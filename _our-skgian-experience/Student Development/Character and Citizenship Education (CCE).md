@@ -237,9 +237,7 @@ to others.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Clean_Plate_Campaign.png">
 </div>
-<p><em>Clean Plate Campaign</em>
-</p>
-<p></p>
+<center><em>Clean Plate Campaign</em></center>
 <p><strong>SkillsFuture@SKGPS</strong>
 <br>The SkillsFuture@SKGPS programme aims to equip every SKGian with the information
 and tools to explore various education pathways and make well-informed
