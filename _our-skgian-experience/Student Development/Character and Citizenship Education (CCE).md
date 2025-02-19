@@ -115,6 +115,7 @@ support in partnership with the parents.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%" height="auto" width="100%" alt="" src="/images/CCE/Heart_to_Heart_interaction.jpg">
 </div>
+<center><em>Heart to Heart interaction</em></center>
 <p><strong>CCE/MTL Lessons</strong>
 <br>CCE/MTL lessons focus on developing the moral well-being of our students
 by helping them acquire and live by the values that guide them to make
