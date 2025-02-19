@@ -33,7 +33,7 @@ awareness and cross-cultural skills that are critical to develop student
 into a confident person, self-directed learner, concerned citizen and an
 active contributor.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce002.png">
+<img style="width: 70%" height="auto" width="100%" alt="" src="/images/cce002.png">
 </div>
 	<br><center><em>Fig.1 : The CCE Goals</em></center>
 <br>a)&nbsp;&nbsp;&nbsp; Good character: Have a sound moral compass and a
