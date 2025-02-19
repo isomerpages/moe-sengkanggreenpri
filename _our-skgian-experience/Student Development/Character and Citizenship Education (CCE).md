@@ -136,7 +136,7 @@ with the citizenship dispositions that National Education is anchored on,
 will help students become citizens who are informed, concerned and participative.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%" height="auto" width="100%" alt="" src="/images/CCE/Social_Circle.png">
+<img style="width: 60%" height="auto" width="100%" alt="" src="/images/CCE/Social_Circle.png">
 </div>
 <center><em>Fig.4: The Singapore Social Studies Curriculum&nbsp;</em>
 </center>
