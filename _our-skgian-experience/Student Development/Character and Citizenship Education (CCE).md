@@ -261,9 +261,14 @@ many constraints and turn challenges into opportunities.</p>
 <p><strong>Values in Action (VIA)</strong>
 <br>In our efforts to nurture our students to become active contributors and
 concerned citizens of the future, the school has adopted a 6-year spiral
-developmental plan in the implementation of its VIA Programme.&nbsp;Our
-VIA activities are designed with a focus on the home, school and the community
-&amp; the nation.&nbsp;Through the VIA learning experiences, our students
+developmental plan in the implementation of its Values In Action Programme.
+Over the years, we have evolved due the changing landscape and will require
+our students to embrace the citizenry dispositions such as a sense of belonging,
+a sense of reality, a sense of hope and the will to act to return serve
+back to themselves and others.</p>
+<p>&nbsp;</p>
+<p>Our VIA activities are designed with a focus on the home, school and the
+community &amp; the nation. Through the VIA learning experiences, students
 are encouraged to identify and understand community issues, initiate actions
 among peers and improve the lives of others. Throughout the process, students
 reflect on what they have learnt and how they can continue to make a difference
@@ -271,9 +276,9 @@ to others.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce010.PNG">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce011.PNG">
-</div>
+<p><em>Fig.6 : The 1-2-3 of Values in Action&nbsp;&nbsp;</em>
+</p>
+<p></p>
 <p><strong>SkillsFuture@SKGPS</strong>
 <br>Our SkillsFuture@SKGPS programme aims to equip every SKGian with the information
 to explore various education pathways and make well-informed educational
