@@ -200,20 +200,16 @@ many constraints and turn challenges into opportunities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Kreta_Ayer.png">
 </div>
-<p><em>Learning Journey to Kreta Ayer</em>
-<br>
-</p>
+<center><em>Learning Journey to Kreta Ayer</em></center>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Singapore_Discovery_Centre.png">
 </div>
-<p><em>Learning Journey to Singapore Discovery Centre</em>
-</p>
+<center><em>Learning Journey to Singapore Discovery Centre</em></center>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Geylang_Serai.png">
 </div>
-<p><em>Learning Journey to Geylang Serai</em>
-</p>
+<center><em>Learning Journey to Geylang Serai</em></center>
 <p></p>
 <p><strong>Values in Action (VIA)</strong>
 <br>In our efforts to nurture our students to become active contributors and
