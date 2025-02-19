@@ -21,29 +21,11 @@ variant: tiptap
 <p><strong>Head of Department (Character and Citizenship Education):</strong>
 <br>Mrs Ivy Tan</p>
 <p></p>
-<p><strong>Senior Teacher (Character and Citizenship Education):</strong>
+<p><strong>Senior Teachers:</strong>
 <br>Ms Hayati Bte Abdul Rahim (ST/CCE)</p>
 <p>Mdm Chng E-Hwei (ST/CL)</p>
 <p>Mrs Felicia Ng (ST/Art)</p>
-<p></p>
-<p><strong>Senior Teacher (Chinese Language):</strong>
-<br>Mdm Chng E-Hwei</p>
-<p></p>
-<p><strong>Senior Teacher (Art):</strong>
-<br>Mrs Felicia Ng
-<br>Mdm Suguna Gopynathan
-<br>Ms Koh Jia Shan
-<br>Mdm Humairiah Bte Ahmad
-<br>Mdm Luo Yanping
-<br>Mr Zhang Xingang
-<br>Mr Aanand Pandiyan
-<br>Mrs Chitra Guna
-<br>Ms Tan Shumin Charissa
-<br>Mr Rishikesh Rajendra Naidu
-<br>Ms Tan Miao Yun Lynette
-<br>Mdm Judy Lim
-<br>Mdm Kong Siew May
-<br>
+<p>
 <br><strong>Our Mission</strong>
 <br>To inculcate values and build competencies in our students to equip them
 with the knowledge, skills, attitudes and values to be responsible citizens
