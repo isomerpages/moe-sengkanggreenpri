@@ -86,7 +86,7 @@ and LIVE in our personal application as our Implementation Approach.</p>
 <p></p>
 <p><strong>Values-based Assembly / Form Teacher Guidance (CCE/FTGP)/HEART to Heart Programme&nbsp;</strong>
 </p>
-Anchored on the school’s ICAR2E values, and the SEL Competencies framework, the weekly 1-hour school assembly programme alternates with the CCE/FTGP lessons to teach school values, social-emotional competencies, Habits &amp; Routines and Life Skills.<br>
+<p>Anchored on the school’s ICAR2E values, and the SEL Competencies framework, the weekly 1-hour school assembly programme alternates with the CCE/FTGP lessons to teach school values, social-emotional competencies, Habits &amp; Routines and Life Skills.</p>
 <p></p><div class="isomer-image-wrapper">
 <img style="width: 70%" height="auto" width="100%" alt="" src="/images/cce004.png">
 </div>
@@ -105,10 +105,10 @@ them to:
 and
 <br>e) make appropriate and responsible decisions (Responsible Decision Making)
 </p><p>Form Teacher Guidance Programme (CCE/FTGP) aims to:
-<br>•Strengthen the provision of pastoral care by creating stable and positive
+<br>•&nbsp;&nbsp;&nbsp;Strengthen the provision of pastoral care by creating stable and positive
 teacher-student relationships.
-<br>• Provide a platform for teachers and students to establish a good rapport.
-<br>•Help teachers identify the needs of students and provide them with better
+<br>•&nbsp;&nbsp;&nbsp;Provide a platform for teachers and students to establish a good rapport.
+<br>•&nbsp;&nbsp;&nbsp;Help teachers identify the needs of students and provide them with better
 support in partnership with the parents.</p>
 <p></p>
 <div class="isomer-image-wrapper">
