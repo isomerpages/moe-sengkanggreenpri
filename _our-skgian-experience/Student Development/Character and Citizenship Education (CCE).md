@@ -178,18 +178,32 @@ of the community and nation.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce007.PNG">
 </div>
+<p><em>Fig.5 : The Citizenship Dispositions&nbsp;</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P5NEShow.png">
+</div>
+<p><em>P5 NE Show</em>
+</p>
 <p><strong>NE Commemorative Events&nbsp;</strong>
 </p>
 <p>The four core NE events that the school commemorates are Total Defence
 Day, International Friendship Day, Racial Harmony Day and National Day.
 During these events, the school will organise many interesting, fun and
 meaningful activities to foster a sense of pride and belonging to our country.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce008.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Total_Defence_Day.png">
 </div>
+<p><em>Fringe Activities during Total Defence Day</em>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce009.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/International_Friendship_Day.png">
 </div>
+<p><em>Recess activities to commemorate International Friendship Day</em>
+</p>
 <p><strong>Learning Journeys (LJs)</strong>
 </p>
 <p>LJs aim to instil in our students, pride in Singapore’s achievements,
