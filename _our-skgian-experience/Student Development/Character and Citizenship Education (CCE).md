@@ -299,9 +299,13 @@ face challenges and seize opportunities brought about by globalisation,
 changing demographics and technological advancements. Therefore, SkillsFuture@SKGPS
 adopts a whole school approach to empower our students to embark on a journey
 of self-discovery and make informed education and career choices.</p>
+	<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Education_and_Career_Guidance.png">
+</div>
+<p><em>Clean Plate Campaign</em>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
