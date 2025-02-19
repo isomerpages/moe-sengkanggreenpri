@@ -50,6 +50,8 @@ active contributor.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce002.png">
 </div>
+<p><em>Fig.1 : The CCE Goals</em>
+</p>
 <p>a)&nbsp;&nbsp;&nbsp; Good character: Have a sound moral compass and a
 strong sense of right and wrong, think critically and ethically, be discerning
 in judgment, take responsibility for choices and actions, be caring towards
@@ -78,6 +80,20 @@ SKGPS vision and mission, this framework focuses on the knowledge, skills
 and values which we aim to inculcate in our students to equip them to be
 citizens of good character.</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCEFramework.png">
+</div>
+<p><em>Fig.2 : The CCE Framework</em>
+</p>
+<p></p>
+<p>This is achieved through the CCE curriculum, which comprises CCE lessons,
+Form Teacher Guidance Period (FTGP), Programme for Active Learning (PAL)
+and CCE Guidance Modules as well as key student development experiences
+like the National Education (NE) commemorative days, Co-curricular (CCA),
+Values-in-Action (VIA) activities. The various key programmes and activities
+are integrated into every level to equip our students with the necessary
+knowledge, skills and values.&nbsp;</p>
 <p></p>
 <p>CCE in Sengkang Green anchors on the school mission to develop our students
 into Leaders of Character and Socially Responsible Citizens who actively
