@@ -82,12 +82,13 @@ and LIVE in our personal application as our Implementation Approach.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%" height="auto" width="100%" alt="" src="/images/CCE/TEACH_EMBED_and_LIVE_Approach.png">
 </div>
-<p><strong><u>Key Programmes</u></strong>
+<p><strong>Key Programmes</strong>
 </p>
 <p></p>
 <p><strong>Values-based Assembly / Form Teacher Guidance (CCE/FTGP)/HEART to Heart Programme&nbsp;</strong>
 </p>
-<div class="isomer-image-wrapper">
+Anchored on the school’s ICAR2E values, and the SEL Competencies framework, the weekly 1-hour school assembly programme alternates with the CCE/FTGP lessons to teach school values, social-emotional competencies, Habits &amp; Routines and Life Skills.<br>
+<p></p><div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce004.png">
 </div>
 <p><em>Fig.3 : The Relationship between SE Competenices and School Values</em>
