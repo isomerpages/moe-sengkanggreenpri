@@ -6,26 +6,14 @@ third_nav_title: Student Development
 variant: markdown
 ---
 <table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>The CCE Team</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<tbody><tr><td rowspan="1" colspan="1">
 <p><strong>Head of Department (Character and Citizenship Education):</strong>
 <br>Mrs Ivy Tan</p>
-<p></p>
 <p><strong>Senior Teachers:</strong>
-<br>Ms Hayati Bte Abdul Rahim (ST/CCE)</p>
-<p>Mdm Chng E-Hwei (ST/CL)</p>
-<p>Mrs Felicia Ng (ST/Art)</p>
-<p></p>
+<br>Ms Hayati Bte Abdul Rahim (ST/CCE)
+<br>Mdm Chng E-Hwei (ST/CL)
+<br>Mrs Felicia Ng (ST/Art)
+</p><p></p>
 <p><strong>Department Vision</strong>
 </p>
 <p>Every Teacher, a CCE Teacher</p>
