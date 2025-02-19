@@ -251,9 +251,9 @@ of self-discovery and make informed education and career choices.</p>
 <img style="width: 50%" height="auto" width="100%" alt="" src="/images/CCE/Education_and_Career_Guidance.png">
 </div>
 <p>The goals of Education and Career Guidance are to support students in:</p>
-<p><strong>Discovering purpose - Who am I?</strong>
+<strong>Discovering purpose - Who am I?</strong>
 <br>Nurture students' self-awareness to support them in discovering how they
-can meaningfully play a part in their community.</p>
+can meaningfully play a part in their community.<p></p>
 <p><strong>Exploring opportunities - Where do I want to go?</strong>
 <br>Develop students' self-directedness and confidence to explore and leverage
 education and career opportunities while respecting the value of all occupations.</p>
