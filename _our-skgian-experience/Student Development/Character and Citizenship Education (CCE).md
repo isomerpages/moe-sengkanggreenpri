@@ -158,7 +158,6 @@ of the community and nation.</p>
 Day, International Friendship Day, Racial Harmony Day and National Day.
 During these events, the school will organise many interesting, fun and
 meaningful activities to foster a sense of pride and belonging to our country.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Total_Defence_Day.png">
 </div>
