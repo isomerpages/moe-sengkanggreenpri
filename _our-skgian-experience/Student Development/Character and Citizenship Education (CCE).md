@@ -24,8 +24,7 @@ with the knowledge, skills, attitudes and values to be responsible citizens
 who serve beyond self.</p>
 <p></p>
 <p><strong>Department Aims</strong>
-</p>
-<p>Character &amp; Citizenship Education (CCE) in Sengkang Green anchors
+<br>Character &amp; Citizenship Education (CCE) in Sengkang Green anchors
 on the school mission to develop our students into Leaders of Character
 and Socially Responsible Citizens who actively contribute to the school,
 community and nation. CCE in Sengkang Green emphasises on the interconnectedness
