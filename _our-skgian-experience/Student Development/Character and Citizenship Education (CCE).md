@@ -111,34 +111,47 @@ and LIVE in our personal application as our Implementation Approach.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce004.png">
 </div>
-<p>Anchored on the school’s ICAR<sup>2</sup>E values, and the SEL Competencies
-framework, the weekly 1-hour school assembly programme alternates with
-the FTGP lessons to teach&nbsp;school values, social-emotional competencies,
-Habits &amp; Routines and Life Skills.</p>
-<p>FTGP and Heart-to-Heart programmes optimise opportunities for teachers
-to build positive relationship with their students. It provides quality
-interaction time for form teachers to engage in meaningful conversations
-with their students and future build on their 5 Social Emotional Competencies.</p>
+<p><em>Fig.3 : The Relationship between SE Competenices and School Values</em>
+</p>
 <p></p>
+<p>The CCE/FTGP and Heart-to-Heart programmes optimise opportunities for
+teachers to build positive relationship with their students. It provides
+quality interaction time for form teachers to engage in meaningful conversations
+with their students and future build on their 5 Social Emotional Competencies.</p>
+<p>&nbsp;</p>
 <p>The lessons are designed for students to acquire skills that will help
 them to:</p>
+<p>&nbsp;</p>
+<p>a) better understand themselves (Self-Awareness)</p>
+<p>b) learn ways to manage themselves (Self-Management)</p>
+<p>c) better understand their family and friends (Social Awareness)</p>
+<p>d) learn ways to work with their family and friends (Relationship Management)
+and</p>
+<p>e) make appropriate and responsible decisions (Responsible Decision Making)</p>
+<p>&nbsp;</p>
+<p>Form Teacher Guidance Programme (CCE/FTGP) aims to:</p>
+<p>&nbsp;</p>
+<p>•Strengthen the provision of pastoral care by creating stable and positive
+teacher-student relationships.</p>
+<p>&nbsp;</p>
+<p>• Provide a platform for teachers and students to establish a good rapport.</p>
+<p>&nbsp;</p>
+<p>•Help teachers identify the needs of students and provide them with better
+support in partnership with the parents.</p>
 <p></p>
-<p>a) better understand themselves (Self-Awareness)
-<br>b) learn ways to manage themselves (Self-Management)
-<br>c) better understand their family and friends (Social Awareness)
-<br>d) learn ways to work with their family and friends (Relationship Management)
-and
-<br>e) make appropriate and responsible decisions (Responsible Decision Making)</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce005.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Heart_to_Heart_interaction.jpg">
 </div>
-<p><strong>CCE Lessons</strong>
+<p><strong>CCE/MTL Lessons</strong>
 </p>
-<p>CCE lessons focus on developing the moral well-being of our students by
-helping them acquire and live by the values that guide them to make appropriate
-choices that determine their behaviours and attitudes towards themselves,
-others and the environment.</p>
+<p>CCE/MTL lessons focus on developing the moral well-being of our students
+by helping them acquire and live by the values that guide them to make
+appropriate choices that determine their behaviours and attitudes towards
+themselves and the environment. Lessons in CCE/MTL use stories, scenarios,
+songs and games, Lessons are designed to reinforce teaching and learning
+of values, develop social-emotional competencies and nurture citizenship
+dispositions.</p>
 <p></p>
 <p><strong>Social Studies<br></strong>The Social Studies&nbsp;curriculum
 spans the primary and secondary levels, and helps students to grow in knowledge,
