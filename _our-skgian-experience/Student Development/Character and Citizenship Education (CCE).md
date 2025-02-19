@@ -292,17 +292,13 @@ to others.</p>
 </p>
 <p></p>
 <p><strong>SkillsFuture@SKGPS</strong>
-<br>Our SkillsFuture@SKGPS programme aims to equip every SKGian with the information
-to explore various education pathways and make well-informed educational
-and career choices. In this fast-changing world, we prepare our students
-to face challenges and seize opportunities brought about by globalisation,
+<br>The SkillsFuture@SKGPS programme aims to equip every SKGian with the information
+and tools to explore various education pathways and make well-informed
+career choices. In this fast-changing world, we prepare our students to
+face challenges and seize opportunities brought about by globalisation,
 changing demographics and technological advancements. Therefore, SkillsFuture@SKGPS
 adopts a whole school approach to empower our students to embark on a journey
-of self-discovery, knowing more about their strengths, interests and aspirations
-to be future-ready.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce012.PNG">
-</div>
+of self-discovery and make informed education and career choices.</p>
 </td>
 </tr>
 </tbody>
