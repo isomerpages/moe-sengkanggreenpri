@@ -105,16 +105,12 @@ them to:
 <br>d) learn ways to work with their family and friends (Relationship Management)
 and
 <br>e) make appropriate and responsible decisions (Responsible Decision Making)
-</p><p>Form Teacher Guidance Programme (CCE/FTGP) aims to:</p>
-<p>&nbsp;</p>
-<p>•Strengthen the provision of pastoral care by creating stable and positive
-teacher-student relationships.</p>
-<p>&nbsp;</p>
-<p>• Provide a platform for teachers and students to establish a good rapport.</p>
-<p>&nbsp;</p>
-<p>•Help teachers identify the needs of students and provide them with better
+</p><p>Form Teacher Guidance Programme (CCE/FTGP) aims to:
+<br>•Strengthen the provision of pastoral care by creating stable and positive
+teacher-student relationships.
+<br>• Provide a platform for teachers and students to establish a good rapport.
+<br>•Help teachers identify the needs of students and provide them with better
 support in partnership with the parents.</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Heart_to_Heart_interaction.jpg">
