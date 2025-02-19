@@ -153,16 +153,15 @@ songs and games, Lessons are designed to reinforce teaching and learning
 of values, develop social-emotional competencies and nurture citizenship
 dispositions.</p>
 <p></p>
-<p><strong>Social Studies<br></strong>The Social Studies&nbsp;curriculum
-spans the primary and secondary levels, and helps students to grow in knowledge,
+<p><strong>Social Studies<br></strong>The Social Studies curriculum spans
+the primary and secondary levels, and helps students to grow in knowledge,
 develop skills and learn values through examining issues that are of concern
 to our society and the world in which we live. Through inquiry-based learning
 and authentic learning experiences, we hope to ignite students’ interest
-in real-world issues that concern them.&nbsp;</p>
+in real-world issues that concern them.</p>
 <p>The knowledge, skills and values gained from Social Studies, together
 with the citizenship dispositions that National Education is anchored on,
-will help students become citizens who&nbsp;are informed, concerned and
-participative.&nbsp;</p>
+will help students become citizens who are informed, concerned and participative.</p>
 <div class="isomer-image-wrapper">
 <img style="width:450px" height="auto" width="100%" alt="" src="/images/cce006.png">
 </div>
