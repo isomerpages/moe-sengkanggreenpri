@@ -210,7 +210,6 @@ many constraints and turn challenges into opportunities.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Geylang_Serai.png">
 </div>
 <center><em>Learning Journey to Geylang Serai</em></center>
-<p></p>
 <p><strong>Values in Action (VIA)</strong>
 <br>In our efforts to nurture our students to become active contributors and
 concerned citizens of the future, the school has adopted a 6-year spiral
@@ -219,7 +218,6 @@ Over the years, we have evolved due the changing landscape and will require
 our students to embrace the citizenry dispositions such as a sense of belonging,
 a sense of reality, a sense of hope and the will to act to return serve
 back to themselves and others.</p>
-<p>&nbsp;</p>
 <p>Our VIA activities are designed with a focus on the home, school and the
 community &amp; the nation. Through the VIA learning experiences, students
 are encouraged to identify and understand community issues, initiate actions
