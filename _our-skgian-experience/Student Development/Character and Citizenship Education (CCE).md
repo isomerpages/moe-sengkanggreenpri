@@ -175,8 +175,7 @@ meaningful activities to foster a sense of pride and belonging to our country.</
 </div>
 <center><em>Observance Ceremony during National Day</em></center>
 <p><strong>Learning Journeys</strong>
-</p>
-<p>The main objective of these Learning Journeys is for our children to understand
+<br>The main objective of these Learning Journeys is for our children to understand
 what makes Singapore tick, to understand why we are where we are today.
 They illustrate our vision and planning and reflect our society's character.
 Our children must learn about them, understand their significance, and
