@@ -153,9 +153,8 @@ of the community and nation.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P5NEShow.png">
 </div>
 <center><em>P5 NE Show</em></center>
-<p><strong>NE Commemorative Events&nbsp;</strong>
-</p>
-<p>The four core NE events that the school commemorates are Total Defence
+<p><strong>NE Commemorative Events</strong>
+<br>The four core NE events that the school commemorates are Total Defence
 Day, International Friendship Day, Racial Harmony Day and National Day.
 During these events, the school will organise many interesting, fun and
 meaningful activities to foster a sense of pride and belonging to our country.</p>
