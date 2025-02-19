@@ -64,7 +64,7 @@ citizens of good character.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%" height="auto" width="100%" alt="" src="/images/CCE/CCEFramework.png">
 </div>
-	<br><center><em>Fig.2 : The CCE Framework</em></center>
+<center><em>Fig.2 : The CCE Framework</em></center>
 <p></p>
 <br>This is achieved through the CCE curriculum, which comprises CCE lessons,
 Form Teacher Guidance Period (FTGP), Programme for Active Learning (PAL)
