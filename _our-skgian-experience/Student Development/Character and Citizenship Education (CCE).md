@@ -124,7 +124,6 @@ themselves and the environment. Lessons in CCE/MTL use stories, scenarios,
 songs and games, Lessons are designed to reinforce teaching and learning
 of values, develop social-emotional competencies and nurture citizenship
 dispositions.</p>
-<p></p>
 <p><strong>Social Studies<br></strong>The Social Studies curriculum spans
 the primary and secondary levels, and helps students to grow in knowledge,
 develop skills and learn values through examining issues that are of concern
@@ -136,10 +135,10 @@ with the citizenship dispositions that National Education is anchored on,
 will help students become citizens who are informed, concerned and participative.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Social_Circle.png">
+<img style="width: 70%" height="auto" width="100%" alt="" src="/images/CCE/Social_Circle.png">
 </div>
-<p><em>Fig.4: The Singapore Social Studies Curriculum&nbsp;</em>
-</p>
+<center><em>Fig.4: The Singapore Social Studies Curriculum&nbsp;</em>
+</center>
 <p><strong>National Education (NE) Programme</strong>
 </p>
 <p>The purpose of National Education is to develop &amp; inspire our students
