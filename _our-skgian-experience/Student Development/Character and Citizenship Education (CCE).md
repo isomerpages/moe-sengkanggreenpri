@@ -95,17 +95,18 @@ Values-in-Action (VIA) activities. The various key programmes and activities
 are integrated into every level to equip our students with the necessary
 knowledge, skills and values.&nbsp;</p>
 <p></p>
-<p>CCE in Sengkang Green anchors on the school mission to develop our students
-into Leaders of Character and Socially Responsible Citizens who actively
-contribute to the school, community and nation. We emphasise on the interconnectedness
-of the core values, 21<sup>st&nbsp;</sup>century competencies and civic
-literacy, global awareness and cross-cultural skills that are critical
-to develop student into a confident person, self-directed learner, concerned
-citizen and an active contributor.</p>
+<p><strong>TEACH, EMBED and LIVE Approach</strong>:</p>
+<p>Values are both taught and caught.</p>
+<p>TEACH in our customised curriculum, EMBED in our signature programmes
+and LIVE in our personal application as our Implementation Approach.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce003.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/TEACH_EMBED_and_LIVE_Approach.png">
 </div>
-<p><strong>Values-based Assembly / Form Teacher Guidance (FTGP Programme)/HEART to Heart Programme.&nbsp;&nbsp;</strong>
+<p><strong><u>Key Programmes</u></strong>
+</p>
+<p></p>
+<p><strong>Values-based Assembly / Form Teacher Guidance (CCE/FTGP)/HEART to Heart Programme&nbsp;</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce004.png">
