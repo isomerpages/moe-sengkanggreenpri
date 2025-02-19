@@ -116,15 +116,15 @@ support in partnership with the parents.</p>
 <img style="width: 60%" height="auto" width="100%" alt="" src="/images/CCE/Heart_to_Heart_interaction.jpg">
 </div>
 <p><strong>CCE/MTL Lessons</strong>
-</p>
-<p>CCE/MTL lessons focus on developing the moral well-being of our students
+<br>CCE/MTL lessons focus on developing the moral well-being of our students
 by helping them acquire and live by the values that guide them to make
 appropriate choices that determine their behaviours and attitudes towards
 themselves and the environment. Lessons in CCE/MTL use stories, scenarios,
 songs and games, Lessons are designed to reinforce teaching and learning
 of values, develop social-emotional competencies and nurture citizenship
 dispositions.</p>
-<p><strong>Social Studies<br></strong>The Social Studies curriculum spans
+<p><strong>Social Studies</strong>
+<br>The Social Studies curriculum spans
 the primary and secondary levels, and helps students to grow in knowledge,
 develop skills and learn values through examining issues that are of concern
 to our society and the world in which we live. Through inquiry-based learning
