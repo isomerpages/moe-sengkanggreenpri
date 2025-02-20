@@ -36,10 +36,10 @@ active contributor.</p>
 <img style="width: 70%" height="auto" width="100%" alt="" src="/images/cce002.png">
 </div>
 <center><em>Fig.1 : The CCE Goals</em></center>
-<br>a)&nbsp;&nbsp;&nbsp; Good character: Have a sound moral compass and a
+<p>a)&nbsp;&nbsp;&nbsp; Good character: Have a sound moral compass and a
 strong sense of right and wrong, think critically and ethically, be discerning
 in judgment, take responsibility for choices and actions, be caring towards
-others and strive for excellence;<p></p>
+others and strive for excellence;</p>
 <p>b)&nbsp;&nbsp;&nbsp; Resilience and social-emotional well-being: Have
 a balanced sense of self, form healthy relationships, be resilient when
 faced with challenges, find meaning in life, and have a sense of gratitude
@@ -66,14 +66,13 @@ citizens of good character.</p>
 </div>
 <center><em>Fig.2 : The CCE Framework</em></center>
 <p></p>
-<br>This is achieved through the CCE curriculum, which comprises CCE lessons,
+<p>This is achieved through the CCE curriculum, which comprises CCE lessons,
 Form Teacher Guidance Period (FTGP), Programme for Active Learning (PAL)
 and CCE Guidance Modules as well as key student development experiences
 like the National Education (NE) commemorative days, Co-curricular (CCA),
 Values-in-Action (VIA) activities. The various key programmes and activities
 are integrated into every level to equip our students with the necessary
-knowledge, skills and values.&nbsp;<p></p>
-<p></p>
+knowledge, skills and values.&nbsp;</p>
 <p><strong>TEACH, EMBED and LIVE Approach</strong>:
 <br>Values are both taught and caught.
 <br>TEACH in our customised curriculum, EMBED in our signature programmes
@@ -87,7 +86,7 @@ and LIVE in our personal application as our Implementation Approach.</p>
 <p></p>
 <p><strong>Values-based Assembly / Form Teacher Guidance (CCE/FTGP)/HEART to Heart Programme&nbsp;</strong>
 </p>
-Anchored on the school’s ICAR2E values, and the SEL Competencies framework, the weekly 1-hour school assembly programme alternates with the CCE/FTGP lessons to teach school values, social-emotional competencies, Habits &amp; Routines and Life Skills.<br>
+<p>Anchored on the school’s ICAR2E values, and the SEL Competencies framework, the weekly 1-hour school assembly programme alternates with the CCE/FTGP lessons to teach school values, social-emotional competencies, Habits &amp; Routines and Life Skills.</p>
 <p></p><div class="isomer-image-wrapper">
 <img style="width: 70%" height="auto" width="100%" alt="" src="/images/cce004.png">
 </div>
@@ -106,10 +105,10 @@ them to:
 and
 <br>e) make appropriate and responsible decisions (Responsible Decision Making)
 </p><p>Form Teacher Guidance Programme (CCE/FTGP) aims to:
-<br>•Strengthen the provision of pastoral care by creating stable and positive
+<br>•&nbsp;&nbsp;&nbsp;Strengthen the provision of pastoral care by creating stable and positive
 teacher-student relationships.
-<br>• Provide a platform for teachers and students to establish a good rapport.
-<br>•Help teachers identify the needs of students and provide them with better
+<br>•&nbsp;&nbsp;&nbsp;Provide a platform for teachers and students to establish a good rapport.
+<br>•&nbsp;&nbsp;&nbsp;Help teachers identify the needs of students and provide them with better
 support in partnership with the parents.</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -251,15 +250,15 @@ of self-discovery and make informed education and career choices.</p>
 <img style="width: 50%" height="auto" width="100%" alt="" src="/images/CCE/Education_and_Career_Guidance.png">
 </div>
 <p>The goals of Education and Career Guidance are to support students in:</p>
-<strong>Discovering purpose - Who am I?</strong>
-<br>Nurture students' self-awareness to support them in discovering how they
-can meaningfully play a part in their community.<p>
-<strong>Exploring opportunities - Where do I want to go?</strong>
-<br>Develop students' self-directedness and confidence to explore and leverage
+<strong></strong><p><strong>Discovering purpose - Who am I?</strong></p>
+<p>Nurture students' self-awareness to support them in discovering how they
+can meaningfully play a part in their community.</p>
+<strong></strong><p><strong>Exploring opportunities - Where do I want to go?</strong></p>
+<p>Develop students' self-directedness and confidence to explore and leverage
 education and career opportunities while respecting the value of all occupations.</p>
-<strong>Staying relevant - How do I get there?</strong>
-<br>Build students' adaptability and resilience to embrace the need for lifelong
-learning.<p></p>
+<strong></strong><p><strong>Staying relevant - How do I get there?</strong></p>
+<p>Build students' adaptability and resilience to embrace the need for lifelong
+learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Career_Awareness_Fest.png">
 </div>
