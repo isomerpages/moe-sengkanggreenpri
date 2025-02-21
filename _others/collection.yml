@@ -3,15 +3,11 @@ collections:
     output: true
     order:
       - Announcements/.keep
+      - Announcements/Inspiring Teacher of English Award 2025.md
       - Announcements/Announcements.md
       - Announcements/10th Year Anniversary Celebration.md
-      - "Announcements/Open for Nominations: Inspiring Teacher of English Award
-        2024.md"
-      - Highlights/P1 Engagement Session 2025.md
       - Highlights/Principal's Message 2025.md
       - Highlights/.keep
-      - Highlights/President’s Award for Teachers 2025.md
-      - Highlights/Outstanding Youth in Education Award 2025.md
       - "Highlights/Staff Appreciation Day : Visit by former students.md"
       - Highlights/Happy National Day 2024!.md
       - Highlights/SKGPS eOpen House 2024.md
