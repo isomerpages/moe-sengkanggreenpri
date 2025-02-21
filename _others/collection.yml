@@ -3,8 +3,7 @@ collections:
     output: true
     order:
       - Announcements/.keep
-      - "Announcements/Open for Nominations: Inspiring Teacher of English Award
-        2025.md"
+      - Announcements/Inspiring Teacher of English Award 2025.md
       - Announcements/Announcements.md
       - Announcements/10th Year Anniversary Celebration.md
       - Highlights/Principal's Message 2025.md
