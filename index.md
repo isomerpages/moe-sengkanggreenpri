@@ -58,4 +58,13 @@ sections:
       url: /our-skgian-family/a-note-of-affirmation/
       image: /images/affirm.png
       alt: Image alt text
+  - infopic:
+      title: Inspiring Teacher of English Award
+      subtitle: Nominate your english teacher
+      id: infopic
+      description: 2025 Nominations are now open.
+      button: Nominate Here
+      url: https://www.sengkanggreenpri.moe.edu.sg/others/announcements/open-for-nominations-inspiring-teacher-of-english-award-2025/
+      image: /images/itea.png
+      alt: Image alt text
 ---
