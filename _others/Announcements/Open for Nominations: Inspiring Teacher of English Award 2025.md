@@ -81,5 +81,5 @@ Teacher of English Award.</p>
 </p>
 </li>
 </ul>
-<p><strong>The nomination period for the Inspiring Teacher of English Award 2024 is from 1 Feb 2024 to 25 Mar 2024. Submit your nominations&nbsp;today!&nbsp;</strong>
+<p><strong>Nominations open on 3 February 2025 and all forms must reach the Speak Good English Movement by 5pm on 4 April 2025. Submit your nominations&nbsp;today!&nbsp;</strong>
 </p>
