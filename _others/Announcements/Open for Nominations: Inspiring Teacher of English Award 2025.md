@@ -32,20 +32,27 @@ with the syllabuses and curriculum, as well as classroom-based innovations.</p>
 <li>
 <p>communicated a shared vision for quality teaching and learning that reflects
 a strong understanding of the organisational culture and the learning needs
-of staff and students;&nbsp;</p>
+of staff and students;</p>
 </li>
 <li>
-<p>planned an English Language/Literature/General Paper programme based on
-the requirements of the relevant national syllabuses to meet the readiness,
+<p>planned an English Language/Literature in English/General Paper school-based
+curriculum alighed with the relevant national syllabuses to meet the readiness,
 interests and learning profiles of students of the school;</p>
 </li>
 <li>
-<p>effectively implemented the school-based instructional programme (including
-enrichment and/or remedial programmes);&nbsp;</p>
+<p>effectively implemented the school-based curriculum to develop the English
+Language/Literature in English/General Paper Learner Outcomes aligned with
+the syllabuses; and</p>
 </li>
 <li>
-<p>developed the teaching competencies of teachers of English so that they
-are better able to enact their school-based instructional programmes.</p>
+<p>developed the teaching competencies of teachers in their departments so
+that they are able to enact classroom practices in alignment with the syllabuses
+and curriculum, as well as classroom-based innovations, including the appropriate
+use of EdTech to enhance teaching and learning; and</p>
+</li>
+<li>
+<p>undertaken classroom inquiry with evidence provided of the impact on students’
+learning.</p>
 </li>
 </ul>
 <p>If this sounds like a teacher you know, nominate them for the Inspiring
