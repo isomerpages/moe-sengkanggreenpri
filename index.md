@@ -28,25 +28,6 @@ sections:
       image: /images/Picture1.png
       alt: Image alt text
   - infopic:
-      title: President’s Award for Teachers 2025
-      id: infopic
-      description: The President’s Award for Teachers (PAT) gives national recognition
-        to experienced teachers who are role models for the teaching profession.
-      button: Nominate here
-      url: https://go.gov.sg/oyea2025
-      image: /images/PAT.jpg
-      alt: Image alt text
-  - infopic:
-      title: Outstanding Youth in Education Award 2025
-      id: infopic
-      description: The Outstanding Youth in Education Award (OYEA) gives national
-        recognition to young teachers who are role models for the teaching
-        profession.
-      button: Nominate Here
-      url: https://go.gov.sg/oyea2025
-      image: /images/OYEA.jpg
-      alt: Image alt text
-  - infopic:
       id: infopic
       image: /images/Staff_Appreciation.jpg
       alt: Image alt text
