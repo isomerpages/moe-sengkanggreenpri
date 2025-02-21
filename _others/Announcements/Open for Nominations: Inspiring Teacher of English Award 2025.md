@@ -62,13 +62,13 @@ Teacher of English Award.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nomination Form: <a href="https://www.languagecouncils.sg/goodenglish/-/media/sgem/document/itea-nomination-forms/2024/teaching-nomination-form-2024.pdf" rel="noopener" target="_blank">PDF Format</a>&nbsp;/&nbsp;
-<a href="https://www.languagecouncils.sg/goodenglish/-/media/sgem/document/itea-nomination-forms/2024/teaching-nomination-form-2024.docx" rel="noopener" target="_blank">MS Word Format</a>
+<p>Nomination Form: <a href="https://www.languagecouncils.sg/goodenglish/-/media/sgem/document/itea-nomination-forms/2025/teaching-award-nom-form_itea-2025.pdf" rel="noopener" target="_blank">PDF Format</a>&nbsp;/&nbsp;
+<a href="https://www.languagecouncils.sg/goodenglish/-/media/sgem/document/itea-nomination-forms/2025/teaching-award-nom-form_itea-2025-doc.docx" rel="noopener" target="_blank">MS Word Format</a>
 </p>
 </li>
 <li>
-<p>Endorsement Form:&nbsp;<a href="https://www.languagecouncils.sg/goodenglish/-/media/sgem/document/itea-nomination-forms/2024/teaching-endorsement-form-2024.pdf" rel="noopener" target="_blank">PDF Format</a>&nbsp;/&nbsp;
-<a href="https://www.languagecouncils.sg/goodenglish/-/media/sgem/document/itea-nomination-forms/2024/teaching-endorsement-form-2024.docx" rel="noopener" target="_blank">MS Word Format</a>
+<p>Endorsement Form:&nbsp;<a href="https://www.languagecouncils.sg/goodenglish/-/media/sgem/document/itea-nomination-forms/2025/teaching-award-endorsement-form_itea-2025.pdf" rel="noopener" target="_blank">PDF Format</a>&nbsp;/&nbsp;
+<a href="https://www.languagecouncils.sg/goodenglish/-/media/sgem/document/itea-nomination-forms/2025/teaching-award-endorsement-form_itea-2025-doc.docx" rel="noopener" target="_blank">MS Word Format</a>
 </p>
 </li>
 </ul>
@@ -76,8 +76,8 @@ Teacher of English Award.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nomination &amp; Endorsement Form:<a href="https://www.languagecouncils.sg/goodenglish/-/media/sgem/document/itea-nomination-forms/2024/leadership-nomination-form-2024.pdf" rel="noopener" target="_blank">PDF Format</a>&nbsp;/&nbsp;
-<a href="https://www.languagecouncils.sg/goodenglish/-/media/sgem/document/itea-nomination-forms/2024/leadership-nomination-form-2024.docx" rel="noopener" target="_blank">MS Word Format</a>
+<p>Nomination &amp; Endorsement Form: <a href="https://www.languagecouncils.sg/goodenglish/-/media/sgem/document/itea-nomination-forms/2025/leadership-award-nomination-form_itea-2025.pdf" rel="noopener" target="_blank">PDF Format</a>&nbsp;/&nbsp;
+<a href="https://www.languagecouncils.sg/goodenglish/-/media/sgem/document/itea-nomination-forms/2025/leadership-award-nomination-form_itea-2025-doc.docx" rel="noopener" target="_blank">MS Word Format</a>
 </p>
 </li>
 </ul>
