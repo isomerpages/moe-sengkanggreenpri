@@ -36,7 +36,7 @@ of staff and students;</p>
 </li>
 <li>
 <p>planned an English Language/Literature in English/General Paper school-based
-curriculum alighed with the relevant national syllabuses to meet the readiness,
+curriculum aligned with the relevant national syllabuses to meet the readiness,
 interests and learning profiles of students of the school;</p>
 </li>
 <li>
@@ -62,7 +62,7 @@ Teacher of English Award.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nomination Form:<a href="https://www.languagecouncils.sg/goodenglish/-/media/sgem/document/itea-nomination-forms/2024/teaching-nomination-form-2024.pdf" rel="noopener" target="_blank">PDF Format</a>&nbsp;/&nbsp;
+<p>Nomination Form: <a href="https://www.languagecouncils.sg/goodenglish/-/media/sgem/document/itea-nomination-forms/2024/teaching-nomination-form-2024.pdf" rel="noopener" target="_blank">PDF Format</a>&nbsp;/&nbsp;
 <a href="https://www.languagecouncils.sg/goodenglish/-/media/sgem/document/itea-nomination-forms/2024/teaching-nomination-form-2024.docx" rel="noopener" target="_blank">MS Word Format</a>
 </p>
 </li>
