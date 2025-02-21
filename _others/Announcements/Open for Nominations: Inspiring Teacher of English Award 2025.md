@@ -6,6 +6,10 @@ third_nav_title: Announcements
 variant: tiptap
 ---
 <h4><strong>NOMINATE YOUR ENGLISH LANGUAGE TEACHER TODAY!</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/itea.png">
+</div>
 <p>We are looking for teachers who:</p>
 <ul data-tight="true" class="tight">
 <li>
