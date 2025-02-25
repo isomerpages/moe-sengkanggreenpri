@@ -263,7 +263,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>2 Attentive</strong>
 </p>
 <p></p>
@@ -273,15 +273,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_afiqah_anwarie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_afiqah_anwarie@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhd Amirul Bin Abdullah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Muhammad_Amirul_Abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Amirul_Abdullah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -838,7 +829,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>4 Friendly</strong>
 </p>
 <p></p>
@@ -866,6 +857,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Shariffah_Ayesha_Almenoar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Shariffah_Ayesha_Almenoar@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sarah Qistina Abdullah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Sarah_Qistina_Abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sarah_Qistina_Abdullah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
