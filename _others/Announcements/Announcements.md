@@ -5,6 +5,12 @@ description: ""
 third_nav_title: Announcements
 variant: markdown
 ---
+<p><strong>P2 Parent Engagement Session 2025<br></strong>Please click on
+the following link to download the presentation slides.</p>
+<p><a href="/files/2025_PES/P2 PES/principal_address.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 PES Principal Address</a>
+<br><a href="/files/2025_PES/P2 PES/p2_yearhead.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 Year Head Sharing</a>
+	<br><a href="/files/2025_PES/P2 PES/p2_academic_heads.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 Academic Heads Sharing</a>
+</p>
 <p></p>
 <p><strong>P4 Parent Engagement Session 2025<br></strong>Please click on
 the following link to download the presentation slides.</p>
