@@ -111,8 +111,7 @@ parents
 <br>(2) Be part of the feedback unit to build a nurturing, caring school and
 home environment for your child</p>
 <p>How can you play a part? Join the PSG and be a Parent volunteer.
-<br>If you are interested, you may fill up this online&nbsp;<a href="https://form.gov.sg/65090acf2b93e6001183110b" rel="noopener" target="_blank">application form</a>.
-<br>Kindly email to&nbsp;<a href="mailto:chua_siang_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chua_siang_peng@moe.edu.sg</a> for
+<br>If you are interested, kindly email to&nbsp;<a href="mailto:chua_siang_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chua_siang_peng@moe.edu.sg</a> for
 any queries or clarification with regards to the PSG.</p>
 <p><strong>Highlights of Present activities – participated by PSG Members</strong>
 </p>
