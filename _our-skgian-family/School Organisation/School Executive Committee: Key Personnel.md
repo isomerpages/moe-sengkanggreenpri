@@ -160,7 +160,7 @@ variant: markdown
 <p></p>
 <p></p><center>
 <p><strong>Mrs Janice Wan<br>HOD/SEN</strong>
-<br><a href="Janice_Tor_Shijia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Janice_Tor_Shijia@moe.edu.sg</a>
+<br><a href="Janice_Tor_Shi_Jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Janice_Tor_Shi_Jia@moe.edu.sg</a>
 </p>
 <p></p>
 <p></p>
