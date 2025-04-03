@@ -78,12 +78,12 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp8.jpg">
+<img style="width:150px" height="auto" width="100%" alt="" src="/images/Staff Photos/Mdm_Mahalakshmi.jpg">
 </div>
 <p></p>
 <p></p><center>
-<p><strong>Ms Tan Wan Cheng, Rachael<br>Head of Department / Mathematics </strong>
-<br><a href="mailto: tan_wan_cheng_rachael@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wan_cheng_rachael@moe.edu.sg</a>
+<p><strong>Mdm Mahalakshmi<br>HOD / Student Management</strong>
+<br><a href="mailto: mahalakshmi_kalyanam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mahalakshmi_kalyanam@moe.edu.sg</a>
 </p>
 <p></p>
 <p></p>
@@ -110,12 +110,12 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/Staff Photos/Mdm_Mahalakshmi.jpg">
+<img style="width:150px" height="auto" width="100%" alt="" src="/images/Staff Photos/Ms_Janice_Tor.jpg">
 </div>
 <p></p>
 <p></p><center>
-<p><strong>Mdm Mahalakshmi<br>HOD / Student Management</strong>
-<br><a href="mailto: mahalakshmi_kalyanam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mahalakshmi_kalyanam@moe.edu.sg</a>
+<p><strong>Mrs Janice Wan<br>Head Of Department / SEN</strong>
+<br><a href="Janice_Tor_Shi_Jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Janice_Tor_Shi_Jia@moe.edu.sg</a>
 </p>
 <p></p>
 <p></p>
@@ -127,7 +127,7 @@ variant: markdown
 </div>
 <p></p>
 <p></p><center>
-<p><strong>Mdm Tinie Tan Mui Ngin<br>Head of Department / Mother Tongue </strong>
+<p><strong>Mdm Tinie Tan Mui Ngin<br>HOD/ Mother Tongue </strong>
 <br><a href="tan_mui_ngin_tinie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mui_ngin_tinie@moe.edu.sg</a>
 </p>
 <p></p>
@@ -155,12 +155,12 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/Staff Photos/Ms_Janice_Tor.jpg">
+<img style="width:150px" height="auto" width="100%" alt="" src="/images/Ms_Ng_Hui_Lin_Dion.JPG">
 </div>
 <p></p>
 <p></p><center>
-<p><strong>Mrs Janice Wan<br>HOD/SEN</strong>
-<br><a href="Janice_Tor_Shi_Jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Janice_Tor_Shi_Jia@moe.edu.sg</a>
+<p><strong>Ms Ng Hui Lin Dion<br>Level Head / Mathematics </strong>
+<br><a href="mailto: ng_hui_lin_dion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hui_lin_dion@moe.edu.sg</a>
 </p>
 <p></p>
 <p></p>
@@ -173,18 +173,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/Ms_Ng_Hui_Lin_Dion.JPG">
-</div>
-<p></p>
-<p></p><center>
-<p><strong>Ms Ng Hui Lin Dion<br>Level Head / Mathematics </strong>
-<br><a href="mailto: ng_hui_lin_dion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hui_lin_dion@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
-</center></td>
-<td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:150px" height="auto" width="100%" alt="" src="/images/Staff Photos/kuan_hoe.png">
@@ -193,6 +182,17 @@ variant: markdown
 <p></p><center>
 <p><strong>Mr Chong Kuan Hoe<br>Level Head / Science </strong>
 <br><a href="mailto: chong_kuan_hoe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_kuan_hoe@moe.edu.sg</a>
+</p>
+<p></p>
+<p></p>
+</center></td>
+<td rowspan="1" colspan="1">
+<p></p>
+
+<p></p>
+<p></p><center>
+<p><strong><br> </strong>
+<br><a href="mailto: chong_kuan_hoe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
 </p>
 <p></p>
 <p></p>

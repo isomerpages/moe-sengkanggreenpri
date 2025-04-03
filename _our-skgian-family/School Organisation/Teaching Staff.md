@@ -3,7 +3,7 @@ title: Teaching Staff
 permalink: /our-skgian-family/school-organization/teaching-staff/
 description: ""
 third_nav_title: School Organisation
-variant: tiptap
+variant: markdown
 ---
 <h4><strong>Primary 1</strong></h4>
 <table style="minWidth: 75px">
@@ -396,7 +396,7 @@ variant: tiptap
 <p>Ms Shannon Low</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Shannon_Low_Sien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Shannon_Low_Sien@moe.edu.sg</a>
+<p><a href="mailto:shannon_low_si-en@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shannon_low_si-en@moe.edu.sg</a>
 </p>
 </td>
 </tr>
