@@ -396,7 +396,7 @@ variant: markdown
 <p>Ms Shannon Low</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Shannon_Low_Sien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Shannon_Low_Sien@moe.edu.sg</a>
+<p><a href="mailto:shannon_low_si-en@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shannon_low_si-en@moe.edu.sg</a>
 </p>
 </td>
 </tr>
