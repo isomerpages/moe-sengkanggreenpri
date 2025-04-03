@@ -114,7 +114,7 @@ variant: markdown
 </div>
 <p></p>
 <p></p><center>
-<p><strong>Mrs Janice Wan<br>HOD/SEN</strong>
+<p><strong>Mrs Janice Wan<br>Head Of Department / SEN</strong>
 <br><a href="Janice_Tor_Shi_Jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Janice_Tor_Shi_Jia@moe.edu.sg</a>
 </p>
 <p></p>
@@ -127,7 +127,7 @@ variant: markdown
 </div>
 <p></p>
 <p></p><center>
-<p><strong>Mdm Tinie Tan Mui Ngin<br>Head of Department / Mother Tongue </strong>
+<p><strong>Mdm Tinie Tan Mui Ngin<br>HOD/ Mother Tongue </strong>
 <br><a href="tan_mui_ngin_tinie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mui_ngin_tinie@moe.edu.sg</a>
 </p>
 <p></p>
