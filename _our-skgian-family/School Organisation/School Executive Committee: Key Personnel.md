@@ -378,12 +378,12 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp11.jpg">
+<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp21.jpg">
 </div>
 <p></p>
 <p></p><center>
-<p><strong>Mr Joshua Seow<br>Senior Teacher / Physical Education </strong>
-<br><a href="mailto: seow_eng_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_eng_huat@moe.edu.sg</a>
+<p><strong>Mdm Chng E-Hwei<br>Senior Teacher / Chinese </strong>
+<br><a href="mailto: chng_e_hwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_e_hwei@moe.edu.sg</a>
 </p>
 <p></p>
 <p></p>
@@ -396,14 +396,12 @@ variant: markdown
 <tr>
 	<td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp21.jpg">
-</div>
+		
+
 <p></p>
 <p></p><center>
-<p><strong>Mdm Chng E-Hwei<br>Senior Teacher / Chinese </strong>
-<br><a href="mailto: chng_e_hwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_e_hwei@moe.edu.sg</a>
-</p></center></td><td rowspan="1" colspan="1">
+
+<p></p></center></td><td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:150px" height="auto" width="100%" alt="" src="/images/kp0030.jpg">
