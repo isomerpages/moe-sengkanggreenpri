@@ -16,7 +16,7 @@ variant: markdown
 <div><a href="https://workspace.google.com/dashboard" target="_blank" rel="noopener">Student iCON</a></div>
 </td>
 <td style="text-align: center; width: 200px;">
-<div><a href="https://nsg.moe.edu.sg/sssc" target="_blank" rel="noopener">SG SCH SPORTS COUNCIL</a></div>
+<div><a href="https://nsg.moe.edu.sg/sssc" target="_blank" rel="noopener">SG School Sports Council</a></div>
 </td>
 <td style="text-align: center; width: 200px;">
 <div><a href="https://icon.moe.edu.sg/" target="_blank" rel="noopener">ICON</a></div>
@@ -24,10 +24,10 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center; width: 200px;">
-<div><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener">STUDENTS LEARNING SPACE</a></div>
+<div><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener">Students Learning Space</a></div>
 </td>
 <td style="text-align: center; width: 200px;">
-<div><a href="https://www.moe.gov.sg/" target="_blank" rel="noopener">MOE WEBSITE</a></div>
+<div><a href="https://www.moe.gov.sg/" target="_blank" rel="noopener">MOE Website</a></div>
 </td>
 <td style="text-align: center; width: 200px;">
 <div><a href="http://opal2.moe.edu.sg/" target="_blank" rel="noopener">OPAL2.0</a></div>
@@ -35,11 +35,11 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center; width: 200px;">
-<div><a href="https://schoolibrary.moe.edu.sg/sengkanggreenpri" target="_blank" rel="noopener">LIBRARY CATALOGUE</a></div>
+<div><a href="https://schoolibrary.moe.edu.sg/sengkanggreenpri" target="_blank" rel="noopener">Library Catalogue</a></div>
 </td>
 <td style="text-align: center; width: 200px;"> </td>
 <td style="text-align: center; width: 200px;">
-<div><a href="https://schoolcockpit.moe.gov.sg/" target="_blank" rel="noopener">SCHOOL COCKPIT</a></div>
+<div><a href="https://schoolcockpit.moe.gov.sg/" target="_blank" rel="noopener">School Cockpit</a></div>
 </td>
 </tr>
 <tr>
