@@ -889,11 +889,9 @@ variant: markdown
 </td>
 </tr>
 <tr>
-
-
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>4 Gracious</strong>
 </p>
 <p></p>
@@ -915,6 +913,15 @@ variant: markdown
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Ghee Gin Shane</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Goh_Ghee_Gin_Shane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Goh_Ghee_Gin_Shane@moe.edu.sg</a>
+</p>
+</td>
+</tr>	
 </tbody>
 </table>
 <h4><strong>Primary 5</strong></h4>
