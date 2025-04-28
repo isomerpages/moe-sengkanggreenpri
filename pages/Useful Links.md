@@ -53,7 +53,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center; width: 200px;">
-<div><a href="https://for.edu.sg/skgresetaccount" target="_blank" rel="noopener">Reset of Students' Account</a></div>
+<div><a href="https://for.edu.sg/skgresetaccount" target="_blank" rel="noopener">Unlock Students MIMS/SLS</a></div>
 </td>
 <td style="text-align: center; width: 200px;">&nbsp;</td>
 <td style="text-align: center; width: 200px;">
@@ -89,7 +89,7 @@ variant: markdown
 <div><a href="https://iexams.seab.gov.sg/" target="_blank" rel="noopener">iExam</a></div>
 </td>
 </tr>
-	<tr>
+<tr>
 <td style="text-align: center; width: 200px;">
 </td><td style="text-align: center; width: 200px;"> </td>
 <td style="text-align: center; width: 200px;">
