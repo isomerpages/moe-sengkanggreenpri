@@ -52,7 +52,9 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td style="text-align: center; width: 200px;">&nbsp;</td>
+<td style="text-align: center; width: 200px;">
+<div><a href="https://for.edu.sg/skgresetaccount" target="_blank" rel="noopener">Reset of Students' Account</a></div>
+</td>
 <td style="text-align: center; width: 200px;">&nbsp;</td>
 <td style="text-align: center; width: 200px;">
 <div><a href="https://intranet.moe.gov.sg/" target="_blank" rel="noopener">MOE Intranet</a></div>
