@@ -73,12 +73,18 @@ variant: markdown
 <div><a href="https://scmobile.moe.edu.sg/login" target="_blank" rel="noopener">SC Mobile</a></div>
 </td>
 </tr>
-	<tr>
+<tr>
 <td style="text-align: center; width: 200px;">
-</td>
-<td style="text-align: center; width: 200px;"> </td>
+</td><td style="text-align: center; width: 200px;"> </td>
 <td style="text-align: center; width: 200px;">
 <div><a href="https://rbs.avero-tech.com/" target="_blank" rel="noopener">Resource Booking</a></div>
+</td>
+</tr>
+	<tr>
+<td style="text-align: center; width: 200px;">
+</td><td style="text-align: center; width: 200px;"> </td>
+<td style="text-align: center; width: 200px;">
+<div><a href="https://iexams.seab.gov.sg/" target="_blank" rel="noopener">iExam</a></div>
 </td>
 </tr>
 </tbody>
