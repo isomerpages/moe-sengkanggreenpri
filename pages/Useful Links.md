@@ -37,7 +37,9 @@ variant: markdown
 <td style="text-align: center; width: 200px;">
 <div><a href="https://schoolibrary.moe.edu.sg/sengkanggreenpri" target="_blank" rel="noopener">Library Catalogue</a></div>
 </td>
-<td style="text-align: center; width: 200px;"> </td>
+<td style="text-align: center; width: 200px;"> 
+<div><a href="https://www.microsoft.com/en-sg/microsoft-teams/log-in" target="_blank" rel="noopener">MS Teams Login</a></div>
+</td>
 <td style="text-align: center; width: 200px;">
 <div><a href="https://schoolcockpit.moe.gov.sg/" target="_blank" rel="noopener">School Cockpit</a></div>
 </td>
