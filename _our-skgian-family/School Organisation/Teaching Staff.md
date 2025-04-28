@@ -1154,10 +1154,10 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kwok Wing Chiu (Mrs Anna Poh)</p>
+<p>Ms Ong Xiang Teng </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:KWOK_Wing_Chiu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">KWOK_Wing_Chiu@moe.edu.sg</a>
+<p><a href="mailto:Ong_Xiang_Teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ong_Xiang_Teng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
