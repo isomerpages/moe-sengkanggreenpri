@@ -70,7 +70,7 @@ variant: markdown
 <td style="text-align: center; width: 200px;">&nbsp;</td>
 <td style="text-align: center; width: 200px;">
 
-<div><a href="[Outlook (schools.gov.sg)]https://schools.gov.sg/owa/" target="_blank" rel="noopener">Web based Outlook</a></div>
+<div><a href="https://scmobile.moe.edu.sg/login" target="_blank" rel="noopener">SC Mobile</a></div>
 </td>
 </tr>
 </tbody>
