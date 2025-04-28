@@ -48,7 +48,9 @@ variant: markdown
 <td style="text-align: center; width: 200px;">
 <div><a href="https://www.csa.gov.sg/gosafeonline/" target="_blank" rel="noopener">Cyberwellness</a></div>
 </td>
-<td style="text-align: center; width: 200px;"> </td>
+<td style="text-align: center; width: 200px;"> 
+<div><a href="https://pg.moe.edu.sg/faq" target="_blank" rel="noopener">Parents Gateway FAQ</a></div>
+</td>
 <td style="text-align: center; width: 200px;">
 <div><a href="https://pg.moe.edu.sg/" target="_blank" rel="noopener">PG link for Teachers</a></div>
 </td>
