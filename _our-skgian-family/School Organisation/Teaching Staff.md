@@ -217,10 +217,10 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Seow Koon</p>
+<p>Ms Wong Ler Sien Charmaine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_seow_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_seow_koon@moe.edu.sg</a>
+<p><a href="mailto:Wong_Ler_Sien_Charmaine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wong_Ler_Sien_Charmaine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
