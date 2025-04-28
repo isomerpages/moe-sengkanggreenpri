@@ -44,7 +44,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center; width: 200px;">
-<div><a href="https://www.csa.gov.sg/gosafeonline/" target="_blank" rel="noopener">CYBERWELLNESS</a></div>
+<div><a href="https://www.csa.gov.sg/gosafeonline/" target="_blank" rel="noopener">Cyberwellness</a></div>
 </td>
 <td style="text-align: center; width: 200px;"> </td>
 <td style="text-align: center; width: 200px;">
@@ -55,7 +55,7 @@ variant: markdown
 <td style="text-align: center; width: 200px;">&nbsp;</td>
 <td style="text-align: center; width: 200px;">&nbsp;</td>
 <td style="text-align: center; width: 200px;">
-<div><a href="https://intranet.moe.gov.sg/" target="_blank" rel="noopener">MOE INTRANET</a></div>
+<div><a href="https://intranet.moe.gov.sg/" target="_blank" rel="noopener">MOE Intranet</a></div>
 </td>
 </tr>
 <tr>
