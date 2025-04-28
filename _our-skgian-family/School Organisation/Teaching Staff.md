@@ -608,7 +608,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>3 Excellent</strong>
 </p>
 <p></p>
@@ -630,6 +630,15 @@ variant: markdown
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chng Kee Hean Acacius</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Acacius_Chng_Kee_Hean@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Acacius_Chng_Kee_Hean@moe.edu.sg</a>
+</p>
+</td>
+</tr>	
 <tr>
 <td rowspan="2" colspan="1">
 <p><strong>3 Friendly</strong>
