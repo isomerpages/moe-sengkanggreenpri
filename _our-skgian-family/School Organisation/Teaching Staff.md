@@ -562,7 +562,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>3 Caring</strong>
 </p>
 <p></p>
@@ -584,6 +584,15 @@ variant: markdown
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Huang Ting </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Huang_Ting_B@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Huang_Ting_B@moe.edu.sg</a>
+</p>
+</td>
+</tr>	
 <tr>
 <td rowspan="2" colspan="1">
 <p><strong>3 Diligent</strong>
