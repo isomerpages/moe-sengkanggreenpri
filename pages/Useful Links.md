@@ -19,7 +19,7 @@ variant: markdown
 <div><a href="https://nsg.moe.edu.sg/sssc" target="_blank" rel="noopener">SG School Sports Council</a></div>
 </td>
 <td style="text-align: center; width: 200px;">
-<div><a href="https://icon.moe.edu.sg/" target="_blank" rel="noopener">ICON</a></div>
+<div><a href="https://icon.moe.edu.sg/" target="_blank" rel="noopener">ICON 2.0</a></div>
 </td>
 </tr>
 <tr>
@@ -71,6 +71,14 @@ variant: markdown
 <td style="text-align: center; width: 200px;">
 
 <div><a href="https://scmobile.moe.edu.sg/login" target="_blank" rel="noopener">SC Mobile</a></div>
+</td>
+</tr>
+	<tr>
+<td style="text-align: center; width: 200px;">
+</td>
+<td style="text-align: center; width: 200px;"> </td>
+<td style="text-align: center; width: 200px;">
+<div><a href="https://rbs.avero-tech.com/" target="_blank" rel="noopener">Resource Booking</a></div>
 </td>
 </tr>
 </tbody>
