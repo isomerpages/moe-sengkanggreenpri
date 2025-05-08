@@ -3,18 +3,19 @@ title: Student Management
 permalink: /our-skgian-experience/student-development/student-management/
 description: ""
 third_nav_title: Student Development
+variant: markdown
 ---
 <p><strong>Key Personnel</strong></p>
-<p><strong>&nbsp;</strong></p>
+
 <p><strong>Year Head/ Lower Primary</strong>: Mrs Toh Wai Ling</p>
 <p><strong>Year Head/ Middle Primary</strong>: Mdm Catherine Tan</p>
 <p><strong>Year Head/ Upper Primary</strong>: Mdm Nur Ain Ahmed</p>
-<p><strong>Subject Head/ Discipline</strong>: Mr Seow Eng Huat</p>
+<p><strong>Subject Head/ Discipline</strong>: Mr Eddy Sufyan</p>
 <p><strong>Department Members</strong></p>
 <p><strong>Learning Support</strong>: Mrs Eunice Kwok, Mdm Nurhuda Binte Abu Bakar</p>
 <p><strong>Student Leadership Team</strong>: Mdm Nur Afiqah, Mr Kit Lum, Mdm Pearlyn Peh</p>
-<p><strong>Peer Support Team</strong>: Mrs Anna Poh, Mdm Esther Claire Li, Mdm Nurul Zawanah, Ms Yue Si Wei, Mrs Toh Xue Li</p>
-<p><strong>Level Discipline Team:</strong> Mr Eddy Sufyan, Mrs Aileen Kwok, Ms Ravetha Adelina S Umapathy, Mdm Siti Ayuni Aidil</p>
+<p><strong>Peer Support Team</strong>: Mrs Anna Poh, Mdm Esther Claire Li, Mdm Nurul Zawanah, Mrs Toh Xue Li</p>
+<p><strong>Level Discipline Team:</strong> Mrs Aileen Kwok, Ms Ravetha Adelina S Umapathy, Mdm Siti Ayuni Aidil</p>
 <p><strong>School Counsellors</strong>: Ms Toh Xue Li &amp; Mr Haji Agus</p>
 <p><strong>Special Educational Needs Officers</strong>: Ms Tan Lay Hiong, Ms Berina Teoh</p>
 
