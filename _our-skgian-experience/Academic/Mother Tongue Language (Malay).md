@@ -3,6 +3,7 @@ title: Mother Tongue Language (Malay)
 permalink: /our-skgian-experience/academic/malay-language/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
 <p><strong><span style="text-decoration: underline;">Key Personnel</span></strong></p>
 <p><strong>Subject Head Malay Language: </strong>Mdm Norashikin Bte Abdul Hamid</p>
@@ -29,12 +30,7 @@ third_nav_title: Academic
 </ul>
 <img style="width: 75%;" src="/images/m4.png">
 <img style="width: 65%;" src="/images/m5.png">
-<p><strong>2.&nbsp;</strong><strong>PreBaYa Programme</strong></p>
-<p>PreBaYa (A<strong>pre</strong>siasi&nbsp;<strong>Ba</strong>hasa Dan Buda<strong>ya</strong>) is a Malay Language programme aims to develop Primary 4 students who are passionate in both the Malay Language and culture.</p>
-<p>In PreBaya, lessons and activities are geared towards equipping students with a comprehensive understanding of Malay culture, history, literature and the arts.</p>
-<img style="width: 75%;" src="/images/m8.png">
-<img style="width: 100%;" src="/images/m6.png">
-<p><strong>3.&nbsp;</strong><strong>Mother Tongue Language Fortnight</strong></p>
+<p><strong>2.&nbsp;</strong><strong>Mother Tongue Language Fortnight</strong></p>
 <p>To inculcate both awareness and appreciation of the Malay language and culture, we have prepared an extensive range of activities for all our students including poetry recitation of different genres, singing of cultural and children songs, batik painting, learning about traditional Malay delicacies, language games and traditional Kampong games.</p>
 <p>All these activities will help to give students a better understanding of both the Malay language and culture.</p>
 <p><strong>Awards &amp; Achievements</strong><strong><br></strong></p>
