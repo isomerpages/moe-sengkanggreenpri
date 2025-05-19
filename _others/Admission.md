@@ -8,10 +8,10 @@ description: ""
 </p>
 <p></p>
 <p><strong>Incoming P1 Registration</strong>
-<br>You may enroll your child to Sengkang Green Primary School via the online
+</p><p>You may enroll your child to Sengkang Green Primary School via the online
 registration via this website:</p>
-<p><a href="https://www.moe.gov.sg/primary/p1-registration/how-to-register" rel="noopener noreferrer nofollow" target="_blank">Register for Primary One | MOE</a>
-</p>
+<br><a href="https://www.moe.gov.sg/primary/p1-registration/how-to-register" rel="noopener noreferrer nofollow" target="_blank">Register for Primary One | MOE</a>
+<br>
 <p></p>
 <p><strong>Waitlist</strong>
 </p>
