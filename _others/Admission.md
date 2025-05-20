@@ -27,10 +27,10 @@ the following form.</p>
 <p><a href="https://for.edu.sg/skgparentvolunteer" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/skgparentvolunteer</a>
 </p>
 <p>Parent has to complete at least 40 hours of voluntary service to the school
-by 30 June of the year of P1 registration to be eligible for phase 2B.</p>
-<p>
+by 30 June of the year of P1 registration to be eligible for phase 2B.</p><p>
+</p><ol start="2" data-tight="true" class="tight">
 <br><strong>3. Waitlist</strong>
-</p>
+<p></p>
 <p>Please complete the following waitlist form if you would like to place
 your child on our waitlist:</p>
 <p><a href="https://go.gov.sg/waitlist-skgps" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/waitlist-skgps</a>
@@ -57,4 +57,4 @@ online registration via this website:</p>
 <p>Please complete the following waitlist form if you would like to place
 your child on our waitlist:</p>
 <p><a href="https://go.gov.sg/waitlist-mk-skg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/waitlist-mk-skg</a>
-</p>
+</p></ol>
