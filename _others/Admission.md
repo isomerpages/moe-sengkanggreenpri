@@ -29,7 +29,7 @@ the following form.</p>
 <p>Parent has to complete at least 40 hours of voluntary service to the school
 by 30 June of the year of P1 registration to be eligible for phase 2B.</p>
 <p>
-<br>3. <strong>Waitlist</strong>
+<br><strong>3. Waitlist</strong>
 </p>
 <p>Please complete the following waitlist form if you would like to place
 your child on our waitlist:</p>
