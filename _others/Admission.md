@@ -4,7 +4,7 @@ permalink: /admission/
 variant: markdown
 description: ""
 ---
-<h4><strong><u>Admission to Sengkang Green Primary School</u></strong></h4>
+<h4><strong><u>Application to Sengkang Green Primary School</u></strong></h4>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
@@ -40,7 +40,7 @@ your child on our waitlist:</p>
 <p><a href="https://go.gov.sg/waitlist-skgps" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/waitlist-skgps</a>
 </p>
 <p></p>
-<h4><strong><u>Admission to MOE Kindergarten</u></strong></h4>
+<h4><strong><u>Application to MOE Kindergarten</u></strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Incoming K1 Registration</strong>
