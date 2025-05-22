@@ -17,19 +17,18 @@ Exercise. Please log in to&nbsp;<a rel="noopener noreferrer nofollow" target="_b
 more information.</p>
 <p></p>
 <p>Parent may check for your child's eligible P1 registration phases and
-their key dates via the link below.&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates</a>
-</p>
+their key dates via the link below.</p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates</a>
+<p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong>Waitlist</strong>
+<p><strong>Waitlist for P1 to P6</strong>
 </p>
 </li>
 </ol>
 <p>Please complete the following waitlist form if you would like to place
 your child on our waitlist:</p>
-<p><a href="https://go.gov.sg/waitlist-skgps" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/waitlist-skgps</a>
-</p>
+<a href="https://go.gov.sg/waitlist-skgps" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/waitlist-skgps</a>
+<p></p>
 <p><strong><em>(Please note that the school will only contact you when there is a vacancy for your child.)</em></strong>
 </p>
 <ol start="3" data-tight="true" class="tight">
@@ -61,7 +60,7 @@ online registration via this website:</p>
 <p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong>Waitlist</strong>
+<p><strong>Waitlist for K1 and K2</strong>
 </p>
 </li>
 </ol>
