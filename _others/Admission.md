@@ -16,8 +16,7 @@ description: ""
 Exercise. Please log in to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a> for
 more information.</p>
 <p></p>
-<p>Parent may check for your child's eligible P1 registration phases and
-their key dates via the link below.</p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates</a>
+<p>Parents who wish to join our parent volunteer programme, please complete the form below.</p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates</a>
 <p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
