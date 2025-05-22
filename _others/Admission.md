@@ -29,7 +29,7 @@ their key dates via the link below.</p><a rel="noopener noreferrer nofollow" tar
 your child on our waitlist:</p>
 <a href="https://go.gov.sg/waitlist-skgps" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/waitlist-skgps</a>
 <p></p>
-<p><strong><em>Please note that the school will only contact you when there is a vacancy for your child.</em></strong>
+<p>Please note that the school will only contact you when there is a vacancy for your child.
 </p>
 <ol start="3" data-tight="true" class="tight">
 <li>
@@ -65,5 +65,6 @@ online registration via this website:<p></p><a href="https://www.moe.gov.sg/pres
 your child on our waitlist:</p>
 <a href="https://go.gov.sg/waitlist-mk-skg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/waitlist-mk-skg</a>
 <p></p>
-<p><strong><em>(Please note that the school will only contact you when there is a vacancy for your child.)</em></strong>
+<p>Please note that the school will only contact you when there is a vacancy for your child.
 </p>
+<p></p>
