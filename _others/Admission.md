@@ -21,7 +21,7 @@ their key dates via the link below.</p><a rel="noopener noreferrer nofollow" tar
 <p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong>Waitlist for P1 to P6</strong>
+<p><strong>Waitlist for Primary One to Primary Six</strong>
 </p>
 </li>
 </ol>
@@ -29,7 +29,7 @@ their key dates via the link below.</p><a rel="noopener noreferrer nofollow" tar
 your child on our waitlist:</p>
 <a href="https://go.gov.sg/waitlist-skgps" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/waitlist-skgps</a>
 <p></p>
-<p><strong><em>(Please note that the school will only contact you when there is a vacancy for your child.)</em></strong>
+<p><strong><em>Please note that the school will only contact you when there is a vacancy for your child.</em></strong>
 </p>
 <ol start="3" data-tight="true" class="tight">
 <li>
