@@ -16,7 +16,7 @@ description: ""
 Exercise. Please log in to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a> for
 more information.</p>
 <p></p>
-<p>Parents who wish to join our parent volunteer programme, please complete the form below.</p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates</a>
+<p>You may check for your child's eligible P1 registration phase and key dates via this link:</p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates</a>
 <p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
@@ -36,8 +36,7 @@ your child on our waitlist:</p>
 </p>
 </li>
 </ol>
-<p>Parents who wish to join our parent volunteer programme, please complete
-the following form.</p>
+<p>Parents who wish to join our parent volunteer programme, please complete the form below:</p>
 <p><a href="https://for.edu.sg/skgparentvolunteer" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/skgparentvolunteer</a>
 </p>
 <p>The registration will end on 10 Feb and the outcome will be released to
