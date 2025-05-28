@@ -14,7 +14,7 @@ more information.<p></p>
 their key dates via the link below.</p>
 <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates</a>
 <p></p>
-<p><strong><u>Waitlist</u></strong>
+<p><strong><u>Waitlist for Primary One to Primary Six </u></strong>
 </p>
 Parents who would like to place your child on our waitlist, we appreciate
 that you complete the form via the link below:<p></p>
@@ -37,7 +37,7 @@ You may enroll your child to our MOE Kindergarten@Sengkang Green via the
 online registration via this website:<p></p>
 <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register" rel="noopener noreferrer nofollow" target="_blank">Register for MOE Kindergarten | MOE</a>
 <p></p>
-<p><strong><u>Waitlist</u></strong>
+<p><strong><u>Waitlist K1 and K2</u></strong>
 </p>
 Parents who would like to place your child on our waitlist, we appreciate
 that you complete the form via the link below:<p></p>
