@@ -13,15 +13,13 @@ more information.
 <p>Parent may check for your child's eligible P1 registration phases and
 their key dates via the link below.</p>
 <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates</a>
-<p></p>
 <p><strong><u>Waitlist for Primary One to Primary Six </u></strong>
 </p>
 Parents who would like to place your child on our waitlist, we appreciate
 that you complete the form via the link below:
 <a href="https://go.gov.sg/waitlist-skgps" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/waitlist-skgps</a>
-<p></p>
 Please note that the school will only contact you when there is a vacancy
-for your child.<p></p>
+for your child.
 <p><strong><u>Parent Volunteer</u></strong>
 </p>
 Parents who wish to join our parent volunteer programme, please complete
