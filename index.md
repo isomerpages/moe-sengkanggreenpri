@@ -17,6 +17,9 @@ sections:
         - title: Useful Links
           description: ""
           url: https://www.sengkanggreenpri.moe.edu.sg/useful-links/
+        - title: Admission
+          description: ""
+          url: https://www.sengkanggreenpri.moe.edu.sg/admission/
       background: /images/new banner 1.gif
   - infopic:
       title: Inspiring Teacher of English Award
