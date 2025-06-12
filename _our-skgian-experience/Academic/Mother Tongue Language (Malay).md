@@ -242,6 +242,6 @@ awards</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%" height="auto" width="70%" alt="" src="/images/2023_rentas pentas competition.jpg">
+<img style="width: 60%" height="auto" width="60%" alt="" src="/images/2023_rentas pentas competition.jpg">
 </div>
 <p>Rentas Pentas Competition – 2<sup>nd</sup> Prize (2023)</p>
