@@ -247,7 +247,7 @@ awards</p>
 <p>Rentas Pentas Competition – 2<sup>nd</sup> Prize (2023)</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_petah_spontan.jpg">
+<img style="width: 60%" height="auto" width="60%" alt="" src="/images/2024_petah_spontan.jpg">
 </div>
 <p>Petah Spontan 2.0 Oratorical Competition – 1<sup>st</sup>, 2<sup>nd</sup> and
 3<sup>rd</sup> placing (2024)</p>
