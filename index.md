@@ -20,7 +20,7 @@ sections:
         - title: Admission
           description: ""
           url: https://www.sengkanggreenpri.moe.edu.sg/admission/
-      background: /images/skg_banner.gif
+      background: /images/2025skgbanner.gif
   - infopic:
       title: Inspiring Teacher of English Award
       subtitle: Nominate your english teacher
