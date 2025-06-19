@@ -5,10 +5,6 @@ description: ""
 third_nav_title: Academic
 variant: tiptap
 ---
-<p>Members:
-<br>Mdm Suguna Gopynathan
-<br>
-</p>
 <p><strong>Aims &amp; Objectives</strong>
 </p>
 <p>To develop students into confident and competent Tamil Language users
