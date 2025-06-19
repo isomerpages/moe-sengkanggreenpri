@@ -5,10 +5,6 @@ description: ""
 third_nav_title: Academic
 variant: markdown
 ---
-<strong><u>Key Personnel</u></strong>
-<br>
-<strong>ICT Head of Department: </strong>Ms Wang Siyang
-<br><strong>Subject Head: </strong>Mr Alan Lim<p></p>
 <strong><u>Department Vision</u></strong>
 <br>
 <br>
