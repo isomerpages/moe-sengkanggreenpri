@@ -3,8 +3,8 @@ title: Aesthetics
 permalink: /our-skgian-experience/physical-aesthetics/aesthetics/
 description: ""
 third_nav_title: Physical & Aesthetics
+variant: markdown
 ---
-<p><strong><u>Key Personnel</u></strong><strong><br> </strong><br> <strong>Subject Head (Music) : Mrs Cindy Khoo<br> </strong><br> <strong>Art Senior Teacher : Mrs Felicia Ng<br> <br> </strong></p>
 <p><strong>Aesthetics Overview:</strong><strong><br> </strong><br> In Sengkang Green, we strongly believe in the importance of developing every child holistically.&nbsp; The arts education (Visual Art and Performing Art) not only plays an important role in providing a vibrant art experience for our SKGians but is also an invaluable vehicle through which character and competencies can be developed.&nbsp;SKGians are given opportunities to explore different art forms with increasing levels of mastery. In doing so, our SKGians develop a deep interest and appreciation in the arts, thus&nbsp;equipping with the necessary knowledge and skills to further develop their interests in the various fields of arts.&nbsp;<br> <br> Through a specialised school-based arts curriculum, SKGians acquire visual arts and performing arts skills in the various modules.</p>
 <p><strong>Our Sengkang Green Arts Curriculum is based on 2-pronged approaches - Grow with Arts and Grow through Arts.</strong></p>
 <img alt="" src="/images/aes1.png">

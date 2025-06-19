@@ -5,19 +5,6 @@ description: ""
 third_nav_title: Student Development
 variant: markdown
 ---
-<table style="minWidth: 25px">
-<tbody><tr><td rowspan="1" colspan="1">
-<p><strong>Head of Department (Character and Citizenship Education):</strong>
-<br>Mrs Ivy Tan</p>
-<p><strong>Senior Teachers:</strong>
-<br>Ms Hayati Bte Abdul Rahim (ST/CCE)
-<br>Mdm Chng E-Hwei (ST/CL)
-<br>Mrs Felicia Ng (ST/Art)
-</p><p><strong>Department Vision</strong>
-<br>Every Teacher, a CCE Teacher
-<br>Every School Experience, a CCE Lesson
-<br>Every Student, a Peer Supporter
-</p><p></p>
 <p><strong>Department Mission</strong>
 <br>To inculcate values and build competencies in our students to equip them
 with the knowledge, skills, attitudes and values to be responsible citizens
@@ -263,7 +250,6 @@ learning.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Career_Awareness_Fest.png">
 </div>
 <center><em>Experiential Learning @ Career Awareness Fest</em></center>
-</td>
-</tr>
-</tbody>
-</table>
+
+
+
