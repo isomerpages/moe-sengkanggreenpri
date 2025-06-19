@@ -5,10 +5,6 @@ description: ""
 third_nav_title: Academic
 variant: markdown
 ---
-<p><strong><u>Key Personnel</u></strong>
-</p>
-<p><strong>Subject Head Malay Language: </strong>Mdm Norashikin Bte Abdul
-Hamid</p>
 <p><strong><u>Aims &amp; Objectives</u></strong>
 </p>
 <p>To develop students into confident and competent Malay Language users
