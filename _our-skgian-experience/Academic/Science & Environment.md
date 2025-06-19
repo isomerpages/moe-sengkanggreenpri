@@ -5,65 +5,7 @@ description: ""
 third_nav_title: Academic
 variant: tiptap
 ---
-<p><strong><u>Key Personnel</u></strong><u><br><br></u><strong>Head of Department:</strong> Ms
-Chew Mei Jun</p>
-<p><strong><u>Department Members</u></strong>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Catherine Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Kwok Wing Chiu Anna</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Kong Siew May</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Alan Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jeslin Wee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Jamen Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Ong Ngiap Seng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nazura Binte Hadam Hussain</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nurul Zawanah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chong Kuan Hoe</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br><strong><u>Vision</u></strong>
+<p><strong><u>Vision</u></strong>
 </p>
 <p>Inquiring Minds, Critical Thinkers, Environmental Advocates</p>
 <p><strong><u>Mission</u></strong>
