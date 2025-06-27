@@ -857,21 +857,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>4 Friendly</strong>
 </p>
-<p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Ms Shariffah Ayesha Almenoa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Shariffah_Ayesha_Almenoar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Shariffah_Ayesha_Almenoar@moe.edu.sg</a>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Eddy Sufyan Bin Selamat</p>
 </td>
@@ -882,11 +871,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cassandra Tan Hui En</p>
+<p>Ms Shariffah Ayesha Almenoa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Cassandra_Tan_Hui_En@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Cassandra_Tan_Hui_En@moe.edu.sg</a>
+<p><a href="mailto:Shariffah_Ayesha_Almenoar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Shariffah_Ayesha_Almenoar@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
