@@ -640,7 +640,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>3 Friendly</strong>
 </p>
 <p></p>
@@ -655,10 +655,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Rifqi Amirul Bin Rosli</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Rifqi_Amirul_Rosli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Rifqi_Amirul_Rosli@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Kok Min Alan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_kok_min_alan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kok_min_alan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
