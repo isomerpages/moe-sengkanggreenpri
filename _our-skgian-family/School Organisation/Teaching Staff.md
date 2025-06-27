@@ -640,7 +640,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>3 Friendly</strong>
 </p>
 <p></p>
@@ -655,9 +655,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Rifqi Amirul Bin Rosli</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -667,9 +664,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Lim Kok Min Alan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -678,7 +672,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>3 Gracious</strong>
 </p>
 <p></p>
@@ -688,15 +682,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hoe_suyi_florina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hoe_suyi_florina@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Aman Bin Samat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="aman_samat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aman_samat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
