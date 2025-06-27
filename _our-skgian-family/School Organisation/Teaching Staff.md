@@ -1080,19 +1080,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mahalakshmi d/o Kalyanam</p>
+<p>Ms Wang Siyang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mahalakshmi_kalyanam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mahalakshmi_kalyanam@moe.edu.sg</a>
+<p><a href="mailto:Wang_Siyang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wang_Siyang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wang Siyang</p>
+<p>Mdm Chitra Devi Gunasegar (Mrs Guna)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Wang_Siyang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wang_Siyang@moe.edu.sg</a>
+<p><a href="mailto:chitra_devi_krishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chitra_devi_krishnan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1349,7 +1349,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>6 Honest</strong>
 </p>
 <p></p>
@@ -1363,6 +1363,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Ms Kwok Wing Chiu (Mrs Anna Poh)</p>
 </td>
