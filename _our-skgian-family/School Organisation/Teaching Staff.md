@@ -979,10 +979,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Seow Eng Huat - (Joshua Seow)</p>
+<p>Ms Amanda Lim Shimin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seow_eng_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_eng_huat@moe.edu.sg</a>
+<p><a href="mailto:Lim_shimin_amanda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_shimin_amanda@moe.edu.sg</a>
 </p>
 </td>
 </tr>
