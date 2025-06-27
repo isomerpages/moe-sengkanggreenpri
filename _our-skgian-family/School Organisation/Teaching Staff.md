@@ -1010,7 +1010,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>5 Diligent</strong>
 </p>
 <p></p>
@@ -1029,6 +1029,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_ai_lin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_ai_lin_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chim Kheng Mui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chim_kheng_mui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chim_kheng_mui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
