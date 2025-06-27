@@ -474,7 +474,8 @@ variant: tiptap
 <p>Ms Chua Seow Koon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chua_seow_koon@moe.edu.sg</p>
+<p><a href="chua_seow_koon@moe.edu.sg" rel="noopener nofollow" target="_blank">chua_seow_koon@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -617,20 +618,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>3 Excellent</strong>
 </p>
-<p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ng Hui Lin Dion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_hui_lin_dion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hui_lin_dion@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Lo Yuan Yuan</p>
 </td>
