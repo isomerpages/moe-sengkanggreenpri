@@ -1,16 +1,17 @@
 ---
-title: SKGPS eOpen House 2024
-permalink: /others/highlights/skgps-virtual-open-house-2024/
+title: SKGPS eOpen House 2025
+permalink: /others/highlights/skgps-virtual-open-house-2025/
 description: ""
 third_nav_title: Highlights
 variant: tiptap
 ---
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_2024_Updated_8_July.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025Eopenbanner.jpg">
 </div>
 <h4>Principal's Address</h4>
 <div class="iframe-wrapper">
-<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/978927371?h=8e2b1bfd6d&amp;byline=0&amp;portrait=0"></iframe>
+<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1098600814?h=8e2b1bfd6d&amp;byline=0&amp;portrait=0"></iframe>
 </div>
 <h4>Virtual School Tour</h4>
 <p>*Note: For best user experience, screen size of at least 7 inches is recommended.
@@ -187,33 +188,5 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="480" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/841726073?h=505c9d3613"></iframe>
 </div>
-<h4>P1 Registration</h4>
-<p><strong>2024 Primary&nbsp;One Registration Exercise (For Admission to Primary One in 2025)</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Similar to last year's P1 Registration Exercise, there will not be any
-in-person registration at schools and registration will be fully online.&nbsp;</p>
-</li>
-<li>
-<p>The registration of children for admission to Primary One (P1) classes
-in 2025 will open from Tuesday, 2 July 2024. The dates for the different
-phases of registration can be found at: <a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates</a>
-</p>
-</li>
-<li>
-<p>The list of primary schools and vacancies available will also be updated
-on the P1 Registration website at <a href="https://www.moe.gov.sg/primary/p1-registration/vacancies-and-balloting" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration/vacancies-and-balloting</a>
-</p>
-</li>
-<li>
-<p>More information can be found the MOE Website at <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a>
-</p>
-</li>
-<li>
-<p>If you have further questions, you can call the school at 6386 4255.&nbsp;</p>
-</li>
-</ol>
-<p><strong>Frequently Asked Questions (FAQ)</strong>
-</p>
-<p>Please click&nbsp;<a href="/files/FAQ_e_Open_House_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>to view.</p>
+<h4></h4>
+<p></p>

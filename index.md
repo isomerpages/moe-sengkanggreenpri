@@ -22,6 +22,13 @@ sections:
           url: https://www.sengkanggreenpri.moe.edu.sg/admission/
       background: /images/new banner.gif
   - infopic:
+      title: SKGPS eOpen House 2025
+      id: infopic
+      alt: Image alt text
+      image: /images/2025Eopenbanner.jpg
+      url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/skgps-virtual-open-house-2025/
+      button: click here to enter
+  - infopic:
       title: Inspiring Teacher of English Award
       subtitle: Nominate your english teacher
       id: infopic
@@ -54,14 +61,6 @@ sections:
       alt: Image alt text
       image: /images/NDP1.png
       url: https://sengkanggreenpri.moe.edu.sg/happy-national-day-2024/
-  - infopic:
-      title: SKGPS eOpen House 2024
-      id: infopic
-      description: Becoming a Future-Ready Learner Promoting Holistic Health
-      alt: Image alt text
-      image: /images/Open_House_2024_Updated_8_July.jpg
-      url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/skgps-virtual-open-house-2024/
-      button: click here to enter
   - infopic:
       title: Affirmation Note
       description: Please remember to drop an affirmation note to your teachers to
