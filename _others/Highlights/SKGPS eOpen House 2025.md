@@ -5,12 +5,13 @@ description: ""
 third_nav_title: Highlights
 variant: tiptap
 ---
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_2024_Updated_8_July.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025Eopenbanner.jpg">
 </div>
 <h4>Principal's Address</h4>
 <div class="iframe-wrapper">
-<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/978927371?h=8e2b1bfd6d&amp;byline=0&amp;portrait=0"></iframe>
+<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1098600814?h=8e2b1bfd6d&amp;byline=0&amp;portrait=0"></iframe>
 </div>
 <h4>Virtual School Tour</h4>
 <p>*Note: For best user experience, screen size of at least 7 inches is recommended.
