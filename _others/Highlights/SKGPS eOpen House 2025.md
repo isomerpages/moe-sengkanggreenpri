@@ -189,6 +189,4 @@ variant: tiptap
 <iframe height="480" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/841726073?h=505c9d3613"></iframe>
 </div>
 <h4></h4>
-<p><strong>Frequently Asked Questions (FAQ)</strong>
-</p>
-<p>Please click&nbsp;<a href="/files/FAQ_e_Open_House_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>to view.</p>
+<p></p>
