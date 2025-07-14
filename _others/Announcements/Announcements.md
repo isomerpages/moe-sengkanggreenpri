@@ -43,24 +43,7 @@ click on the following link to access the briefing slides and videos
 </p>
 <p></p>
 <hr>
-<p><strong>10th Year Anniversary Celebration</strong>
-</p>
-<p>Dear all,</p>
-<p>We are pleased to announce that the event photos have been uploaded to
-the designated drive.&nbsp;</p>
-<p>Please click the link below to view.
-<br>
-<br><a href="https://drive.google.com/drive/folders/1s2eae6oBfmkk-Y4OBZM-vFcOTuWjbXOH?usp=sharing" rel="noopener" target="_blank">SKGians Celebrate!</a>
-</p>
-<p><a href="/others/announcements/10thyearanniversarycelebration/" rel="noopener noreferrer nofollow" target="_blank">Corporate Video and MTV Video&nbsp;</a>
-</p>
-<p><a href="https://drive.google.com/drive/folders/1--zrSWJ7DkQG_FIZfQXhHaGRM0Sp7tLz" rel="noopener" target="_blank">ICARE Book</a>
-</p>
-<p>Additionally, if you prefer not to have your or your child's photo displayed
-on the school website, kindly send an email to <a href="mailto:kao_pow_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="">kao_pow_ling@moe.edu.sg</a> with the
-exact photo number. The photo will be removed within 7 working days upon
-receiving your request.</p>
-<p>Thank you for your understanding and cooperation</p>
+
 <hr>
 <p><strong>User Guide on Installation of Language Pack (Chinese Language Input/Tamil Language Input)<br></strong>Please
 click&nbsp;<a href="/files/User%20Guide%20to%20install%20language%20in%20Win%2010.pdf" rel="noopener" target="_blank">here</a>&nbsp;to
