@@ -12,7 +12,7 @@ Exercise. Please log in to&nbsp;<a rel="noopener noreferrer nofollow" target="_b
 more information.
 <p>Parent may check for your child's eligible P1 registration phases and
 their key dates via the link below.</p>
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates</a>
+<a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates</a>
 <p><strong><u>Waitlist for Primary One to Primary Six </u></strong>
 </p>
 Parents who would like to place your child on our waitlist, we appreciate
