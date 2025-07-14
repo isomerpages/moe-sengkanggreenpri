@@ -17,7 +17,7 @@ their key dates via the link below.</p>
 </p>
 Parents who would like to place your child on our waitlist, we appreciate
 that you complete the form via the link below:
-<a href="https://go.gov.sg/waitlist-skgps" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/waitlist-skgps</a>
+<a href="https://form.gov.sg/67ff517c10e4b06e8b1e1eba" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/waitlist-skgps</a>
 Please note that the school will only contact you when there is a vacancy
 for your child.
 <p><strong><u>Parent Volunteer</u></strong>
