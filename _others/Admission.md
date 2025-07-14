@@ -38,7 +38,7 @@ online registration via this website:
 </p>
 Parents who would like to place your child on our waitlist, we appreciate
 that you complete the form via the link below:
-<a href="https://go.gov.sg/waitlist-mk-skg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/waitlist-mk-skg</a>
+<a href="https://form.gov.sg/67ff4d7f15186e6628335547" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/waitlist-mk-skg</a>
 
 <p>Please note that the school will only contact you when there is a vacancy
 for your child.</p>
