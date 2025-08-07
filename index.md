@@ -22,6 +22,13 @@ sections:
           url: https://www.sengkanggreenpri.moe.edu.sg/admission/
       background: /images/new banner.gif
   - infopic:
+      title: Happy National Day 2025!
+      id: infopic
+      button: CLICK HERE FOR DETAILS
+      alt: Image alt text
+      image: /images/ndp2025logo.gif
+      url: https://sengkanggreenpri.moe.edu.sg/happy-national-day-2025/
+  - infopic:
       title: SKGPS eOpen House 2025
       id: infopic
       alt: Image alt text
@@ -54,13 +61,6 @@ sections:
       description: Visit by former students
       button: CLICK HERE FOR DETAILS
       url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/visitbyformerstudents2024/
-  - infopic:
-      title: Happy National Day 2024!
-      id: infopic
-      button: CLICK HERE FOR DETAILS
-      alt: Image alt text
-      image: /images/NDP1.png
-      url: https://sengkanggreenpri.moe.edu.sg/happy-national-day-2024/
   - infopic:
       title: Affirmation Note
       description: Please remember to drop an affirmation note to your teachers to
