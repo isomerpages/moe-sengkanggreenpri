@@ -10,10 +10,10 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /others/announcements/
+          url: /others/announcements/open-for-nominations-caring-teacher-award-2026/
         - title: Highlights
           description: ""
-          url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/skgps-virtual-open-house-2025/
+          url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights//happy-national-day-2025/
         - title: Useful Links
           description: ""
           url: https://www.sengkanggreenpri.moe.edu.sg/useful-links/
@@ -29,21 +29,20 @@ sections:
       image: /images/ndp2025logo.gif
       url: https://sengkanggreenpri.moe.edu.sg/happy-national-day-2025/
   - infopic:
+      title: Caring Teacher Award 2026
+      id: infopic
+      description: "Closing Date: 31 December 2025"
+      button: Nominate Now
+      url: /others/announcements/open-for-nominations-caring-teacher-award-2026/
+      image: /images/cta2026.png
+      alt: Image alt text
+  - infopic:
       title: SKGPS eOpen House 2025
       id: infopic
       alt: Image alt text
       image: /images/2025Eopenbanner.jpg
       url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/skgps-virtual-open-house-2025/
       button: click here to enter
-  - infopic:
-      title: Inspiring Teacher of English Award
-      subtitle: Nominate your english teacher
-      id: infopic
-      description: 2025 Nominations are now open.
-      button: Nominate Here
-      url: https://www.sengkanggreenpri.moe.edu.sg/others/announcements/open-for-nominations-inspiring-teacher-of-english-award-2025/
-      image: /images/itea.png
-      alt: Image alt text
   - infopic:
       title: Principal's Message 2025
       id: infopic
