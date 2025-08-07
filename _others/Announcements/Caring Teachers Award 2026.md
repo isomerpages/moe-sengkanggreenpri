@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Announcements
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cta2026.png">
+</div>
 <p>The Caring Teacher Awards (CTA) celebrate educators who exemplify care
 and compassion in their teaching, going beyond the call of duty to nurture
 the holistic development of their students. These dedicated teachers play
