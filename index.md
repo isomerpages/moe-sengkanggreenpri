@@ -60,4 +60,12 @@ sections:
       url: /our-skgian-family/a-note-of-affirmation/
       image: /images/affirm.png
       alt: Image alt text
+  - infopic:
+      title: Caring Teacher Award 2026
+      id: infopic
+      description: "Closing Date: 31 December 2025"
+      button: Nominate Now
+      url: /others/announcements/open-for-nominations-caring-teacher-award-2026/
+      image: /images/cta2026.png
+      alt: Image alt text
 ---
