@@ -13,7 +13,7 @@ sections:
           url: /others/announcements/
         - title: Highlights
           description: ""
-          url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/skgps-virtual-open-house-2025/
+          url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights//happy-national-day-2025/
         - title: Useful Links
           description: ""
           url: https://www.sengkanggreenpri.moe.edu.sg/useful-links/
