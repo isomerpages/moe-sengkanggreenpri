@@ -26,7 +26,7 @@ sections:
       id: infopic
       button: CLICK HERE FOR DETAILS
       alt: Image alt text
-      image: /images/NDP1.png
+      image: /images/ndp2025logo.gif
       url: https://sengkanggreenpri.moe.edu.sg/happy-national-day-2025/
   - infopic:
       title: SKGPS eOpen House 2025
