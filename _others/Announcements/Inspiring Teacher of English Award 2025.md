@@ -10,6 +10,7 @@ and compassion in their teaching, going beyond the call of duty to nurture
 the holistic development of their students. These dedicated teachers play
 a vital role in shaping confident, independent, and resilient learners
 who contribute meaningfully to our nation.</p>
-<p>Nominate now @ <a href="www.cta.nie.edu.sg" rel="noopener nofollow" target="_blank">www.cta.nie.edu.sg </a>
+<p>Nominate now @ <a href="www.cta.nie.edu.sg" rel="noopener nofollow" target="_blank">www.cta.nie.edu.sg</a>
 </p>
-<p>Closing Date: 31 December 2025</p>
+<p><strong>Closing Date: 31 December 2025</strong>
+</p>
