@@ -36,15 +36,6 @@ sections:
       url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/skgps-virtual-open-house-2025/
       button: click here to enter
   - infopic:
-      title: Inspiring Teacher of English Award
-      subtitle: Nominate your english teacher
-      id: infopic
-      description: 2025 Nominations are now open.
-      button: Nominate Here
-      url: https://www.sengkanggreenpri.moe.edu.sg/others/announcements/open-for-nominations-inspiring-teacher-of-english-award-2025/
-      image: /images/itea.png
-      alt: Image alt text
-  - infopic:
       title: Principal's Message 2025
       id: infopic
       description: Happy New Year! Welcome to an exciting new academic year at
