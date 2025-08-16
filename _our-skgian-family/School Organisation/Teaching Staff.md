@@ -632,11 +632,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chng Kee Hean Acacius</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Acacius_Chng_Kee_Hean@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Acacius_Chng_Kee_Hean@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
