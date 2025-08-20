@@ -9,7 +9,12 @@ third_nav_title: Our Suppliers
 Procedure below:</p>
 <p><strong>Service Requirements</strong>
 </p>
-<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Admin Documents/Call_for_Proposals.pdf" rel="noopener nofollow" target="_blank">Call for Proposal</a>
+</p>
+</li>
+</ol>
 <p></p>
 <p><strong>Application Procedure</strong>
 </p>
