@@ -404,7 +404,7 @@ variant: markdown
 <p></p></center></td><td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" alt="" src="/images/kp0030.jpg">
+<img style="width:150px" height="auto" width="100%" alt="" src="/images/Staff Photos/mdmhayati.png">
 </div>
 <p></p>
 <p></p><center>
