@@ -38,7 +38,7 @@ to the School's General Office.</p>
 <p>Contact Number: 6386 4255</p>
 </li>
 <li>
-<p>Email:<a href="mailto:Teng_Jun_Qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Teng_Jun_Qi@schools.gov.sg</a>
+<p>Email:<a href="mailto:sengkanggreen_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"> <u>sengkanggreen_ps@moe.edu.sg</u></a>
 </p>
 </li>
 <li>
