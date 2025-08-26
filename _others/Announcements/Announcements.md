@@ -41,9 +41,6 @@ click on the following link to access the briefing slides and videos
 </p>
 <p><a href="https://drive.google.com/drive/folders/1pEyVRPJPnPFnwGjisfdvgzNq17X9nWcG?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2025 P1 Orientation Briefing for Parents</a>
 </p>
-<p></p>
-<hr>
-
 <hr>
 <p><strong>User Guide on Installation of Language Pack (Chinese Language Input/Tamil Language Input)<br></strong>Please
 click&nbsp;<a href="/files/User%20Guide%20to%20install%20language%20in%20Win%2010.pdf" rel="noopener" target="_blank">here</a>&nbsp;to
