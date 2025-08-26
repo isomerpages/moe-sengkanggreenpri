@@ -1,7 +1,7 @@
 ---
 title: School Bus Advertisement
 permalink: /school-bus-advertisement/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: Our Suppliers
 ---
