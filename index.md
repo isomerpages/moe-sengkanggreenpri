@@ -13,7 +13,7 @@ sections:
           url: /others/announcements/open-for-nominations-caring-teacher-award-2026/
         - title: Highlights
           description: ""
-          url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/happy-national-day-2025/
+          url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/visitbyformerstudents2025/
         - title: Useful Links
           description: ""
           url: https://www.sengkanggreenpri.moe.edu.sg/useful-links/
