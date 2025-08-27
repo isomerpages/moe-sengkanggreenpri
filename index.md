@@ -13,7 +13,7 @@ sections:
           url: /others/announcements/open-for-nominations-caring-teacher-award-2026/
         - title: Highlights
           description: ""
-          url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/happy-national-day-2025/
+          url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/visitbyformerstudents2025/
         - title: Useful Links
           description: ""
           url: https://www.sengkanggreenpri.moe.edu.sg/useful-links/
@@ -21,6 +21,22 @@ sections:
           description: ""
           url: https://www.sengkanggreenpri.moe.edu.sg/admission/
       background: /images/new banner.gif
+  - infopic:
+      id: infopic
+      image: /images/Appreciation_day_Invite.jpg
+      alt: Image alt text
+      title: Staff Appreciation Day
+      description: Visit by former students
+      button: CLICK HERE FOR DETAILS
+      url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/visitbyformerstudents2025/
+  - infopic:
+      title: Affirmation Note
+      description: Please remember to drop an affirmation note to your teachers to
+        thank them for all they have done.
+      button: CLICK HERE FOR DETAILS
+      url: /our-skgian-family/a-note-of-affirmation/
+      image: /images/affirm.png
+      alt: Image alt text
   - infopic:
       title: Happy National Day 2025!
       id: infopic
@@ -51,21 +67,5 @@ sections:
       button: Click Here
       url: /principal-s-message-2025/
       image: /images/Picture1.png
-      alt: Image alt text
-  - infopic:
-      id: infopic
-      image: /images/Staff_Appreciation.jpg
-      alt: Image alt text
-      title: Staff Appreciation Day
-      description: Visit by former students
-      button: CLICK HERE FOR DETAILS
-      url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/visitbyformerstudents2024/
-  - infopic:
-      title: Affirmation Note
-      description: Please remember to drop an affirmation note to your teachers to
-        thank them for all they have done.
-      button: CLICK HERE FOR DETAILS
-      url: /our-skgian-family/a-note-of-affirmation/
-      image: /images/affirm.png
       alt: Image alt text
 ---
