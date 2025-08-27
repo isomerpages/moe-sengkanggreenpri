@@ -23,7 +23,7 @@ sections:
       background: /images/new banner.gif
   - infopic:
       id: infopic
-      image: /images/Staff_Appreciation.jpg
+      image: /images/Appreciation_day_Invite.jpg
       alt: Image alt text
       title: Staff Appreciation Day
       description: Visit by former students
