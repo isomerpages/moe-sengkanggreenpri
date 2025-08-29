@@ -635,7 +635,7 @@ variant: tiptap
 <p>Ng Hui Lin, Dion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_hui_lin_dion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hui_lin_dion@moe.edu.sg</a> 
+<p><a href="mailto:ng_hui_lin_dion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hui_lin_dion@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1231,20 +1231,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lum Kit Chung</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lum_kit_chung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_kit_chung@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Chew Mei Jun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chew_mei_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_mei_jun@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
