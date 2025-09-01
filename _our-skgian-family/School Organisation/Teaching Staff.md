@@ -324,10 +324,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Loh Mui Nyuk</p>
+<p>Mdm Tang Hui Tiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loh_mui_nyuk@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_mui_nyuk@moe.edu.sg</a>
+<p><a href="mailto:tang_hui_tiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_mui_nyuk@moe.edu.sg</a>
 </p>
 </td>
 </tr>
