@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Highlights
 ---
 <p>To celebrate the extraordinary efforts of our educators and staff, the
-Parent Support Group has created a moving, original song dedicated to their
+Parents Support Group has created a moving, original song dedicated to their
 passion and hard work.</p>
 <p></p>
 
