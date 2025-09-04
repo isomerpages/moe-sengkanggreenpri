@@ -25,7 +25,7 @@ sections:
       title: Staff Appreciation from PSG
       id: infopic
       button: Click Here
-      url: /staff-appreciation-from-parents-support-group/
+      url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/staff-appreciation-from-parents-support-group/
       image: /images/heartsofgreen.png
       alt: Image alt text
   - infopic:
