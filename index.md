@@ -74,7 +74,7 @@ sections:
       button: CLICK HERE
       url: /staff-appreciation-from-parents-support-group/
   - infopic:
-      title: Staff Appreciation by PSG
+      title: Staff Appreciation from PSG
       id: infopic
       button: Click Here
       url: /staff-appreciation-from-parents-support-group/
