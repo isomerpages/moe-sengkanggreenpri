@@ -22,6 +22,13 @@ sections:
           url: https://www.sengkanggreenpri.moe.edu.sg/admission/
       background: /images/new banner.gif
   - infopic:
+      title: Staff Appreciation from PSG
+      id: infopic
+      button: Click Here
+      url: /staff-appreciation-from-parents-support-group/
+      image: /images/heartsofgreen.png
+      alt: Image alt text
+  - infopic:
       id: infopic
       image: /images/Appreciation_day_Invite.jpg
       alt: Image alt text
@@ -67,12 +74,5 @@ sections:
       button: Click Here
       url: /principal-s-message-2025/
       image: /images/Picture1.png
-      alt: Image alt text
-  - infopic:
-      title: Staff Appreciation from PSG
-      id: infopic
-      button: Click Here
-      url: /staff-appreciation-from-parents-support-group/
-      image: /images/heartsofgreen.png
       alt: Image alt text
 ---
