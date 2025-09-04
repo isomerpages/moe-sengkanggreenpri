@@ -73,4 +73,11 @@ sections:
       id: infobar
       button: CLICK HERE
       url: /staff-appreciation-from-parents-support-group/
+  - infopic:
+      title: Staff Appreciation by PSG
+      id: infopic
+      button: Click Here
+      url: /staff-appreciation-from-parents-support-group/
+      image: /images/heartsofgreen.png
+      alt: Image alt text
 ---
