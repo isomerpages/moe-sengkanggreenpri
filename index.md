@@ -68,4 +68,9 @@ sections:
       url: /principal-s-message-2025/
       image: /images/Picture1.png
       alt: Image alt text
+  - infobar:
+      title: Staff Appreciation by PSG
+      id: infobar
+      button: CLICK HERE
+      url: /staff-appreciation-from-parents-support-group/
 ---
