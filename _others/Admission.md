@@ -24,7 +24,7 @@ your child.</p>
 </p>
 <p>Parents who wish to join our parent volunteer programme, please complete
 the following form:</p>
-<p><a href="https://go.gov.sg/skgpv2026" rel="noopener nofollow" target="_blank">2026 Parents Volunteer </a>
+<p><a href="https://go.gov.sg/skgpv2026" rel="noopener nofollow" target="_blank">2026 Parents Volunteer</a>
 </p>
 <p>The registration will end on 10 Feb and the outcome will be released to
 the applicants by end of May. Parent has to complete at least 40 hours
