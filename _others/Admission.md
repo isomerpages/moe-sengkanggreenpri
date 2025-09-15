@@ -23,7 +23,8 @@ for your child.
 <p><strong><u>Parent Volunteer</u></strong>
 </p>
 Parents who wish to join our parent volunteer programme, please complete
-the following form.
+the following form:
+<p>https://go.gov.sg/skgpv2026</p>
 The registration will end on 10 Feb and the outcome will be released to
 the applicants by end of May.
 Parent has to complete at least 40 hours of voluntary service to the school
