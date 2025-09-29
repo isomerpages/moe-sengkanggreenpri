@@ -269,9 +269,9 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
-<p></p>
-<p></p>
+<p><strong>Mr Lum Kit Chung<br>Assistant Year Head / Upper Primary</strong>
+<br><a href="mailto: lum_kit_chung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_kit_chung@moe.edu.sg</a>
+</p><p></p>
 </td>
 </tr>
 </tbody>
