@@ -11,4 +11,4 @@ variant: markdown
 <p>Email : <a href="mailto:sng_mlts@hotmail.com">sng_mlts@hotmail.com</a></p>
 <a href="https://www.sengkanggreenpri.moe.edu.sg/files/SKG_Forms/Bus_registration_forms_2025.pdf">School Bus Registration Form</a>
 <h4><strong>School Bus Service for 2026 onwards</strong></h4>
-
+<a href="https://www.sengkanggreenpri.moe.edu.sg/files/SKG_Forms/School_Bus_Service_from_2026.pdf">New School Bus Service Information</a>
