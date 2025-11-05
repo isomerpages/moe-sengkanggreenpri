@@ -45,38 +45,6 @@ variant: markdown
 <p>Ms Toh Mui Choo</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Lay Hiong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nurlyana Binte Mohd Bahtiaraffandi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Fong Wen Feng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Foo Ai Ling</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
