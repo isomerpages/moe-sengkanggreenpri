@@ -5,41 +5,41 @@ description: ""
 third_nav_title: Announcements
 variant: markdown
 ---
+<p><strong>Sengkang Green Primary School - 2026, P1 Orientation for Parents (Nov 25' briefing)<br></strong>Please
+click on the following link to access the briefing slides:</p>
+<a href="https://www.sengkanggreenpri.moe.edu.sg/files/2026 Files/P1_Orientation_Slides_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 P1 Orientation Briefing for Parents</a>
+<p></p>
 <p><strong>P2 Parent Engagement Session 2025<br></strong>Please click on
 the following link to download the presentation slides.</p>
 <p><a href="/files/2025_PES/P2 PES/principal_address.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 PES Principal Address</a>
-<br><a href="/files/2025_PES/P2 PES/p2_year_heads.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 Year Head Sharing</a>
-	<br><a href="/files/2025_PES/P2 PES/p2_academic_heads.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 Academic Heads Sharing</a>
+<br><a href="/files/2025_PES/P2 PES/p2_year_heads.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 Year Head Sharing</a> 
+<br><a href="/files/2025_PES/P2 PES/p2_academic_heads.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 Academic Heads Sharing</a>
 </p>
 <p></p>
 <p><strong>P4 Parent Engagement Session 2025<br></strong>Please click on
 the following link to download the presentation slides.</p>
 <p><a href="/files/2025_PES/Primary_4_PES_Principal_and_Year_Head_Sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 PES Principal &amp; Year Head Sharing</a>
-</p><p></p>
+</p>
+<p></p>
 <p><strong>P5 Parent Engagement Session 2025<br></strong>Please click on
 the following link to download the presentation slides.</p>
 <p><a href="/files/2025_PES/Primary_5_PES_Principal_and_Year_Head_Sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 PES Principal &amp; Year Head Sharing</a>
-</p><p></p>
+</p>
+<p></p>
 <p><strong>P6 Parent Engagement Session 2025<br></strong>Please click on
 the following link to download the presentation slides.</p>
 <p><a href="/files/2025_PES/P6_PES/principal_address.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 PES Principal Address</a>
-<br><a href="/files/2025_PES/P6_PES/p6_yearhead.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Year Head Sharing</a>
-	<br><a href="/files/2025_PES/P6_PES/p6_academic_heads.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Academic Heads Sharing</a>
+<br><a href="/files/2025_PES/P6_PES/p6_yearhead.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Year Head Sharing</a> 
+<br><a href="/files/2025_PES/P6_PES/p6_academic_heads.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Academic Heads Sharing</a>
 </p>
 <p></p>
 <p></p>
 <p><strong>P1 Parent Engagement Session 2025</strong>
-<br><a href="https://docs.google.com/presentation/d/1ewnAjut0xyVtCilc6zmTkFXSA05kekD6/edit?usp=drive_link&amp;ouid=108380397741574116780&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Principal's Address</a><br>
-<a href="https://drive.google.com/file/d/1YqQHm7vuheGUefa19l_oUpSP1L1460dz/view?usp=drive_link" rel="noopener nofollow" target="_blank">Learning with Technology</a>
+<br><a href="https://docs.google.com/presentation/d/1ewnAjut0xyVtCilc6zmTkFXSA05kekD6/edit?usp=drive_link&amp;ouid=108380397741574116780&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Principal's Address</a>
+<br><a href="https://drive.google.com/file/d/1YqQHm7vuheGUefa19l_oUpSP1L1460dz/view?usp=drive_link" rel="noopener nofollow" target="_blank">Learning with Technology</a>
 <br><a href="https://docs.google.com/presentation/d/1T-axt0O-11chtCKJ7c2FedIgXuTIUrcz/edit?usp=drive_link&amp;ouid=108380397741574116780&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Year Head's Sharing</a>
 <br><a href="https://docs.google.com/presentation/d/1gKReZ2m7XBi69AjHVE8bhG8gCuwXxuuU/edit?usp=drive_link&amp;ouid=108380397741574116780&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P1 Curriculum Briefing</a>
 <br><a href="https://go.gov.sg/schdentalservices" rel="noopener nofollow" target="_blank">School Dental Services</a>
-</p>
-<p><strong>Sengkang Green Primary School - 2025, P1 Orientation for Parents (Nov 24' briefing)<br></strong>Please
-click on the following link to access the briefing slides and videos
-<br>
-</p>
-<p><a href="https://drive.google.com/drive/folders/1pEyVRPJPnPFnwGjisfdvgzNq17X9nWcG?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2025 P1 Orientation Briefing for Parents</a>
 </p>
 <hr>
 <p><strong>User Guide on Installation of Language Pack (Chinese Language Input/Tamil Language Input)<br></strong>Please
