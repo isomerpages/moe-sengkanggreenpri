@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Announcements/.keep
-      - Announcements/Caring Teachers Award 2026.md
       - Announcements/Announcements.md
+      - Announcements/Caring Teachers Award 2026.md
       - Announcements/10th Year Anniversary Celebration.md
       - Highlights/Teachers and Staff Appreciation from Parents Support Group.md
       - Highlights/.keep
