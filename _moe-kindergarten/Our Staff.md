@@ -228,7 +228,7 @@ description: ""
 <p>Ying Laoshi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:%20liu_ying_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+<p><a href="mailto:%20liu_ying_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
 <a rel="noopener noreferrer nofollow" target="_blank">liu_ying_c@moe.edu.sg</a>
 </p>
 </td>
