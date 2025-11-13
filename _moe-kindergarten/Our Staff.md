@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <h5><strong>Centre Leaders</strong></h5>
-<table style="minWidth: 100px">
+<table style="minWidth:100%">
 <colgroup>
 <col>
 <col>
@@ -17,7 +17,7 @@ description: ""
 <img style="width: 100%" height="100%" width="100%" src="/images/MOE Kindergarten/1__Ms_Ai_Hoon__Centre_Head_.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width:45%" height="100%" width="100%" src="/images/MOE Kindergarten/2__ms_melanie.jpg">
 </div>
