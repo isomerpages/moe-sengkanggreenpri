@@ -4,7 +4,7 @@ permalink: /our-staff/
 variant: tiptap
 description: ""
 ---
-##### **Centre Leaders**
+<h5><strong>Centre Leaders</strong></h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -25,45 +25,38 @@ description: ""
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
+<h5><strong>Key Personal</strong></h5>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Key Personnel</strong>
+<p>Ms Riena (Level Head)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">nur_nazriena_zulkifli@moe.edu.sg</a>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Huang Laoshi (Senior Teacher / Chinese)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">huang_cuili@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cikgu Fadillah (Senior Teacher / Malay)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">noor_fadillah_amid@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
