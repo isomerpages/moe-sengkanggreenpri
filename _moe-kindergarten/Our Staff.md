@@ -5,8 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h5><strong>Centre Leaders</strong></h5>
-<table style="minWidth:100%">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
