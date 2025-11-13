@@ -188,29 +188,48 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Yang Yi Laoshi&nbsp;</p>
+</td>
 <th rowspan="1" colspan="1">
-<p>Ms Riena (Level Head)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_nazriena_zulkifli@moe.edu.sg</a>
+<p><a href="mailto:yang_yi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_yi_a@moe.edu.sg</a>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Huang Laoshi (Senior Teacher / Chinese)</p>
+<p>Chen Laoshi&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">huang_cuili@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chin_yun_teng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cikgu Fadillah (Senior Teacher / Malay)</p>
+<p>Ke Laoshi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">noor_fadillah_amid@moe.edu.sg</a>
+<p><a href="mailto:ke_wang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ke_wang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yang Laoshi&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">yang_xiao_yan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ying Laoshi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:%20liu_ying_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+<a rel="noopener noreferrer nofollow" target="_blank">liu_ying_c@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -224,67 +243,13 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Ms Riena (Level Head)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_nazriena_zulkifli@moe.edu.sg</a>
-</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Huang Laoshi (Senior Teacher / Chinese)</p>
+<p>Cikgu Izah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">huang_cuili@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Cikgu Fadillah (Senior Teacher / Malay)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">noor_fadillah_amid@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h2><strong>Tamil Language</strong></h2>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
 <th rowspan="1" colspan="1">
-<p>Ms Riena (Level Head)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_nazriena_zulkifli@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">surizah_satoo@moe.edu.sg</a>
 </p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Huang Laoshi (Senior Teacher / Chinese)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">huang_cuili@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Cikgu Fadillah (Senior Teacher / Malay)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">noor_fadillah_amid@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 </tbody>
 </table>
