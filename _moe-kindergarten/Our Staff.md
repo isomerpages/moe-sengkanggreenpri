@@ -35,9 +35,9 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Ms Riena (Level Head)</p>
-</th>
+</td>
 <th rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">nur_nazriena_zulkifli@moe.edu.sg</a>
 </p>
@@ -71,30 +71,80 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lingaes &nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
 <th rowspan="1" colspan="1">
-<p>Ms Riena (Level Head)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_nazriena_zulkifli@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lingaeswari_nalandran@moe.edu.sg</a>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Huang Laoshi (Senior Teacher / Chinese)</p>
+<p>Mr Zahid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">huang_cuili@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_zahid_ghazali_abdullah_tan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cikgu Fadillah (Senior Teacher / Malay)</p>
+<p>Ms Afiqah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">noor_fadillah_amid@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">nur_afiqah_ramlee@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ashilah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">nur_ashilah_mohd_aidi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Deidere&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">deidere_eng_que_biing@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -136,6 +186,42 @@ description: ""
 </tbody>
 </table>
 <h5><strong>Malay Language</strong></h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Ms Riena (Level Head)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">nur_nazriena_zulkifli@moe.edu.sg</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Huang Laoshi (Senior Teacher / Chinese)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">huang_cuili@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cikgu Fadillah (Senior Teacher / Malay)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">noor_fadillah_amid@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2><strong>Tamil Language</strong></h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
