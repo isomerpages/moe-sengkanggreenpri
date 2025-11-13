@@ -253,5 +253,21 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>Malay Language</strong>
+<h5><strong>Tamil Language</strong></h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aasiriye Seerin</p>
+</td>
+<th rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">surizah_satoo@moe.edu.sg</a>
 </p>
+</th>
+</tr>
+</tbody>
+</table>
