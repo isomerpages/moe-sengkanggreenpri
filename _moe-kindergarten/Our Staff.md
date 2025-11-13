@@ -63,7 +63,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h5><strong>English Language </strong></h5>
+<h5><strong>English Language</strong></h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
