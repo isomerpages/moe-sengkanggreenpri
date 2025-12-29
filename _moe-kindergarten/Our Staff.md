@@ -16,12 +16,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="100%" width="100%" src="/images/MOE Kindergarten/1__Ms_Ai_Hoon__Centre_Head_.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="100%" width="100%" src="/images/MOE Kindergarten/2_Ms_Melanie__Deputy_Centre_Head_.jpg">
+<img style="width: 25%" height="50%" width="50%" src="/images/MOE Kindergarten/1__Ms_Ai_Hoon__Centre_Head_.jpg">
 </div>
 </td>
 </tr>
@@ -178,6 +173,15 @@ description: ""
 </p>
 </td>
 </tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Qistina</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank"></a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h5><strong>Chinese Language</strong></h5>
@@ -225,11 +229,21 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ying Laoshi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Ying Laoshi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:%20liu_ying_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
+<p><a href="mailto:liu_ying_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
 <a rel="noopener noreferrer nofollow" target="_blank">liu_ying_c@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+	<tr>
+<td rowspan="1" colspan="1">
+<p>Duan laoshi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank"></a>
+<a rel="noopener noreferrer nofollow" target="_blank"></a>
 </p>
 </td>
 </tr>
@@ -262,7 +276,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Aasiriye Seerin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Aasiriye Seerin</p>
 </td>
 <th rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">seerin_banu_rahamathullah_a@moe.edu.sg</a>
