@@ -5,4 +5,4 @@ description: ""
 variant: markdown
 third_nav_title: Information for Parents
 ---
-<p><a href="/files/MK_Family_Handbook_2024.pdf">2024 MOE Kindergarten Family Handbook</a><br></p>
+[2026 MK Family Handbook](/files/MK%20Files/5a_MK_Family_Handbook_2026.pdf)
