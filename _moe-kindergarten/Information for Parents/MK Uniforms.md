@@ -7,7 +7,9 @@ variant: tiptap
 ---
 <p>There are two appointed suppliers for MK uniform: Beau Voix Uniform (Beau
 Voix) and Jeep Sing Fashion (Jeep Sing).</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MK_Uniform_Price.jpg">
+</div>
 <p>MK uniform by Beau Voix and Jeep Sing follow closely the specifications
 required by MOE, and parents have the choice to purchase the uniform from
 either supplier.</p>
@@ -57,7 +59,7 @@ either supplier.</p>
 <p>Blk 4012, Ang Mo Kio Ave 10, Techplace 1,
 <br>#01-09/ #01-06B*
 <br>Singapore 569628
-<br>*Dedicated MK store from 16 Nov</p>
+<br>*Dedicated MK store from 16 Nov 2025</p>
 </td>
 </tr>
 <tr>
