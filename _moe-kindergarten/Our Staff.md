@@ -19,7 +19,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>khoo_ai_hoon@moe.edu.sg</p>
+<p><a href="mailto:khoo_ai_hoon@moe.edu.sg" rel="noopener nofollow" target="_blank">khoo_ai_hoon@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
