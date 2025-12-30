@@ -99,7 +99,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong>Mrs Janice Wan<br>Head Of Department / SEN</strong>
+<p><strong>Mrs Janice Wan<br>Head Of Department / SM</strong>
 <br><a href="Janice_Tor_Shi_Jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Janice_Tor_Shi_Jia@moe.edu.sg</a>
 </p>
 <p></p>
