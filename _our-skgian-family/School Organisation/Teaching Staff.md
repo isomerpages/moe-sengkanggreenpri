@@ -1095,19 +1095,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chong Kuan Hoe</p>
+<p>Mdm Tan Puay Kheng Catherine&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_kuan_hoe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_kuan_hoe@moe.edu.sg</a>
+<p><a href="mailto:tan_puay_kheng_catherine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_puay_kheng_catherine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Toh Heap Khoon</p>
+<p>Mr Lum Kit Chung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Toh_Heap_Khoon_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Toh_Heap_Khoon_A@moe.edu.sg</a>
+<p><a href="mailto:lum_kit_chung@moe.edu.sg" rel="noopener nofollow" target="_blank">lum_kit_chung@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1118,19 +1118,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kong Siew May</p>
+<p>Ms Leow Pei Shan Jaysleen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kong_siew_may@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_siew_may@moe.edu.sg</a>
+<p><a href="mailto:leow_pei_shan_jaysleen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leow_pei_shan_jaysleen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norashikin Bte Abdul Hamid</p>
+<p>Miss Kao Pow Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norashikin_abdul_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norashikin_abdul_hamid@moe.edu.sg</a>
+<p><a href="mailto:kao_pow_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">kao_pow_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1141,19 +1141,20 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chew Mei Jun</p>
+<p>Mr Ang Chern Kiat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chew_mei_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_mei_jun@moe.edu.sg</a>
+<p><a href="mailto:ang_chern_kiat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_chern_kiat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Eddy Sufyan Bin Selamat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:eddy_sufyan_selamat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eddy_sufyan_selamat@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1163,19 +1164,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Serene Teh Xian Hui</p>
+<p>Miss Chua Siew Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:serene_teh_xian-hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">serene_teh_xian-hui@moe.edu.sg</a>
+<p><a href="mailto:chua_siew_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_siew_kheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Liu Xiao Yu</p>
+<p>Mdm Nurul Zawanah Bte Abdul Wahab</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liu_xiaoyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_xiaoyu@moe.edu.sg</a>
+<p><a href="mailto:nurul_zawanah_abdul_wahab@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_zawanah_abdul_wahab@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1186,16 +1187,16 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sew Bee Jun Pearlyn</p>
+<p>Ms Hayati Bte Abdul Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Sew_Bee_Jun_Pearlyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sew_Bee_Jun_Pearlyn@moe.edu.sg</a>
+<p><a href="mailto:hayati_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hayati_abdul_rahim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Yan</p>
+<p>Mr Tommy Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wang_yan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yan_a@moe.edu.sg</a>
