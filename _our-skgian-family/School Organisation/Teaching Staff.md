@@ -93,10 +93,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Abigail Ong</p>
+<p>Mdm Lim Chee Ang - (Mdm Catherine Lim)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ong_Cheng_Sin_B@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ong_Cheng_Sin_B@moe.edu.sg</a>
+<p><a href="mailto:lim_chee_ang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chee_ang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -110,25 +110,34 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>1 Diligent</strong>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lynnette Krystall G Aviado</p>
+<p>Mdm Esther Claire Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lynnette_Krystall_G_Aviado@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lynnette_Krystall_G_Aviado@moe.edu.sg</a>
+<p><a href="mailto:li_qingyi_esther_claire@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_qingyi_esther_claire@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Dong Jia</p>
+<p>Ms Wan Nur Raudhah Sidin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Dong_Jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Dong_Jia@moe.edu.sg</a>
+<p><a href="mailto:wan_nur_raudhah_sidin@moe.edu.sg" rel="noopener nofollow" target="_blank">wan_nur_raudhah_sidin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Izza Nazura Binti Ab Manan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:izza_nazura_ab_manan@moe.edu.sg" rel="noopener nofollow" target="_blank">izza_nazura_ab_manan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
