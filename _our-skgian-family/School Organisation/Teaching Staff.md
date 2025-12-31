@@ -47,19 +47,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lam Hui Hui (Amy)</p>
+<p>Mdm Nordiana HASSAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lam_hui_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_hui_hui@moe.edu.sg</a>
+<p><a href="mailto:nordiana_binte_hassan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nordiana_binte_hassan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Sai Wee</p>
+<p>Ms Wang Siyang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_sai_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_sai_wee@moe.edu.sg</a>
+<p><a href="mailto:wang_siyang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_siyang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -70,19 +70,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yee Wai Ling - (Mrs Toh)</p>
+<p>Mdm Winnie Tan Wei Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yee_wai_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yee_wai_ling@moe.edu.sg</a>
+<p><a href="mailto:tan_wei_lin_winnie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_lin_winnie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kao Pow Ling</p>
+<p>Mdm Andrea Goh Sio Poh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kao_pow_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kao_pow_ling@moe.edu.sg</a>
+<p><a href="mailto:goh_sio_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_sio_poh@moe.edu.sg</a>
 </p>
 </td>
 </tr>
