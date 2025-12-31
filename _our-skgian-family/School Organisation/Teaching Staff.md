@@ -686,10 +686,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Puay Kheng Catherine</p>
+<p>Mdm Nur Ain Binte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_puay_kheng_catherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="">tan_puay_kheng_catherine@moe.edu.sg</a>
+<p><a href="mailto:nur_ain_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ain_ahmad@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -700,19 +700,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chew Chee Siang (Richard)</p>
+<p>Miss Charmaine Wong Ler Sien</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chew_chee_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_chee_siang@moe.edu.sg</a>
+<p><a href="mailto:wong_ler_sien_charmaine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ler_sien_charmaine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jeslin Wee</p>
+<p>Ms Dong Jia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wee_jeslin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee_jeslin@moe.edu.sg</a>
+<p><a href="mailto:dong_jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dong_jia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -723,19 +723,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chng E Hwei</p>
+<p>Miss Jeslin Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chng_e_hwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_e_hwei@moe.edu.sg</a>
+<p><a href="mailto:wee_jeslin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee_jeslin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Nadia Nabeehah Binte Saharudin</p>
+<p>Mr Goh Sai Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Nur_Nadia_Nabeehah_Saharudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Nadia_Nabeehah_Saharudin@moe.edu.sg</a>
+<p><a href="mailto:goh_sai_wee@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_sai_wee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
