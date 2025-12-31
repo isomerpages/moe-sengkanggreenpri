@@ -41,8 +41,6 @@ online reading tasks, quizzes and reflections.</p>
 <p>These deliberate efforts laid a strong foundation for deeper engagement,
 greater learner ownership and meaningful learning—setting the stage for
 our 2026 focus on <em>Enhancing Reading Literacy</em>.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Our School Theme for 2026</strong>
 </p>
 <p><strong>Becoming a Future-ready Learner – Enhancing Reading Literacy</strong>
@@ -87,8 +85,6 @@ nutrition labels to make informed choices.</p>
 and students share a common understanding that reading supports learning
 in every subject, enabling students to think critically, make meaning and
 approach learning with confidence.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Nurturing Learning Dispositions Through Reading</strong>
 </p>
 <p>Enhancing reading literacy also strengthens important learning dispositions
@@ -97,8 +93,6 @@ deeply with texts, they learn to ask thoughtful questions, persevere with
 challenging texts, reflect on ideas and appreciate perspectives different
 from their own. These dispositions are essential for character development
 and lifelong learning.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Our Ongoing Efforts</strong>
 </p>
 <p>Our emphasis on reading literacy began well before 2026. Through our school-wide
@@ -130,8 +124,6 @@ begin each day meaningfully. Listening to stories, reading news articles
 and participating in discussions broaden their perspectives and reinforce
 purposeful reading habits. Through shared reading and discussion, students
 make personal connections with texts and deepen their appreciation of stories.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>An Important Partnership</strong>
 </p>
 <p>Enhancing reading literacy is a collective effort. <strong><em>Parents play a vital role</em></strong> in
