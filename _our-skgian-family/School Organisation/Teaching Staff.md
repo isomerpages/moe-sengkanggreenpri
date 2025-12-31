@@ -1051,28 +1051,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>5 Honest</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Jaslyn Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siau_ek_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siau_ek_ping@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ong Xiang Teng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Ong_Xiang_Teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ong_Xiang_Teng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Primary 6</strong></h4>
