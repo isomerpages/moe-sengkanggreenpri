@@ -70,7 +70,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Winnie Tan Wei Lin</p>
+<p>Mdm Tan Wei Lin Winnie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_wei_lin_winnie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_lin_winnie@moe.edu.sg</a>
@@ -171,19 +171,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Muhamudha Binte Maideen Abu Baker</p>
+<p>Ms Ng Lip Kiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhamudha_maideen_abu_ba@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhamudha_maideen_abu_ba@moe.edu.sg</a>
+<p><a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lip_kiang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Eng Hwee Eunice (Mrs Eunice Kwok)</p>
+<p>Ms Alies Wong Shie Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:eunice_kwok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eunice_kwok@moe.edu.sg</a>
+<p><a href="mailto:alies_wong_shie_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alies_wong_shie_lin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
