@@ -13,7 +13,7 @@ sections:
           url: /others/announcements/open-for-nominations-caring-teacher-award-2026/
         - title: Highlights
           description: ""
-          url: https://www.sengkanggreenpri.moe.edu.sg/staff-appreciation-from-parents-support-group/
+          url: https://www.sengkanggreenpri.moe.edu.sg/principal-s-message-2026/
         - title: Useful Links
           description: ""
           url: https://www.sengkanggreenpri.moe.edu.sg/useful-links/
