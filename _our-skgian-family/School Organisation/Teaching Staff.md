@@ -570,19 +570,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Trupti Vikas Palkar</p>
+<p>Miss Cassandra Tan Hui En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Trupti_Vikas_Palkar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Trupti_Vikas_Palkar@moe.edu.sg</a>
+<p><a href="mailto:cassandra_tan_hui_en@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cassandra_tan_hui_en@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tinie Tan</p>
+<p>Mdm Tan Hern Ngee Cindy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_mui_ngin_tinie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mui_ngin_tinie@moe.edu.sg</a>
+<p><a href="mailto:tan_hern_ngee_cindy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hern_ngee_cindy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -592,51 +592,42 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lo Yuan Yuan</p>
+<p>Mdm Chng E Hwei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lo_Yuan_Yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lo_Yuan_Yuan@moe.edu.sg</a>
+<p><a href="mailto:chng_e_hwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_e_hwei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Hui Lin, Dion</p>
+<p>Mdm Kwek Pei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_hui_lin_dion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hui_lin_dion@moe.edu.sg</a>
+<p><a href="mailto:kwek_pei_ling_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwek_pei_ling_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>3 Friendly</strong>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Susanna Sim Hui Fang</p>
+<p>Mr Tan Kay Wee Jamen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Sim_Hui_Fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sim_Hui_Fang@moe.edu.sg</a>
+<p><a href="mailto:Tan_Kay_Wee_Jamen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Kay_Wee_Jamen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Rifqi Amirul Bin Rosli</p>
+<p>Mr Ng Yong'An Gary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Rifqi_Amirul_Rosli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Rifqi_Amirul_Rosli@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Kok Min Alan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_kok_min_alan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kok_min_alan@moe.edu.sg</a>
+<p><a href="mailto:gary_ng_yong_an@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gary_ng_yong_an@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -647,19 +638,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hoe Suyi Florina</p>
+<p>Mdm Nur Afiqah Binte Anwarie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hoe_suyi_florina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hoe_suyi_florina@moe.edu.sg</a>
+<p><a href="mailto:nur_afiqah_anwarie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_afiqah_anwarie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kym Koh Hui Xin</p>
+<p>Ms Nur Nadia Nabeehah Binte Saharudin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Kym_Koh_Hui_Xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Kym_Koh_Hui_Xin@moe.edu.sg</a>
+<p><a href="mailto:nur_nadia_nabeehah_saharudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_nadia_nabeehah_saharudin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
