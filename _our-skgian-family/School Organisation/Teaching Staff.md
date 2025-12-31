@@ -148,19 +148,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sangeetha d/o Narayanan (Mrs Sangeetha Siva)</p>
+<p>Mdm Ong Tze Yu - (Mrs Felicia Ng)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sangeetha_narayanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sangeetha_narayanan@moe.edu.sg</a>
+<p><a href="mailto:ong_tze_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_tze_yu@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wan Nur Raudhah Binte Sidin Yamin</p>
+<p>Ms Chua Seow Koon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Wan_Nur_Raudhah_Sidin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wan_Nur_Raudhah_Sidin@moe.edu.sg</a>
+<p><a href="chua_seow_koon@moe.edu.sg" rel="noopener nofollow" target="_blank">chua_seow_koon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
