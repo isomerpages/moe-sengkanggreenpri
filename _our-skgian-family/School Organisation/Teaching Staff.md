@@ -1035,19 +1035,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Janice Tor</p>
+<p>Mr Mok Wei Chyuan (Kenneth)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Janice_Tor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Janice_Tor@moe.edu.sg</a>
+<p><a href="mailto:mok_wei_chyuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mok_wei_chyuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nursyazwani B Ghazali</p>
+<p>Ms Ong Xiang Teng&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Nursyazwani_Ghazali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nursyazwani_Ghazali@moe.edu.sg</a>
+<p><a href="mailto:ong_xiang_teng@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_xiang_teng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
