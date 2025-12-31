@@ -22,6 +22,15 @@ sections:
           url: https://www.sengkanggreenpri.moe.edu.sg/admission/
       background: /images/new banner.gif
   - infopic:
+      title: Principal's Message 2026
+      id: infopic
+      description: Happy New Year! Welcome to an exciting new academic year at
+        Sengkang Green Primary School.
+      button: Click Here
+      url: /principal-s-message-2026/
+      image: /images/MrGau_reading.png
+      alt: Image alt text
+  - infopic:
       title: Teachers and Staff Appreciation from PSG
       id: infopic
       button: Click Here
@@ -66,13 +75,4 @@ sections:
       image: /images/2025Eopenbanner.jpg
       url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/skgps-virtual-open-house-2025/
       button: click here to enter
-  - infopic:
-      title: Principal's Message 2025
-      id: infopic
-      description: Happy New Year! Welcome to an exciting new academic year at
-        Sengkang Green Primary School.
-      button: Click Here
-      url: /principal-s-message-2025/
-      image: /images/Picture1.png
-      alt: Image alt text
 ---
