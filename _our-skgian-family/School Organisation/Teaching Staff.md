@@ -955,48 +955,30 @@ variant: tiptap
 <p>Ms Chew Mei Jun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sugunaiswari_gopynathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sugunaiswari_gopynathan@moe.edu.sg</a>
+<p><a href="mailto:chew_mei_jun@moe.edu.sg" rel="noopener nofollow" target="_blank">chew_mei_jun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>5 Diligent</strong>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chua Siew Kheng</p>
+<p>Mdm Pang Cui Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_siew_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_siew_kheng@moe.edu.sg</a>
+<p><a href="mailto:pang_cui_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pang_cui_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chong Ai Lin</p>
+<p>Ms Liu Xiao Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_ai_lin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_ai_lin_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chim Kheng Mui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chim_kheng_mui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chim_kheng_mui@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhd Amirul Bin Abdullah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_amirul_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_amirul_abdullah@moe.edu.sg</a>
+<p><a href="mailto:liu_xiaoyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_xiaoyu@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1007,19 +989,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Chern Kiat</p>
+<p>Mdm Serene Teh Xian Hui&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_chern_kiat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_chern_kiat@moe.edu.sg</a>
+<p><a href="mailto:serene_teh_xian-hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">serene_teh_xian-hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Humairiah Bte Ahmad</p>
+<p>Mr Rifqi Amirul Bin Rosli&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:humairiah_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">humairiah_ahmad@moe.edu.sg</a>
+<p><a href="mailto:rifqi_amirul_rosli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rifqi_amirul_rosli@moe.edu.sg</a>
 </p>
 </td>
 </tr>
