@@ -1012,19 +1012,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wang Siyang</p>
+<p>Mdm Nursyazwani B Ghazali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Wang_Siyang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wang_Siyang@moe.edu.sg</a>
+<p><a href="mailto:nursyazwani_ghazali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nursyazwani_ghazali@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chitra Devi Gunasegar (Mrs Guna)</p>
+<p>Mdm Lim Chung Li (Judy)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chitra_devi_krishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chitra_devi_krishnan@moe.edu.sg</a>
+<p><a href="mailto:lim_chung_li@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_chung_li@moe.edu.sg</a>
 </p>
 </td>
 </tr>
