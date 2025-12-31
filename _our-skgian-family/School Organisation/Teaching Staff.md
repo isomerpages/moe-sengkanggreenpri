@@ -524,51 +524,42 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Ngiap Seng (Mrs Chong)</p>
+<p>Mdm Hui Yiru</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ong_Ngiap_Seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ong_Ngiap_Seng@moe.edu.sg</a>
+<p><a href="mailto:hui_yiru@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hui_yiru@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Balasubramanian Devi</p>
+<p>Mrs Jaslyn Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Balasubramanian_Devi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Balasubramanian_Devi@moe.edu.sg</a>
+<p><a href="mailto:siau_ek_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">siau_ek_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>3 Caring</strong>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Yong'An Gary</p>
+<p>Mdm Trupti Vikas Palkar (Mrs Trupti Chaudhari)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gary_ng_yong_an@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gary_ng_yong_an@moe.edu.sg</a>
+<p><a href="mailto:trupti_vikas_palkar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">trupti_vikas_palkar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Shu Rong</p>
+<p>Mr Toh Heap Khoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ng_Shu_Rong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_Shu_Rong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Huang Ting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Huang_Ting_B@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Huang_Ting_B@moe.edu.sg</a>
+<p><a href="mailto:Toh_Heap_Khoon_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Toh_Heap_Khoon_A@moe.edu.sg</a>
 </p>
 </td>
 </tr>
