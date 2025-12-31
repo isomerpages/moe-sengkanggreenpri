@@ -418,19 +418,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jennifer Koh Lai Har</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_lai_har@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_lai_har@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Bismi Nurul Binte Nazir Mohd</p>
+<p>Miss Shannon Low</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Bismi_Nurul_Nadhirah_Nazir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Bismi_Nurul_Nadhirah_Nazir@moe.edu.sg</a>
+<p><a href="mailto:shannon_low_sien@moe.edu.sg" rel="noopener nofollow" target="_blank">shannon_low_sien@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -441,42 +440,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Lip Kiang</p>
+<p>Mdm Nazura Binte Hadam Hussain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lip_kiang@moe.edu.sg</a>
+<p><a href="mailto:nazura_hadam_hussain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazura_hadam_hussain@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Peak Deng</p>
+<p>Mdm Lee Eng Hwee Eunice (Mrs Eunice Kwok)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lim_PEAK_DENG@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_PEAK_DENG@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>2 Integrity</strong>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Chee Ang - (Mdm Catherine Lim)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_chee_ang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chee_ang@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chua Seow Koon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="chua_seow_koon@moe.edu.sg" rel="noopener nofollow" target="_blank">chua_seow_koon@moe.edu.sg</a>
+<p><a href="mailto:eunice_kwok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eunice_kwok@moe.edu.sg</a>
 </p>
 </td>
 </tr>
