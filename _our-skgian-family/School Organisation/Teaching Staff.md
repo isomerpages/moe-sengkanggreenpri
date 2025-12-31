@@ -194,19 +194,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Wei Lin Winnie</p>
+<p>Mdm Nur Ain Binte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_wei_lin_winnie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_lin_winnie@moe.edu.sg</a>
+<p><a href="mailto:nur_ain_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ain_ahmad@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Lay Guat</p>
+<p>Mdm Tan Wee Bee Serene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Lay_Guat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Lay_Guat@moe.edu.sg</a>
+<p><a href="mailto:tan_wee_bee_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wee_bee_serene@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -217,19 +217,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nazura Binte Hadam Hussain</p>
+<p>Mdm Tan Sok Lin Aileen (Mrs Aileen Kwok)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nazura_hadam_hussain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazura_hadam_hussain@moe.edu.sg</a>
+<p><a href="mailto:tan_sok_lin_aileen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sok_lin_aileen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Ler Sien Charmaine</p>
+<p>Ms Amanda Lim Shimin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Wong_Ler_Sien_Charmaine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wong_Ler_Sien_Charmaine@moe.edu.sg</a>
+<p><a href="mailto:Lim_shimin_amanda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_shimin_amanda@moe.edu.sg</a>
 </p>
 </td>
 </tr>
