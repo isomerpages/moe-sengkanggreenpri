@@ -137,7 +137,6 @@ that inspires every SKGian to read with curiosity, confidence and purpose.</p>
 <p>Thank you for your continued partnership and trust. I look forward to
 another meaningful year of learning and growth as we journey together in
 shaping future-ready learners.</p>
-<p>&nbsp;</p>
 <p>Warm regards,</p>
 <p>Gau Poh Teck
 <br>Principal
