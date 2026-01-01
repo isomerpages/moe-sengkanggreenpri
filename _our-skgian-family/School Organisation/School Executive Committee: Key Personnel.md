@@ -14,7 +14,7 @@ variant: markdown
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Ms Ng Lip Kiang <br>School Staff Developer (SSD) </strong>
+	<p><strong>Ms Ng Lip Kiang <br>School Staff Developer (SSD) </strong>
 <br><a href="mailto: ng_lip_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lip_kiang@moe.edu.sg</a>
 </p>
 </th>
@@ -69,7 +69,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Jamen Tan<br>Level Head / Science (Eco-Stewardship)</strong>
-<br><a href="mailto:%20tan_kay_wee_jamen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+<br><a href="mailto:%20tan_kay_wee_jamen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
 <a rel="noopener noreferrer nofollow" target="_blank">tan_kay_wee_jamen@moe.edu.sg</a>
 </p>
 </td>
