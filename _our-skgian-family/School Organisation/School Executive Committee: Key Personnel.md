@@ -20,7 +20,7 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Ms Chua Siew Kheng<br>Head of Department / English Language </strong>
-<br><a href="mailto: chua_siew_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_siew_kheng@moe.edu.sg</a>
+<br><strong><a href="mailto: chua_siew_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_siew_kheng@moe.edu.sg</a></strong>
 </p>
 </th>
 </tr>
