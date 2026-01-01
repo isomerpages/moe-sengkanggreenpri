@@ -31,7 +31,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Ivy Tan<br>Head of Department / CCE </strong>
+<p><strong>Mrs Ivy Tan<br>Head of Department / Character and Citzenship Education</strong>
 <br><a href="mailto: chua_siang_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_siang_peng@moe.edu.sg</a>
 </p>
 </td>
