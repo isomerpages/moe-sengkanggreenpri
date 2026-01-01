@@ -126,11 +126,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Aanand Pandiyan</strong>
-</p>
-<p><strong>Subject Head / National Education and Social Studies</strong>
-</p>
-<p><a href="mailto:aanandthah_a@schools.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aanandthah_a@schools.moe.edu.sg</a>
+<p><strong>Mr Aanand Pandiyan<br>Subject Head / National Education and Social Studies</strong>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>aanandthah_a@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
