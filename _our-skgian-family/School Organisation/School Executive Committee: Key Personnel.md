@@ -19,14 +19,14 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Ms Chua Siew Kheng<br>Head of Department / English </strong>
+<p><strong>Ms Chua Siew Kheng<br>Head of Department / English Language </strong>
 <br><a href="mailto: chua_siew_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_siew_kheng@moe.edu.sg</a>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Chew Mei Jun<br>Head of Department / Science </strong>
+<p><strong>Ms Chew Mei Jun<br>Head of Department / Science &amp; Environment</strong>
 <br><a href="mailto: chew_mei_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_mei_jun@moe.edu.sg</a>
 </p>
 </td>
