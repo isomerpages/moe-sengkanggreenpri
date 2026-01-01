@@ -187,11 +187,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Anna Poh</strong>
-</p>
-<p><strong>Senior Teacher / Science</strong>
-</p>
-<p><a href="mailto:kwok_wing_chiu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwok_wing_chiu@moe.edu.sg</a>
+<p><strong>Mrs Anna Poh<br>Senior Teacher / Science and Environment</strong>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>kwok_wing_chiu@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
