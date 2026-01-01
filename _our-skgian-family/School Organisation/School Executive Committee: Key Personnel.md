@@ -106,7 +106,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Kenneth Mok<br>Subject Head / Physical Education</strong>
+<p><strong>Mr Kenneth Mok<br>Subject Head / Physical and Health Education</strong>
 <a rel="noopener noreferrer nofollow" target="_blank">
 <br>mok_wei_chyuan@moe.edu.sg</a>
 </p>
