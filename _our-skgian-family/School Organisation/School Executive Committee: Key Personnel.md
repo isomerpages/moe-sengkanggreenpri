@@ -62,11 +62,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Chong Kuan Hoe<br>Level Head / Science 1</strong><a rel="noopener noreferrer nofollow" target="_blank"><br>chong_kuan_hoe@moe.edu.sg</a>
+<p><strong>Mr Chong Kuan Hoe<br>Level Head / Science </strong><a rel="noopener noreferrer nofollow" target="_blank"><br>chong_kuan_hoe@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Jamen Tan<br>Level Head / Science 2</strong>
+<p><strong>Mr Jamen Tan<br>Level Head / Science (Eco-Stewardship)</strong>
 <br><a href="mailto:%20tan_kay_wee_jamen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 <a rel="noopener noreferrer nofollow" target="_blank">tan_kay_wee_jamen@moe.edu.sg</a>
 </p>
@@ -74,7 +74,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Winnie Tan Wei Lin<br>Level Head / English</strong><a rel="noopener noreferrer nofollow" target="_blank"><br>tan_wei_lin_winnie@moe.edu.sg</a>
+<p><strong>Mdm Winnie Tan Wei Lin<br>Level Head / English Language</strong>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>tan_wei_lin_winnie@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
