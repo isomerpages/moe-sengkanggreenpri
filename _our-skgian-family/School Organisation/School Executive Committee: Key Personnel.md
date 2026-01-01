@@ -56,7 +56,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Tommy Lee Wei Ching<br>Head Of Department / PHE</strong>
+<p><strong>Mr Tommy Lee Wei Ching<br>Head Of Department / Physical and Health Education</strong>
 <a rel="noopener noreferrer nofollow" target="_blank">
 <br>lee_wei_ching@moe.edu.sg</a>
 </p>
