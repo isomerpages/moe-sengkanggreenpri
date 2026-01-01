@@ -114,11 +114,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lo Yuan Yuan</strong>
-</p>
-<p><strong>Subject Head / Chinese Language</strong>
-</p>
-<p><a href="mailto:Lo_Yuan_Yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lo_Yuan_Yuan@moe.edu.sg</a>
+<p><strong>Ms Lo Yuan Yuan<br>Subject Head / Chinese Langauge</strong>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>Lo_Yuan_Yuan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
