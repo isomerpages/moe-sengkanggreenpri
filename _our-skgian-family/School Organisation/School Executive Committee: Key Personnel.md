@@ -165,7 +165,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Hayati Bte Abdul Rahi<br>Senior Teacher / CCE</strong><a rel="noopener noreferrer nofollow" target="_blank"><br>hayati_abdul_rahim@moe.edu.sg</a>
+<p><strong>Ms Hayati Bte Abdul Rahi<br>Senior Teacher / Character and Citzenship Education</strong>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>hayati_abdul_rahim@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
