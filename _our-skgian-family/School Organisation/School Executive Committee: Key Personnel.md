@@ -38,7 +38,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Janice Wan<br>Head Of Department / SM</strong><a rel="noopener noreferrer nofollow" target="_blank"><br>Janice_Tor_Shi_Jia@moe.edu.sg</a>
+<p><strong>Mrs Janice Wan<br>Head Of Department / Student Management</strong>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>Janice_Tor_Shi_Jia@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
