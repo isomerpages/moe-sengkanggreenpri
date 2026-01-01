@@ -110,9 +110,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Ms Lo Yuan Yuan</strong>
+</p>
+<p>Subject Head / Chinese Language</p>
+<p><a href="mailto:Lo_Yuan_Yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lo_Yuan_Yuan@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Mrs Cindy Khoo<br>Subject Head / Aesthetics</strong><a rel="noopener noreferrer nofollow" target="_blank"><br>tan_hern_ngee_cindy@moe.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Aanand Pandiyan</strong>
 </p>
@@ -120,6 +129,9 @@ variant: tiptap
 </p>
 <p><a href="mailto:aanandthah_a@schools.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aanandthah_a@schools.moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -168,6 +180,19 @@ variant: tiptap
 <a rel="noopener noreferrer nofollow" target="_blank">
 <br>chng_e_hwei@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Anna Poh</strong>
+</p>
+<p><strong>Senior Teacher / Science</strong>
+</p>
+<p><a href="mailto:kwok_wing_chiu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwok_wing_chiu@moe.edu.sg</a> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
