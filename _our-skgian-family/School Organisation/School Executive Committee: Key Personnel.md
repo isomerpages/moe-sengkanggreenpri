@@ -118,7 +118,7 @@ variant: tiptap
 </p>
 <p><strong>Subject Head / National Education and Social Studies</strong>
 </p>
-<p><a href="mailto:aanandthah_a@schools.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aanandthah_a@schools.moe.edu.sg</a> 
+<p><a href="mailto:aanandthah_a@schools.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aanandthah_a@schools.moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -136,7 +136,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Pang Cui Ling<br>Year Head / P5 &amp; P6</strong><a rel="noopener noreferrer nofollow" target="_blank"><br>nur_ain_ahmad@moe.edu.sg</a>
+<p><strong>Mdm Pang Cui Ling<br>Year Head / P5 &amp; P6</strong><a rel="noopener noreferrer nofollow" target="_blank"><br>pang_cui_ling@moe.edu,sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
