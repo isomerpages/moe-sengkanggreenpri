@@ -47,7 +47,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nordiana HASSAN</p>
+<p>Ms Nordiana HASSAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nordiana_binte_hassan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nordiana_binte_hassan@moe.edu.sg</a>
@@ -399,7 +399,7 @@ variant: tiptap
 <p>Mdm Muhamudha Binte Maideen Abu Baker</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:li_qingyi_esther_claire@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_qingyi_esther_claire@moe.edu.sg</a>
+<p><a href="mailto:muhamudha_maideen_abu_ba@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhamudha_maideen_abu_ba@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -408,7 +408,7 @@ variant: tiptap
 <p>Mdm Wang Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shannon_low_si-en@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shannon_low_si-en@moe.edu.sg</a>
+<p><a href="mailto:wang_yan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yan_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
