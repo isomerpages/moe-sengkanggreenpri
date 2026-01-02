@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Our Suppliers
 variant: markdown
 ---
-<h4><strong>KH Uniform Pte Ltd</strong></h4>
-<p>Address: Blk 115A Commonwealth Drive #02-28 S(149596)</p>
-<p>Contact Number : 64796811</p>
-<p>Online Store : <strong><a href="https://khuniform.com/" target="">www.khuniform.com</a></strong></p>
-<p>Email : <strong><a href="mailto:sales@khuniform.com" target="">sales@khuniform.com</a></strong></p>
+<h4><strong>My Uniform Shop (ASIA) Pte Ltd</strong></h4>
+<p>Retail Shop: 209 New Upper Changi Road, #03-651, Singapore 460209</p>
+<p>Contact Number : 6276 6689</p>
+<p>Online Store : <strong><a href="https://www.myuniformshop.com.sg" target="">https://www.myuniformshop.com.sg</a></strong></p>
+<p>Email : <strong><a href="mailto:myuniformshopasia@gmail.com" target="">myuniformshopasia@gmail.com</a></strong></p>
 
 ***Uniforms are available for sales through school bookshop during school term time**
