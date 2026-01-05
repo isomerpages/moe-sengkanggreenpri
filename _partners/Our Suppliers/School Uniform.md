@@ -10,5 +10,3 @@ variant: markdown
 <p>Contact Number : 6276 6689</p>
 <p>Online Store : <strong><a href="https://www.myuniformshop.com.sg" target="">https://www.myuniformshop.com.sg</a></strong></p>
 <p>Email : <strong><a href="mailto:myuniformshopasia@gmail.com" target="">myuniformshopasia@gmail.com</a></strong></p>
-
-***Uniforms are available for sales through school bookshop during school term time**
