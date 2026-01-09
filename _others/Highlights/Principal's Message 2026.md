@@ -58,6 +58,9 @@ individuals and as members of a community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A joyful moment of reading with SKGians in the Learning Hub" src="/images/MrGau_reading.png">
 </div>
+<blockquote>
+<p>Mr Gau enjoying a reading moment with SKGians at Our Learning Hub</p>
+</blockquote>
 <p><strong>Reading Literacy: Beyond Books</strong>
 </p>
 <p>At Sengkang Green, reading literacy goes beyond storybooks. In today’s
