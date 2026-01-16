@@ -179,7 +179,7 @@ and how to seek help for themselves and their friends.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Primary 6</strong>
 </p>
