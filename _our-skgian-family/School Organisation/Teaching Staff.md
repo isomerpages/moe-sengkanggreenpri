@@ -278,7 +278,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Amy Lam Hui Hui</p>
+<p>Ms Amy Lam Hui Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lam_hui_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_hui_hui@moe.edu.sg</a>
