@@ -31,18 +31,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operation Manager</p>
+<p>Admin Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alan Lee Kay Kwee</p>
+<p>Mdm Roselin Binte Ismail</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
+<p>Operation Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Roselin Binte Ismail</p>
+<p>Mr Alan Lee Kay Kwee</p>
 </td>
 </tr>
 <tr>
