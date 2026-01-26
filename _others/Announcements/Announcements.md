@@ -11,7 +11,7 @@ the following link to download the presentation slides.</p>
 <br><a href="/files/2026_PES/P6_PES/p6yearhead.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Year Head Sharing</a> 
 <br><a href="/files/2026_PES/P6_PES/p6academichead.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Academic Heads Sharing</a>
 <br><a href="/files/2026_PES/P6_PES/pgmobileapp.pdf" rel="noopener noreferrer nofollow" target="_blank">PG Mobile App Notify absence</a>
-	<br><a href="/files/2026 PES/P6 PES/FAQs_for_Parents__Notify_absence__Revised_docx.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs for Parents Notify absence</a>
+	<br><a href="/files/2026_PES/P6_PES/faqabsence.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs for Parents Notify absence</a>
 <br><a href="/images/Absence_Notification_Quick_Guide__A3_.jpg" rel="noopener noreferrer nofollow" target="_blank">Absence_Notification_Quick_Guide</a>
 <p></p>
 <p></p>
