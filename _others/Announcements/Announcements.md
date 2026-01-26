@@ -12,7 +12,7 @@ the following link to download the presentation slides.</p>
 <br><a href="/files/2026_PES/P6_PES/p6academichead.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Academic Heads Sharing</a>
 <br><a href="/files/2026_PES/P6_PES/pgmobileapp.pdf" rel="noopener noreferrer nofollow" target="_blank">PG Mobile App Notify absence</a>
 	<br><a href="/files/2026_PES/P6_PES/faqabsence.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs for Parents Notify absence</a>
-<br><a href="/images/Absence_Notification_Quick_Guide__A3_.jpg" rel="noopener noreferrer nofollow" target="_blank">Absence_Notification_Quick_Guide</a>
+<br><a href="/images/absenceguide.jpg" rel="noopener noreferrer nofollow" target="_blank">Absence_Notification_Quick_Guide</a>
 <p></p>
 <p></p>
 <p><strong>Sengkang Green Primary School - 2026, P1 Orientation for Parents (Nov 25' briefing)<br></strong>Please
