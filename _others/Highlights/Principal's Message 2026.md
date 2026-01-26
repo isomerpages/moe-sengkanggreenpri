@@ -1,7 +1,7 @@
 ---
 title: Principal's Message 2026
 permalink: /principal-s-message-2026/
-variant: tiptap
+variant: markdown
 description: principal message 2025
 third_nav_title: Highlights
 ---

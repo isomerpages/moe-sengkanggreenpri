@@ -50,7 +50,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Tinie Tan Mui Ngin<br>Head Of Department / Mother Tongue</strong>
+<p><strong>Mdm Tinie Tan Mui Ngin<br>Head Of Department / Mother Tongue Languages</strong>
 <a href="mailto: tan_mui_ngin_tinie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
 <br>tan_mui_ngin_tinie@moe.edu.sg</a>
 </p>
@@ -113,7 +113,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lo Yuan Yuan<br>Subject Head / Chinese Langauge</strong>
+<p><strong>Ms Lo Yuan Yuan<br>Subject Head / Chinese Language</strong>
 <a href="mailto:lo_yuan_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">
 <br>Lo_Yuan_Yuan@moe.edu.sg</a>
 </p>
