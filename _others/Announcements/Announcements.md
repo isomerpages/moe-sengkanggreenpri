@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Announcements
 variant: markdown
 ---
+<p><strong>P6 Parent Engagement Session 2026<br></strong>Please click on
+the following link to download the presentation slides.</p>
+<p><a href="/files/2026_PES/P6_PES/P6_Parent_Engagement_Slides_2026_Principal.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 PES Principal Address</a>
+<br><a href="/files/2026_PES/P6_PES/P6_Parent_Engagement_Session_2026_Year_Head.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Year Head Sharing</a> 
+<br><a href="/files/2025_PES/P6_PES/p6_academic_heads.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Academic Heads Sharing</a>
+</p>
+<p></p>
 <p><strong>Sengkang Green Primary School - 2026, P1 Orientation for Parents (Nov 25' briefing)<br></strong>Please
 click on the following link to access the briefing slides:</p>
 <a href="https://www.sengkanggreenpri.moe.edu.sg/files/2026 Files/P1_Orientation_Slides_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 P1 Orientation Briefing for Parents</a>
