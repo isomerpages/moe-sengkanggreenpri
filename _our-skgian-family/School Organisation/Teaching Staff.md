@@ -429,8 +429,7 @@ variant: tiptap
 <p>Miss Shannon Low</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shannon_low_sien@moe.edu.sg" rel="noopener nofollow" target="_blank">shannon_low_sien@moe.edu.sg</a>
-</p>
+<p>shannon_low_si-en@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
