@@ -6,5 +6,8 @@ description: ""
 image: /images/MKSG_Playground.jpg
 ---
 <h1>What's On?</h1>
-<p>Coming soon! MK@Sengkang Green Open House!
-<br>Check back by end Jan 2026 for more details!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MK@Sengkang Green Open House" src="/images/MK_SG_Open_House_2026_Poster.png">
+</div>
+<p></p>
