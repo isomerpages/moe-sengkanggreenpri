@@ -5,6 +5,12 @@ description: ""
 third_nav_title: Announcements
 variant: markdown
 ---
+<p><strong>P3 Parent Engagement Session 2026<br></strong>Please click on
+the following link to download the presentation slides.
+<br><a href="/files/2026_PES/P3_PES/P3SLYH.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 School Leader and Year Head Sharing</a> 
+<br><a href="/files/2026_PES/P3_PES/P3academicheads.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 Academic Heads Sharing</a>
+<br><a href="/files/2026_PES/P3_PES/P3HMTL.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 Higher Mother Tongue Language Sharing</a>
+</p>
 <p><strong>P4 Parent Engagement Session 2026<br></strong>Please click on
 the following link to download the presentation slides.
 <br><a href="/files/2026_PES/P4_PES/p4slandlevelhead.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 School Leader and Year Head Sharing</a> 
