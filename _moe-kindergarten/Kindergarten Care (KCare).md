@@ -52,11 +52,11 @@ Day, Children's Day, and gazaetted public holidays, each calendar year.</p>
 is:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>$200 for Singapore Citizens (SCs), note that fee is already after $150
+<p>$190 for Singapore Citizens (SCs), note that fee is already after $150
 basic subsidy for SCs.</p>
 </li>
 <li>
-<p>$350 for Singapore Permanent Residents (PRs).</p>
+<p>$340 for Singapore Permanent Residents (PRs).</p>
 </li>
 </ul>
 <p>KCare fees are:</p>
@@ -72,7 +72,7 @@ basic subsidy for SCs.</p>
 as follow:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>One month deposit fee of $350; AND</p>
+<p>One month deposit fee of $340; AND</p>
 </li>
 <li>
 <p>First month's fee</p>
