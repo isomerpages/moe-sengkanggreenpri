@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - MK@SG.md
-      - About Us/Our Fees.md
       - About Us/.keep
       - About Us/Vision Mission Beliefs.md
       - About Us/What MK Offers.md
+      - About Us/Our Fees.md
       - About Us/Our Learning Environment.md
       - About Us/A day in MK@SG.md
       - Our Staff.md
