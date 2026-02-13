@@ -68,16 +68,7 @@ basic subsidy for SCs.</p>
 <p>Also payable during the June and December holidays.</p>
 </li>
 </ul>
-<p>Upon successful enrolment in KCare, the KCare fees payable upfront are
-as follow:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>One month deposit fee of $340; AND</p>
-</li>
-<li>
-<p>First month's fee</p>
-</li>
-</ul>
+<p></p>
 <p><strong>[For KCare fees only] KCare Additional Subsidy (AS)</strong>
 </p>
 <p>An additional subsidy is also provided for SCs and this is tiered according
