@@ -51,19 +51,3 @@ PM to 7:00 PM.</p>
 to operate between 7:00 AM to 7:00 PM.</p>
 <p>Note that KCare centres can close for up to six days, in addition to Teachers'
 Day, Children's Day, and gazaetted public holidays, each calendar year.</p>
-<p></p>
-<p></p>
-<h4><strong>Sample KCare Schedule (during School Terms, when MK is in operation)</strong></h4>
-<p><em>Note: There is no breakfast served between 7am to 8am. However, children will have their morning snack (20 mins) in MK between 9am to 10am, depending on individual MK class timetable.</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KCare_Timetable__Sample_School_Term_.jpg">
-</div>
-<p></p>
-<h4><strong>Sample KCare Schedule (during School Holidays or when MK is closed)</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KCare_Timetable__Sample_School_Holiday_.jpg">
-</div>
-<p><em>Note: The KCare schedules may vary according to each class.</em>
-</p>
-<p></p>
