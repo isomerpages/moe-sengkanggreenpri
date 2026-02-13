@@ -45,6 +45,8 @@ it makes up our Total MK@Sengkang Green Curriculum.</p>
 <p><strong>Total MK@Sengkang Green Curriculum</strong>
 </p>
 <p>The MK@SKGian Experience begins when the child first steps into the school!</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Total MK@SG Curriculum" src="/images/Total_MK_SG_Curriculum.png">
+</div>
 <p></p>
 <p></p>
