@@ -46,3 +46,41 @@ Day, Children's Day, and gazaetted public holidays, each calendar year.</p>
 </div>
 <p><em>Note: The KCare schedules may vary according to each class.</em>
 </p>
+<p></p>
+<h4><strong>KCare Fees</strong></h4>
+<p>The monthly fee for KCare@Sengkang Green, under EduSMART Learning Hub
+is:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>$200 for Singapore Citizens (SCs), note that fee is already after $150
+basic subsidy for SCs.</p>
+</li>
+<li>
+<p>$350 for Singapore Permanent Residents (PRs).</p>
+</li>
+</ul>
+<p>KCare fees are:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To be paid directly to the KCare vendor; and</p>
+</li>
+<li>
+<p>Also payable during the June and December holidays.</p>
+</li>
+</ul>
+<p>Upon successful enrolment in KCare, the KCare fees payable upfront are
+as follow:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>One month deposit fee of $350; AND</p>
+</li>
+<li>
+<p>First month's fee</p>
+</li>
+</ul>
+<p><strong>[For KCare fees only] KCare Additional Subsidy (AS)</strong>
+</p>
+<p>An additional subsidy is also provided for SCs and this is tiered according
+to income levels. <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care" rel="noopener nofollow" target="_blank">Learn more about the KCare fees and subsidies.</a>
+</p>
+<p></p>
