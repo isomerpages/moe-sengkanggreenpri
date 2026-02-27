@@ -145,7 +145,7 @@ description: ""
 <p>Ms Pei Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_pei_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_pei_shan@moe.edu.sg</a>
+<p><a href="mailto:goh_pei_shan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_pei_shan_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -181,7 +181,8 @@ description: ""
 <p>Ms Qistina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:qistina_ireena_misnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">qistina_ireena_misnan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -222,7 +223,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yang Laoshi&amp;</p>
+<p>Yang Laoshi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yang_xiao_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_xiao_yan@moe.edu.sg</a>
@@ -243,7 +244,8 @@ description: ""
 <p>Duan laoshi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:duan_qingchuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">duan_qingchuan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
