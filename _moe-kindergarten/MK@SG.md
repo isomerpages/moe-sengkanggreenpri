@@ -13,7 +13,7 @@ where parents and children experienced a glimpse of the joyful learning
 environment at MK@SG.</p>
 <p>The Open House was made even more meaningful through the support of our
 school community. Our <strong>SKGPS Primary 4 and Primary 5 prefects</strong>,
-including several former MK children, worked together with our <strong>current K2 children </strong>to
+including many former MK children, worked together with our <strong>current K2 children </strong>to
 engage visiting families and younger children at the activity booths. We
 are also grateful to our <strong>parent volunteers</strong> who shared their
 experiences with visiting families. These shared efforts reflect what we
