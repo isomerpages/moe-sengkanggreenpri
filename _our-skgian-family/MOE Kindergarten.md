@@ -13,5 +13,5 @@ in MOE Kindergarten @ Sengkang Green.</p>
 closely to enrich the learning experiences of our pupils and the kindergarten
 children.</p>
 <p>For more information on MOE Kindergarten @ Sengkang Green, please contact
-the kindergarten at 6241 6640 or visit <a href="https://www.sengkanggreenpri.moe.edu.sg/mk-sg/" rel="noopener nofollow" target="_blank">https://www.sengkanggreenpri.moe.edu.sg/mk-sg/</a>
+the kindergarten at 6241 6640 or visit <a href="https://www.sengkanggreenpri.moe.edu.sg/mk-sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.sengkanggreenpri.moe.edu.sg/mk-sg/</a>
 </p>
