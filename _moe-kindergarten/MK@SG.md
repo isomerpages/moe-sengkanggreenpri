@@ -19,11 +19,13 @@ are also grateful to our <strong>parent volunteers</strong> who shared their
 experiences with visiting families. These shared efforts reflect what we
 believe at MK@SG — <strong>it takes a village to raise a child, and it takes a child to raise a village</strong>.</p>
 <p>Whether you attended the Open House and would like to revisit the information
-shared, or missed the session, you may view the briefing slides here:</p>
+shared, or missed the session, you may view the briefing slides here:
+<a href="/files/MK Files/2026_03_07_MK_SG_Open_House___Briefing_by_P_n_CH___for_parents.pdf" rel="noopener nofollow" target="_blank">2026 MK@SG Open House - Briefing Slides</a>
+</p>
 <p>At <strong>MK@Sengkang Green</strong>, we believe in nurturing confident,
 curious learners through meaningful play, in a caring environment where
-every child is known, valued and encouraged to shine.</p>
-<p>🌱 <strong><em>Join our village of joyful learners — don’t miss the registration deadline </em></strong>(refer
+every child is known, valued and encouraged to shine.
+<br>🌱 <strong><em>Join our village of joyful learners — don’t miss the registration deadline </em></strong>(refer
 to details below)<strong><em> to enrol your child at MK@Sengkang Green.</em></strong>
 </p>
 <h3><strong><u>Enrol for K1 in 2027</u></strong></h3>
