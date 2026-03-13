@@ -6,35 +6,28 @@ description: ""
 image: /images/MKSG_Playground.jpg
 ---
 <h1>What's On?</h1>
-<h3><strong><u>Open House 2026</u></strong></h3>
-<p>✨ Step Into the Joy of Learning at MK@Sengkang Green!✨</p>
-<p>Join us for an exciting Open House (7 March 2026) featuring:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>✨ Interactive Storytelling</p>
-</li>
-<li>
-<p>✨ Parents Ask Parents booth</p>
-</li>
-<li>
-<p>✨ 10-Minute Trike Adventure</p>
-</li>
-<li>
-<p>✨ Briefing by SKGPS Principal &amp; MK@SG Centre Head</p>
-</li>
-</ul>
-<p>Discover how we nurture confident, curious learners through meaningful
-play in a caring environment where every child is known, valued and encouraged
-to shine.</p>
-<p>Here are the event details for your reference:</p>
-<p>📅 Date: 7 March 2026</p>
-<p>⏰ Time: 9.00am – 12.00pm</p>
-<p>📍 Venue: Enter via Gate B1 (behind Blk 445A Fernvale Road)</p>
-<p>Come explore our vibrant spaces, meet our passionate educators, and experience
-what makes MK@Sengkang Green a special place to grow. <a href="https://mk-sg-openhouse2026.app.entry.gov.sg/form/373781e9-837b-437a-82c3-c7e5bdbf90ab" rel="noopener nofollow" target="_blank">Scan the QR code below or click on this link to sign-up for our Open House 2026 now!</a>
-</p><a class="isomer-image-wrapper" href="https://mk-sg-openhouse2026.app.entry.gov.sg/form/373781e9-837b-437a-82c3-c7e5bdbf90ab"><img style="width: 25%;" height="auto" width="100%" alt="Sign up for MK@SG Open House 2026" src="/images/MK_SG_Open_House_Sign_Up.jpg"></a>
-<p></p>
-<p></p>
+<h3><strong><u>Open House 2026 - Thank You for Joining Us!</u></strong></h3>
+<p>✨ <strong>Thank you for being part of MK@Sengkang Green Open House 2026!</strong> ✨
+<br>We were delighted to welcome many families to our centre on <strong>7 March 2026</strong>,
+where parents and children experienced a glimpse of the joyful learning
+environment at MK@SG.</p>
+<p>The Open House was made even more meaningful through the support of our
+school community. Our <strong>SKGPS Primary 4 and Primary 5 prefects</strong>,
+including many former MK children, worked together with our <strong>current K2 children </strong>to
+engage visiting families and younger children at the activity booths. We
+are also grateful to our <strong>parent volunteers</strong> who shared their
+experiences with visiting families. These shared efforts reflect what we
+believe at MK@SG — <strong>it takes a village to raise a child, and it takes a child to raise a village</strong>.</p>
+<p>Whether you attended the Open House and would like to revisit the information
+shared, or missed the session, you may view the briefing slides here:
+<a href="/files/MK Files/2026_03_07_MK_SG_Open_House___Briefing_by_P_n_CH___for_parents.pdf" rel="noopener nofollow" target="_blank">2026 MK@SG Open House - Briefing Slides</a>
+</p>
+<p>At <strong>MK@Sengkang Green</strong>, we believe in nurturing confident,
+curious learners through meaningful play, in a caring environment where
+every child is known, valued and encouraged to shine.
+<br>🌱 <strong><em>Join our village of joyful learners — don’t miss the registration deadline </em></strong>(refer
+to details below)<strong><em> to enrol your child at MK@Sengkang Green.</em></strong>
+</p>
 <h3><strong><u>Enrol for K1 in 2027</u></strong></h3>
 <p>Online Open Admissions (OA) and Early Years Centre (EYC) registration
 for 2027 K1 admissions will open from <strong>9am on Monday, 23 March 2026</strong> and <strong>close at 4.30 pm on Tuesday, 31 March 2026</strong>.
