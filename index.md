@@ -22,6 +22,16 @@ sections:
           url: https://www.sengkanggreenpri.moe.edu.sg/admission/
       background: /images/new banner.gif
   - infopic:
+      title: The Young Philatelists
+      subtitle: Add an image and text
+      id: infopic
+      description: The Young Philatelists is a newly launched CCA in Sengkang Green
+        Primary School in partnership with Singapore Post.
+      button: CLICK HERE FOR DETAILS
+      url: /the-young-philatelists/
+      image: /images/Highlights/yp1.jpg
+      alt: Image alt text
+  - infopic:
       title: Principal's Message 2026
       id: infopic
       description: Happy New Year! Welcome to an exciting new academic year at
