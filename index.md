@@ -23,7 +23,6 @@ sections:
       background: /images/new banner.gif
   - infopic:
       title: The Young Philatelists
-      subtitle: Add an image and text
       id: infopic
       description: The Young Philatelists is a newly launched CCA in Sengkang Green
         Primary School in partnership with Singapore Post.
