@@ -341,7 +341,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>2 Diligent</strong>
 </p>
 <p></p>
@@ -356,8 +356,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Xu Xiaoyun</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:xu_xiaoyun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_xiaoyun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Luo Yan Ping</p>
 </td>
