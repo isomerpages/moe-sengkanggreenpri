@@ -373,7 +373,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>2 Excellent</strong>
 </p>
 <p></p>
@@ -383,6 +383,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sangeetha_narayanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sangeetha_narayanan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Xiong Hai Xia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:xiong_hai_xia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xiong_hai_xia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -424,10 +433,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Winnie Wit Yee Htet Oo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Wit_Yee_Htet_Oo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wit_Yee_Htet_Oo@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -435,7 +445,8 @@ variant: tiptap
 <p>Miss Shannon Low</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shannon_low_si-en@moe.edu.sg</p>
+<p><a href="mailto:shannon_low_si-en@moe.edu.sg" rel="noopener nofollow" target="_blank">shannon_low_si-en@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
