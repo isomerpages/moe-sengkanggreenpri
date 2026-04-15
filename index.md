@@ -84,4 +84,13 @@ sections:
       image: /images/2025Eopenbanner.jpg
       url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/skgps-virtual-open-house-2025/
       button: click here to enter
+  - infopic:
+      id: infopic
+      description: Join our Parent Volunteer Scheme to support school programmes and
+        events. Complete the required hours to register your child under Phase
+        2B of P1 registration.
+      button: CLICK HERE FOR DETAILS
+      url: https://go.gov.sg/skgpv2026
+      image: /images/Volunteer.png
+      alt: Image alt text
 ---
