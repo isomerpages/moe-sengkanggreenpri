@@ -26,10 +26,10 @@ your child.</p>
 the following form:</p>
 <p><a href="https://go.gov.sg/skgpv2026" rel="noopener nofollow" target="_blank">2026 Parent Volunteer</a>
 </p>
-<p>The registration will end on 10 Feb and the outcome will be released to
-the applicants by end of May. Parent has to complete at least 40 hours
-of voluntary service to the school by 30 June of the year of P1 registration
-to be eligible for phase 2B.</p>
+<p>The registration will end on <strong><u>8 May</u></strong> and the outcome
+will be released to the applicants by end of May. Parent has to complete
+at least 40 hours of voluntary service to the school by 30 June of the
+year of P1 registration to be eligible for phase 2B.</p>
 <h4><strong>Application to MOE Kindergarten</strong></h4>
 <p><strong><u>Incoming K1 Registration</u></strong>
 </p>
