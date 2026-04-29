@@ -22,7 +22,7 @@ through integrated MTL-CCE lessons.<p></p>
 ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 学习与马年相关的成语，如“一马当先”“马到成功”
 <br>learnt idioms related to the Year of the Horse<br>
 ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 阅读并分析新闻文章，了解新加坡人如何庆祝农历新年
-<br>analysed news articles on how Chinese New Year is celebrated in Singapore<p></p>
+<br>analysed news articles on how Chinese New Year is celebrated in Singapore
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cnewyear1.png">
 </div>
