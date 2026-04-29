@@ -13,9 +13,9 @@ image: /images/Highlights/cny10.jpg
 </div>
 <p><strong><u>华文和品德与公民教育课：在文化中学习语言<br>MTL-CCE: Learning Language Through Culture</u></strong>
 </p>
-<p>学生在课堂上探索农历新年的意义，并参与多样化的学习活动。
+学生在课堂上探索农历新年的意义，并参与多样化的学习活动。
 <br>In the weeks leading up to Chinese New Year, SKGians explored the festival
-through integrated MTL-CCE lessons.</p>
+through integrated MTL-CCE lessons.<p></p>
 <p>学生们:
 <br>SKGians:</p>
 ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 学习与马年相关的成语，如“一马当先”“马到成功”
