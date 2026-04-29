@@ -7,11 +7,10 @@ third_nav_title: Highlights
 ---
 <p><strong>农历新年庆祝活动——骏马迎春 <br>Chinese New Year 2026</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cny10.jpg">
 </div>
-<p><strong>华文和品德与公民教育课：在文化中学习语言<br>MTL-CCE: Learning Language Through Culture</strong>
+<p><strong><u>华文和品德与公民教育课：在文化中学习语言<br>MTL-CCE: Learning Language Through Culture</u></strong>
 </p>
 <p>学生在课堂上探索农历新年的意义，并参与多样化的学习活动。
 <br>In the weeks leading up to Chinese New Year, SKGians explored the festival
@@ -28,7 +27,6 @@ through integrated MTL-CCE lessons.</p>
 </div>
 <p><em>SKGians explored CNY through stories, idioms and news</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cny3.jpg">
 </div>
@@ -39,7 +37,7 @@ through integrated MTL-CCE lessons.</p>
 questions to understand more about cultural practices and applied their
 language skills in authentic contexts by sharing ideas through creative
 artworks.</p>
-<p><strong>农历新年庆祝会 Chinese New Year Celebration</strong>
+<p><strong><u>农历新年庆祝会 Chinese New Year Celebration</u></strong>
 </p>
 <p>农历除夕当天，校园里锣鼓喧天，热闹非凡。舞狮表演为新年节庆揭开序幕，康林师生也带来了充满活力的精彩演出。学生们还近距离与舞狮互动，在欢腾的气氛中感受浓厚的新年节日氛围。</p>
 <p>The school welcomed Chinese New Year with a vibrant celebration. The campus
@@ -67,14 +65,25 @@ and perseverance.</p>
 <p>在欢腾喜庆的氛围中，庆祝活动圆满画上句点。康林师生与来宾们一同品尝年糕，寓意新的一年步步高升、不断进步。</p>
 <p>The celebration ended on a sweet note as SKGians and staff enjoyed Nian
 Gao, representing growth and progress in the year ahead.</p>
-<p><strong>体验式学习活动 School-Wide Experiential Learning</strong>
+<p><strong><u>体验式学习活动 School-Wide Experiential Learning</u></strong>
 </p>
 <p><strong>书法与印章体验 Calligraphy and Seal Stamping</strong>
 </p>
-<p>学生体验传统文化活动，如书写新春挥春和盖印篆章。每位学生都在自己的书法作品上盖上 <strong>“</strong>一马当先<strong>”</strong> 的印章，在学习成语含义的同时，也理解其所蕴含的意义。学生们在练习书写笔画的过程中展现了坚持不懈的精神。</p>
-<p>
+<p>学生体验传统文化活动，如书写新春挥春和盖印篆章。每位学生都在自己的书法作品上盖上 <strong>“</strong>一马当先<strong>”</strong> 的印章，在学习成语含义的同时，也理解其所蕴含的意义。学生们在练习书写笔画的过程中展现了坚持不懈的精神。
 <br>SKGians experienced traditional cultural practices such as writing festive
 calligraphy and seal stamping. Each student stamped the idiom “一马当先” on
 their own calligraphy artwork, learning both its meaning and symbolic values.
 They displayed grit in mastering the strokes.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cnewyear2.png">
+</div>
+<p><strong><u>“人日”庆祝活动 Celebration of Ren Ri</u></strong>
+</p>
+<p>农历正月初七，也称“人日”。在这一天，新加坡华人有“捞鱼生”的习俗。康林学生也在这一天学习“捞鱼生”的含义。学生们一同参与捞鱼生活动，并齐声说出吉祥祝语，如“年年有余”。通过这一祝语，学生了解到“余”与“鱼”同音，进而体会华语中的谐音之美与文字的趣味，让学习华文更加有趣。</p>
+<p>On the 7th day of the first lunar month (Ren Ri), SKGians learnt about
+the cultural significance of yusheng, a unique part of local Chinese culture.
+As they tossed the yusheng and recited auspicious phrases, they applied
+Chinese in an authentic context. Phrases such as “年年有余”, where “鱼” (fish)
+sounds like “余” (surplus), helped students appreciate how language and
+wordplay express hopes for prosperity and abundance.</p>
 <p></p>
