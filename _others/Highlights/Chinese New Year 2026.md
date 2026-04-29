@@ -51,12 +51,12 @@ with the lions.
 <p></p>
 <p>校长与学校咨询委员会（School Advisory Committee）及家长会（Parent Support Group）呈献书法展示，书写成语
 “一马当先”，寓意勇于带头，充满信心地向前迈进。</p>
-<p>Our Principal, together with our key partners—— the School Advisory Committee
+Our Principal, together with our key partners—— the School Advisory Committee
 and Parent Support Group—— presented a calligraphy showcase featuring the
 idiom <strong>“一马当先” (Charge Ahead) </strong>, symbolising courage, initiative
-and perseverance.</p>
+and perseverance.<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cny5.png">
+<img style="width: 80%" height="auto" width="80%" alt="" src="/images/Highlights/cny5.png">
 </div>
 <p><em>A calligraphy of idiom “一马当先”. Photo taken by New Media students<br>From left to right: Mr Josh Tay (SAC Chairman), Mr Gau Poh Teck (Principal of Sengkang Green Pri School), Ms Catherine (PSG Chairman), Ms Jasmin (Member of SAC)</em>
 </p>
