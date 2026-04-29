@@ -54,15 +54,16 @@ with the lions.
 Our Principal, together with our key partners—— the School Advisory Committee
 and Parent Support Group—— presented a calligraphy showcase featuring the
 idiom <strong>“一马当先” (Charge Ahead) </strong>, symbolising courage, initiative
-and perseverance.<p></p>
+and perseverance.
+<br>
 <div class="isomer-image-wrapper">
 <img style="width: 80%" height="auto" width="80%" alt="" src="/images/Highlights/cny5.png">
 </div>
-<p><em>A calligraphy of idiom “一马当先”. Photo taken by New Media students<br>From left to right: Mr Josh Tay (SAC Chairman), Mr Gau Poh Teck (Principal of Sengkang Green Pri School), Ms Catherine (PSG Chairman), Ms Jasmin (Member of SAC)</em>
-</p>
+<div align="center"><em>A calligraphy of idiom “一马当先”. Photo taken by New Media students<br>From left to right: Mr Josh Tay (SAC Chairman), Mr Gau Poh Teck (Principal of Sengkang Green Pri School), Ms Catherine (PSG Chairman), Ms Jasmin (Member of SAC)</em></div>
+<p></p>
 <p>在欢腾喜庆的氛围中，庆祝活动圆满画上句点。康林师生与来宾们一同品尝年糕，寓意新的一年步步高升、不断进步。</p>
-<p>The celebration ended on a sweet note as SKGians and staff enjoyed Nian
-Gao, representing growth and progress in the year ahead.</p>
+The celebration ended on a sweet note as SKGians and staff enjoyed Nian
+Gao, representing growth and progress in the year ahead.<p></p>
 <p><strong><u>体验式学习活动 School-Wide Experiential Learning</u></strong>
 </p>
 <p><strong>书法与印章体验 Calligraphy and Seal Stamping</strong>
