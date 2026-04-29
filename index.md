@@ -93,4 +93,12 @@ sections:
       image: /images/2025Eopenbanner.jpg
       url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/skgps-virtual-open-house-2025/
       button: click here to enter
+  - infopic:
+      title: Chinese New Year 2026
+      id: infopic
+      description: 农历新年庆祝活动——骏马迎春
+      button: CLICK Here for details
+      url: https://sengkanggreenpri.moe.edu.sg/chinese-new-year-2026/
+      image: /images/Highlights/cny10.jpg
+      alt: Image alt text
 ---
