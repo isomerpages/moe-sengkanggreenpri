@@ -28,7 +28,7 @@ through integrated MTL-CCE lessons.</p>
 <p><em>SKGians explored CNY through stories, idioms and news</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cny3.jpg">
+<img style="width: 50%" height="auto" width="50%" alt="" src="/images/Highlights/cny3.jpg">
 </div>
 <p><em>SKGians applying their learning through meaningful festive crafts</em>
 </p>
