@@ -17,9 +17,10 @@ image: /images/Highlights/cny10.jpg
 <br>In the weeks leading up to Chinese New Year, SKGians explored the festival
 through integrated MTL-CCE lessons.<p></p>
 学生们:
-<br>SKGians:<p></p>
+<br>SKGians:
+<br>
 ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 学习与马年相关的成语，如“一马当先”“马到成功”
-<br>learnt idioms related to the Year of the Horse<p></p>
+<br>learnt idioms related to the Year of the Horse<br>
 ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 阅读并分析新闻文章，了解新加坡人如何庆祝农历新年
 <br>analysed news articles on how Chinese New Year is celebrated in Singapore<p></p>
 <div class="isomer-image-wrapper">
