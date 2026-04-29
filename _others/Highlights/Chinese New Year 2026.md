@@ -37,19 +37,18 @@ through integrated MTL-CCE lessons.<p></p>
 Through these learning experiences, SKGians developed curiosity by asking
 questions to understand more about cultural practices and applied their
 language skills in authentic contexts by sharing ideas through creative
-artworks.<p></p>
+artworks.
 <p><strong><u>农历新年庆祝会 Chinese New Year Celebration</u></strong>
-</p>
-<p>农历除夕当天，校园里锣鼓喧天，热闹非凡。舞狮表演为新年节庆揭开序幕，康林师生也带来了充满活力的精彩演出。学生们还近距离与舞狮互动，在欢腾的气氛中感受浓厚的新年节日氛围。</p>
-<p>The school welcomed Chinese New Year with a vibrant celebration. The campus
+<br>农历除夕当天，校园里锣鼓喧天，热闹非凡。舞狮表演为新年节庆揭开序幕，康林师生也带来了充满活力的精彩演出。学生们还近距离与舞狮互动，在欢腾的气氛中感受浓厚的新年节日氛围。</p>
+The school welcomed Chinese New Year with a vibrant celebration. The campus
 came alive with the thunderous beats of the Lion Dance, joined by the energetic
 performance of our SKGian Mini Lion Dancers. SKGians also enjoyed interacting
-with the lions.</p>
+with the lions.
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cny4.jpg">
+<img style="width: 70%" height="auto" width="70%" alt="" src="/images/Highlights/cny4.jpg">
 </div>
-<p><em>SKGians interacting with the Lion Dancers</em>
-</p>
+<div align="center"><em>SKGians interacting with the Lion Dancers</em></div>
+<p></p>
 <p>校长与学校咨询委员会（School Advisory Committee）及家长会（Parent Support Group）呈献书法展示，书写成语
 “一马当先”，寓意勇于带头，充满信心地向前迈进。</p>
 <p>Our Principal, together with our key partners—— the School Advisory Committee
