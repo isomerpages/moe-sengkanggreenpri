@@ -33,10 +33,10 @@ through integrated MTL-CCE lessons.</p>
 <p><em>SKGians applying their learning through meaningful festive crafts</em>
 </p>
 <p>学生通过老师的提问、同学间的讨论以及体验式活动，培养了对文化的兴趣，提升了语文应用能力，并通过手工作品展现自己的理解与思考。</p>
-<p>Through these learning experiences, SKGians developed curiosity by asking
+Through these learning experiences, SKGians developed curiosity by asking
 questions to understand more about cultural practices and applied their
 language skills in authentic contexts by sharing ideas through creative
-artworks.</p>
+artworks.<p></p>
 <p><strong><u>农历新年庆祝会 Chinese New Year Celebration</u></strong>
 </p>
 <p>农历除夕当天，校园里锣鼓喧天，热闹非凡。舞狮表演为新年节庆揭开序幕，康林师生也带来了充满活力的精彩演出。学生们还近距离与舞狮互动，在欢腾的气氛中感受浓厚的新年节日氛围。</p>
