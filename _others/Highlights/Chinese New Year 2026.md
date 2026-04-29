@@ -21,7 +21,6 @@ through integrated MTL-CCE lessons.</p>
 <br>learnt idioms related to the Year of the Horse</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 阅读并分析新闻文章，了解新加坡人如何庆祝农历新年
 <br>analysed news articles on how Chinese New Year is celebrated in Singapore</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cnewyear1.png">
 </div>
@@ -44,7 +43,6 @@ artworks.</p>
 came alive with the thunderous beats of the Lion Dance, joined by the energetic
 performance of our SKGian Mini Lion Dancers. SKGians also enjoyed interacting
 with the lions.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cny4.jpg">
 </div>
@@ -56,7 +54,6 @@ with the lions.</p>
 and Parent Support Group—— presented a calligraphy showcase featuring the
 idiom <strong>“一马当先” (Charge Ahead) </strong>, symbolising courage, initiative
 and perseverance.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cny5.png">
 </div>
@@ -86,4 +83,22 @@ As they tossed the yusheng and recited auspicious phrases, they applied
 Chinese in an authentic context. Phrases such as “年年有余”, where “鱼” (fish)
 sounds like “余” (surplus), helped students appreciate how language and
 wordplay express hopes for prosperity and abundance.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cnewyear3.png">
+</div>
+<p><em>Learning comes alive as our SKGians learned and experienced tossing of Yusheng</em>
+</p>
+<p><strong><u>元宵节庆祝活动 Celebration of Yuan Xiao</u></strong>
+</p>
+<p>农历正月十五元宵节，康林师生一同品尝象征“团圆、和谐与美满”的汤圆。学生们也侃侃而谈，分享自己的学习体验。老师在回顾活动的过程中，进一步巩固语言学习，并加深学生对华族文化的认识。
+<br>On the 15th day of the first lunar month (Yuan Xiao), SKGians and staff
+enjoyed tangyuan 汤圆 together — symbolising reunion, harmony and togetherness.
+SKGians reflected on their experiences through discussions, reinforcing
+language learning and cultural understanding.</p>
+<p><strong>社区与伙伴合作：芬微民众俱乐部表演 Community and Partnerships: Performance at Fernvale CC</strong>
+</p>
+<p>学生通过参与社区活动，将学习延伸至校园外。我们的华族舞蹈和武术队也在芬微民众俱乐部的新春庆祝活动中呈献精彩表演。</p>
+<p>SKGians also extended their learning beyond the school through community
+engagement and performances at Fernvale Community Club.</p>
+<p><strong>在此祝愿所有家长与同学马到成功，喜乐安康！<br>We wish everyone an auspicious year filled with good health, joy and positive energy! 🧧</strong>
+</p>
