@@ -63,44 +63,43 @@ and perseverance.
 <p></p>
 <p>在欢腾喜庆的氛围中，庆祝活动圆满画上句点。康林师生与来宾们一同品尝年糕，寓意新的一年步步高升、不断进步。</p>
 The celebration ended on a sweet note as SKGians and staff enjoyed Nian
-Gao, representing growth and progress in the year ahead.<p></p>
+Gao, representing growth and progress in the year ahead.
 <p><strong><u>体验式学习活动 School-Wide Experiential Learning</u></strong>
 </p>
-<p><strong>书法与印章体验 Calligraphy and Seal Stamping</strong>
-</p>
-<p>学生体验传统文化活动，如书写新春挥春和盖印篆章。每位学生都在自己的书法作品上盖上 <strong>“</strong>一马当先<strong>”</strong> 的印章，在学习成语含义的同时，也理解其所蕴含的意义。学生们在练习书写笔画的过程中展现了坚持不懈的精神。
+<strong>书法与印章体验 Calligraphy and Seal Stamping</strong>
+<br>学生体验传统文化活动，如书写新春挥春和盖印篆章。每位学生都在自己的书法作品上盖上 <strong>“</strong>一马当先<strong>”</strong> 的印章，在学习成语含义的同时，也理解其所蕴含的意义。学生们在练习书写笔画的过程中展现了坚持不懈的精神。
 <br>SKGians experienced traditional cultural practices such as writing festive
 calligraphy and seal stamping. Each student stamped the idiom “一马当先” on
 their own calligraphy artwork, learning both its meaning and symbolic values.
-They displayed grit in mastering the strokes.</p>
+They displayed grit in mastering the strokes.<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cnewyear2.png">
 </div>
 <p><strong><u>“人日”庆祝活动 Celebration of Ren Ri</u></strong>
 </p>
-<p>农历正月初七，也称“人日”。在这一天，新加坡华人有“捞鱼生”的习俗。康林学生也在这一天学习“捞鱼生”的含义。学生们一同参与捞鱼生活动，并齐声说出吉祥祝语，如“年年有余”。通过这一祝语，学生了解到“余”与“鱼”同音，进而体会华语中的谐音之美与文字的趣味，让学习华文更加有趣。</p>
-<p>On the 7th day of the first lunar month (Ren Ri), SKGians learnt about
+农历正月初七，也称“人日”。在这一天，新加坡华人有“捞鱼生”的习俗。康林学生也在这一天学习“捞鱼生”的含义。学生们一同参与捞鱼生活动，并齐声说出吉祥祝语，如“年年有余”。通过这一祝语，学生了解到“余”与“鱼”同音，进而体会华语中的谐音之美与文字的趣味，让学习华文更加有趣。<p></p>
+On the 7th day of the first lunar month (Ren Ri), SKGians learnt about
 the cultural significance of yusheng, a unique part of local Chinese culture.
 As they tossed the yusheng and recited auspicious phrases, they applied
 Chinese in an authentic context. Phrases such as “年年有余”, where “鱼” (fish)
 sounds like “余” (surplus), helped students appreciate how language and
-wordplay express hopes for prosperity and abundance.</p>
+wordplay express hopes for prosperity and abundance.<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cnewyear3.png">
 </div>
-<p><em>Learning comes alive as our SKGians learned and experienced tossing of Yusheng</em>
-</p>
+<div align="center"><em>Learning comes alive as our SKGians learned and experienced tossing of Yusheng</em></div>
+<p></p>
 <p><strong><u>元宵节庆祝活动 Celebration of Yuan Xiao</u></strong>
 </p>
-<p>农历正月十五元宵节，康林师生一同品尝象征“团圆、和谐与美满”的汤圆。学生们也侃侃而谈，分享自己的学习体验。老师在回顾活动的过程中，进一步巩固语言学习，并加深学生对华族文化的认识。
+农历正月十五元宵节，康林师生一同品尝象征“团圆、和谐与美满”的汤圆。学生们也侃侃而谈，分享自己的学习体验。老师在回顾活动的过程中，进一步巩固语言学习，并加深学生对华族文化的认识。
 <br>On the 15th day of the first lunar month (Yuan Xiao), SKGians and staff
 enjoyed tangyuan 汤圆 together — symbolising reunion, harmony and togetherness.
 SKGians reflected on their experiences through discussions, reinforcing
-language learning and cultural understanding.</p>
+language learning and cultural understanding.<p></p>
 <p><strong>社区与伙伴合作：芬微民众俱乐部表演 Community and Partnerships: Performance at Fernvale CC</strong>
 </p>
-<p>学生通过参与社区活动，将学习延伸至校园外。我们的华族舞蹈和武术队也在芬微民众俱乐部的新春庆祝活动中呈献精彩表演。</p>
-<p>SKGians also extended their learning beyond the school through community
-engagement and performances at Fernvale Community Club.</p>
+学生通过参与社区活动，将学习延伸至校园外。我们的华族舞蹈和武术队也在芬微民众俱乐部的新春庆祝活动中呈献精彩表演。<p></p>
+SKGians also extended their learning beyond the school through community
+engagement and performances at Fernvale Community Club.<p></p>
 <p><strong>在此祝愿所有家长与同学马到成功，喜乐安康！<br>We wish everyone an auspicious year filled with good health, joy and positive energy! 🧧</strong>
 </p>
