@@ -26,13 +26,13 @@ through integrated MTL-CCE lessons.<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cnewyear1.png">
 </div>
-<p><em>SKGians explored CNY through stories, idioms and news</em>
-</p>
+<em>SKGians explored CNY through stories, idioms and news</em>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%" height="auto" width="50%" alt="" src="/images/Highlights/cny3.jpg">
 </div>
-<p><em>SKGians applying their learning through meaningful festive crafts</em>
-</p>
+<em>SKGians applying their learning through meaningful festive crafts</em>
+<p></p>
 <p>学生通过老师的提问、同学间的讨论以及体验式活动，培养了对文化的兴趣，提升了语文应用能力，并通过手工作品展现自己的理解与思考。</p>
 Through these learning experiences, SKGians developed curiosity by asking
 questions to understand more about cultural practices and applied their
