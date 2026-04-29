@@ -16,8 +16,8 @@ image: /images/Highlights/cny10.jpg
 学生在课堂上探索农历新年的意义，并参与多样化的学习活动。
 <br>In the weeks leading up to Chinese New Year, SKGians explored the festival
 through integrated MTL-CCE lessons.<p></p>
-<p>学生们:
-<br>SKGians:</p>
+学生们:
+<br>SKGians:<p></p>
 ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 学习与马年相关的成语，如“一马当先”“马到成功”
 <br>learnt idioms related to the Year of the Horse<p></p>
 ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 阅读并分析新闻文章，了解新加坡人如何庆祝农历新年
