@@ -9,7 +9,7 @@ image: /images/Highlights/cny10.jpg
 <p><strong>农历新年庆祝活动——骏马迎春 <br>Chinese New Year 2026</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cny10.jpg">
+<img style="width: 80%" height="auto" width="80%" alt="" src="/images/Highlights/cny10.jpg">
 </div>
 <p><strong><u>华文和品德与公民教育课：在文化中学习语言<br>MTL-CCE: Learning Language Through Culture</u></strong>
 </p>
