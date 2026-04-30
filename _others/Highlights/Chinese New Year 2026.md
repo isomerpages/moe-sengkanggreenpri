@@ -29,9 +29,8 @@ through integrated MTL-CCE lessons.</p>
     </figure>
 <p></p>
 <p></p>
-	<figure style="text-align: center;">
-      <img alt="Description" src="/images/Highlights/cny2026_2.jpg">
-      <figcaption>SKGians applying their learning through meaningful festive crafts</figcaption>
+	<figure> style="text-align: center;"&gt;
+      <img alt="Description" src="/images/Highlights/cny2026_2.jpg"><figcaption>SKGians applying their learning through meaningful festive crafts</figcaption>
     </figure>
 <p></p>
 <p></p>
