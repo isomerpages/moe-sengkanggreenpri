@@ -23,17 +23,8 @@ through integrated MTL-CCE lessons.</p>
 <br>learnt idioms related to the Year of the Horse
 <br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 阅读并分析新闻文章，了解新加坡人如何庆祝农历新年
 <br>analysed news articles on how Chinese New Year is celebrated in Singapore</p>
-<div class="isomer-image-wrapper">
-    <div class="row">
-      <div class="column">
-        <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cny2026_1.jpg">
-      </div>
-      <div class="column">
-        <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cny2026_3.jpg">
-      </div>
-    </div>
 <figure style="text-align: center;">
-      <img alt="Description" src="/images/Highlights/.png">
+      <img alt="Description" src="/images/Highlights/cny2026_10.png">
       <figcaption>SKGians explored CNY through stories, idioms and news</figcaption>
     </figure>
 <p></p>
@@ -69,7 +60,7 @@ and perseverance.
 <br>
 </p>
 	  <figure style="text-align: center;">
-      <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cny2026_8.png">
+      <img style="width: 100%" height="auto" alt="width=&quot;100%&quot;" src="/images/Highlights/cny2026_8.png">
       <figcaption>A calligraphy of idiom “一马当先”. Photo taken by New Media students<br>From left to right: Mr Josh Tay (SAC Chairman), Mr Gau Poh Teck (Principal of Sengkang Green Pri School), Ms Catherine (PSG Chairman), Ms Jasmin (Member of SAC)</figcaption>
     </figure>
 <p></p>
@@ -85,19 +76,12 @@ calligraphy and seal stamping. Each student stamped the idiom “一马当先”
 their own calligraphy artwork, learning both its meaning and symbolic values.
 They displayed grit in mastering the strokes.</p>
 <p></p>
-    <div class="row">
-      <div class="column">
-        <img style="width:100%" src="photo1.jpg">
-      </div>
-      <div class="column">
-        <img style="width:100%" src="photo2.jpg">
-      </div>
-    </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cnewyear2.png">
-</div>
-<p><strong><u>“人日”庆祝活动 Celebration of Ren Ri</u></strong>
-</p>
+  <figure style="text-align: center;">
+      <img style="width: 100%" height="auto" alt="width=&quot;100%&quot;" src="/images/Highlights/cny2026_11.png">
+      <figcaption>SKGians practised traditional calligraphy and seal stamping 一马当先, creating their own artwork</figcaption>
+    </figure>
+<strong><u>“人日”庆祝活动 Celebration of Ren Ri</u></strong>
+<p></p>
 <p>农历正月初七，也称“人日”。在这一天，新加坡华人有“捞鱼生”的习俗。康林学生也在这一天学习“捞鱼生”的含义。学生们一同参与捞鱼生活动，并齐声说出吉祥祝语，如“年年有余”。通过这一祝语，学生了解到“余”与“鱼”同音，进而体会华语中的谐音之美与文字的趣味，让学习华文更加有趣。</p>
 <p></p>
 <p>On the 7th day of the first lunar month (Ren Ri), SKGians learnt about
@@ -137,4 +121,4 @@ language learning and cultural understanding.</p>
 engagement and performances at Fernvale Community Club.</p>
 <p></p>
 <p><strong>在此祝愿所有家长与同学马到成功，喜乐安康！<br>We wish everyone an auspicious year filled with good health, joy and positive energy! 🧧</strong>
-</p></div>
+</p>
