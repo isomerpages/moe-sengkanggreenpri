@@ -24,6 +24,14 @@ through integrated MTL-CCE lessons.</p>
 <br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 阅读并分析新闻文章，了解新加坡人如何庆祝农历新年
 <br>analysed news articles on how Chinese New Year is celebrated in Singapore</p>
 <div class="isomer-image-wrapper">
+    <div class="row">
+      <div class="column">
+        <img style="width:100%" src="photo1.jpg">
+      </div>
+      <div class="column">
+        <img style="width:100%" src="photo2.jpg">
+      </div>
+    </div>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cnewyear1.png">
 </div>
 <p><em>SKGians explored CNY through stories, idioms and news</em>
@@ -78,6 +86,14 @@ calligraphy and seal stamping. Each student stamped the idiom “一马当先”
 their own calligraphy artwork, learning both its meaning and symbolic values.
 They displayed grit in mastering the strokes.</p>
 <p></p>
+    <div class="row">
+      <div class="column">
+        <img style="width:100%" src="photo1.jpg">
+      </div>
+      <div class="column">
+        <img style="width:100%" src="photo2.jpg">
+      </div>
+    </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cnewyear2.png">
 </div>
@@ -92,6 +108,14 @@ Chinese in an authentic context. Phrases such as “年年有余”, where “�
 sounds like “余” (surplus), helped students appreciate how language and
 wordplay express hopes for prosperity and abundance.</p>
 <p></p>
+    <div class="row">
+      <div class="column">
+        <img style="width:100%" src="photo1.jpg">
+      </div>
+      <div class="column">
+        <img style="width:100%" src="photo2.jpg">
+      </div>
+    </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cnewyear3.png">
 </div>
