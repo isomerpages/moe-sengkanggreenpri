@@ -38,11 +38,11 @@ through integrated MTL-CCE lessons.</p>
     </figure>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cny2026_2.jpg">
-</div>
-<p><em>SKGians applying their learning through meaningful festive crafts</em>
-</p>
+	<figure style="text-align: center;">
+      <img alt="Description" src="/images/Highlights/cny2026_2.jpg">
+      <figcaption>SKGians applying their learning through meaningful festive crafts</figcaption>
+    </figure>
+<p></p>
 <p></p>
 <p>学生通过老师的提问、同学间的讨论以及体验式活动，培养了对文化的兴趣，提升了语文应用能力，并通过手工作品展现自己的理解与思考。</p>
 <p>Through these learning experiences, SKGians developed curiosity by asking
