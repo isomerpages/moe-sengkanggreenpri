@@ -26,10 +26,10 @@ through integrated MTL-CCE lessons.</p>
 <div class="isomer-image-wrapper">
     <div class="row">
       <div class="column">
-        <img style="width:100%" src="photo1.jpg">
+        <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cny2026_1.jpg">
       </div>
       <div class="column">
-        <img style="width:100%" src="photo2.jpg">
+        <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cny2026_3.jpg">
       </div>
     </div>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cnewyear1.png">
