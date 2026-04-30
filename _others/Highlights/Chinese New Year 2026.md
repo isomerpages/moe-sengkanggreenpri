@@ -55,7 +55,7 @@ came alive with the thunderous beats of the Lion Dance, joined by the energetic
 performance of our SKGian Mini Lion Dancers. SKGians also enjoyed interacting
 with the lions.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%" height="auto" width="70%" alt="" src="/images/Highlights/cny4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cny2026_9.png">
 </div>
 <p><em>SKGians interacting with the Lion Dancers</em>
 </p>
