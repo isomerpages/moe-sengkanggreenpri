@@ -77,7 +77,7 @@ their own calligraphy artwork, learning both its meaning and symbolic values.
 They displayed grit in mastering the strokes.</p>
 <p></p>
   <figure style="text-align: center;">
-      <img style="width: 100%" height="auto" alt="width=&quot;100%&quot;" src="/images/Highlights/cny2026_11.png">
+      <img style="width: 100%" height="auto" alt="width=100%;" src="/images/Highlights/cny2026_11.png">
       <figcaption>SKGians practised traditional calligraphy and seal stamping 一马当先, creating their own artwork</figcaption>
     </figure>
 <strong><u>“人日”庆祝活动 Celebration of Ren Ri</u></strong>
@@ -90,20 +90,10 @@ As they tossed the yusheng and recited auspicious phrases, they applied
 Chinese in an authentic context. Phrases such as “年年有余”, where “鱼” (fish)
 sounds like “余” (surplus), helped students appreciate how language and
 wordplay express hopes for prosperity and abundance.</p>
-<p></p>
-    <div class="row">
-      <div class="column">
-        <img style="width:100%" src="photo1.jpg">
-      </div>
-      <div class="column">
-        <img style="width:100%" src="photo2.jpg">
-      </div>
-    </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cnewyear3.png">
-</div>
-<p><em>Learning comes alive as our SKGians learned and experienced tossing of Yusheng</em>
-</p>
+<figure style="text-align: center;">
+      <img style="width: 100%" height="auto" alt="width=100%;" src="/images/Highlights/cny2026_12.png">
+      <figcaption>Learning comes alive as our SKGians learned and experienced tossing of Yusheng</figcaption>
+    </figure>
 <p></p>
 <p><strong><u>元宵节庆祝活动 Celebration of Yuan Xiao</u></strong>
 </p>
