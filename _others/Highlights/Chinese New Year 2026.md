@@ -32,10 +32,11 @@ through integrated MTL-CCE lessons.</p>
         <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cny2026_3.jpg">
       </div>
     </div>
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cnewyear1.png">
-</div>
-<p><em>SKGians explored CNY through stories, idioms and news</em>
-</p>
+<figure style="text-align: center;">
+      <img alt="Description" src="/images/Highlights/.png">
+      <figcaption>SKGians explored CNY through stories, idioms and news</figcaption>
+    </figure>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cny2026_2.jpg">
@@ -54,11 +55,10 @@ artworks.</p>
 came alive with the thunderous beats of the Lion Dance, joined by the energetic
 performance of our SKGian Mini Lion Dancers. SKGians also enjoyed interacting
 with the lions.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cny2026_9.png">
-</div>
-<p><em>SKGians interacting with the Lion Dancers</em>
-</p>
+    <figure style="text-align: center;">
+      <img alt="Description" src="/images/Highlights/cny2026_9.png">
+      <figcaption>SKGians interacting with the Lion Dancers</figcaption>
+    </figure>
 <p></p>
 <p>校长与学校咨询委员会（School Advisory Committee）及家长会（Parent Support Group）呈献书法展示，书写成语
 “一马当先”，寓意勇于带头，充满信心地向前迈进。</p>
@@ -138,4 +138,4 @@ language learning and cultural understanding.</p>
 engagement and performances at Fernvale Community Club.</p>
 <p></p>
 <p><strong>在此祝愿所有家长与同学马到成功，喜乐安康！<br>We wish everyone an auspicious year filled with good health, joy and positive energy! 🧧</strong>
-</p>
+</p></div>
