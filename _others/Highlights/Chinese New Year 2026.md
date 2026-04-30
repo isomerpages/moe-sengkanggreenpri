@@ -69,7 +69,7 @@ and perseverance.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%" height="auto" width="80%" alt="" src="/images/Highlights/cny5.png">
+<img style="width: 80%" height="auto" width="80%" alt="" src="/images/Highlights/cny2026_8.png">
 </div>
 <p><em>A calligraphy of idiom “一马当先”. Photo taken by New Media students<br>From left to right: Mr Josh Tay (SAC Chairman), Mr Gau Poh Teck (Principal of Sengkang Green Pri School), Ms Catherine (PSG Chairman), Ms Jasmin (Member of SAC)</em>
 </p>
