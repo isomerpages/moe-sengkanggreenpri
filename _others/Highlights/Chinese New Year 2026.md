@@ -1,7 +1,7 @@
 ---
 title: Chinese New Year 2026
 permalink: /chinese-new-year-2026/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: Highlights
 image: /images/Highlights/cny10.jpg
@@ -9,7 +9,7 @@ image: /images/Highlights/cny10.jpg
 <p><strong>农历新年庆祝活动——骏马迎春 <br>Chinese New Year 2026</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%" height="auto" width="80%" alt="" src="/images/Highlights/cny10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cny2026_5.jpg">
 </div>
 <p><strong><u>华文和品德与公民教育课：在文化中学习语言<br>MTL-CCE: Learning Language Through Culture</u></strong>
 </p>
@@ -23,17 +23,17 @@ through integrated MTL-CCE lessons.</p>
 <br>learnt idioms related to the Year of the Horse
 <br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 阅读并分析新闻文章，了解新加坡人如何庆祝农历新年
 <br>analysed news articles on how Chinese New Year is celebrated in Singapore</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cnewyear1.png">
-</div>
-<p><em>SKGians explored CNY through stories, idioms and news</em>
-</p>
+<figure style="text-align: center;">
+      <img alt="Description" src="/images/Highlights/cny2026_10.png">
+      <figcaption>SKGians explored CNY through stories, idioms and news</figcaption>
+    </figure>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="50%" alt="" src="/images/Highlights/cny3.jpg">
-</div>
-<p><em>SKGians applying their learning through meaningful festive crafts</em>
-</p>
+<p></p>
+	<figure style="text-align: center;">
+      <img alt="Description" src="/images/Highlights/cny2026_2.jpg">
+      <figcaption>SKGians applying their learning through meaningful festive crafts</figcaption>
+    </figure>
+<p></p>
 <p></p>
 <p>学生通过老师的提问、同学间的讨论以及体验式活动，培养了对文化的兴趣，提升了语文应用能力，并通过手工作品展现自己的理解与思考。</p>
 <p>Through these learning experiences, SKGians developed curiosity by asking
@@ -46,11 +46,10 @@ artworks.</p>
 came alive with the thunderous beats of the Lion Dance, joined by the energetic
 performance of our SKGian Mini Lion Dancers. SKGians also enjoyed interacting
 with the lions.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%" height="auto" width="70%" alt="" src="/images/Highlights/cny4.jpg">
-</div>
-<p><em>SKGians interacting with the Lion Dancers</em>
-</p>
+    <figure style="text-align: center;">
+      <img alt="Description" src="/images/Highlights/cny2026_9.png">
+      <figcaption>SKGians interacting with the Lion Dancers</figcaption>
+    </figure>
 <p></p>
 <p>校长与学校咨询委员会（School Advisory Committee）及家长会（Parent Support Group）呈献书法展示，书写成语
 “一马当先”，寓意勇于带头，充满信心地向前迈进。</p>
@@ -60,11 +59,10 @@ idiom <strong>“一马当先” (Charge Ahead) </strong>, symbolising courage, 
 and perseverance.
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%" height="auto" width="80%" alt="" src="/images/Highlights/cny5.png">
-</div>
-<p><em>A calligraphy of idiom “一马当先”. Photo taken by New Media students<br>From left to right: Mr Josh Tay (SAC Chairman), Mr Gau Poh Teck (Principal of Sengkang Green Pri School), Ms Catherine (PSG Chairman), Ms Jasmin (Member of SAC)</em>
-</p>
+	  <figure style="text-align: center;">
+      <img style="width: 100%" height="auto" alt="width=&quot;100%&quot;" src="/images/Highlights/cny2026_8.png">
+      <figcaption>A calligraphy of idiom “一马当先”. Photo taken by New Media students<br>From left to right: Mr Josh Tay (SAC Chairman), Mr Gau Poh Teck (Principal of Sengkang Green Pri School), Ms Catherine (PSG Chairman), Ms Jasmin (Member of SAC)</figcaption>
+    </figure>
 <p></p>
 <p>在欢腾喜庆的氛围中，庆祝活动圆满画上句点。康林师生与来宾们一同品尝年糕，寓意新的一年步步高升、不断进步。</p>
 <p>The celebration ended on a sweet note as SKGians and staff enjoyed Nian
@@ -78,11 +76,12 @@ calligraphy and seal stamping. Each student stamped the idiom “一马当先”
 their own calligraphy artwork, learning both its meaning and symbolic values.
 They displayed grit in mastering the strokes.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cnewyear2.png">
-</div>
-<p><strong><u>“人日”庆祝活动 Celebration of Ren Ri</u></strong>
-</p>
+  <figure style="text-align: center;">
+      <img style="width: 100%" height="auto" alt="width=100%;" src="/images/Highlights/cny2026_11.png">
+      <figcaption>SKGians practised traditional calligraphy and seal stamping 一马当先, creating their own artwork</figcaption>
+    </figure>
+<strong><u>“人日”庆祝活动 Celebration of Ren Ri</u></strong>
+<p></p>
 <p>农历正月初七，也称“人日”。在这一天，新加坡华人有“捞鱼生”的习俗。康林学生也在这一天学习“捞鱼生”的含义。学生们一同参与捞鱼生活动，并齐声说出吉祥祝语，如“年年有余”。通过这一祝语，学生了解到“余”与“鱼”同音，进而体会华语中的谐音之美与文字的趣味，让学习华文更加有趣。</p>
 <p></p>
 <p>On the 7th day of the first lunar month (Ren Ri), SKGians learnt about
@@ -91,12 +90,10 @@ As they tossed the yusheng and recited auspicious phrases, they applied
 Chinese in an authentic context. Phrases such as “年年有余”, where “鱼” (fish)
 sounds like “余” (surplus), helped students appreciate how language and
 wordplay express hopes for prosperity and abundance.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlights/cnewyear3.png">
-</div>
-<p><em>Learning comes alive as our SKGians learned and experienced tossing of Yusheng</em>
-</p>
+<figure style="text-align: center;">
+      <img style="width: 100%" height="auto" alt="width=100%;" src="/images/Highlights/cny2026_12.png">
+      <figcaption>Learning comes alive as our SKGians learned and experienced tossing of Yusheng</figcaption>
+    </figure>
 <p></p>
 <p><strong><u>元宵节庆祝活动 Celebration of Yuan Xiao</u></strong>
 </p>
