@@ -57,10 +57,9 @@ with the lions.</p>
 and Parent Support Group—— presented a calligraphy showcase featuring the
 idiom <strong>“一马当先” (Charge Ahead) </strong>, symbolising courage, initiative
 and perseverance.
-<br>
 </p>
-	  <figure style="text-align: center;">
-      <img style="width: 100%" height="auto" alt="width=&quot;100%&quot;" src="/images/Highlights/cny2026_8.png">
+<figure style="text-align: center;">
+      <img alt="" src="/images/Highlights/cny2026_8.png">
       <figcaption>A calligraphy of idiom “一马当先”. Photo taken by New Media students<br>From left to right: Mr Josh Tay (SAC Chairman), Mr Gau Poh Teck (Principal of Sengkang Green Pri School), Ms Catherine (PSG Chairman), Ms Jasmin (Member of SAC)</figcaption>
     </figure>
 <p></p>
