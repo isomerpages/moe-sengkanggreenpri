@@ -29,9 +29,9 @@ through integrated MTL-CCE lessons.</p>
     </figure>
 <p></p>
 <p></p>
-	<figure style="text-align: center;">
-      <img alt="Description" src="/images/Highlights/cny2026_2.jpg">
-      <figcaption>SKGians applying their learning through meaningful festive crafts</figcaption>
+<figure style="text-align: center;">
+      <img alt="SKGians applying their learning through meaningful festive crafts" src="/images/Highlights/cny2026_2.jpg">
+<figcaption>SKGians applying their learning through meaningful festive crafts</figcaption>
     </figure>
 <p></p>
 <p></p>
@@ -46,8 +46,8 @@ artworks.</p>
 came alive with the thunderous beats of the Lion Dance, joined by the energetic
 performance of our SKGian Mini Lion Dancers. SKGians also enjoyed interacting
 with the lions.</p>
-    <figure style="text-align: center;">
-      <img alt="Description" src="/images/Highlights/cny2026_9.png">
+   <figure style="text-align: center;">
+      <img alt="SKGians interacting with the Lion Dancers" src="/images/Highlights/cny2026_9.png">
       <figcaption>SKGians interacting with the Lion Dancers</figcaption>
     </figure>
 <p></p>
@@ -57,10 +57,9 @@ with the lions.</p>
 and Parent Support Group—— presented a calligraphy showcase featuring the
 idiom <strong>“一马当先” (Charge Ahead) </strong>, symbolising courage, initiative
 and perseverance.
-<br>
 </p>
-	  <figure style="text-align: center;">
-      <img style="width: 100%" height="auto" alt="width=&quot;100%&quot;" src="/images/Highlights/cny2026_8.png">
+<figure style="text-align: center;">
+      <img alt="" src="/images/Highlights/cny2026_8.png">
       <figcaption>A calligraphy of idiom “一马当先”. Photo taken by New Media students<br>From left to right: Mr Josh Tay (SAC Chairman), Mr Gau Poh Teck (Principal of Sengkang Green Pri School), Ms Catherine (PSG Chairman), Ms Jasmin (Member of SAC)</figcaption>
     </figure>
 <p></p>
