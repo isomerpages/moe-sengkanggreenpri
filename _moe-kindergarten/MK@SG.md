@@ -6,6 +6,11 @@ description: ""
 image: /images/MKSG_Playground.jpg
 ---
 <h1>What's On?</h1>
+<h3><strong><u>Enrol with us now!</u></strong></h3>
+<p>🌱 Want to <strong><em>join our village of joyful learners? </em></strong>Please
+indicate your interest via our waitlist using the link: <a href="https://go.gov.sg/mkwaitlist2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mkwaitlist2026</a>
+</p>
+<p></p>
 <h3><strong><u>Open House 2026 - Thank You for Joining Us!</u></strong></h3>
 <p>✨ <strong>Thank you for being part of MK@Sengkang Green Open House 2026!</strong> ✨
 <br>We were delighted to welcome many families to our centre on <strong>7 March 2026</strong>,
@@ -24,14 +29,5 @@ shared, or missed the session, you may view the briefing slides here:
 </p>
 <p>At <strong>MK@Sengkang Green</strong>, we believe in nurturing confident,
 curious learners through meaningful play, in a caring environment where
-every child is known, valued and encouraged to shine.
-<br>🌱 <strong><em>Join our village of joyful learners — don’t miss the registration deadline </em></strong>(refer
-to details below)<strong><em> to enrol your child at MK@Sengkang Green.</em></strong>
-</p>
-<h3><strong><u>Enrol for K1 in 2027</u></strong></h3>
-<p>Online Open Admissions (OA) and Early Years Centre (EYC) registration
-for 2027 K1 admissions will open from <strong>9am on Monday, 23 March 2026</strong> and <strong>close at 4.30 pm on Tuesday, 31 March 2026</strong>.
-<br><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register" rel="noopener nofollow" target="_blank"><u>Register for MOE Kindergarten</u></a>
-</p>
-<p></p>
+every child is known, valued and encouraged to shine.</p>
 <p></p>
