@@ -598,7 +598,7 @@ variant: tiptap
 <p>Ms Fang Yuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fang_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fang_yuan@moe.edu.sg</a>
+<p><a href="mailto:fang_yuan_B@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fang_yuan_B@moe.edu.sg</a>
 </p>
 </td>
 </tr>
