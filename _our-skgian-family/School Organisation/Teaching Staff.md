@@ -571,7 +571,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>3 Diligent</strong>
 </p>
 <p></p>
@@ -590,15 +590,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_hern_ngee_cindy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hern_ngee_cindy@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Fang Yuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:fang_yuan_B@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fang_yuan_B@moe.edu.sg</a>
 </p>
 </td>
 </tr>
