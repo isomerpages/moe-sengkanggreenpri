@@ -347,10 +347,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Isabelle Ong</p>
+<p>Ms Lynnette Krystall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Isabelle_Ong_Yen_Ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Isabelle_Ong_Yen_Ting@moe.edu.sg</a>
+<p><a href="mailto:lynnette_krystall_g_aviado@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lynnette_krystall_g_aviado@moe.edu.sg</a>
 </p>
 </td>
 </tr>
