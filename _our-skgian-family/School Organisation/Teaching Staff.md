@@ -432,7 +432,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>2 Honest</strong>
 </p>
 <p></p>
@@ -451,15 +451,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:eunice_kwok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eunice_kwok@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Osman Latiffah Bee B Syed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:s_m_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">s_m_osman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -657,7 +648,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>3 Gracious</strong>
 </p>
 <p></p>
@@ -676,15 +667,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Luo_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Luo_hong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nur Nadia Nabeehah Binte Saharudin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_nadia_nabeehah_saharudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_nadia_nabeehah_saharudin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
