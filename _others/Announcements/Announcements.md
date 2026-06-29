@@ -66,6 +66,3 @@ the following link to download the presentation slides.</p>
 click&nbsp;<a href="/files/User%20Guide%20to%20install%20language%20in%20Win%2010.pdf" rel="noopener" target="_blank">here</a>&nbsp;to
 download.</p>
 <hr>
-<p><strong>Edusave Character Award Nomination Form<br></strong>Please click&nbsp;
-<a href="/files/Admin_Documents/ECHA_Nomination_form_2025.pdf" rel="noopener" target="_blank">here</a>&nbsp;to view the form.<strong><br></strong>
-</p>
