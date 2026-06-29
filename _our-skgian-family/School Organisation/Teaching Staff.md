@@ -341,34 +341,25 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>2 Diligent</strong>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lynnette Krystall G Aviado</p>
+<p>Mdm Humairah Bte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lynnette_krystall_g_aviado@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lynnette_krystall_g_aviado@moe.edu.sg</a>
+<p><a href="mailto:Humairiah_Ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Humairiah_Ahmad@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Xu Xiaoyun</p>
+<p>Ms Isabelle Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:xu_xiaoyun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_xiaoyun@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Luo Yan Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:luo_yanping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">luo_yanping@moe.edu.sg</a>
+<p><a href="mailto:Isabelle_Ong_Yen_Ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Isabelle_Ong_Yen_Ting@moe.edu.sg</a>
 </p>
 </td>
 </tr>
