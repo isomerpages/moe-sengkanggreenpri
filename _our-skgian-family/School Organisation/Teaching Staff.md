@@ -953,7 +953,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>5 Caring</strong>
 </p>
 <p></p>
@@ -972,6 +972,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_ismail_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_ismail_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Kong Siew May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kong_siew_may@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_siew_may@moe.edu.sg</a>
 </p>
 </td>
 </tr>
