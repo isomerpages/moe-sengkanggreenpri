@@ -589,13 +589,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>3 Diligent</strong>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Cassandra Tan Hui En</p>
+<p>Ms Cassandra Tan Hui En</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cassandra_tan_hui_en@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cassandra_tan_hui_en@moe.edu.sg</a>
@@ -612,24 +612,33 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Ms Fang Yuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fang_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fang_yuan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p><strong>3 Excellent</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chng E Hwei</p>
+<p>Ms Bethany Wang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chng_e_hwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_e_hwei@moe.edu.sg</a>
+<p><a href="mailto:Wang_huimin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wang_huimin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Kwek Pei Ling</p>
+<p>Mr Tan Kay Wee Jamen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kwek_pei_ling_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwek_pei_ling_a@moe.edu.sg</a>
+<p><a href="mailto:Tan_Kay_Wee_Jamen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Kay_Wee_Jamen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -640,19 +649,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Kay Wee Jamen</p>
+<p>Mr Ng Yong'An Gary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Kay_Wee_Jamen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Kay_Wee_Jamen@moe.edu.sg</a>
+<p><a href="mailto:gary_ng_yong_an@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gary_ng_yong_an@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Yong'An Gary</p>
+<p>Ms Lim Xin Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gary_ng_yong_an@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gary_ng_yong_an@moe.edu.sg</a>
+<p><a href="mailto:lim_xin_yi_ae@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_xin_yi_ae@moe.edu.sg</a>
 </p>
 </td>
 </tr>
