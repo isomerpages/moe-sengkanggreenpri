@@ -110,7 +110,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>1 Diligent</strong>
 </p>
 <p></p>
@@ -120,15 +120,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:li_qingyi_esther_claire@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_qingyi_esther_claire@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Wan Nur Raudhah Sidin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wan_nur_raudhah_sidin@moe.edu.sg" rel="noopener nofollow" target="_blank">wan_nur_raudhah_sidin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
