@@ -61,6 +61,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Nur Afiqah<strong> </strong>Binte Anwarie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head / P2 &amp; P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_afiqah_anwarie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_afiqah_anwarie@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Pang Cui Ling</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,17 +97,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Chua Siew Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,17 +117,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_wei_lin_winnie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_lin_winnie@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -179,21 +169,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Ng Hui Lin Dion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head / Mathematics</p>
+<p>Head Of Department / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_hui_lin_dion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hui_lin_dion@moe.edu.sg</a>
@@ -210,17 +189,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_chee_ang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chee_ang@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -273,17 +241,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Cindy Khoo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -308,17 +265,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Lee Wei Ching</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -339,17 +285,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mok_wei_chyuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mok_wei_chyuan@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -390,17 +325,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Janice Wan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -408,6 +332,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:janice_tor_shi_jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">janice_tor_shi_jia@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Ofelia Yeo Shi Yun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Student well-being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ofelia_lim_shi_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ofelia_lim_shi_yun@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -421,17 +357,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:eddy_sufyan_selamat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eddy_sufyan_selamat@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
