@@ -193,7 +193,7 @@ variant: tiptap
 <p>Ms Ng Hui Lin Dion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head / Mathematics</p>
+<p>Head Of Department / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_hui_lin_dion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hui_lin_dion@moe.edu.sg</a>
