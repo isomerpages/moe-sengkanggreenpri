@@ -325,6 +325,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Ofelia Yeo Shi Yun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Student well-being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ofelia_lim_shi_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ofelia_lim_shi_yun@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Eddy Sufyan Bin Selamat</p>
 </td>
 <td rowspan="1" colspan="1">
