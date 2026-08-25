@@ -55,14 +55,6 @@ sections:
       image: /images/heartsofgreen.png
       alt: Image alt text
   - infopic:
-      id: infopic
-      image: /images/Appreciation_day_Invite.jpg
-      alt: Image alt text
-      title: Staff Appreciation Day
-      description: Visit by former students
-      button: CLICK HERE FOR DETAILS
-      url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/visitbyformerstudents2025/
-  - infopic:
       title: Affirmation Note
       description: Please remember to drop an affirmation note to your teachers to
         thank them for all they have done.
