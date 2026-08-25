@@ -77,4 +77,9 @@ sections:
       image: /images/2025Eopenbanner.jpg
       url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/skgps-virtual-open-house-2025/
       button: click here to enter
+  - infobar:
+      title: 2026 Appreciation Day
+      id: infobar
+      button: Click Here
+      url: /2026-appreciation-day/
 ---
