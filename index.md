@@ -21,6 +21,11 @@ sections:
           description: ""
           url: https://www.sengkanggreenpri.moe.edu.sg/admission/
       background: /images/new banner.gif
+  - infobar:
+      title: 2026 Appreciation Day
+      id: infobar
+      button: Click Here
+      url: /2026-appreciation-day/
   - infopic:
       title: The Young Philatelists
       id: infopic
@@ -55,14 +60,6 @@ sections:
       image: /images/heartsofgreen.png
       alt: Image alt text
   - infopic:
-      id: infopic
-      image: /images/Appreciation_day_Invite.jpg
-      alt: Image alt text
-      title: Staff Appreciation Day
-      description: Visit by former students
-      button: CLICK HERE FOR DETAILS
-      url: https://www.sengkanggreenpri.moe.edu.sg/others/highlights/visitbyformerstudents2025/
-  - infopic:
       title: Affirmation Note
       description: Please remember to drop an affirmation note to your teachers to
         thank them for all they have done.
@@ -70,13 +67,6 @@ sections:
       url: /our-skgian-family/a-note-of-affirmation/
       image: /images/affirm.png
       alt: Image alt text
-  - infopic:
-      title: Happy National Day 2025!
-      id: infopic
-      button: CLICK HERE FOR DETAILS
-      alt: Image alt text
-      image: /images/ndp2025logo.gif
-      url: https://sengkanggreenpri.moe.edu.sg/happy-national-day-2025/
   - infopic:
       title: Caring Teacher Award 2026
       id: infopic
