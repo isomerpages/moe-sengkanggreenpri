@@ -63,13 +63,6 @@ sections:
       image: /images/affirm.png
       alt: Image alt text
   - infopic:
-      title: Happy National Day 2025!
-      id: infopic
-      button: CLICK HERE FOR DETAILS
-      alt: Image alt text
-      image: /images/ndp2025logo.gif
-      url: https://sengkanggreenpri.moe.edu.sg/happy-national-day-2025/
-  - infopic:
       title: Caring Teacher Award 2026
       id: infopic
       description: "Closing Date: 31 December 2025"
